@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>2nd RDF Loader</title>
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="../../widgets/WidgetHub.js"></script>
+    <script type="text/javascript">
+
+        var config = {
+            size: {width: 240, height: 70}, // the width, height of your widget (in pixels)
+            terminals: [ // define the position of your terminals
+                {"name": "output", "position": {"left": 1, "top": 1 / 2}, "type": "output"}
+            ],
+            serverId: "wien_public_transport_stops", // serverId -> should be the same with the used for ServerWidget instantiation
+            resizable: true // decide whether your widget is resizable or not
+        };
+
+        function getParam() {
+            return {};
+        }
+
+        var hub = new WidgetHub(config);
+        hub.setGetParam(getParam);
+
+    </script>
+</head>
+<body>
+Vienna Public Transport's Stops
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Insert title here</title>
+    <!--
+        any widget's html should include "WidgetHub.js".
+        client widget should include "autobahn.min.jgz" for communication with websocket (when necessary).
+        additionally, a config var should also be included as shown in the example below
+    -->
+    <script type="text/javascript" src="http://linkedwidgets.org/widgets/WidgetHub.js"></script>
+    <script type="text/javascript" src="http://linkedwidgets.org/autobahn.min.jgz"></script>
+    <script type="text/javascript">
+        var config = {
+            size: {width: 400, height: 250}, // the width, height of our widget (in pixels)
+            terminals: [ // define the position of our terminals; example below
+                {"name": "input", "position": {"left": 0, "top": 1 / 2}, "type": "input"}, // input left-middle
+                {"name": "output", "position": {"left": 1, "top": 1 / 2}, "type": "output"} // input right-middle
+            ],
+            resizable: true // decide whether our widget is resizable or not
+        };
+
+        /*
+         * This function defines the job of our widget.
+         */
+        function run(input) {
+            /*
+
+            There are two possible commands to output data from our widget.
+            Even if our widget is a visualization widget, we have to use at least one of these two commands, directly or indirectly.
+            (Directly: we call the command in the run function. Indirectly: run function calls another function f(); then f() calls the command.)
+            Output must be an JSON Object (for visualization widget, it is usually same as the input object)
+
+            1. return output;
+            This command must be placed in the run function. When it is executed, the platform transfers the output to other widgets
+            connected with our widget in a mashup.
+
+            2. hub.returnOutput(output);
+            Having similar effect to return command, but it can be in any place of any function (Not neccessary in the run function).
+            For example, it is useful if we need to communicate with other servers to get extra data before calulating the output,
+            and we cannot know when this extra data will arrive.
+
+            The input and output objects are in JSON-LD format (http://www.w3.org/TR/json-ld/).
+
+            */
+        }
+
+        var hub = new WidgetHub(config, run);
+    </script>
+</head>
+<body>
+    Insert body message here
+</body>
+</html>

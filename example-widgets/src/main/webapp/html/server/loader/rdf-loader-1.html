@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>1st RDF Loader</title>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="../../widgets/WidgetHub.js"></script>
+    <script type="text/javascript">
+
+        var config = {
+            size: {width: 240, height: 100}, // the width, height of your widget (in pixels)
+            terminals: [ // define the position of your terminals
+                {"name": "output", "position": {"left": 1, "top": 1 / 2}, "type": "output"}
+            ],
+            serverId: "turtle_loader_1", // serverId -> should be the same with the used for ServerWidget instantiation
+            resizable: true // decide whether your widget is resizable or not
+        };
+
+        function getParam() {
+            return {"param1": $("#param1").val()};
+        }
+
+        var hub = new WidgetHub(config);
+        hub.setGetParam(getParam);
+
+    </script>
+</head>
+<body>
+RDF Loader from a single file<br/>
+Example param (prefix): <input id="param1" value="lw|http://linkedwidgets.org/ontology/" width="100px"/><br/>
+</body>
+</html>

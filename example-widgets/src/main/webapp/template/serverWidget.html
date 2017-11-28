@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Insert title here</title>
+    <!--
+        any widget's html should include "WidgetHub.js".
+        additionally, a config var with serverId should also be included as shown in the example below.
+    -->
+    <script type="text/javascript" src="http://linkedwidgets.org/widgets/WidgetHub.js"></script>
+    <script type="text/javascript">
+        var config = {
+            size: {width: 400, height: 250}, // the width, height of your widget (in pixels)
+            terminals: [ // define the position of our terminals; example below
+                {"name": "input", "position": {"left": 0, "top": 1 / 2}, "type": "input"},
+                {"name": "output", "position": {"left": 1, "top": 1 / 2}, "type": "output"}
+            ],
+            serverId: "Enter your server id here",
+            resizable: true // decide whether your widget is resizable or not
+        };
+
+        /*
+         * Use this function to define the parameters send from this interface to your server widget (optional)
+         * You can access this parameters as "param" properties in the run() function of your ServerWidgetJob
+         */
+        function getParam() {
+            // returning param values defined in the widget interface
+            return {"param1": $("#param1").val(), "param2": $("#param2").val()};
+        }
+
+        var hub = new WidgetHub(config);
+        hub.setGetParam(getParam);
+    </script>
+</head>
+<body>
+    <!--
+        example parameters that can be accessed from java file (as "param" properties)
+    -->
+    <input id="param1" value="1st parameter's value"/><br/>
+    <input id="param2" value="2nd parameter's value"/><br/>
+</body>
+</html>

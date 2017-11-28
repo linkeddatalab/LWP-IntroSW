@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../../widgets/WidgetHub.js"></script>
+    <script type="text/javascript" src="../../widgets/autobahn.min.jgz"></script>
+    <title>Simple Sparql Widget</title>
+    <script type="text/javascript">
+        function getDistanceFromLatLonInMeter(lat1, lon1, lat2, lon2) {
+            var R = 6371; // Radius of the earth in km
+            var dLat = deg2rad(lat2 - lat1);  // deg2rad below
+            var dLon = deg2rad(lon2 - lon1);
+            var a =
+                Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            var d = R * c * 1000; // Distance in m
+            return d;
+        }
+
+        function deg2rad(deg) {
+            return deg * (Math.PI / 180)
+        }
+
+        var config = {
+            size: {width: 290, height: 120},
+            terminals: [
+                {"name": "input", "position": {"top": 1 / 2, "left": 0}, "type": "input", "multiple": true},
+                {"name": "output", "position": {"top": 1 / 2, "left": 1}, "type": "output"}
+            ],
+            resizable: true
+        };
+
+        function run(data) {
+            $("#btnRun").attr({disabled: true, value: "Running. Please wait..."});
+            var result = {
+                '@context': {},
+                '@graph': []
+            };
+
+            // Check the condition, construct the context
+            for (var i = 0; i < data.input.length; ++i) {
+                if (data.input[i]['@graph'].length == 0)
+                    return result;
+                else {
+                    for (var key in data.input[i]['@context']) {
+                        result['@context'][key] = data.input[i]['@context'][key];
+                    }
+                }
+            }
+
+            // Calculate all distances (1 time only)
+            max = $('#sltMax').val();
+            min = $('#sltMin').val();
+            var flag = {};
+
+            var index = [];
+            var combo = []; // Store the combination of locations which satisfy the distance condition
+            for (var i = 0; i < data.input.length; ++i) {
+                index[i] = 0; // Current traversed index of each input
+            }
+            outer: while (true) {
+                check = true;
+                for (var i = 0; i < combo.length; ++i) {
+                    var key = i + "_" + combo[i] + "_" + combo.length + "_" + index[combo.length];
+                    if (flag[key] == null) {
+                        lat1 = data.input[i]['@graph'][combo[i]].location['lat'];
+                        lon1 = data.input[i]['@graph'][combo[i]].location['long'];
+                        lat2 = data.input[combo.length]['@graph'][index[combo.length]].location['lat'];
+                        lon2 = data.input[combo.length]['@graph'][index[combo.length]].location['long'];
+                        distance = getDistanceFromLatLonInMeter(lat1, lon1, lat2, lon2);
+
+                        flag[key] = ((max != -1 && distance <= max) || max == -1) && ((min != -1 && distance >= min) || min == -1);
+                    }
+                    if (!flag[key]) { // Check the next candidate of the next input
+                        index[combo.length]++;
+                        check = false;
+                        break;
+                    }
+                }
+                if (check)
+                    combo.push(index[combo.length]);
+
+
+                // A complete result found!
+                if (combo.length == data.input.length) {
+                    tmp = [];
+                    for (var i = 0; i < combo.length; ++i) {
+                        tmp.push(data.input[i]['@graph'][combo[i]]);
+                    }
+                    result['@graph'].push(tmp);
+
+                    combo.splice(combo.length - 1, 1);
+                    index[combo.length]++;
+                }
+
+                // Index checker
+                var current = combo.length;
+                while (true) {
+                    if (index[current] == data.input[current]['@graph'].length) {
+                        if (current == 0) {
+                            break outer;
+                        }
+                        index[current] = 0;
+                        current = current - 1;
+                        index[current]++;
+                        combo.splice(combo.length - 1, 1);
+                    } else
+                        break;
+                }
+            }
+
+            hub.returnOutput(result);
+            $("#btnRun").attr({disabled: false, value: "Run"});
+        }
+
+        var hub = new WidgetHub(config, run);
+    </script>
+</head>
+<body>
+<input id="btnRun" type="button" onclick="hub.sendRunRequest();" value="Run"/><br/>
+<label for="sltMax">Maximum distances: </label>
+<select id="sltMax">
+    <option value="-1">None</option>
+    <option value="100">100 meters</option>
+    <option value="200">200 meters</option>
+    <option value="300">300 meters</option>
+    <option value="400">400 meters</option>
+    <option value="500">500 meters</option>
+    <option value="600">600 meters</option>
+    <option value="700">700 meters</option>
+    <option value="800">800 meters</option>
+    <option value="900">900 meters</option>
+    <option value="1000">1000 meters</option>
+    <option value="1500">1500 meters</option>
+    <option value="2000">2000 meters</option>
+    <option value="2500">2500 meters</option>
+    <option value="3000">3000 meters</option>
+    <option value="5000">5000 meters</option>
+    <option value="7000">7000 meters</option>
+    <option value="10000">10000 meters</option>
+</select>
+<label for="sltMin">Minimum distances: </label>
+<select id="sltMin">
+    <option value="-1">None</option>
+    <option value="100">100 meters</option>
+    <option value="200">200 meters</option>
+    <option value="300">300 meters</option>
+    <option value="400">400 meters</option>
+    <option value="500">500 meters</option>
+    <option value="600">600 meters</option>
+    <option value="700">700 meters</option>
+    <option value="800">800 meters</option>
+    <option value="900">900 meters</option>
+    <option value="1000">1000 meters</option>
+    <option value="1500">1500 meters</option>
+    <option value="2000">2000 meters</option>
+    <option value="2500">2500 meters</option>
+    <option value="3000">3000 meters</option>
+    <option value="5000">5000 meters</option>
+    <option value="7000">7000 meters</option>
+    <option value="10000">10000 meters</option>
+</select>
+</body>
+</html>

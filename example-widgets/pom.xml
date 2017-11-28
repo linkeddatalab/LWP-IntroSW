@@ -1,0 +1,87 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>example-widgets</artifactId>
+    <groupId>org.linkedwidgets</groupId>
+    <packaging>war</packaging>
+    <version>1.1.0</version>
+    <name>Example Widgets</name>
+
+    <url>http://linkedwidgets.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <lwp.version>1.1.0</lwp.version>
+    </properties>
+
+    <build>
+        <finalName>example-widgets</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.7.0</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <dependencies>
+        <!-- internal dependencies -->
+        <dependency>
+            <groupId>org.linkedwidgets</groupId>
+            <artifactId>datamodel</artifactId>
+            <version>${lwp.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.linkedwidgets</groupId>
+            <artifactId>websocket</artifactId>
+            <version>${lwp.version}</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/ws.wamp.jawampa/jawampa-netty -->
+        <dependency>
+            <groupId>ws.wamp.jawampa</groupId>
+            <artifactId>jawampa-netty</artifactId>
+            <version>0.5.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.jena/apache-jena-libs -->
+        <dependency>
+            <groupId>org.apache.jena</groupId>
+            <artifactId>apache-jena-libs</artifactId>
+            <version>3.4.0</version>
+            <type>pom</type>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.json/json -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20170516</version>
+        </dependency>
+    </dependencies>
+
+    <repositories>
+        <!-- a hack to include jar files within "/lib" folder without putting it in maven repository -->
+        <repository>
+            <id>internal-lib</id>
+            <url>file://${basedir}/lib</url>
+        </repository>
+    </repositories>
+
+</project>

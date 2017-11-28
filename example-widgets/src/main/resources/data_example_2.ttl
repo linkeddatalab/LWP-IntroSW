@@ -1,0 +1,17 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+<http://juang.id/foaf.rdf>
+  a foaf:Person ;
+    foaf:homepage <http://juang.id> ;
+    foaf:knows [
+      a foaf:Person ;
+      foaf:name "Elmar Kiesling" ;
+      foaf:mbox_sha1sum "fa83dc1901171893fb84f905f45fc7b7e7788746" ;
+      rdfs:seeAlso <https://www.ifs.tuwien.ac.at/user/346>
+    ], [
+      a foaf:Person ;
+      foaf:name "Peb R. Aryan" ;
+      foaf:mbox_sha1sum "c2a25f9616bbbb0bfe6a271169238e96bf02ef87" ;
+      rdfs:seeAlso <http://pebbie.org/>
+    ] .

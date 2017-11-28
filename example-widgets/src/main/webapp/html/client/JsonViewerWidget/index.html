@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>example</title>
+    <link rel="stylesheet" href="style/jquery.jsonview.css" type="text/css" media="screen" title="no title"
+          charset="utf-8"/>
+
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery.jsonview.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="../../widgets/WidgetHub.js"></script>
+    <script type="text/javascript" src="../../widgets/autobahn.min.jgz"></script>
+
+    <script type="text/javascript" charset="utf-8">
+        var config = {
+            size: {width: 450, height: 300},
+            terminals: [
+                {"name": "input", "position": {"left": 0, "top": 1 / 2}, "type": "input"}
+            ],
+            resizable: true
+        };
+
+        function run(data) {
+            if (typeof data.input == 'string')
+                data.input = JSON.parse(data.input);
+            view = new JsonViewer('jsonview', data.input);
+            hub.returnOutput(data.input);
+        }
+
+        var hub = new WidgetHub(config, run);
+    </script>
+</head>
+
+<body>
+<input id="btnRun" type="button" onclick="hub.sendRunRequest()" value="Run"/><br/>
+<div id="jsonview">
+</div>
+</body>
+</html>

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Map View</title>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="../../widgets/WidgetHub.js"></script>
+    	<script type="text/javascript" src="../../widgets/autobahn.min.jgz"></script>
+        <style type="text/css">
+		#map{
+			min-width: 320px;
+			min-height: 240px;
+		}
+		body{margin:0px;}
+		html, body, #map {
+			height: 100%;
+            width: 100%;
+        }
+		</style>
+    </head>
+    <body>
+		<div id="map" style="width:100%;height:100%"></div>
+    </body>
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jsonld/0.4.12/jsonld.js"></script>
+    <script type="text/javascript">
+
+        var config = {
+            size: {width: 330, height: 250}, // the width, height of your widget (in pixels)
+            terminals: [ // define the position of your terminals
+                {"name": "loc", "position" : {"right": 1, "top": 1/2}, "type": "input"},
+                {"name": "output", "position" : {"left": 1, "top": 1/2}, "type": "output"}
+            ],
+            resizable: true// decide whether your widget is resizable or not
+        };
+		var map
+        /*
+        This function defines the job of your widget.
+        */
+        var markers = []
+        var markerids = {}
+        var envelope
+
+        var context = {
+		  "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "lat" : "geo:lat",
+          "long": "geo:long",
+          "location": "geo:location",
+          "title": "rdfs:label",
+          "name": "foaf:name",
+          "icon": "foaf:depiction"
+		};
+
+		var npt = 0;
+		var sumlat = 0.0,sumlon = 0.0;
+        var minlat=90., minlon=180., maxlat=-90, maxlon=-180;
+        var marker_icons = {}
+        var skipObj = {}
+
+        function remove_explicitIndirectPoint(G, objs){
+        	//to handle case where a point object is referenced by other object (e.g. via wgs84:location)
+        	//look for indirection and add to skipObj
+        	for(var oi=0; oi<G.length; ++oi){
+        		var val = G[oi]
+        		loc = val
+        		if (val['location'] != undefined) loc = val['location']
+        		if(loc['lat'] == undefined || loc['long'] == undefined){
+					if(loc['@id'] != undefined && objs != undefined){
+						loc = objs[loc['@id']]
+						skipObj[loc['@id']] = true;
+					}					
+				}
+        	}
+        }
+		
+		function handle_SpatialThing(val, objs)
+		{
+			console.log('[info] SpatialThing input ', JSON.stringify(val, null, 2))
+			if(val['@id'] != undefined && skipObj[val['@id']])
+				return;
+
+			//check location
+			loc = val
+			if (val['location'] != undefined)
+				loc = val.location
+
+			console.log('[info] location : ', loc)	
+			if(loc['lat'] == undefined || loc['long'] == undefined){
+				if(loc['@id'] != undefined && objs != undefined){
+					loc = objs[loc['@id']]
+					skipObj[loc['@id']] = true;
+                    if(loc['lat'] == undefined || loc['long'] == undefined) return;
+				}
+				else {
+					console.log('[warning] no lat-long available')
+					return	
+				}
+			}
+
+			
+			// marker content
+			//
+			var popup_title = ''
+			if(val.title != undefined){
+				popup_title = val.title
+			}
+			else if(val.name != undefined){
+				popup_title = val.name
+			}
+			else{
+				popup_title = JSON.stringify(val, null, ' ')
+			}
+			console.log('[info] marker popup', popup_title)
+
+			//troublesome, should be removed
+			if(loc.lat=="") loc.lat = "0";
+			if(loc.long=="") loc.long = "0";
+
+			if (val['icon'] != undefined){
+				iconurl = val['icon']
+				if(marker_icons[iconurl] == undefined){
+					marker_icons[iconurl] = L.icon({iconUrl: iconurl,
+				        iconSize: [38, 95], // size of the icon
+				        });
+				}
+				marker = L.marker([loc.lat, loc.long], {icon: marker_icons[iconurl]}).addTo(map).bindPopup(popup_title)
+			}
+			else
+				marker=L.marker([loc.lat, loc.long]).addTo(map).bindPopup(popup_title)
+			marker._rdf = JSON.stringify(val, null, 2)
+			
+			markers.push(marker)
+			markerids[val.name] = val
+
+			//estimate bounding boxes			
+			sumlat += parseFloat(loc.lat)
+			sumlon += parseFloat(loc.long)
+			npt+=1
+			
+			minlat = Math.min(minlat, parseFloat(loc.lat))
+			minlon = Math.min(minlon, parseFloat(loc.long))
+			maxlat = Math.max(maxlat, parseFloat(loc.lat))
+			maxlon = Math.max(maxlon, parseFloat(loc.long))
+		}
+
+		var G_objs;
+		function load_graph_simple(G) {
+			//
+			skipObj = {}
+			var objects = {}
+			for(var oi=0; oi<G.length; ++oi){
+				var obj = G[oi];
+				if(obj['@id'] != undefined){
+					objects[obj['@id']] = obj;
+					skipObj[obj['@id']] = false;
+				}
+			}
+			return objects
+		}
+		
+        function run(data) {
+        	//console.log("[info] received data: ",JSON.stringify(data.loc, null, 2))
+        	console.log('[info] resetting markers')
+        	if(markers != null && markers.length>0){
+        		console.log("markers", markers)
+        		for(var mi=0; mi<markers.length; ++mi)
+        			map.removeLayer(markers[mi])
+        		markers = []
+        		markerids = {}
+        	}
+        	console.log('[info] reading loc data')
+        	if(typeof(data.loc)=="string"){
+        		console.log(data.loc)
+        		data.loc = JSON.parse(data.loc)
+        	}
+        	
+        	var input
+
+        	// compact a document according to a particular context
+			// see: http://json-ld.org/spec/latest/json-ld/#compacted-document-form
+        	jsonld.expand(data.loc, function(err, expanded) {
+        		//console.log('[info] expanded: ', JSON.stringify(expanded, null, 2))
+        		jsonld.compact(expanded, context, function(err, compacted) {
+        			input = compacted
+				  	//alert(JSON.stringify(compacted, null, 2));
+					//console.log('[info] compacted: ', JSON.stringify(compacted, null, 2))
+		        	//alert(input)
+		        	
+		        	npt = 0
+		        	if(input['@graph'] != undefined){
+		        		G_objs = load_graph_simple(input['@graph'])
+		        		remove_explicitIndirectPoint(input['@graph'], G_objs)
+		        		minlat=90., minlon=180., maxlat=-90, maxlon=-180;
+		        		for(var gi=0; gi<input['@graph'].length; ++gi){
+		        			handle_SpatialThing(input['@graph'][gi], G_objs)
+		        		}
+		        	}
+		        		/*
+						$.each(input['@graph'], function(idx, val){
+							handle_SpatialThing(val)
+						})
+						*/
+					else
+						handle_SpatialThing(input)
+					
+					if(npt>0){
+						console.log(sumlat, sumlon, npt)
+						sumlat /= npt
+						sumlon /= npt
+						console.log(sumlat, sumlon, npt)
+						map.setView([sumlat, sumlon])
+						map.fitBounds([[minlat, minlon], [maxlat, maxlon]])
+					}
+					
+					envelope = data.loc
+					if(envelope['@graph'] != undefined)
+						envelope['@graph'] = []
+
+				});
+        	})
+        }
+        
+        var hub = new WidgetHub(config, run);
+        
+        function sendRunmsg()
+        {
+            hub.sendRunRequest()
+        }
+		
+		function error(msg)
+		{
+			alert(msg)
+		}
+		
+		$(function(){
+			map = L.map('map').setView([48, 16.8], 8)
+			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+				attribution: 'Map Data &copy;',
+				maxZoom: 18
+			}).addTo(map)
+
+			map.on("popupopen", function(e){
+				var popup = e.popup
+				obj = popup._source._rdf
+				console.log(obj)
+				if(typeof(obj)=='string')
+					obj = JSON.parse(obj)
+
+				if(envelope['@graph'] != undefined)
+					envelope['@graph'] = [obj]
+				else
+					envelope = obj
+
+				hub.returnOutput(envelope)	
+			})
+		})
+    </script>
+</html>
