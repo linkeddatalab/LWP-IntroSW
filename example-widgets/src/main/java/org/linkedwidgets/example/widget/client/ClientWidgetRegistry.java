@@ -33,16 +33,16 @@ public class ClientWidgetRegistry implements ServletContextListener {
 
         initializeWidget("Json Viewer", "visualization", "JsonViewerWidget/index.html",
                 "A basic JSON viewer for any kind of JSON file", false);
-        initializeWidget("Google Map Visualization (Carousel)", "visualization", "GoogleMapWidget/index.html",
-                "Google Maps input visualization", false);
+//         initializeWidget("Google Map Visualization (Carousel)", "visualization", "GoogleMapWidget/index.html",
+//                 "Google Maps input visualization", false);
         initializeWidget("Map Pointer", "visualization", "MapPointerWidget/index.html",
                 "Map Pointer Widget for data inputs", false);
-        initializeWidget("Flickr Geo Search", "process", "FlickrGeoSearch/index.html",
-                "Add Flickr images from area nearby appointed locations. To be used with Google Map visualization widget",
-                false);
+//         initializeWidget("Flickr Geo Search", "process", "FlickrGeoSearch/index.html",
+//                 "Add Flickr images from area nearby appointed locations. To be used with Google Map visualization widget",
+//                 false);
         initializeWidget("Leaflet Map", "visualization", "LeafletMapWidget/index.html",
                 "Simple Leaflet Map Visualization", false);
-        initializeWidget("Geo Merge", "data", "GeoMergeWidget/index.html", "", false);
+//         initializeWidget("Geo Merge", "data", "GeoMergeWidget/index.html", "", false);
 
         log.info("Context initialized done");
     }
