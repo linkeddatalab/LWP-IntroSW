@@ -1,19 +1,17 @@
-# Linked Widget Platform (LWP) for Semantic Web course students
-
 ## Linked Widget Platform (LWP)
 
 ### Prerequisites
 
 * JDK 1.8+.
-* Apache Maven 3+ [^maven].
-* Apache Tomcat Server (tested with Tomcat 7, 8 and 9) [^tomcat].
+* Apache Maven 3+<sup>[1](#maven)</sup>.
+* Apache Tomcat Server (tested with Tomcat 7, 8 and 9)<sup>[2](#tomcat)</sup>.
 
 ### LWP Installation Steps
 
 1. Make sure that all prerequisites software are installed correctly. 
-   * JDK check[^jdkcheck]
-   * Maven check[^mvncheck]
-   * (Optional) Tomcat user configuration for manager HTML[^userconfig]
+   * JDK check<sup>[3](#jdkcheck)</sup>
+   * Maven check<sup>[4](#mvncheck)</sup>
+   * (Optional) Tomcat user configuration for manager HTML<sup>[5](#userconfig)</sup>
 2. Remove/rename the current `ROOT` folder in the apache tomcat server
    * We need the LWP UI to be in the root folder since it uses Google OAuth mechanism.​
 3. Start your Tomcat server in the default port (`8080`). 
@@ -43,8 +41,8 @@
 *TBD*
 
 ### Links
-[^maven]: [Apache Maven website](https://maven.apache.org/)<br/>
-[^tomcat]: [Apache Tomcat website](https://tomcat.apache.org/)<br/>
-[^jdkcheck]: [How to tell if JRE or JDK is installed](https://stackoverflow.com/questions/22539779/how-to-tell-if-jre-or-jdk-is-installed)<br/>
-[^mvncheck]: [https://maven.apache.org/install.html](https://maven.apache.org/install.html)<br/>
-[^userconfig]: [tomcat users configuration example](https://examples.javacodegeeks.com/enterprise-java/tomcat/tomcat-users-xml-configuration-example/)<br/>
+<a name="maven">1</a>: [Apache Maven website](https://maven.apache.org/)<br/>
+<a name="tomcat">2</a>: [Apache Tomcat website](https://tomcat.apache.org/)<br/>
+<a name="jdkcheck">2</a>: [How to tell if JRE or JDK is installed](https://stackoverflow.com/questions/22539779/how-to-tell-if-jre-or-jdk-is-installed)<br/>
+<a name="mvncheck">2</a>: [https://maven.apache.org/install.html](https://maven.apache.org/install.html)<br/>
+<a name="userconfig">2</a>: [tomcat users configuration example](https://examples.javacodegeeks.com/enterprise-java/tomcat/tomcat-users-xml-configuration-example/)<br/>
