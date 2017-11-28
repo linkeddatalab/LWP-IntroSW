@@ -1,0 +1,570 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.664> a dbo:Place ;
+	lw:hasId "INTORGOGD.664" .
+
+_:node1bvvrkb5dx1 wgs:lat "16.362690440631503" ;
+	wgs:long "48.202508662479595" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.664> wgs:location _:node1bvvrkb5dx1 ;
+	skos:altLabel "IOM" ;
+	rdfs:label "International Organisation for Migration Regional Bureau Vienna"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Nibelungengasse 13/4" ;
+	foaf:phone "01 585 33 22" ;
+	rdfs:seeAlso "http://www.iomvienna.at/" ;
+	rdfs:label "Internationale Organisation für Migration Regional Büro Wien"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.665> a dbo:Place ;
+	lw:hasId "INTORGOGD.665" .
+
+_:node1bvvrkb5dx2 wgs:lat "16.346286240106913" ;
+	wgs:long "48.1969686775374" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.665> wgs:location _:node1bvvrkb5dx2 ;
+	skos:altLabel "JVI" ;
+	rdfs:label "Joint Vienna Institute"@en ;
+	dbo:codeDistrict "1060" ;
+	dbo:address "6., Mariahilfer Straße 97" ;
+	foaf:phone "01 798 94 95" ;
+	rdfs:seeAlso "http://www.jvi.org/" ;
+	rdfs:label "Joint Vienna Institute"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.666> a dbo:Place ;
+	lw:hasId "INTORGOGD.666" .
+
+_:node1bvvrkb5dx3 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.666> wgs:location _:node1bvvrkb5dx3 ;
+	skos:altLabel "ICPDR" ;
+	rdfs:label "Commission for the Protection of the Danube River Permanent Secretariat"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5, Room D-0412" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-5738" ;
+	rdfs:seeAlso "http://www.icpdr.org/" ;
+	rdfs:label "Internationale Kommission zum Schutz der Donau ICPDR-Sekretariat"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.667> a dbo:Place ;
+	lw:hasId "INTORGOGD.667" .
+
+_:node1bvvrkb5dx4 wgs:lat "16.38265402366019" ;
+	wgs:long "48.195735769476" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.667> wgs:location _:node1bvvrkb5dx4 ;
+	skos:altLabel "EPO" ;
+	rdfs:label "European Patent Office - Branch office"@en ;
+	dbo:codeDistrict "1030" ;
+	dbo:address "3., Rennweg 12" ;
+	dbo:postalCode "90" ;
+	foaf:phone "01 521 26-0" ;
+	rdfs:seeAlso "http://www.epo.org/" ;
+	rdfs:label "Europäisches Patentamt"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.668> a dbo:Place ;
+	lw:hasId "INTORGOGD.668" .
+
+_:node1bvvrkb5dx5 wgs:lat "16.380569966554752" ;
+	wgs:long "48.19766535518922" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.668> wgs:location _:node1bvvrkb5dx5 ;
+	skos:altLabel "COE" ;
+	rdfs:label "Council of Europe - Liaison Office"@en ;
+	dbo:codeDistrict "1030" ;
+	dbo:address "3., Marokkanergasse 21/6" ;
+	foaf:phone "01 710 41 27" ;
+	rdfs:label "Europarat - Verbindungsbüro"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.669> a dbo:Place ;
+	lw:hasId "INTORGOGD.669" .
+
+_:node1bvvrkb5dx6 wgs:lat "16.365932323669174" ;
+	wgs:long "48.21061521706897" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.669> wgs:location _:node1bvvrkb5dx6 ;
+	skos:altLabel "MIGA" ;
+	rdfs:label "Multilateral Investment Guarantee Agency - Liaison Office"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Strauchgasse 3" ;
+	foaf:phone "01 535 53 82-2117" ;
+	rdfs:seeAlso "http://www.miga.org" ;
+	rdfs:label "Multilaterale Investitions-Garantie-Agentur - Verbindungsbüro"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.670> a dbo:Place ;
+	lw:hasId "INTORGOGD.670" .
+
+_:node1bvvrkb5dx7 wgs:lat "16.365932323669174" ;
+	wgs:long "48.21061521706897" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.670> wgs:location _:node1bvvrkb5dx7 ;
+	skos:altLabel "IFC" ;
+	rdfs:label "International Finance Corporation - FIAS Investment Climate Department, World Bank Group"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Strauchgasse 3" ;
+	foaf:phone "01 535 53 82-2119" ;
+	rdfs:seeAlso "http://www.wbginvestmentclimate.org" ;
+	rdfs:label "Internationale Finanz-Corporation - Verbindungsbüro"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.671> a dbo:Place ;
+	lw:hasId "INTORGOGD.671" .
+
+_:node1bvvrkb5dx8 wgs:lat "16.372760497229358" ;
+	wgs:long "48.1984187641791" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.671> wgs:location _:node1bvvrkb5dx8 ;
+	skos:altLabel "EIB" ;
+	rdfs:label "European Investment Bank - Regional Office"@en ;
+	dbo:codeDistrict "1040" ;
+	dbo:address "4., Mattiellistraße 2-4" ;
+	foaf:phone "01 505 36 76-0" ;
+	rdfs:seeAlso "http://www.eib.org" ;
+	rdfs:label "Europäische Investitionsbank - Verbindungsbüro"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.672> a dbo:Place ;
+	lw:hasId "INTORGOGD.672" .
+
+_:node1bvvrkb5dx9 wgs:lat "16.367130859298687" ;
+	wgs:long "48.21075347782306" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.672> wgs:location _:node1bvvrkb5dx9 ;
+	skos:altLabel "ECS" ;
+	rdfs:label "Energy Community Secretariat Vienna"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Am Hof 4/6" ;
+	foaf:phone "01 535 22 22" ;
+	rdfs:seeAlso "http://www.energy-community.org/" ;
+	rdfs:label "Energiegemeinschaft Sekretariat Wien"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.673> a dbo:Place ;
+	lw:hasId "INTORGOGD.673" .
+
+_:node1bvvrkb5dx10 wgs:lat "16.38388691311318" ;
+	wgs:long "48.21483191598549" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.673> wgs:location _:node1bvvrkb5dx10 ;
+	skos:altLabel "IBRD" ;
+	rdfs:label "International Bank for Reconstruction and Development - Liaison Office"@en ;
+	dbo:codeDistrict "1020" ;
+	dbo:address "2., Praterstraße 31" ;
+	foaf:phone "01 217 07 00" ;
+	rdfs:seeAlso "http://www.worldbank.org/ibrd" ;
+	rdfs:label "Internationale Bank für Wiederaufbau und Entwicklung - Verbindungsbüro"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.674> a dbo:Place ;
+	lw:hasId "INTORGOGD.674" .
+
+_:node1bvvrkb5dx11 wgs:lat "16.367144483316547" ;
+	wgs:long "48.2164576899059" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.674> wgs:location _:node1bvvrkb5dx11 ;
+	skos:altLabel "KAICIID" ;
+	rdfs:label "King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Schottenring 21" ;
+	dbo:postalCode "<Null>" ;
+	foaf:phone "01 313 22-0" ;
+	rdfs:seeAlso "http://www.kaiciid.org/" ;
+	rdfs:label "König Abdullah Bin Abdulaziz Internationales Zentrum <br>für interreligösen u. interkulturellen Dialog "@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.675> a dbo:Place ;
+	lw:hasId "INTORGOGD.675" .
+
+_:node1bvvrkb5dx12 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.675> wgs:location _:node1bvvrkb5dx12 ;
+	skos:altLabel "UNODA" ;
+	rdfs:label "United Nations Office for Disarmament Affairs"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-4180" ;
+	rdfs:seeAlso "http://www.un.org/disarmament/vienna/" ;
+	rdfs:label "Büro der Vereinten Nationen für Abrüstungsfragen "@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.676> a dbo:Place ;
+	lw:hasId "INTORGOGD.676" .
+
+_:node1bvvrkb5dx13 wgs:lat "16.414106434245028" ;
+	wgs:long "48.23299253452594" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.676> wgs:location _:node1bvvrkb5dx13 ;
+	skos:altLabel "SE4ALL" ;
+	rdfs:label "Sustainable Energy for All Initiative"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "22., Donau City Strasse 6" ;
+	dbo:postalCode "500" ;
+	foaf:phone "+43 1 26060 83403" ;
+	rdfs:seeAlso "http://www.se4all.org/" ;
+	rdfs:label "UN-Büro für Nachhaltige Energie für Alle "@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.654> a dbo:Place ;
+	lw:hasId "INTORGOGD.654" .
+
+_:node1bvvrkb5dx14 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.654> wgs:location _:node1bvvrkb5dx14 ;
+	skos:altLabel "INCB" ;
+	rdfs:label "International Narcotics Control Board"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5, Room E-1339" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-0" ;
+	rdfs:seeAlso "http://www.incb.org/" ;
+	rdfs:label "Internationaler Suchtstoffkontrollrat"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.655> a dbo:Place ;
+	lw:hasId "INTORGOGD.655" .
+
+_:node1bvvrkb5dx15 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.655> wgs:location _:node1bvvrkb5dx15 ;
+	skos:altLabel "UNRoD" ;
+	rdfs:label "United Nations Register of Damage Caused by the Construction <br>of the Wall in the Occupied Palestinian Territory"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-5134" ;
+	rdfs:seeAlso "http://www.unrod.org/" ;
+	rdfs:label "Register d. Vereinten Nationen für d. Erfassung der durch den Bau <br>der Mauer in dem besetzten palästinensischen Gebiet verursachten Schäden"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.656> a dbo:Place ;
+	lw:hasId "INTORGOGD.656" .
+
+_:node1bvvrkb5dx16 wgs:lat "16.36646559271599" ;
+	wgs:long "48.210015625544955" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.656> wgs:location _:node1bvvrkb5dx16 ;
+	skos:altLabel "OSZE" ;
+	rdfs:label "Organization for Security and Co-operation in Europe - Secretariat"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Wallnerstraße 6" ;
+	foaf:phone "01 514 36-6000" ;
+	rdfs:seeAlso "http://www.osce.org/" ;
+	rdfs:label "Organisation für Sicherheit und Zusammenarbeit in Europa - Sekretariat"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.657> a dbo:Place ;
+	lw:hasId "INTORGOGD.657" .
+
+_:node1bvvrkb5dx17 wgs:lat "16.36646559271599" ;
+	wgs:long "48.210015625544955" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.657> wgs:location _:node1bvvrkb5dx17 ;
+	skos:altLabel "OSCE" ;
+	rdfs:label "Organization for Security and Co-operation in Europe -<br> Representative on Freedom of the Media"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Wallnerstraße 6" ;
+	foaf:phone "01 514 36-6800" ;
+	rdfs:seeAlso "http://www.osce.org/fom" ;
+	rdfs:label "Organisation für Sicherheit und Zusammenarbeit in Europa -<br> Beauftragter für die Freiheit der Medien"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.658> a dbo:Place ;
+	lw:hasId "INTORGOGD.658" .
+
+_:node1bvvrkb5dx18 wgs:lat "16.355879268226257" ;
+	wgs:long "48.205354975953426" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.658> wgs:location _:node1bvvrkb5dx18 ;
+	skos:altLabel "OSCEPA" ;
+	rdfs:label "Organization for Security and Co-operation in Europe -<br> Liaison Office of the Parliamentary Assembly"@en ;
+	dbo:codeDistrict "1070" ;
+	dbo:address "7., Neustiftgasse 3/8" ;
+	foaf:phone "01 523 30 02" ;
+	rdfs:seeAlso "http://www.oscepa.org/" ;
+	rdfs:label "Organisation für Sicherheit und Zusammenarbeit in Europa -<br> Verbindungsbüro der parlamentarischen Versammlung der OSZE"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.659> a dbo:Place ;
+	lw:hasId "INTORGOGD.659" .
+
+_:node1bvvrkb5dx19 wgs:lat "16.365987336006544" ;
+	wgs:long "48.21427907614742" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.659> wgs:location _:node1bvvrkb5dx19 ;
+	skos:altLabel "OPEC" ;
+	rdfs:label "Organization of the Petroleum Exporting Countries"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Helferstorferstraße 17" ;
+	foaf:phone "01 211 12-0" ;
+	rdfs:seeAlso "http://www.opec.org/" ;
+	rdfs:label "Organisation der erdölexportierenden Länder"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.660> a dbo:Place ;
+	lw:hasId "INTORGOGD.660" .
+
+_:node1bvvrkb5dx20 wgs:lat "16.37894172793433" ;
+	wgs:long "48.20614149092357" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.660> wgs:location _:node1bvvrkb5dx20 ;
+	skos:altLabel "OFID" ;
+	rdfs:label "Organization of the Petroleum Exporting Countries -<br> Fund for International Development"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Parkring 8" ;
+	dbo:postalCode "995" ;
+	foaf:phone "01 515 64-0" ;
+	rdfs:seeAlso "http://www.ofid.org/" ;
+	rdfs:label "Organisation der erdölexportierenden Länder - Fonds für internationale Entwicklung"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.661> a dbo:Place ;
+	lw:hasId "INTORGOGD.661" .
+
+_:node1bvvrkb5dx21 wgs:lat "16.374607913757774" ;
+	wgs:long "48.19816438323935" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.661> wgs:location _:node1bvvrkb5dx21 ;
+	skos:altLabel "GRA" ;
+	rdfs:label "European Union Agency for Fundamental Rights"@en ;
+	dbo:codeDistrict "1040" ;
+	dbo:address "4., Schwarzenbergplatz 11" ;
+	foaf:phone "01 580 30 60" ;
+	rdfs:seeAlso "http://fra.europa.eu/" ;
+	rdfs:label "Agentur der Europäischen Union für Grundrechte"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.662> a dbo:Place ;
+	lw:hasId "INTORGOGD.662" .
+
+_:node1bvvrkb5dx22 wgs:lat "16.373289211106595" ;
+	wgs:long "48.20220894294313" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.662> wgs:location _:node1bvvrkb5dx22 ;
+	skos:altLabel "WA" ;
+	rdfs:label "Wassenaar Arrangement on Export Controls for Conventional Arms <br>and Dual-Use Goods and Technologies (Secretariat)"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Mahlerstraße 12/6" ;
+	foaf:phone "01 960 03" ;
+	rdfs:seeAlso "http://www.wassenaar.org/" ;
+	rdfs:label "Wassenaar Arrangement f. Exportkontrolle v. konvention. Waffen und <br>doppelverwendungsfähigen Technologie"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.663> a dbo:Place ;
+	lw:hasId "INTORGOGD.663" .
+
+_:node1bvvrkb5dx23 wgs:lat "16.373711333914592" ;
+	wgs:long "48.21300061914466" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.663> wgs:location _:node1bvvrkb5dx23 ;
+	skos:altLabel "ICMPD" ;
+	rdfs:label "International Centre for Migration Policy Development"@en ;
+	dbo:codeDistrict "1010" ;
+	dbo:address "1., Gonzagagasse 1/5" ;
+	foaf:phone "01 504 46 77-0" ;
+	rdfs:seeAlso "http://www.icmpd.org/" ;
+	rdfs:label "Internationales Zentrum für Migrationspolitikentwicklung"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.641> a dbo:Place ;
+	lw:hasId "INTORGOGD.641" .
+
+_:node1bvvrkb5dx24 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.641> wgs:location _:node1bvvrkb5dx24 ;
+	skos:altLabel "UNOV" ;
+	rdfs:label "United Nations Office at Vienna"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60" ;
+	rdfs:seeAlso "http://www.unvienna.org" ;
+	rdfs:label "Büro der Vereinten Nationen in Wien"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.642> a dbo:Place ;
+	lw:hasId "INTORGOGD.642" .
+
+_:node1bvvrkb5dx25 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.642> wgs:location _:node1bvvrkb5dx25 ;
+	skos:altLabel "UNIDO" ;
+	rdfs:label "United Nations Industrial Development Organization"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "300" ;
+	foaf:phone "01 260 26-0" ;
+	rdfs:seeAlso "http://www.unido.org" ;
+	rdfs:label "Organisation der Vereinten Nationen für industrielle Entwicklung"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.643> a dbo:Place ;
+	lw:hasId "INTORGOGD.643" .
+
+_:node1bvvrkb5dx26 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.643> wgs:location _:node1bvvrkb5dx26 ;
+	skos:altLabel "IAEO" ;
+	rdfs:label "International Atomic Energy Agency"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "100" ;
+	foaf:phone "01 260 0-0" ;
+	rdfs:seeAlso "http://www.iaea.org" ;
+	rdfs:label "Internationale Atomenergie-Organisation"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.644> a dbo:Place ;
+	lw:hasId "INTORGOGD.644" .
+
+_:node1bvvrkb5dx27 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.644> wgs:location _:node1bvvrkb5dx27 ;
+	skos:altLabel "CTBTO" ;
+	rdfs:label "Preparatory Commission for the Comprehensive<br> Nuclear-Test-Ban-Treaty Organization"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "1200" ;
+	foaf:phone "01 260 30-6200" ;
+	rdfs:seeAlso "http://www.ctbto.org/" ;
+	rdfs:label "Vorbereitungskommission für die Organisation des Vertrags über das<br> umfassende Verbot von Nuklearversuchen"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.645> a dbo:Place ;
+	lw:hasId "INTORGOGD.645" .
+
+_:node1bvvrkb5dx28 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.645> wgs:location _:node1bvvrkb5dx28 ;
+	skos:altLabel "UNODC" ;
+	rdfs:label "United Nations Office on Drugs and Crime"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-0" ;
+	rdfs:seeAlso "http://www.unodc.org/" ;
+	rdfs:label "Büro der Vereinten Nationen für Drogen- und Verbrechensbekämpfung"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.646> a dbo:Place ;
+	lw:hasId "INTORGOGD.646" .
+
+_:node1bvvrkb5dx29 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.646> wgs:location _:node1bvvrkb5dx29 ;
+	skos:altLabel "UNOIOS" ;
+	rdfs:label "Office of Internal Oversight Services"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-0" ;
+	rdfs:seeAlso "http://www.un.org/Depts/oios/" ;
+	rdfs:label "Amt für interne Aufsichtsdienste"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.647> a dbo:Place ;
+	lw:hasId "INTORGOGD.647" .
+
+_:node1bvvrkb5dx30 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.647> wgs:location _:node1bvvrkb5dx30 ;
+	skos:altLabel "UNOOSA" ;
+	rdfs:label "United Nations Office for Outer Space Affairs"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-4950" ;
+	rdfs:seeAlso "http://www.unoosa.org/" ;
+	rdfs:label "Büro der Vereinten Nationen für Weltraumfragen"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.648> a dbo:Place ;
+	lw:hasId "INTORGOGD.648" .
+
+_:node1bvvrkb5dx31 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.648> wgs:location _:node1bvvrkb5dx31 ;
+	skos:altLabel "UNCITRAL" ;
+	rdfs:label "United Nations Commission on International Trade Law"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-4060, 01 260 60-4061" ;
+	rdfs:seeAlso "http://www.uncitral.org/" ;
+	rdfs:label "Kommission der Vereinten Nationen für Internationales Handelsrecht"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.649> a dbo:Place ;
+	lw:hasId "INTORGOGD.649" .
+
+_:node1bvvrkb5dx32 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.649> wgs:location _:node1bvvrkb5dx32 ;
+	skos:altLabel "UNEP-ISCC" ;
+	rdfs:label "United Nations Environment Programme Vienna -<br> Interim Secretariat of the Carpathian Convention"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-4545" ;
+	rdfs:seeAlso "http://www.carpathianconvention.org/index.htm" ;
+	rdfs:label "Umweltprogramm der Vereinten Nationen Büro Wien -<br> Interimssekretariat des Karpatenübereinkommens"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.650> a dbo:Place ;
+	lw:hasId "INTORGOGD.650" .
+
+_:node1bvvrkb5dx33 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.650> wgs:location _:node1bvvrkb5dx33 ;
+	skos:altLabel "UNHCR" ;
+	rdfs:label "United Nations High Commissioner for Refugees Vienna Office"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "550" ;
+	foaf:phone "01 260 60-4048" ;
+	rdfs:seeAlso "http://www.unhcr.at/" ;
+	rdfs:label "Hoher Flüchtlingskommissar der Vereinten Nationen Büro Wien"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.651> a dbo:Place ;
+	lw:hasId "INTORGOGD.651" .
+
+_:node1bvvrkb5dx34 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.651> wgs:location _:node1bvvrkb5dx34 ;
+	skos:altLabel "UNIS" ;
+	rdfs:label "United Nations Information Service"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 260 60-0" ;
+	rdfs:seeAlso "http://www.unis.unvienna.org/" ;
+	rdfs:label "Informationsdienst der Vereinten Nationen Wien"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.652> a dbo:Place ;
+	lw:hasId "INTORGOGD.652" .
+
+_:node1bvvrkb5dx35 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.652> wgs:location _:node1bvvrkb5dx35 ;
+	skos:altLabel "UNPA" ;
+	rdfs:label "United Nations Postal Administration - European Office"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "900" ;
+	foaf:phone "01 260 60-4032" ;
+	rdfs:seeAlso "http://unstamps.un.org/" ;
+	rdfs:label "Postverwaltung der Vereinten Nationen"@de .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.653> a dbo:Place ;
+	lw:hasId "INTORGOGD.653" .
+
+_:node1bvvrkb5dx36 wgs:lat "16.416856712198253" ;
+	wgs:long "48.234829785125626" .
+
+<http://linkedwidgets.org/ontology/wien/INTORGOGD.653> wgs:location _:node1bvvrkb5dx36 ;
+	skos:altLabel "UNSCEAR" ;
+	rdfs:label "United Nationas Scientific Committee on the Effects of Atomic Radiation"@en ;
+	dbo:codeDistrict "1220" ;
+	dbo:address "1400, Wagramer Straße 5" ;
+	dbo:postalCode "500" ;
+	foaf:phone "01 206 60-4330" ;
+	rdfs:seeAlso "http://www.unscear.org/" ;
+	rdfs:label "Wissenschaftlicher Ausschuss der Vereinten Nationen zur<br> Untersuchung der Auswirkungen der atomaren Strahlung"@de .

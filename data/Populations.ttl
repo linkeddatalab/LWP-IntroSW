@@ -1,0 +1,4102 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1869> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "68079"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1869> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "68442"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1869> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "88678"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1869> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "55682"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1869> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "54010"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1869> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "67642"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1869> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "80043"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1869> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "53012"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1869> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "65910"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1869> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "22340"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1869> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "12848"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1869> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "30589"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1869> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "9808"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1869> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "12397"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1869> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "64042"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1869> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "31383"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1869> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "34793"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1869> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "17879"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1869> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "17924"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1869> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "15922"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1869> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "12022"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1869> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "3608"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1869> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "13945"^^xsd:int ;
+	lw:censusYear "1869-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1880> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "72688"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1880> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "100513"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1880> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "96523"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1880> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "58336"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1880> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "67018"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1880> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "64535"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1880> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "78143"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1880> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "50354"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1880> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "73740"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1880> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "54681"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1880> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "21720"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1880> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "47358"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1880> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "11585"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1880> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "20298"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1880> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "86323"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1880> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "63074"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1880> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "63038"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1880> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "43543"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1880> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "24018"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1880> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "17250"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1880> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "23632"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1880> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "6281"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1880> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "17940"^^xsd:int ;
+	lw:censusYear "1880-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1890> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "70167"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1890> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "119119"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1890> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "117869"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1890> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "59464"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1890> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "84031"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1890> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "64323"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1890> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "74000"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1890> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "49622"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1890> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "87150"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1890> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "88230"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1890> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "27591"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1890> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "57782"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1890> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "14520"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1890> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "29510"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1890> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "103959"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1890> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "106892"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1890> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "74696"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1890> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "68067"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1890> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "32738"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1890> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "37524"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1890> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "31937"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1890> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "8724"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1890> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "22298"^^xsd:int ;
+	lw:censusYear "1890-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1900> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "58736"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1900> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "142190"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1900> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "147215"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1900> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "60359"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1900> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "107810"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1900> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "62212"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1900> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "72550"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1900> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "50897"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1900> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "101382"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1900> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "133009"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1900> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "34731"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1900> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "72354"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1900> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "20095"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1900> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "46795"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1900> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "132830"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1900> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "150049"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1900> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "90457"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1900> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "84801"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1900> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "38366"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1900> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "71445"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1900> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "45633"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1900> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "15602"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1900> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "29619"^^xsd:int ;
+	lw:censusYear "1900-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1910> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "53326"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1910> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "162442"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1910> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "166981"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1910> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "62938"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1910> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "105551"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1910> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "64670"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1910> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "76447"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1910> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "53804"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1910> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "112042"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1910> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "159241"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1910> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "43111"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1910> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "106531"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1910> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "34883"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1910> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "84925"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1910> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "145694"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1910> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "179045"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1910> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "103305"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1910> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "87658"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1910> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "52676"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1910> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "101326"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1910> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "62154"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1910> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "26833"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1910> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "38047"^^xsd:int ;
+	lw:censusYear "1910-12-31" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1923> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "43045"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1923> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "144019"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1923> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "147169"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1923> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "57635"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1923> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "89887"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1923> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "54540"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1923> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "62989"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1923> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "50106"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1923> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "94623"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1923> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "150403"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1923> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "40472"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1923> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "97534"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1923> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "39231"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1923> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "89308"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1923> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "137509"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1923> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "155599"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1923> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "88715"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1923> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "83122"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1923> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "57327"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1923> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "97403"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1923> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "68303"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1923> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "33717"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1923> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "36064"^^xsd:int ;
+	lw:censusYear "1923-3-7" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1934> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "39963"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1934> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "135655"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1934> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "145963"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1934> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "53063"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1934> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "87767"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1934> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "49785"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1934> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "58571"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1934> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "44321"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1934> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "83407"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1934> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "166486"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1934> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "44258"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1934> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "109538"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1934> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "44157"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1934> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "98123"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1934> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "130448"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1934> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "150379"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1934> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "84493"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1934> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "79775"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1934> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "60927"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1934> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "98021"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1934> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "89848"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1934> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "41194"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1934> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "39739"^^xsd:int ;
+	lw:censusYear "1934-3-22" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1939> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "33027"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1939> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "120201"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1939> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "128908"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1939> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "47610"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1939> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "79349"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1939> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "44866"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1939> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "51441"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1939> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "40120"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1939> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "72109"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1939> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "144296"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1939> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "50694"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1939> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "99305"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1939> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "45813"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1939> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "93425"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1939> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "115863"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1939> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "133855"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1939> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "74853"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1939> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "71902"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1939> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "58492"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1939> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "86146"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1939> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "82733"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1939> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "56805"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1939> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "39125"^^xsd:int ;
+	lw:censusYear "1939-5-17" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1951> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "34654"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1951> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "106809"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1951> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "117948"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1951> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "45132"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1951> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "71627"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1951> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "46372"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1951> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "53183"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1951> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "40475"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1951> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "74731"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1951> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "115324"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1951> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "43317"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1951> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "83743"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1951> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "46995"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1951> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "83319"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1951> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "106127"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1951> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "117962"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1951> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "69423"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1951> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "70153"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1951> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "57727"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1951> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "72855"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1951> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "68204"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1951> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "53098"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1951> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "36947"^^xsd:int ;
+	lw:censusYear "1951-6-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1961> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "32243"^^xsd:int ;
+	lw:menPopulation "14026"^^xsd:int ;
+	lw:womanPopulation "18217"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1961> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "108144"^^xsd:int ;
+	lw:menPopulation "48622"^^xsd:int ;
+	lw:womanPopulation "59522"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1961> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "114795"^^xsd:int ;
+	lw:menPopulation "48948"^^xsd:int ;
+	lw:womanPopulation "65847"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1961> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "46441"^^xsd:int ;
+	lw:menPopulation "19808"^^xsd:int ;
+	lw:womanPopulation "26633"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1961> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "69548"^^xsd:int ;
+	lw:menPopulation "29428"^^xsd:int ;
+	lw:womanPopulation "40120"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1961> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "41216"^^xsd:int ;
+	lw:menPopulation "17425"^^xsd:int ;
+	lw:womanPopulation "23791"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1961> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "45544"^^xsd:int ;
+	lw:menPopulation "19058"^^xsd:int ;
+	lw:womanPopulation "26486"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1961> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "36027"^^xsd:int ;
+	lw:menPopulation "15344"^^xsd:int ;
+	lw:womanPopulation "20683"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1961> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "64929"^^xsd:int ;
+	lw:menPopulation "27482"^^xsd:int ;
+	lw:womanPopulation "37447"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1961> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "134761"^^xsd:int ;
+	lw:menPopulation "60250"^^xsd:int ;
+	lw:womanPopulation "74511"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1961> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "48367"^^xsd:int ;
+	lw:menPopulation "22031"^^xsd:int ;
+	lw:womanPopulation "26336"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1961> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "89854"^^xsd:int ;
+	lw:menPopulation "38962"^^xsd:int ;
+	lw:womanPopulation "50892"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1961> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "54191"^^xsd:int ;
+	lw:menPopulation "22891"^^xsd:int ;
+	lw:womanPopulation "31300"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1961> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "86656"^^xsd:int ;
+	lw:menPopulation "37624"^^xsd:int ;
+	lw:womanPopulation "49032"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1961> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "94100"^^xsd:int ;
+	lw:menPopulation "39457"^^xsd:int ;
+	lw:womanPopulation "54643"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1961> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "110809"^^xsd:int ;
+	lw:menPopulation "47297"^^xsd:int ;
+	lw:womanPopulation "63512"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1961> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "63252"^^xsd:int ;
+	lw:menPopulation "27273"^^xsd:int ;
+	lw:womanPopulation "35979"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1961> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "65109"^^xsd:int ;
+	lw:menPopulation "26926"^^xsd:int ;
+	lw:womanPopulation "38183"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1961> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "66171"^^xsd:int ;
+	lw:menPopulation "28750"^^xsd:int ;
+	lw:womanPopulation "37421"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1961> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "75671"^^xsd:int ;
+	lw:menPopulation "33913"^^xsd:int ;
+	lw:womanPopulation "41758"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1961> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "80708"^^xsd:int ;
+	lw:menPopulation "36850"^^xsd:int ;
+	lw:womanPopulation "43858"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1961> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "57268"^^xsd:int ;
+	lw:menPopulation "26703"^^xsd:int ;
+	lw:womanPopulation "30565"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1961> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "41762"^^xsd:int ;
+	lw:menPopulation "18695"^^xsd:int ;
+	lw:womanPopulation "23067"^^xsd:int ;
+	lw:censusYear "1961-3-21" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1971> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "25169"^^xsd:int ;
+	lw:menPopulation "10926"^^xsd:int ;
+	lw:womanPopulation "14243"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1971> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "102730"^^xsd:int ;
+	lw:menPopulation "46180"^^xsd:int ;
+	lw:womanPopulation "56550"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1971> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "102025"^^xsd:int ;
+	lw:menPopulation "43942"^^xsd:int ;
+	lw:womanPopulation "58065"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1971> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "39619"^^xsd:int ;
+	lw:menPopulation "17034"^^xsd:int ;
+	lw:womanPopulation "22585"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1971> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "60529"^^xsd:int ;
+	lw:menPopulation "25969"^^xsd:int ;
+	lw:womanPopulation "34560"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1971> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "33633"^^xsd:int ;
+	lw:menPopulation "14284"^^xsd:int ;
+	lw:womanPopulation "19349"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1971> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "36255"^^xsd:int ;
+	lw:menPopulation "15345"^^xsd:int ;
+	lw:womanPopulation "20910"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1971> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "30151"^^xsd:int ;
+	lw:menPopulation "13042"^^xsd:int ;
+	lw:womanPopulation "17109"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1971> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "54788"^^xsd:int ;
+	lw:menPopulation "23416"^^xsd:int ;
+	lw:womanPopulation "31372"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1971> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "153695"^^xsd:int ;
+	lw:menPopulation "70011"^^xsd:int ;
+	lw:womanPopulation "83684"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1971> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "57738"^^xsd:int ;
+	lw:menPopulation "26752"^^xsd:int ;
+	lw:womanPopulation "31004"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1971> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "85500"^^xsd:int ;
+	lw:menPopulation "37389"^^xsd:int ;
+	lw:womanPopulation "48105"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1971> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "57068"^^xsd:int ;
+	lw:menPopulation "24176"^^xsd:int ;
+	lw:womanPopulation "32892"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1971> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "81310"^^xsd:int ;
+	lw:menPopulation "35582"^^xsd:int ;
+	lw:womanPopulation "45728"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1971> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "78981"^^xsd:int ;
+	lw:menPopulation "33380"^^xsd:int ;
+	lw:womanPopulation "45601"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1971> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "101017"^^xsd:int ;
+	lw:menPopulation "43438"^^xsd:int ;
+	lw:womanPopulation "57579"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1971> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "55282"^^xsd:int ;
+	lw:menPopulation "24021"^^xsd:int ;
+	lw:womanPopulation "31261"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1971> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "59487"^^xsd:int ;
+	lw:menPopulation "25059"^^xsd:int ;
+	lw:womanPopulation "34428"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1971> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "72387"^^xsd:int ;
+	lw:menPopulation "31854"^^xsd:int ;
+	lw:womanPopulation "40533"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1971> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "81647"^^xsd:int ;
+	lw:menPopulation "37066"^^xsd:int ;
+	lw:womanPopulation "44581"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1971> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "105510"^^xsd:int ;
+	lw:menPopulation "49254"^^xsd:int ;
+	lw:womanPopulation "56256"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1971> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "80200"^^xsd:int ;
+	lw:menPopulation "38074"^^xsd:int ;
+	lw:womanPopulation "42126"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1971> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "65164"^^xsd:int ;
+	lw:menPopulation "30707"^^xsd:int ;
+	lw:womanPopulation "34463"^^xsd:int ;
+	lw:censusYear "1971-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1981> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "19537"^^xsd:int ;
+	lw:menPopulation "8350"^^xsd:int ;
+	lw:womanPopulation "11187"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1981> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "95892"^^xsd:int ;
+	lw:menPopulation "43757"^^xsd:int ;
+	lw:womanPopulation "52135"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1981> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "85879"^^xsd:int ;
+	lw:menPopulation "37138"^^xsd:int ;
+	lw:womanPopulation "48741"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1981> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "31800"^^xsd:int ;
+	lw:menPopulation "13722"^^xsd:int ;
+	lw:womanPopulation "18078"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1981> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52436"^^xsd:int ;
+	lw:menPopulation "22852"^^xsd:int ;
+	lw:womanPopulation "29584"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1981> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "28771"^^xsd:int ;
+	lw:menPopulation "12430"^^xsd:int ;
+	lw:womanPopulation "16341"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1981> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "29490"^^xsd:int ;
+	lw:menPopulation "12661"^^xsd:int ;
+	lw:womanPopulation "16829"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1981> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "24769"^^xsd:int ;
+	lw:menPopulation "10686"^^xsd:int ;
+	lw:womanPopulation "14083"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1981> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "45314"^^xsd:int ;
+	lw:menPopulation "19380"^^xsd:int ;
+	lw:womanPopulation "25934"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1981> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "147101"^^xsd:int ;
+	lw:menPopulation "67104"^^xsd:int ;
+	lw:womanPopulation "79997"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1981> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "66034"^^xsd:int ;
+	lw:menPopulation "30964"^^xsd:int ;
+	lw:womanPopulation "35070"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1981> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "79404"^^xsd:int ;
+	lw:menPopulation "35032"^^xsd:int ;
+	lw:womanPopulation "44372"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1981> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "55331"^^xsd:int ;
+	lw:menPopulation "23437"^^xsd:int ;
+	lw:womanPopulation "31894"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1981> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "78992"^^xsd:int ;
+	lw:menPopulation "34684"^^xsd:int ;
+	lw:womanPopulation "44308"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1981> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "70066"^^xsd:int ;
+	lw:menPopulation "30687"^^xsd:int ;
+	lw:womanPopulation "39379"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1981> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "88591"^^xsd:int ;
+	lw:menPopulation "38857"^^xsd:int ;
+	lw:womanPopulation "49734"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1981> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "49126"^^xsd:int ;
+	lw:menPopulation "21562"^^xsd:int ;
+	lw:womanPopulation "27564"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1981> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "52759"^^xsd:int ;
+	lw:menPopulation "22489"^^xsd:int ;
+	lw:womanPopulation "30270"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1981> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67522"^^xsd:int ;
+	lw:menPopulation "29799"^^xsd:int ;
+	lw:womanPopulation "37723"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1981> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "73696"^^xsd:int ;
+	lw:menPopulation "33777"^^xsd:int ;
+	lw:womanPopulation "39919"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1981> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "116033"^^xsd:int ;
+	lw:menPopulation "54060"^^xsd:int ;
+	lw:womanPopulation "61973"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1981> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "99801"^^xsd:int ;
+	lw:menPopulation "47455"^^xsd:int ;
+	lw:womanPopulation "52346"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1981> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "73002"^^xsd:int ;
+	lw:menPopulation "34061"^^xsd:int ;
+	lw:womanPopulation "38941"^^xsd:int ;
+	lw:censusYear "1981-5-12" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_1991> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "18002"^^xsd:int ;
+	lw:menPopulation "8092"^^xsd:int ;
+	lw:womanPopulation "9910"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_1991> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "93542"^^xsd:int ;
+	lw:menPopulation "44835"^^xsd:int ;
+	lw:womanPopulation "48707"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_1991> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "84336"^^xsd:int ;
+	lw:menPopulation "38663"^^xsd:int ;
+	lw:womanPopulation "45673"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_1991> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "31410"^^xsd:int ;
+	lw:menPopulation "14052"^^xsd:int ;
+	lw:womanPopulation "17358"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_1991> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "51521"^^xsd:int ;
+	lw:menPopulation "23832"^^xsd:int ;
+	lw:womanPopulation "27689"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_1991> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "30298"^^xsd:int ;
+	lw:menPopulation "14036"^^xsd:int ;
+	lw:womanPopulation "16262"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_1991> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30396"^^xsd:int ;
+	lw:menPopulation "13735"^^xsd:int ;
+	lw:womanPopulation "16661"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_1991> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23850"^^xsd:int ;
+	lw:menPopulation "10969"^^xsd:int ;
+	lw:womanPopulation "12881"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_1991> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "40416"^^xsd:int ;
+	lw:menPopulation "17833"^^xsd:int ;
+	lw:womanPopulation "22583"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_1991> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "147636"^^xsd:int ;
+	lw:menPopulation "69534"^^xsd:int ;
+	lw:womanPopulation "78102"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_1991> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "67045"^^xsd:int ;
+	lw:menPopulation "32140"^^xsd:int ;
+	lw:womanPopulation "34905"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_1991> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "79610"^^xsd:int ;
+	lw:menPopulation "36704"^^xsd:int ;
+	lw:womanPopulation "42906"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_1991> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "54909"^^xsd:int ;
+	lw:menPopulation "23687"^^xsd:int ;
+	lw:womanPopulation "31222"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_1991> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "80820"^^xsd:int ;
+	lw:menPopulation "36929"^^xsd:int ;
+	lw:womanPopulation "43891"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_1991> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "69309"^^xsd:int ;
+	lw:menPopulation "32383"^^xsd:int ;
+	lw:womanPopulation "36926"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_1991> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "88933"^^xsd:int ;
+	lw:menPopulation "41407"^^xsd:int ;
+	lw:womanPopulation "47526"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_1991> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "50944"^^xsd:int ;
+	lw:menPopulation "23707"^^xsd:int ;
+	lw:womanPopulation "27237"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_1991> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "49761"^^xsd:int ;
+	lw:menPopulation "21929"^^xsd:int ;
+	lw:womanPopulation "27832"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_1991> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67377"^^xsd:int ;
+	lw:menPopulation "30046"^^xsd:int ;
+	lw:womanPopulation "37331"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_1991> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "71876"^^xsd:int ;
+	lw:menPopulation "34206"^^xsd:int ;
+	lw:womanPopulation "37670"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_1991> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "119415"^^xsd:int ;
+	lw:menPopulation "56422"^^xsd:int ;
+	lw:womanPopulation "62993"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_1991> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "106589"^^xsd:int ;
+	lw:menPopulation "50892"^^xsd:int ;
+	lw:womanPopulation "55697"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_1991> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "81853"^^xsd:int ;
+	lw:menPopulation "38492"^^xsd:int ;
+	lw:womanPopulation "43361"^^xsd:int ;
+	lw:censusYear "1991-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2001> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17056"^^xsd:int ;
+	lw:menPopulation "7970"^^xsd:int ;
+	lw:womanPopulation "9086"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2001> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "90914"^^xsd:int ;
+	lw:menPopulation "44267"^^xsd:int ;
+	lw:womanPopulation "46647"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2001> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "81281"^^xsd:int ;
+	lw:menPopulation "38113"^^xsd:int ;
+	lw:womanPopulation "43168"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2001> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "28354"^^xsd:int ;
+	lw:menPopulation "13018"^^xsd:int ;
+	lw:womanPopulation "15336"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2001> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "49111"^^xsd:int ;
+	lw:menPopulation "23394"^^xsd:int ;
+	lw:womanPopulation "25717"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2001> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "27867"^^xsd:int ;
+	lw:menPopulation "13121"^^xsd:int ;
+	lw:womanPopulation "14746"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2001> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "28292"^^xsd:int ;
+	lw:menPopulation "13245"^^xsd:int ;
+	lw:womanPopulation "15047"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2001> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "22572"^^xsd:int ;
+	lw:menPopulation "10689"^^xsd:int ;
+	lw:womanPopulation "11883"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2001> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "37816"^^xsd:int ;
+	lw:menPopulation "17595"^^xsd:int ;
+	lw:womanPopulation "20221"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2001> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "150636"^^xsd:int ;
+	lw:menPopulation "71858"^^xsd:int ;
+	lw:womanPopulation "78778"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2001> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "76899"^^xsd:int ;
+	lw:menPopulation "37137"^^xsd:int ;
+	lw:womanPopulation "39762"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2001> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "78268"^^xsd:int ;
+	lw:menPopulation "36657"^^xsd:int ;
+	lw:womanPopulation "41611"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2001> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "49574"^^xsd:int ;
+	lw:menPopulation "21952"^^xsd:int ;
+	lw:womanPopulation "27622"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2001> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "78169"^^xsd:int ;
+	lw:menPopulation "36181"^^xsd:int ;
+	lw:womanPopulation "41988"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2001> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "64895"^^xsd:int ;
+	lw:menPopulation "31279"^^xsd:int ;
+	lw:womanPopulation "33616"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2001> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "86129"^^xsd:int ;
+	lw:menPopulation "40942"^^xsd:int ;
+	lw:womanPopulation "45187"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2001> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "47610"^^xsd:int ;
+	lw:menPopulation "22451"^^xsd:int ;
+	lw:womanPopulation "25159"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2001> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "44992"^^xsd:int ;
+	lw:menPopulation "20385"^^xsd:int ;
+	lw:womanPopulation "24607"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2001> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "64030"^^xsd:int ;
+	lw:menPopulation "28678"^^xsd:int ;
+	lw:womanPopulation "35352"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2001> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "76268"^^xsd:int ;
+	lw:menPopulation "37074"^^xsd:int ;
+	lw:womanPopulation "39194"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2001> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "128228"^^xsd:int ;
+	lw:menPopulation "60661"^^xsd:int ;
+	lw:womanPopulation "67567"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2001> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "136444"^^xsd:int ;
+	lw:menPopulation "65159"^^xsd:int ;
+	lw:womanPopulation "71285"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2001> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "84718"^^xsd:int ;
+	lw:menPopulation "39518"^^xsd:int ;
+	lw:womanPopulation "45200"^^xsd:int ;
+	lw:censusYear "2001-5-15" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2002> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17630"^^xsd:int ;
+	lw:menPopulation "8316"^^xsd:int ;
+	lw:womanPopulation "9314"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2002> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "89016"^^xsd:int ;
+	lw:menPopulation "43170"^^xsd:int ;
+	lw:womanPopulation "45846"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2002> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "82227"^^xsd:int ;
+	lw:menPopulation "38743"^^xsd:int ;
+	lw:womanPopulation "43484"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2002> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "28975"^^xsd:int ;
+	lw:menPopulation "13378"^^xsd:int ;
+	lw:womanPopulation "15597"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2002> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "49785"^^xsd:int ;
+	lw:menPopulation "23821"^^xsd:int ;
+	lw:womanPopulation "25964"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2002> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "28525"^^xsd:int ;
+	lw:menPopulation "13551"^^xsd:int ;
+	lw:womanPopulation "14974"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2002> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "28912"^^xsd:int ;
+	lw:menPopulation "13698"^^xsd:int ;
+	lw:womanPopulation "15214"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2002> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "22219"^^xsd:int ;
+	lw:menPopulation "10390"^^xsd:int ;
+	lw:womanPopulation "11829"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2002> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "38290"^^xsd:int ;
+	lw:menPopulation "17913"^^xsd:int ;
+	lw:womanPopulation "20377"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2002> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "152796"^^xsd:int ;
+	lw:menPopulation "73103"^^xsd:int ;
+	lw:womanPopulation "79693"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2002> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "78785"^^xsd:int ;
+	lw:menPopulation "38151"^^xsd:int ;
+	lw:womanPopulation "40634"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2002> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "78971"^^xsd:int ;
+	lw:menPopulation "37114"^^xsd:int ;
+	lw:womanPopulation "41857"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2002> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50341"^^xsd:int ;
+	lw:menPopulation "22388"^^xsd:int ;
+	lw:womanPopulation "27953"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2002> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "79142"^^xsd:int ;
+	lw:menPopulation "36766"^^xsd:int ;
+	lw:womanPopulation "42376"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2002> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "67482"^^xsd:int ;
+	lw:menPopulation "33026"^^xsd:int ;
+	lw:womanPopulation "34456"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2002> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "87914"^^xsd:int ;
+	lw:menPopulation "42080"^^xsd:int ;
+	lw:womanPopulation "45834"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2002> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "48827"^^xsd:int ;
+	lw:menPopulation "23166"^^xsd:int ;
+	lw:womanPopulation "25661"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2002> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "45505"^^xsd:int ;
+	lw:menPopulation "20732"^^xsd:int ;
+	lw:womanPopulation "24773"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2002> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "65327"^^xsd:int ;
+	lw:menPopulation "29329"^^xsd:int ;
+	lw:womanPopulation "35998"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2002> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "76837"^^xsd:int ;
+	lw:menPopulation "37437"^^xsd:int ;
+	lw:womanPopulation "39400"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2002> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "129726"^^xsd:int ;
+	lw:menPopulation "61444"^^xsd:int ;
+	lw:womanPopulation "68282"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2002> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "138100"^^xsd:int ;
+	lw:menPopulation "65973"^^xsd:int ;
+	lw:womanPopulation "72127"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2002> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "85791"^^xsd:int ;
+	lw:menPopulation "40048"^^xsd:int ;
+	lw:womanPopulation "45743"^^xsd:int ;
+	lw:censusYear "2002-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2003> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17541"^^xsd:int ;
+	lw:menPopulation "8270"^^xsd:int ;
+	lw:womanPopulation "9271"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2003> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "89954"^^xsd:int ;
+	lw:menPopulation "43717"^^xsd:int ;
+	lw:womanPopulation "46237"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2003> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "82297"^^xsd:int ;
+	lw:menPopulation "38896"^^xsd:int ;
+	lw:womanPopulation "43401"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2003> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "29348"^^xsd:int ;
+	lw:menPopulation "13622"^^xsd:int ;
+	lw:womanPopulation "15726"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2003> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "50367"^^xsd:int ;
+	lw:menPopulation "24169"^^xsd:int ;
+	lw:womanPopulation "26198"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2003> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "28805"^^xsd:int ;
+	lw:menPopulation "13763"^^xsd:int ;
+	lw:womanPopulation "15042"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2003> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "28968"^^xsd:int ;
+	lw:menPopulation "13738"^^xsd:int ;
+	lw:womanPopulation "15230"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2003> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23156"^^xsd:int ;
+	lw:menPopulation "11102"^^xsd:int ;
+	lw:womanPopulation "12054"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2003> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "38304"^^xsd:int ;
+	lw:menPopulation "17974"^^xsd:int ;
+	lw:womanPopulation "20330"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2003> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "156349"^^xsd:int ;
+	lw:menPopulation "75247"^^xsd:int ;
+	lw:womanPopulation "81102"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2003> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "80485"^^xsd:int ;
+	lw:menPopulation "38941"^^xsd:int ;
+	lw:womanPopulation "41544"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2003> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "80270"^^xsd:int ;
+	lw:menPopulation "37863"^^xsd:int ;
+	lw:womanPopulation "42407"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2003> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50797"^^xsd:int ;
+	lw:menPopulation "22706"^^xsd:int ;
+	lw:womanPopulation "28091"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2003> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "80185"^^xsd:int ;
+	lw:menPopulation "37550"^^xsd:int ;
+	lw:womanPopulation "42635"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2003> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "67976"^^xsd:int ;
+	lw:menPopulation "33260"^^xsd:int ;
+	lw:womanPopulation "34716"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2003> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "89153"^^xsd:int ;
+	lw:menPopulation "42785"^^xsd:int ;
+	lw:womanPopulation "46368"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2003> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "49428"^^xsd:int ;
+	lw:menPopulation "23555"^^xsd:int ;
+	lw:womanPopulation "25873"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2003> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "45872"^^xsd:int ;
+	lw:menPopulation "20961"^^xsd:int ;
+	lw:womanPopulation "24911"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2003> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "66017"^^xsd:int ;
+	lw:menPopulation "29593"^^xsd:int ;
+	lw:womanPopulation "36424"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2003> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "78792"^^xsd:int ;
+	lw:menPopulation "38595"^^xsd:int ;
+	lw:womanPopulation "40197"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2003> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "131892"^^xsd:int ;
+	lw:menPopulation "62583"^^xsd:int ;
+	lw:womanPopulation "69309"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2003> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "140404"^^xsd:int ;
+	lw:menPopulation "67124"^^xsd:int ;
+	lw:womanPopulation "73280"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2003> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "86486"^^xsd:int ;
+	lw:menPopulation "40401"^^xsd:int ;
+	lw:womanPopulation "46085"^^xsd:int ;
+	lw:censusYear "2003-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2004> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17384"^^xsd:int ;
+	lw:menPopulation "8241"^^xsd:int ;
+	lw:womanPopulation "9143"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2004> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "90837"^^xsd:int ;
+	lw:menPopulation "44158"^^xsd:int ;
+	lw:womanPopulation "46679"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2004> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "83019"^^xsd:int ;
+	lw:menPopulation "39327"^^xsd:int ;
+	lw:womanPopulation "43692"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2004> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "29394"^^xsd:int ;
+	lw:menPopulation "13630"^^xsd:int ;
+	lw:womanPopulation "15764"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2004> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "51098"^^xsd:int ;
+	lw:menPopulation "24664"^^xsd:int ;
+	lw:womanPopulation "26434"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2004> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "28891"^^xsd:int ;
+	lw:menPopulation "13783"^^xsd:int ;
+	lw:womanPopulation "15108"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2004> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "29012"^^xsd:int ;
+	lw:menPopulation "13771"^^xsd:int ;
+	lw:womanPopulation "15241"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2004> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23309"^^xsd:int ;
+	lw:menPopulation "11204"^^xsd:int ;
+	lw:womanPopulation "12105"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2004> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "38865"^^xsd:int ;
+	lw:menPopulation "18364"^^xsd:int ;
+	lw:womanPopulation "20501"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2004> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "159105"^^xsd:int ;
+	lw:menPopulation "76489"^^xsd:int ;
+	lw:womanPopulation "82616"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2004> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "81369"^^xsd:int ;
+	lw:menPopulation "39484"^^xsd:int ;
+	lw:womanPopulation "41885"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2004> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "82178"^^xsd:int ;
+	lw:menPopulation "38962"^^xsd:int ;
+	lw:womanPopulation "43216"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2004> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50896"^^xsd:int ;
+	lw:menPopulation "22736"^^xsd:int ;
+	lw:womanPopulation "28160"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2004> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "80505"^^xsd:int ;
+	lw:menPopulation "37650"^^xsd:int ;
+	lw:womanPopulation "42855"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2004> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "68760"^^xsd:int ;
+	lw:menPopulation "33730"^^xsd:int ;
+	lw:womanPopulation "35030"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2004> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "89822"^^xsd:int ;
+	lw:menPopulation "43167"^^xsd:int ;
+	lw:womanPopulation "46655"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2004> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "50278"^^xsd:int ;
+	lw:menPopulation "23976"^^xsd:int ;
+	lw:womanPopulation "26302"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2004> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "46309"^^xsd:int ;
+	lw:menPopulation "21286"^^xsd:int ;
+	lw:womanPopulation "25023"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2004> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "66437"^^xsd:int ;
+	lw:menPopulation "29828"^^xsd:int ;
+	lw:womanPopulation "36609"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2004> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "79441"^^xsd:int ;
+	lw:menPopulation "38816"^^xsd:int ;
+	lw:womanPopulation "40625"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2004> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "133801"^^xsd:int ;
+	lw:menPopulation "63746"^^xsd:int ;
+	lw:womanPopulation "70055"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2004> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "142620"^^xsd:int ;
+	lw:menPopulation "68197"^^xsd:int ;
+	lw:womanPopulation "74423"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2004> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "87080"^^xsd:int ;
+	lw:menPopulation "40706"^^xsd:int ;
+	lw:womanPopulation "46374"^^xsd:int ;
+	lw:censusYear "2004-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2005> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17294"^^xsd:int ;
+	lw:menPopulation "8197"^^xsd:int ;
+	lw:womanPopulation "9097"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2005> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "91364"^^xsd:int ;
+	lw:menPopulation "44498"^^xsd:int ;
+	lw:womanPopulation "46866"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2005> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "83827"^^xsd:int ;
+	lw:menPopulation "39843"^^xsd:int ;
+	lw:womanPopulation "43984"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2005> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "29573"^^xsd:int ;
+	lw:menPopulation "13782"^^xsd:int ;
+	lw:womanPopulation "15791"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2005> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "51882"^^xsd:int ;
+	lw:menPopulation "25144"^^xsd:int ;
+	lw:womanPopulation "26738"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2005> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29012"^^xsd:int ;
+	lw:menPopulation "13879"^^xsd:int ;
+	lw:womanPopulation "15133"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2005> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "29161"^^xsd:int ;
+	lw:menPopulation "13894"^^xsd:int ;
+	lw:womanPopulation "15267"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2005> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23588"^^xsd:int ;
+	lw:menPopulation "11347"^^xsd:int ;
+	lw:womanPopulation "12241"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2005> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39472"^^xsd:int ;
+	lw:menPopulation "18778"^^xsd:int ;
+	lw:womanPopulation "20694"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2005> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "163695"^^xsd:int ;
+	lw:menPopulation "78896"^^xsd:int ;
+	lw:womanPopulation "84799"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2005> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "82429"^^xsd:int ;
+	lw:menPopulation "40024"^^xsd:int ;
+	lw:womanPopulation "42405"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2005> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "83372"^^xsd:int ;
+	lw:menPopulation "39675"^^xsd:int ;
+	lw:womanPopulation "43697"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2005> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "51316"^^xsd:int ;
+	lw:menPopulation "22943"^^xsd:int ;
+	lw:womanPopulation "28373"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2005> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "81785"^^xsd:int ;
+	lw:menPopulation "38299"^^xsd:int ;
+	lw:womanPopulation "43486"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2005> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "69467"^^xsd:int ;
+	lw:menPopulation "34114"^^xsd:int ;
+	lw:womanPopulation "35353"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2005> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "91997"^^xsd:int ;
+	lw:menPopulation "44514"^^xsd:int ;
+	lw:womanPopulation "47483"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2005> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "51316"^^xsd:int ;
+	lw:menPopulation "24711"^^xsd:int ;
+	lw:womanPopulation "26605"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2005> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "46921"^^xsd:int ;
+	lw:menPopulation "21618"^^xsd:int ;
+	lw:womanPopulation "25303"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2005> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "66900"^^xsd:int ;
+	lw:menPopulation "30079"^^xsd:int ;
+	lw:womanPopulation "36821"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2005> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "80758"^^xsd:int ;
+	lw:menPopulation "39554"^^xsd:int ;
+	lw:womanPopulation "41204"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2005> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "134904"^^xsd:int ;
+	lw:menPopulation "64256"^^xsd:int ;
+	lw:womanPopulation "70648"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2005> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "144820"^^xsd:int ;
+	lw:menPopulation "69300"^^xsd:int ;
+	lw:womanPopulation "75520"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2005> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "87716"^^xsd:int ;
+	lw:menPopulation "40981"^^xsd:int ;
+	lw:womanPopulation "46735"^^xsd:int ;
+	lw:censusYear "2005-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2006> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17285"^^xsd:int ;
+	lw:menPopulation "8250"^^xsd:int ;
+	lw:womanPopulation "9035"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2006> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "92170"^^xsd:int ;
+	lw:menPopulation "44965"^^xsd:int ;
+	lw:womanPopulation "47205"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2006> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "84208"^^xsd:int ;
+	lw:menPopulation "40129"^^xsd:int ;
+	lw:womanPopulation "44079"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2006> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30126"^^xsd:int ;
+	lw:menPopulation "14097"^^xsd:int ;
+	lw:womanPopulation "16029"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2006> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52534"^^xsd:int ;
+	lw:menPopulation "25523"^^xsd:int ;
+	lw:womanPopulation "27011"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2006> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29369"^^xsd:int ;
+	lw:menPopulation "14084"^^xsd:int ;
+	lw:womanPopulation "15285"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2006> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30416"^^xsd:int ;
+	lw:menPopulation "14798"^^xsd:int ;
+	lw:womanPopulation "15618"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2006> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23597"^^xsd:int ;
+	lw:menPopulation "11347"^^xsd:int ;
+	lw:womanPopulation "12250"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2006> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39264"^^xsd:int ;
+	lw:menPopulation "18656"^^xsd:int ;
+	lw:womanPopulation "20608"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2006> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "167238"^^xsd:int ;
+	lw:menPopulation "80801"^^xsd:int ;
+	lw:womanPopulation "86437"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2006> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "82722"^^xsd:int ;
+	lw:menPopulation "40126"^^xsd:int ;
+	lw:womanPopulation "42596"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2006> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "84240"^^xsd:int ;
+	lw:menPopulation "40203"^^xsd:int ;
+	lw:womanPopulation "44037"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2006> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "51356"^^xsd:int ;
+	lw:menPopulation "23027"^^xsd:int ;
+	lw:womanPopulation "28329"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2006> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "82829"^^xsd:int ;
+	lw:menPopulation "38767"^^xsd:int ;
+	lw:womanPopulation "44062"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2006> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "70235"^^xsd:int ;
+	lw:menPopulation "34527"^^xsd:int ;
+	lw:womanPopulation "35708"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2006> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "93817"^^xsd:int ;
+	lw:menPopulation "45403"^^xsd:int ;
+	lw:womanPopulation "48414"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2006> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52480"^^xsd:int ;
+	lw:menPopulation "25329"^^xsd:int ;
+	lw:womanPopulation "27151"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2006> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47291"^^xsd:int ;
+	lw:menPopulation "21867"^^xsd:int ;
+	lw:womanPopulation "25424"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2006> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67389"^^xsd:int ;
+	lw:menPopulation "30411"^^xsd:int ;
+	lw:womanPopulation "36978"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2006> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "81288"^^xsd:int ;
+	lw:menPopulation "39818"^^xsd:int ;
+	lw:womanPopulation "41470"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2006> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "136625"^^xsd:int ;
+	lw:menPopulation "65110"^^xsd:int ;
+	lw:womanPopulation "71515"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2006> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "146892"^^xsd:int ;
+	lw:menPopulation "70336"^^xsd:int ;
+	lw:womanPopulation "76556"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2006> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "89078"^^xsd:int ;
+	lw:menPopulation "41554"^^xsd:int ;
+	lw:womanPopulation "47524"^^xsd:int ;
+	lw:censusYear "2006-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2007> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "17147"^^xsd:int ;
+	lw:menPopulation "8200"^^xsd:int ;
+	lw:womanPopulation "8947"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2007> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "93313"^^xsd:int ;
+	lw:menPopulation "45813"^^xsd:int ;
+	lw:womanPopulation "47500"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2007> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "83919"^^xsd:int ;
+	lw:menPopulation "39827"^^xsd:int ;
+	lw:womanPopulation "44092"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2007> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30189"^^xsd:int ;
+	lw:menPopulation "14088"^^xsd:int ;
+	lw:womanPopulation "16101"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2007> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52286"^^xsd:int ;
+	lw:menPopulation "25440"^^xsd:int ;
+	lw:womanPopulation "26846"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2007> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29463"^^xsd:int ;
+	lw:menPopulation "14135"^^xsd:int ;
+	lw:womanPopulation "15328"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2007> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "29955"^^xsd:int ;
+	lw:menPopulation "14232"^^xsd:int ;
+	lw:womanPopulation "15723"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2007> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23613"^^xsd:int ;
+	lw:menPopulation "11390"^^xsd:int ;
+	lw:womanPopulation "12223"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2007> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39160"^^xsd:int ;
+	lw:menPopulation "18589"^^xsd:int ;
+	lw:womanPopulation "20571"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2007> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "169413"^^xsd:int ;
+	lw:menPopulation "81852"^^xsd:int ;
+	lw:womanPopulation "87561"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2007> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "82903"^^xsd:int ;
+	lw:menPopulation "40286"^^xsd:int ;
+	lw:womanPopulation "42617"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2007> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "85011"^^xsd:int ;
+	lw:menPopulation "40668"^^xsd:int ;
+	lw:womanPopulation "44343"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2007> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "51304"^^xsd:int ;
+	lw:menPopulation "22949"^^xsd:int ;
+	lw:womanPopulation "28355"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2007> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "83246"^^xsd:int ;
+	lw:menPopulation "39064"^^xsd:int ;
+	lw:womanPopulation "44182"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2007> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "70228"^^xsd:int ;
+	lw:menPopulation "34551"^^xsd:int ;
+	lw:womanPopulation "35677"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2007> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "93877"^^xsd:int ;
+	lw:menPopulation "45340"^^xsd:int ;
+	lw:womanPopulation "48537"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2007> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52626"^^xsd:int ;
+	lw:menPopulation "25416"^^xsd:int ;
+	lw:womanPopulation "27210"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2007> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47333"^^xsd:int ;
+	lw:menPopulation "21905"^^xsd:int ;
+	lw:womanPopulation "25428"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2007> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67832"^^xsd:int ;
+	lw:menPopulation "30675"^^xsd:int ;
+	lw:womanPopulation "37157"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2007> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "81719"^^xsd:int ;
+	lw:menPopulation "39960"^^xsd:int ;
+	lw:womanPopulation "41759"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2007> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "137335"^^xsd:int ;
+	lw:menPopulation "65585"^^xsd:int ;
+	lw:womanPopulation "71750"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2007> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "149083"^^xsd:int ;
+	lw:menPopulation "71284"^^xsd:int ;
+	lw:womanPopulation "77799"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2007> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "90291"^^xsd:int ;
+	lw:menPopulation "42150"^^xsd:int ;
+	lw:womanPopulation "48141"^^xsd:int ;
+	lw:censusYear "2007-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2008> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16976"^^xsd:int ;
+	lw:menPopulation "8133"^^xsd:int ;
+	lw:womanPopulation "8843"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2008> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "93463"^^xsd:int ;
+	lw:menPopulation "45974"^^xsd:int ;
+	lw:womanPopulation "47489"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2008> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "83050"^^xsd:int ;
+	lw:menPopulation "39291"^^xsd:int ;
+	lw:womanPopulation "43759"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2008> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30262"^^xsd:int ;
+	lw:menPopulation "14154"^^xsd:int ;
+	lw:womanPopulation "16108"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2008> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52434"^^xsd:int ;
+	lw:menPopulation "25409"^^xsd:int ;
+	lw:womanPopulation "27025"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2008> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29430"^^xsd:int ;
+	lw:menPopulation "14118"^^xsd:int ;
+	lw:womanPopulation "15312"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2008> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30054"^^xsd:int ;
+	lw:menPopulation "14176"^^xsd:int ;
+	lw:womanPopulation "15878"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2008> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23703"^^xsd:int ;
+	lw:menPopulation "11409"^^xsd:int ;
+	lw:womanPopulation "12294"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2008> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39466"^^xsd:int ;
+	lw:menPopulation "18674"^^xsd:int ;
+	lw:womanPopulation "20792"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2008> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "171113"^^xsd:int ;
+	lw:menPopulation "82621"^^xsd:int ;
+	lw:womanPopulation "88492"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2008> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "85834"^^xsd:int ;
+	lw:menPopulation "41785"^^xsd:int ;
+	lw:womanPopulation "44049"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2008> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "85736"^^xsd:int ;
+	lw:menPopulation "41045"^^xsd:int ;
+	lw:womanPopulation "44691"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2008> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "51127"^^xsd:int ;
+	lw:menPopulation "22911"^^xsd:int ;
+	lw:womanPopulation "28216"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2008> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "83751"^^xsd:int ;
+	lw:menPopulation "39417"^^xsd:int ;
+	lw:womanPopulation "44334"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2008> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "70291"^^xsd:int ;
+	lw:menPopulation "34659"^^xsd:int ;
+	lw:womanPopulation "35632"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2008> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "94193"^^xsd:int ;
+	lw:menPopulation "45554"^^xsd:int ;
+	lw:womanPopulation "48639"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2008> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52414"^^xsd:int ;
+	lw:menPopulation "25281"^^xsd:int ;
+	lw:womanPopulation "27133"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2008> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47478"^^xsd:int ;
+	lw:menPopulation "21982"^^xsd:int ;
+	lw:womanPopulation "25496"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2008> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67961"^^xsd:int ;
+	lw:menPopulation "30763"^^xsd:int ;
+	lw:womanPopulation "37198"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2008> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "81648"^^xsd:int ;
+	lw:menPopulation "39861"^^xsd:int ;
+	lw:womanPopulation "41787"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2008> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "138678"^^xsd:int ;
+	lw:menPopulation "66249"^^xsd:int ;
+	lw:womanPopulation "72429"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2008> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "150967"^^xsd:int ;
+	lw:menPopulation "72197"^^xsd:int ;
+	lw:womanPopulation "78770"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2008> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "91192"^^xsd:int ;
+	lw:menPopulation "42640"^^xsd:int ;
+	lw:womanPopulation "48552"^^xsd:int ;
+	lw:censusYear "2008-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2009> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16623"^^xsd:int ;
+	lw:menPopulation "8000"^^xsd:int ;
+	lw:womanPopulation "8623"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2009> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "93822"^^xsd:int ;
+	lw:menPopulation "46206"^^xsd:int ;
+	lw:womanPopulation "47616"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2009> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "82979"^^xsd:int ;
+	lw:menPopulation "39171"^^xsd:int ;
+	lw:womanPopulation "43808"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2009> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30348"^^xsd:int ;
+	lw:menPopulation "14259"^^xsd:int ;
+	lw:womanPopulation "16089"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2009> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52288"^^xsd:int ;
+	lw:menPopulation "25376"^^xsd:int ;
+	lw:womanPopulation "26912"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2009> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29197"^^xsd:int ;
+	lw:menPopulation "13997"^^xsd:int ;
+	lw:womanPopulation "15200"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2009> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "29878"^^xsd:int ;
+	lw:menPopulation "14067"^^xsd:int ;
+	lw:womanPopulation "15811"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2009> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23639"^^xsd:int ;
+	lw:menPopulation "11368"^^xsd:int ;
+	lw:womanPopulation "12271"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2009> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39167"^^xsd:int ;
+	lw:menPopulation "18522"^^xsd:int ;
+	lw:womanPopulation "20645"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2009> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "173227"^^xsd:int ;
+	lw:menPopulation "83691"^^xsd:int ;
+	lw:womanPopulation "89536"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2009> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "87966"^^xsd:int ;
+	lw:menPopulation "42890"^^xsd:int ;
+	lw:womanPopulation "45076"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2009> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "86950"^^xsd:int ;
+	lw:menPopulation "41636"^^xsd:int ;
+	lw:womanPopulation "45314"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2009> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50981"^^xsd:int ;
+	lw:menPopulation "22955"^^xsd:int ;
+	lw:womanPopulation "28026"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2009> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "83980"^^xsd:int ;
+	lw:menPopulation "39571"^^xsd:int ;
+	lw:womanPopulation "44409"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2009> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "70600"^^xsd:int ;
+	lw:menPopulation "34739"^^xsd:int ;
+	lw:womanPopulation "35861"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2009> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "94526"^^xsd:int ;
+	lw:menPopulation "45774"^^xsd:int ;
+	lw:womanPopulation "48752"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2009> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52253"^^xsd:int ;
+	lw:menPopulation "25258"^^xsd:int ;
+	lw:womanPopulation "26995"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2009> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47619"^^xsd:int ;
+	lw:menPopulation "22093"^^xsd:int ;
+	lw:womanPopulation "25526"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2009> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67837"^^xsd:int ;
+	lw:menPopulation "30814"^^xsd:int ;
+	lw:womanPopulation "37023"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2009> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "81986"^^xsd:int ;
+	lw:menPopulation "40051"^^xsd:int ;
+	lw:womanPopulation "41935"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2009> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "139498"^^xsd:int ;
+	lw:menPopulation "66687"^^xsd:int ;
+	lw:womanPopulation "72811"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2009> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "153148"^^xsd:int ;
+	lw:menPopulation "73333"^^xsd:int ;
+	lw:womanPopulation "79815"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2009> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "91623"^^xsd:int ;
+	lw:menPopulation "42879"^^xsd:int ;
+	lw:womanPopulation "48744"^^xsd:int ;
+	lw:censusYear "2009-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2010> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16525"^^xsd:int ;
+	lw:menPopulation "7926"^^xsd:int ;
+	lw:womanPopulation "8599"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2010> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "94735"^^xsd:int ;
+	lw:menPopulation "46633"^^xsd:int ;
+	lw:womanPopulation "48102"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2010> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "83061"^^xsd:int ;
+	lw:menPopulation "39292"^^xsd:int ;
+	lw:womanPopulation "43769"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2010> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30331"^^xsd:int ;
+	lw:menPopulation "14246"^^xsd:int ;
+	lw:womanPopulation "16085"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2010> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52354"^^xsd:int ;
+	lw:menPopulation "25394"^^xsd:int ;
+	lw:womanPopulation "26960"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2010> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29323"^^xsd:int ;
+	lw:menPopulation "14132"^^xsd:int ;
+	lw:womanPopulation "15191"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2010> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30069"^^xsd:int ;
+	lw:menPopulation "14234"^^xsd:int ;
+	lw:womanPopulation "15835"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2010> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23435"^^xsd:int ;
+	lw:menPopulation "11351"^^xsd:int ;
+	lw:womanPopulation "12084"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2010> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39344"^^xsd:int ;
+	lw:menPopulation "18663"^^xsd:int ;
+	lw:womanPopulation "20681"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2010> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "174749"^^xsd:int ;
+	lw:menPopulation "84463"^^xsd:int ;
+	lw:womanPopulation "90286"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2010> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "89461"^^xsd:int ;
+	lw:menPopulation "43592"^^xsd:int ;
+	lw:womanPopulation "45869"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2010> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "87462"^^xsd:int ;
+	lw:menPopulation "41895"^^xsd:int ;
+	lw:womanPopulation "45567"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2010> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "51015"^^xsd:int ;
+	lw:menPopulation "23051"^^xsd:int ;
+	lw:womanPopulation "27964"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2010> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "84090"^^xsd:int ;
+	lw:menPopulation "39734"^^xsd:int ;
+	lw:womanPopulation "44356"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2010> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "70830"^^xsd:int ;
+	lw:menPopulation "34871"^^xsd:int ;
+	lw:womanPopulation "35959"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2010> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "94816"^^xsd:int ;
+	lw:menPopulation "45980"^^xsd:int ;
+	lw:womanPopulation "48836"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2010> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52328"^^xsd:int ;
+	lw:menPopulation "25238"^^xsd:int ;
+	lw:womanPopulation "27090"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2010> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47693"^^xsd:int ;
+	lw:menPopulation "22056"^^xsd:int ;
+	lw:womanPopulation "25637"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2010> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "67865"^^xsd:int ;
+	lw:menPopulation "30953"^^xsd:int ;
+	lw:womanPopulation "36912"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2010> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "82083"^^xsd:int ;
+	lw:menPopulation "40092"^^xsd:int ;
+	lw:womanPopulation "41991"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2010> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "140647"^^xsd:int ;
+	lw:menPopulation "67201"^^xsd:int ;
+	lw:womanPopulation "73446"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2010> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "155527"^^xsd:int ;
+	lw:menPopulation "74455"^^xsd:int ;
+	lw:womanPopulation "81072"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2010> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "92252"^^xsd:int ;
+	lw:menPopulation "43229"^^xsd:int ;
+	lw:womanPopulation "49023"^^xsd:int ;
+	lw:censusYear "2010-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2011> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16385"^^xsd:int ;
+	lw:menPopulation "7835"^^xsd:int ;
+	lw:womanPopulation "8550"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2011> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "95302"^^xsd:int ;
+	lw:menPopulation "46797"^^xsd:int ;
+	lw:womanPopulation "48505"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2011> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "83955"^^xsd:int ;
+	lw:menPopulation "39765"^^xsd:int ;
+	lw:womanPopulation "44190"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2011> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30541"^^xsd:int ;
+	lw:menPopulation "14335"^^xsd:int ;
+	lw:womanPopulation "16206"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2011> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52753"^^xsd:int ;
+	lw:menPopulation "25774"^^xsd:int ;
+	lw:womanPopulation "26979"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2011> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29308"^^xsd:int ;
+	lw:menPopulation "14075"^^xsd:int ;
+	lw:womanPopulation "15233"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2011> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30062"^^xsd:int ;
+	lw:menPopulation "14175"^^xsd:int ;
+	lw:womanPopulation "15887"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2011> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23379"^^xsd:int ;
+	lw:menPopulation "11302"^^xsd:int ;
+	lw:womanPopulation "12077"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2011> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39315"^^xsd:int ;
+	lw:menPopulation "18642"^^xsd:int ;
+	lw:womanPopulation "20673"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2011> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "176558"^^xsd:int ;
+	lw:menPopulation "85504"^^xsd:int ;
+	lw:womanPopulation "91054"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2011> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "90394"^^xsd:int ;
+	lw:menPopulation "44071"^^xsd:int ;
+	lw:womanPopulation "46323"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2011> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "88023"^^xsd:int ;
+	lw:menPopulation "42163"^^xsd:int ;
+	lw:womanPopulation "45860"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2011> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50966"^^xsd:int ;
+	lw:menPopulation "23074"^^xsd:int ;
+	lw:womanPopulation "27892"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2011> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "84566"^^xsd:int ;
+	lw:menPopulation "40007"^^xsd:int ;
+	lw:womanPopulation "44559"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2011> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "71491"^^xsd:int ;
+	lw:menPopulation "35303"^^xsd:int ;
+	lw:womanPopulation "36188"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2011> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "94951"^^xsd:int ;
+	lw:menPopulation "46068"^^xsd:int ;
+	lw:womanPopulation "48883"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2011> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52293"^^xsd:int ;
+	lw:menPopulation "25255"^^xsd:int ;
+	lw:womanPopulation "27038"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2011> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47575"^^xsd:int ;
+	lw:menPopulation "21966"^^xsd:int ;
+	lw:womanPopulation "25609"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2011> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "68079"^^xsd:int ;
+	lw:menPopulation "31121"^^xsd:int ;
+	lw:womanPopulation "36958"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2011> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "82969"^^xsd:int ;
+	lw:menPopulation "40624"^^xsd:int ;
+	lw:womanPopulation "42345"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2011> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "142199"^^xsd:int ;
+	lw:menPopulation "67981"^^xsd:int ;
+	lw:womanPopulation "74218"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2011> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "158417"^^xsd:int ;
+	lw:menPopulation "75889"^^xsd:int ;
+	lw:womanPopulation "82528"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2011> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "93374"^^xsd:int ;
+	lw:menPopulation "43760"^^xsd:int ;
+	lw:womanPopulation "49614"^^xsd:int ;
+	lw:censusYear "2011-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2012> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16290"^^xsd:int ;
+	lw:menPopulation "7799"^^xsd:int ;
+	lw:womanPopulation "8491"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2012> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "96582"^^xsd:int ;
+	lw:menPopulation "47534"^^xsd:int ;
+	lw:womanPopulation "49048"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2012> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "84574"^^xsd:int ;
+	lw:menPopulation "40162"^^xsd:int ;
+	lw:womanPopulation "44412"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2012> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30724"^^xsd:int ;
+	lw:menPopulation "14464"^^xsd:int ;
+	lw:womanPopulation "16260"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2012> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "52581"^^xsd:int ;
+	lw:menPopulation "25684"^^xsd:int ;
+	lw:womanPopulation "26897"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2012> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "29388"^^xsd:int ;
+	lw:menPopulation "14091"^^xsd:int ;
+	lw:womanPopulation "15297"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2012> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30101"^^xsd:int ;
+	lw:menPopulation "14226"^^xsd:int ;
+	lw:womanPopulation "15875"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2012> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23560"^^xsd:int ;
+	lw:menPopulation "11387"^^xsd:int ;
+	lw:womanPopulation "12173"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2012> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39431"^^xsd:int ;
+	lw:menPopulation "18720"^^xsd:int ;
+	lw:womanPopulation "20711"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2012> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "178358"^^xsd:int ;
+	lw:menPopulation "86499"^^xsd:int ;
+	lw:womanPopulation "91859"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2012> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "91223"^^xsd:int ;
+	lw:menPopulation "44451"^^xsd:int ;
+	lw:womanPopulation "46772"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2012> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "88515"^^xsd:int ;
+	lw:menPopulation "42363"^^xsd:int ;
+	lw:womanPopulation "46152"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2012> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50650"^^xsd:int ;
+	lw:menPopulation "22978"^^xsd:int ;
+	lw:womanPopulation "27672"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2012> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "84973"^^xsd:int ;
+	lw:menPopulation "40304"^^xsd:int ;
+	lw:womanPopulation "44669"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2012> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "71651"^^xsd:int ;
+	lw:menPopulation "35429"^^xsd:int ;
+	lw:womanPopulation "36222"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2012> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "95704"^^xsd:int ;
+	lw:menPopulation "46623"^^xsd:int ;
+	lw:womanPopulation "49081"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2012> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "52647"^^xsd:int ;
+	lw:menPopulation "25414"^^xsd:int ;
+	lw:womanPopulation "27233"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2012> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "47632"^^xsd:int ;
+	lw:menPopulation "21930"^^xsd:int ;
+	lw:womanPopulation "25702"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2012> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "68460"^^xsd:int ;
+	lw:menPopulation "31405"^^xsd:int ;
+	lw:womanPopulation "37055"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2012> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "83351"^^xsd:int ;
+	lw:menPopulation "40802"^^xsd:int ;
+	lw:womanPopulation "42549"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2012> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "144263"^^xsd:int ;
+	lw:menPopulation "69099"^^xsd:int ;
+	lw:womanPopulation "75164"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2012> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "161957"^^xsd:int ;
+	lw:menPopulation "77612"^^xsd:int ;
+	lw:womanPopulation "84345"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2012> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "94469"^^xsd:int ;
+	lw:menPopulation "44357"^^xsd:int ;
+	lw:womanPopulation "50112"^^xsd:int ;
+	lw:censusYear "2012-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2013> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16268"^^xsd:int ;
+	lw:menPopulation "7784"^^xsd:int ;
+	lw:womanPopulation "8484"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2013> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "96866"^^xsd:int ;
+	lw:menPopulation "47189"^^xsd:int ;
+	lw:womanPopulation "49677"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2013> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "85508"^^xsd:int ;
+	lw:menPopulation "40482"^^xsd:int ;
+	lw:womanPopulation "45026"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2013> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "30989"^^xsd:int ;
+	lw:menPopulation "14584"^^xsd:int ;
+	lw:womanPopulation "16405"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2013> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "53071"^^xsd:int ;
+	lw:menPopulation "25989"^^xsd:int ;
+	lw:womanPopulation "27082"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2013> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "30117"^^xsd:int ;
+	lw:menPopulation "14534"^^xsd:int ;
+	lw:womanPopulation "15583"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2013> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30309"^^xsd:int ;
+	lw:menPopulation "14393"^^xsd:int ;
+	lw:womanPopulation "15916"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2013> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "23930"^^xsd:int ;
+	lw:menPopulation "11631"^^xsd:int ;
+	lw:womanPopulation "12299"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2013> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "39968"^^xsd:int ;
+	lw:menPopulation "19018"^^xsd:int ;
+	lw:womanPopulation "20950"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2013> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "182595"^^xsd:int ;
+	lw:menPopulation "89401"^^xsd:int ;
+	lw:womanPopulation "93194"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2013> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "92274"^^xsd:int ;
+	lw:menPopulation "44930"^^xsd:int ;
+	lw:womanPopulation "47344"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2013> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "89616"^^xsd:int ;
+	lw:menPopulation "42972"^^xsd:int ;
+	lw:womanPopulation "46644"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2013> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "50831"^^xsd:int ;
+	lw:menPopulation "23173"^^xsd:int ;
+	lw:womanPopulation "27658"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2013> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "86248"^^xsd:int ;
+	lw:menPopulation "41039"^^xsd:int ;
+	lw:womanPopulation "45209"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2013> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "73527"^^xsd:int ;
+	lw:menPopulation "36356"^^xsd:int ;
+	lw:womanPopulation "37171"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2013> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "97565"^^xsd:int ;
+	lw:menPopulation "47645"^^xsd:int ;
+	lw:womanPopulation "49920"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2013> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "53489"^^xsd:int ;
+	lw:menPopulation "25924"^^xsd:int ;
+	lw:womanPopulation "27565"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2013> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "48162"^^xsd:int ;
+	lw:menPopulation "22164"^^xsd:int ;
+	lw:womanPopulation "25998"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2013> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "68892"^^xsd:int ;
+	lw:menPopulation "31669"^^xsd:int ;
+	lw:womanPopulation "37223"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2013> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "83977"^^xsd:int ;
+	lw:menPopulation "41107"^^xsd:int ;
+	lw:womanPopulation "42870"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2013> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "146516"^^xsd:int ;
+	lw:menPopulation "70250"^^xsd:int ;
+	lw:womanPopulation "76266"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2013> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "165265"^^xsd:int ;
+	lw:menPopulation "79115"^^xsd:int ;
+	lw:womanPopulation "86150"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2013> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "95263"^^xsd:int ;
+	lw:menPopulation "44767"^^xsd:int ;
+	lw:womanPopulation "50496"^^xsd:int ;
+	lw:censusYear "2013-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2014> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16131"^^xsd:int ;
+	lw:menPopulation "7726"^^xsd:int ;
+	lw:womanPopulation "8405"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2014> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "99597"^^xsd:int ;
+	lw:menPopulation "48650"^^xsd:int ;
+	lw:womanPopulation "50947"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2014> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "86454"^^xsd:int ;
+	lw:menPopulation "41085"^^xsd:int ;
+	lw:womanPopulation "45369"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2014> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "31452"^^xsd:int ;
+	lw:menPopulation "14903"^^xsd:int ;
+	lw:womanPopulation "16549"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2014> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "53610"^^xsd:int ;
+	lw:menPopulation "26299"^^xsd:int ;
+	lw:womanPopulation "27311"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2014> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "30613"^^xsd:int ;
+	lw:menPopulation "14833"^^xsd:int ;
+	lw:womanPopulation "15780"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2014> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "30792"^^xsd:int ;
+	lw:menPopulation "14703"^^xsd:int ;
+	lw:womanPopulation "16089"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2014> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "24279"^^xsd:int ;
+	lw:menPopulation "11855"^^xsd:int ;
+	lw:womanPopulation "12424"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2014> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "40528"^^xsd:int ;
+	lw:menPopulation "19286"^^xsd:int ;
+	lw:womanPopulation "21242"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2014> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "186450"^^xsd:int ;
+	lw:menPopulation "91638"^^xsd:int ;
+	lw:womanPopulation "94812"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2014> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "93440"^^xsd:int ;
+	lw:menPopulation "45541"^^xsd:int ;
+	lw:womanPopulation "47899"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2014> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "90874"^^xsd:int ;
+	lw:menPopulation "43752"^^xsd:int ;
+	lw:womanPopulation "47122"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2014> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "51275"^^xsd:int ;
+	lw:menPopulation "23505"^^xsd:int ;
+	lw:womanPopulation "27770"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2014> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "87597"^^xsd:int ;
+	lw:menPopulation "41727"^^xsd:int ;
+	lw:womanPopulation "45870"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2014> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "74791"^^xsd:int ;
+	lw:menPopulation "37220"^^xsd:int ;
+	lw:womanPopulation "37571"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2014> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "99094"^^xsd:int ;
+	lw:menPopulation "48451"^^xsd:int ;
+	lw:womanPopulation "50643"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2014> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "54422"^^xsd:int ;
+	lw:menPopulation "26528"^^xsd:int ;
+	lw:womanPopulation "27894"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2014> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "48365"^^xsd:int ;
+	lw:menPopulation "22208"^^xsd:int ;
+	lw:womanPopulation "26157"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2014> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "69242"^^xsd:int ;
+	lw:menPopulation "31849"^^xsd:int ;
+	lw:womanPopulation "37393"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2014> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "84305"^^xsd:int ;
+	lw:menPopulation "41200"^^xsd:int ;
+	lw:womanPopulation "43105"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2014> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "148947"^^xsd:int ;
+	lw:menPopulation "71633"^^xsd:int ;
+	lw:womanPopulation "77314"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2014> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "168394"^^xsd:int ;
+	lw:menPopulation "80684"^^xsd:int ;
+	lw:womanPopulation "87710"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2014> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "96094"^^xsd:int ;
+	lw:menPopulation "45320"^^xsd:int ;
+	lw:womanPopulation "50774"^^xsd:int ;
+	lw:censusYear "2014-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1010_2015> a dbo:Thing ;
+	dbo:codeDistrict "1010" ;
+	lw:totalPopulation "16339"^^xsd:int ;
+	lw:menPopulation "7789"^^xsd:int ;
+	lw:womanPopulation "8550"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1020_2015> a dbo:Thing ;
+	dbo:codeDistrict "1020" ;
+	lw:totalPopulation "101702"^^xsd:int ;
+	lw:menPopulation "49928"^^xsd:int ;
+	lw:womanPopulation "51774"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1030_2015> a dbo:Thing ;
+	dbo:codeDistrict "1030" ;
+	lw:totalPopulation "88125"^^xsd:int ;
+	lw:menPopulation "42001"^^xsd:int ;
+	lw:womanPopulation "46124"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1040_2015> a dbo:Thing ;
+	dbo:codeDistrict "1040" ;
+	lw:totalPopulation "31691"^^xsd:int ;
+	lw:menPopulation "15076"^^xsd:int ;
+	lw:womanPopulation "16615"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1050_2015> a dbo:Thing ;
+	dbo:codeDistrict "1050" ;
+	lw:totalPopulation "54246"^^xsd:int ;
+	lw:menPopulation "26653"^^xsd:int ;
+	lw:womanPopulation "27593"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1060_2015> a dbo:Thing ;
+	dbo:codeDistrict "1060" ;
+	lw:totalPopulation "31000"^^xsd:int ;
+	lw:menPopulation "15061"^^xsd:int ;
+	lw:womanPopulation "15939"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1070_2015> a dbo:Thing ;
+	dbo:codeDistrict "1070" ;
+	lw:totalPopulation "31291"^^xsd:int ;
+	lw:menPopulation "14987"^^xsd:int ;
+	lw:womanPopulation "16304"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1080_2015> a dbo:Thing ;
+	dbo:codeDistrict "1080" ;
+	lw:totalPopulation "24518"^^xsd:int ;
+	lw:menPopulation "12066"^^xsd:int ;
+	lw:womanPopulation "12452"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1090_2015> a dbo:Thing ;
+	dbo:codeDistrict "1090" ;
+	lw:totalPopulation "40882"^^xsd:int ;
+	lw:menPopulation "19492"^^xsd:int ;
+	lw:womanPopulation "21390"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1100_2015> a dbo:Thing ;
+	dbo:codeDistrict "1100" ;
+	lw:totalPopulation "189713"^^xsd:int ;
+	lw:menPopulation "93274"^^xsd:int ;
+	lw:womanPopulation "96439"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1110_2015> a dbo:Thing ;
+	dbo:codeDistrict "1110" ;
+	lw:totalPopulation "95198"^^xsd:int ;
+	lw:menPopulation "46570"^^xsd:int ;
+	lw:womanPopulation "48628"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1120_2015> a dbo:Thing ;
+	dbo:codeDistrict "1120" ;
+	lw:totalPopulation "92229"^^xsd:int ;
+	lw:menPopulation "44580"^^xsd:int ;
+	lw:womanPopulation "47649"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1130_2015> a dbo:Thing ;
+	dbo:codeDistrict "1130" ;
+	lw:totalPopulation "52115"^^xsd:int ;
+	lw:menPopulation "23969"^^xsd:int ;
+	lw:womanPopulation "28146"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1140_2015> a dbo:Thing ;
+	dbo:codeDistrict "1140" ;
+	lw:totalPopulation "89303"^^xsd:int ;
+	lw:menPopulation "42745"^^xsd:int ;
+	lw:womanPopulation "46558"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1150_2015> a dbo:Thing ;
+	dbo:codeDistrict "1150" ;
+	lw:totalPopulation "76320"^^xsd:int ;
+	lw:menPopulation "38060"^^xsd:int ;
+	lw:womanPopulation "38260"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1160_2015> a dbo:Thing ;
+	dbo:codeDistrict "1160" ;
+	lw:totalPopulation "100738"^^xsd:int ;
+	lw:menPopulation "49544"^^xsd:int ;
+	lw:womanPopulation "51194"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1170_2015> a dbo:Thing ;
+	dbo:codeDistrict "1170" ;
+	lw:totalPopulation "55628"^^xsd:int ;
+	lw:menPopulation "27187"^^xsd:int ;
+	lw:womanPopulation "28441"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1180_2015> a dbo:Thing ;
+	dbo:codeDistrict "1180" ;
+	lw:totalPopulation "49178"^^xsd:int ;
+	lw:menPopulation "22697"^^xsd:int ;
+	lw:womanPopulation "26481"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1190_2015> a dbo:Thing ;
+	dbo:codeDistrict "1190" ;
+	lw:totalPopulation "69999"^^xsd:int ;
+	lw:menPopulation "32386"^^xsd:int ;
+	lw:womanPopulation "37613"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1200_2015> a dbo:Thing ;
+	dbo:codeDistrict "1200" ;
+	lw:totalPopulation "85525"^^xsd:int ;
+	lw:menPopulation "42012"^^xsd:int ;
+	lw:womanPopulation "43513"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1210_2015> a dbo:Thing ;
+	dbo:codeDistrict "1210" ;
+	lw:totalPopulation "151844"^^xsd:int ;
+	lw:menPopulation "73009"^^xsd:int ;
+	lw:womanPopulation "78835"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1220_2015> a dbo:Thing ;
+	dbo:codeDistrict "1220" ;
+	lw:totalPopulation "172978"^^xsd:int ;
+	lw:menPopulation "82782"^^xsd:int ;
+	lw:womanPopulation "90196"^^xsd:int ;
+	lw:censusYear "2015-1-1" .
+
+<http://linkedwidgets.org/ontology/resource/wien/population_1230_2015> a dbo:Thing ;
+	dbo:codeDistrict "1230" ;
+	lw:totalPopulation "96775"^^xsd:int ;
+	lw:menPopulation "45765"^^xsd:int ;
+	lw:womanPopulation "51010"^^xsd:int ;
+	lw:censusYear "2015-1-1" .

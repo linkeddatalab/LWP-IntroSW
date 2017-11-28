@@ -1,0 +1,2858 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874260> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874260" .
+
+_:node1bvvs2ketx1 a wgs:Point ;
+	wgs:lat "16.331305184209516" ;
+	wgs:long "48.2326048962418" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874260> wgs:location _:node1bvvs2ketx1 ;
+	rdfs:label "Botschaft des Großherzogtums Luxemburg"@de ;
+	dbo:address "18., Sternwartestraße 81" ;
+	rdfs:seeAlso "vienne.mae.lu/ge" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "vienne.amb@mae.etat.lu" ;
+	dbo:phone "(+43 / 1) 478 21 42" ;
+	lw:openingHour "Mo - Fr 09:00 - 12:00 und 14:00 - 17:00" ;
+	lw:countryName "Luxemburg"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874264> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874264" .
+
+_:node1bvvs2ketx2 a wgs:Point ;
+	wgs:lat "16.368577482326295" ;
+	wgs:long "48.20218039103535" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874264> wgs:location _:node1bvvs2ketx2 ;
+	rdfs:label "Botschaft der Republik Malta"@de ;
+	dbo:address "1., Opernring 5/1" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "maltaembassy.vienna@gov.mt" ;
+	dbo:phone "(+43 / 1) 586 50 10" ;
+	lw:openingHour "Mo - Fr  09.00 - 12.00 und 14.00 - 16.00" ;
+	lw:countryName "Malta"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874266> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874266" .
+
+_:node1bvvs2ketx3 a wgs:Point ;
+	wgs:lat "16.386074704817364" ;
+	wgs:long "48.19787617380357" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874266> wgs:location _:node1bvvs2ketx3 ;
+	rdfs:label "Botschaft des Souveränen Malteser Ritterordens"@de ;
+	dbo:address "3., Streichergasse 8/4" ;
+	rdfs:seeAlso "www.orderofmalta.org" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "austriaembassy@orderofmalta.int" ;
+	dbo:phone "(+43 / 1) 505 35 35" ;
+	lw:openingHour """Mo - Fr 09.00 - 15.00
+(+43 / 0) 664 889 33 571 (Botschafter direkt)""" ;
+	lw:countryName "Malteser Ritterorden"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874267> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874267" .
+
+_:node1bvvs2ketx4 a wgs:Point ;
+	wgs:lat "16.335049680027012" ;
+	wgs:long "48.23365520844937" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874267> wgs:location _:node1bvvs2ketx4 ;
+	rdfs:label "Botschaft des Königreiches Marokko"@de ;
+	dbo:address "18., Hasenauerstrasse 57" ;
+	rdfs:seeAlso "http://www.ami.mr/fr/index.php?page=Gouvernement" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "emb-pmissionvienna@morocco.at" ;
+	dbo:phone "(+43 / 1) 586 66 51, Konsularabteilung - 586 66 50" ;
+	lw:openingHour "Mo - Do 09:00 - 16:00 und Fr 09:00 - 15:00" ;
+	lw:countryName "Marokko"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874269> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874269" .
+
+_:node1bvvs2ketx5 a wgs:Point ;
+	wgs:lat "16.344494349008986" ;
+	wgs:long "48.21563739408397" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874269> wgs:location _:node1bvvs2ketx5 ;
+	rdfs:label "Botschaft der Republik Mazedonien"@de ;
+	dbo:address "9., Kinderspitalgasse 5/2" ;
+	rdfs:seeAlso "www.mfa.gov.mk" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "botschaft@makedonien.co.at" ;
+	dbo:phone "(+43 / 1) 524 87 56" ;
+	lw:openingHour """Montag - Donnerstag: 09.00 - 11.30 sowie 13.00 - 14.00
+Freitag: kein Parteienverkehr und Telefonauskunft""" ;
+	lw:countryName "Mazedonien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874270> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874270" .
+
+_:node1bvvs2ketx6 a wgs:Point ;
+	wgs:lat "16.366816397508313" ;
+	wgs:long "48.21254821186262" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874270> wgs:location _:node1bvvs2ketx6 ;
+	rdfs:label "Botschaft der Vereinigten Mexikanischen Staaten"@de ;
+	dbo:address "1., Renngasse 5, 1. OG, Tür 5 + 6" ;
+	rdfs:seeAlso "http://embamex.sre.gob.mx/austria/" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "embaustria@sre.gob.mx" ;
+	dbo:phone "(+43 / 1) 310 73 83" ;
+	lw:openingHour "Mo-Fr 09:00-13:00 und 15:00-18:00" ;
+	lw:countryName "Mexiko"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874271> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874271" .
+
+_:node1bvvs2ketx7 a wgs:Point ;
+	wgs:lat "16.394213970873015" ;
+	wgs:long "48.20672766523828" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874271> wgs:location _:node1bvvs2ketx7 ;
+	rdfs:label "Botschaft der Republik Moldau"@de ;
+	dbo:address "3., Löwengasse 47/10" ;
+	rdfs:seeAlso "www.austria.mfa.md" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "vienna@moldmission.at" ;
+	dbo:phone "(+43 / 1) 961 10 30" ;
+	lw:openingHour "Mo - Fr 08.00 - 17.00" ;
+	lw:countryName "Moldau"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874272> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874272" .
+
+_:node1bvvs2ketx8 a wgs:Point ;
+	wgs:lat "16.28906125287613" ;
+	wgs:long "48.173627974286475" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874272> wgs:location _:node1bvvs2ketx8 ;
+	rdfs:label "Botschaft der Mongolei"@de ;
+	dbo:address "13., Fasangartengasse 45" ;
+	rdfs:seeAlso "www.embassymon.at" ;
+	dbo:codeDistrict "1130" ;
+	foaf:mbox "vienna@mfa.gov.mn" ;
+	dbo:phone "(+43 / 1) 535 28 07 - 12" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Mongolei"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874274> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874274" .
+
+_:node1bvvs2ketx9 a wgs:Point ;
+	wgs:lat "16.372803372610043" ;
+	wgs:long "48.20231806252559" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874274> wgs:location _:node1bvvs2ketx9 ;
+	rdfs:label "Botschaft von Montenegro"@de ;
+	dbo:address "1., Mahlerstrasse 12/5" ;
+	rdfs:seeAlso "http://www.gov.me" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "austria@mfa.gov.me" ;
+	dbo:phone "(+43 / 1) 512 08 99" ;
+	lw:countryName "Montenegro"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874275> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874275" .
+
+_:node1bvvs2ketx10 a wgs:Point ;
+	wgs:lat "16.41426804174577" ;
+	wgs:long "48.23285232059177" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874275> wgs:location _:node1bvvs2ketx10 ;
+	rdfs:label "Botschaft der Union Myanmar"@de ;
+	dbo:address "22., Donau-City-Straße 6, Andromeda Tower Top 9.OG/1" ;
+	dbo:codeDistrict "1220" ;
+	foaf:mbox "myanmarembassy.vienna@gmail.com" ;
+	dbo:phone "(+43 / 01) 26 69 105" ;
+	lw:openingHour "Mo - Fr 09:30 - 14:30" ;
+	lw:countryName "Myanmar"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874277> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874277" .
+
+_:node1bvvs2ketx11 a wgs:Point ;
+	wgs:lat "16.31247928924193" ;
+	wgs:long "48.24418509977205" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874277> wgs:location _:node1bvvs2ketx11 ;
+	rdfs:label "Botschaft der Republik Namibia"@de ;
+	dbo:address "19., Zuckerkandlgasse 2" ;
+	rdfs:seeAlso "www.embnamibia.at/" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "nam.emb.vienna@speed.at" ;
+	dbo:phone "(+43 / 1) 402 93 71, 72, 73" ;
+	lw:openingHour """Mo - Do 09:00-13:00 und 14:00-17:00
+Fr 09:00-15:00""" ;
+	lw:countryName "Namibia"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874279> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874279" .
+
+_:node1bvvs2ketx12 a wgs:Point ;
+	wgs:lat "16.372760497325725" ;
+	wgs:long "48.19841889907695" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874279> wgs:location _:node1bvvs2ketx12 ;
+	rdfs:label "Botschaft von Neuseeland"@de ;
+	dbo:address "4., Mattiellistrasse 2-4/3" ;
+	rdfs:seeAlso "www.nzembassy.com" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "nzemb@aon.at" ;
+	dbo:phone "(+43 / 1) 505 3021" ;
+	lw:openingHour "Mo - Fr 09.00 -16.00" ;
+	lw:countryName "Neuseeland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874280> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874280" .
+
+_:node1bvvs2ketx13 a wgs:Point ;
+	wgs:lat "16.358191948200112" ;
+	wgs:long "48.213159303594985" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874280> wgs:location _:node1bvvs2ketx13 ;
+	rdfs:label "Botschaft der Republik Nicaragua"@de ;
+	dbo:address "1., Ebendorferstraße 10/3/12" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "embanicviena@chello.at" ;
+	dbo:phone "(+43 / 1) 403 18 38" ;
+	lw:openingHour "Mo - Fr 09.30 - 12.30" ;
+	lw:countryName "Nicaragua"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874281> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874281" .
+
+_:node1bvvs2ketx14 a wgs:Point ;
+	wgs:lat "16.368577482326295" ;
+	wgs:long "48.20218039103535" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874281> wgs:location _:node1bvvs2ketx14 ;
+	rdfs:label "Botschaft des Königreichs der Niederlande"@de ;
+	dbo:address "1., Opernring 5/7. Stock" ;
+	rdfs:seeAlso "http://oostenrijk.nlambassade.org/" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "wen@minbuza.nl" ;
+	dbo:phone "(+43 / 1) 589 39" ;
+	lw:openingHour "Mo - Fr 08.30 - 17.00" ;
+	lw:countryName "Niederlande"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874283> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874283" .
+
+_:node1bvvs2ketx15 a wgs:Point ;
+	wgs:lat "16.38194605419209" ;
+	wgs:long "48.19644815804398" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874283> wgs:location _:node1bvvs2ketx15 ;
+	rdfs:label "Botschaft der Bundesrepublik Nigeria"@de ;
+	dbo:address "3., Rennweg 25, Postfach 183" ;
+	rdfs:seeAlso "www.nigeriaembassyvienna.com" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "info@nigeriaembassyvienna.com" ;
+	dbo:phone "(+43 (1)) 712 66 86" ;
+	lw:openingHour "Mo - Fr 09:00 - 17:00" ;
+	lw:countryName "Nigeria"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874284> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874284" .
+
+_:node1bvvs2ketx16 a wgs:Point ;
+	wgs:lat "16.383866638959937" ;
+	wgs:long "48.19631328674199" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874284> wgs:location _:node1bvvs2ketx16 ;
+	rdfs:label "Botschaft des Königreiches Norwegen"@de ;
+	dbo:address "3., Reisnerstraße 55-57" ;
+	rdfs:seeAlso "www.norwegen.or.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "emb.vienna@mfa.no" ;
+	dbo:phone "(+43 / 1) 71 660" ;
+	lw:openingHour """Mo - Fr 10:00-12:00 (Parteienverkehr)
+Mo - Fr 08:30-16:00 (Öffnungszeiten)""" ;
+	lw:countryName "Norwegen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874286> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874286" .
+
+_:node1bvvs2ketx17 a wgs:Point ;
+	wgs:lat "16.361725634026936" ;
+	wgs:long "48.21495891106278" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874286> wgs:location _:node1bvvs2ketx17 ;
+	rdfs:label "Botschaft des Sultanats Oman"@de ;
+	dbo:address "9., Währinger Straße 2  / Top 24-25" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "vienna@omanembassy.at" ;
+	dbo:phone "(+43 / 1) 310 86 43 u. 44, (+43 / 1) 319 41 73" ;
+	lw:openingHour "Mo - Fr 09.00 - 15.00" ;
+	lw:countryName "Oman"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874287> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874287" .
+
+_:node1bvvs2ketx18 a wgs:Point ;
+	wgs:lat "16.35177597464546" ;
+	wgs:long "48.242900963427644" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874287> wgs:location _:node1bvvs2ketx18 ;
+	rdfs:label "Botschaft der Islamischen Republik Pakistan"@de ;
+	dbo:address "19., Hofzeile 13" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "parepvienna@mofa.gov.pk" ;
+	dbo:phone "(+43 / 1) 368 73 81" ;
+	lw:countryName "Pakistan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874288> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874288" .
+
+_:node1bvvs2ketx19 a wgs:Point ;
+	wgs:lat "16.35353665109505" ;
+	wgs:long "48.20830208368318" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874288> wgs:location _:node1bvvs2ketx19 ;
+	rdfs:label "Vertretung von Palästina"@de ;
+	dbo:address "8., Josefsgasse 5" ;
+	rdfs:seeAlso "www.palestinemission.at" ;
+	dbo:codeDistrict "1080" ;
+	foaf:mbox "office@palestinemission.at" ;
+	dbo:phone "(+43 / 1) 408 82 02 / 3" ;
+	lw:countryName "Palästina"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874289> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874289" .
+
+_:node1bvvs2ketx20 a wgs:Point ;
+	wgs:lat "16.37047176789602" ;
+	wgs:long "48.20920450316605" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874289> wgs:location _:node1bvvs2ketx20 ;
+	rdfs:label "Botschaft der Republik Panama"@de ;
+	dbo:address "1., Goldschmiedgasse 10/403" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "mail@empanvienna.co.at" ;
+	dbo:phone "(+43 / 1) 587 23 47 & 587 31 82" ;
+	lw:openingHour "Mo - Fr 09.00 - 14.00" ;
+	lw:countryName "Panama"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874290> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874290" .
+
+_:node1bvvs2ketx21 a wgs:Point ;
+	wgs:lat "16.376267559225994" ;
+	wgs:long "48.19554880669337" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874290> wgs:location _:node1bvvs2ketx21 ;
+	rdfs:label "Botschaft der Republik Paraguay"@de ;
+	dbo:address "4., Prinz Eugen Straße 18/1/3A" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embaparviena@chello.at" ;
+	dbo:phone "(+43 / 1) 505 46 74" ;
+	lw:openingHour "Mo - Fr 09:00 - 13:00" ;
+	lw:countryName "Paraguay"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874291> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874291" .
+
+_:node1bvvs2ketx22 a wgs:Point ;
+	wgs:lat "16.37156833174516" ;
+	wgs:long "48.202799136493695" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874291> wgs:location _:node1bvvs2ketx22 ;
+	rdfs:label "Botschaft der Republik Peru"@de ;
+	dbo:address "1., Mahlerstrasse 7/22" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "embajada@embaperu.at" ;
+	dbo:phone "(+43 / 1) 713 43 77" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Peru"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874292> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874292" .
+
+_:node1bvvs2ketx23 a wgs:Point ;
+	wgs:lat "16.411658804612244" ;
+	wgs:long "48.23368197428556" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874292> wgs:location _:node1bvvs2ketx23 ;
+	rdfs:label "Botschaft der Republik der Philippinen"@de ;
+	dbo:address "22., Donau-City-Straße 11, (ARES Tower 10/21. Etage)" ;
+	rdfs:seeAlso "www.philippine-embassy.at" ;
+	dbo:codeDistrict "1220" ;
+	foaf:mbox "office@philippine-embassy.at" ;
+	dbo:phone "(+43 / 1) 533 24 01" ;
+	lw:openingHour "Mo - Fr 09.00 - 18.00" ;
+	lw:countryName "Philippinen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874295> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874295" .
+
+_:node1bvvs2ketx24 a wgs:Point ;
+	wgs:lat "16.29149185351465" ;
+	wgs:long "48.1871790285336" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874295> wgs:location _:node1bvvs2ketx24 ;
+	rdfs:label "Botschaft der Republik Polen"@de ;
+	dbo:address "13., Hietzinger Hauptstraße 42c" ;
+	rdfs:seeAlso "www.wieden.msz.gov.pl" ;
+	dbo:codeDistrict "1130" ;
+	foaf:mbox "wieden.amb.sekretariat@msz.gov.pl" ;
+	dbo:phone "(+43 / 1) 870 15 100" ;
+	lw:openingHour "Mo - Fr 08.00 - 16.00" ;
+	lw:countryName "Polen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874296> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874296" .
+
+_:node1bvvs2ketx25 a wgs:Point ;
+	wgs:lat "16.368577482326295" ;
+	wgs:long "48.20218039103535" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874296> wgs:location _:node1bvvs2ketx25 ;
+	rdfs:label "Botschaft der Portugiesischen Republik"@de ;
+	dbo:address "1., Opernring 3/1" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "viena@mne.pt" ;
+	dbo:phone "(+43 / 1) 586 75 36-0" ;
+	lw:openingHour "Mo - Fr 09:00-13:00 und 14:30-17:30" ;
+	lw:countryName "Portugal"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874297> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874297" .
+
+_:node1bvvs2ketx26 a wgs:Point ;
+	wgs:lat "16.379601521507563" ;
+	wgs:long "48.19076671659302" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874297> wgs:location _:node1bvvs2ketx26 ;
+	rdfs:label "Botschaft von Rumänien"@de ;
+	dbo:address "4., Prinz-Eugen-Straße 60" ;
+	rdfs:seeAlso "http://vienna.mae.ro/" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "viena@mae.ro" ;
+	dbo:phone "(+43 / 1) 505 32 27, 503 89 40" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Rumänien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874298> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874298" .
+
+_:node1bvvs2ketx27 a wgs:Point ;
+	wgs:lat "16.38410217210699" ;
+	wgs:long "48.19746584634444" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874298> wgs:location _:node1bvvs2ketx27 ;
+	rdfs:label "Botschaft der Russischen Föderation"@de ;
+	dbo:address "3., Reisnerstraße 45-47" ;
+	rdfs:seeAlso "www.rusemb.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "info@rusemb.at" ;
+	dbo:phone "(+43 / 1) 712 12 29, 713 12 15" ;
+	lw:openingHour "Mo - Fr 8.30 - 12.15 und 13.15 - 17.30" ;
+	lw:countryName "Russische Föderation"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874413> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874413" .
+
+_:node1bvvs2ketx28 a wgs:Point ;
+	wgs:lat "16.37469295636427" ;
+	wgs:long "48.18818472301298" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874413> wgs:location _:node1bvvs2ketx28 ;
+	rdfs:label "Botschaft der Demokratischen Sozialistischen Republik Sri Lanka"@de ;
+	dbo:address "4., Weyringergasse 33-35 (4. Stock)" ;
+	rdfs:seeAlso "www.srilankaembassy.at" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embassy@srilankaembassy.at" ;
+	dbo:phone "(+43 / 1) 503 79 88" ;
+	lw:openingHour """Visaabteilung Mo - Fr 09.00 - 12.00
+Auskunft (+43 / 1) 503 79 88-13""" ;
+	lw:countryName "Sri Lanka"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874415> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874415" .
+
+_:node1bvvs2ketx29 a wgs:Point ;
+	wgs:lat "16.34865807124501" ;
+	wgs:long "48.25481650310376" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874415> wgs:location _:node1bvvs2ketx29 ;
+	rdfs:label "Botschaft der Republik Südafrika"@de ;
+	dbo:address "19., Sandgasse 33" ;
+	rdfs:seeAlso "www.suedafrika-botschaft.at" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "vienna.bilateral@dirco.gov.za" ;
+	dbo:phone "(+43 / 1) 320 64 93" ;
+	lw:openingHour """Mo - Fr 08.00 - 12.45
+und 13.30 - 16.30""" ;
+	lw:countryName "Südafrika"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874416> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874416" .
+
+_:node1bvvs2ketx30 a wgs:Point ;
+	wgs:lat "16.383943177117487" ;
+	wgs:long "48.20006638410542" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874416> wgs:location _:node1bvvs2ketx30 ;
+	rdfs:label "Botschaft der Republik Sudan"@de ;
+	dbo:address "3., Reisnerstraße 29/5" ;
+	rdfs:seeAlso "www.sudanivienna.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "sudanivienna@prioritytelecom.biz" ;
+	dbo:phone "(+43 / 1) 710 23 43 - 45" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.00" ;
+	lw:countryName "Sudan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874418> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874418" .
+
+_:node1bvvs2ketx31 a wgs:Point ;
+	wgs:lat "16.377361872736294" ;
+	wgs:long "48.199316926732145" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874418> wgs:location _:node1bvvs2ketx31 ;
+	rdfs:label "Botschaft der Arabischen Republik Syrien"@de ;
+	dbo:address "3., Daffingerstraße 4" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "syrianembassyvienna@utanet.at" ;
+	dbo:phone "(+43 / 1) 533 46 33" ;
+	lw:openingHour "Mo - Fr 09:00 - 16:00" ;
+	lw:countryName "Syrien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874419> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874419" .
+
+_:node1bvvs2ketx32 a wgs:Point ;
+	wgs:lat "16.333747875761787" ;
+	wgs:long "48.2423621586" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874419> wgs:location _:node1bvvs2ketx32 ;
+	rdfs:label "Botschaft der Republik Tadschikistan"@de ;
+	dbo:address "19., Hutweidengasse 47" ;
+	rdfs:seeAlso "www.tajikembassy.at" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "info@tajikembassy.at" ;
+	dbo:phone "(+43 / 1) 409 82 66" ;
+	lw:openingHour "Mo - Fr 08.00 - 17.00" ;
+	lw:countryName "Tadschikistan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874420> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874420" .
+
+_:node1bvvs2ketx33 a wgs:Point ;
+	wgs:lat "16.341965433915394" ;
+	wgs:long "48.232560775632756" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874420> wgs:location _:node1bvvs2ketx33 ;
+	rdfs:label "Botschaft des Königreiches Thailand"@de ;
+	dbo:address "18., Cottagegasse 48" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "embassy@thaivienna.at" ;
+	dbo:phone "(+43 / 1) 478 33 35" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Thailand"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874422> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874422" .
+
+_:node1bvvs2ketx34 a wgs:Point ;
+	wgs:lat "16.312564862276215" ;
+	wgs:long "48.18958447355275" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874422> wgs:location _:node1bvvs2ketx34 ;
+	rdfs:label "Botschaft der Tschechischen Republik"@de ;
+	dbo:address "14., Penzinger Straße 11 - 13" ;
+	rdfs:seeAlso "www.mzv.cz/vienna; www.tschechischerepublik.at" ;
+	dbo:codeDistrict "1140" ;
+	foaf:mbox "vienna@embassy.mzv.cz" ;
+	dbo:phone "(+43 / 1) 899 580" ;
+	lw:openingHour "Mo - Fr 08:30 - 10:30" ;
+	lw:countryName "Tschechische Republik"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874423> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874423" .
+
+_:node1bvvs2ketx35 a wgs:Point ;
+	wgs:lat "16.319723865541935" ;
+	wgs:long "48.251889139110084" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874423> wgs:location _:node1bvvs2ketx35 ;
+	rdfs:label "Botschaft der Republik Tunesien"@de ;
+	dbo:address "19., Sieveringerstrasse 187" ;
+	rdfs:seeAlso "www.atunisie-at.org" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "at.vienne@aon.at" ;
+	dbo:phone "(+43 / 1) 44 02 144 / 148" ;
+	lw:openingHour """Mo - Fr 09.00 - 16.00 (Parteienverkehr und telefonisch)
+Mo - Fr 09.00 - 15.00 (Juli und August)""" ;
+	lw:countryName "Tunesien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874425> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874425" .
+
+_:node1bvvs2ketx36 a wgs:Point ;
+	wgs:lat "16.37813201241753" ;
+	wgs:long "48.193087150459725" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874425> wgs:location _:node1bvvs2ketx36 ;
+	rdfs:label "Botschaft der Republik Türkei"@de ;
+	dbo:address "4., Prinz-Eugen-Straße 40" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "botschaft.wien@mfa.gov.tr" ;
+	dbo:phone "(+43 / 1) 505 73 38 - 0" ;
+	lw:countryName "Türkei"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874427> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874427" .
+
+_:node1bvvs2ketx37 a wgs:Point ;
+	wgs:lat "16.372042468555033" ;
+	wgs:long "48.19577125982487" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874427> wgs:location _:node1bvvs2ketx37 ;
+	rdfs:label "Botschaft von Turkmenistan"@de ;
+	dbo:address "4., Argentinierstraße 22/Stg. II/EG" ;
+	rdfs:seeAlso "www.botschaft-turkmenistan.at" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "info@botschaft-turkmenistan.at" ;
+	dbo:phone "(+43 / 1) 503 64 70 - 72" ;
+	lw:countryName "Turkmenistan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874301> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874301" .
+
+_:node1bvvs2ketx38 a wgs:Point ;
+	wgs:lat "16.37612300946358" ;
+	wgs:long "48.19578429906159" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874301> wgs:location _:node1bvvs2ketx38 ;
+	rdfs:label "Botschaft der Republik San Marino"@de ;
+	dbo:address "4., Prinz Eugen Strasse 16/2/31" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "rsmvienna@gmail.com" ;
+	dbo:phone "(+43 / 1) 941 59 69" ;
+	lw:openingHour "Mo - Fr 09:00 - 13:00" ;
+	lw:countryName "San Marino"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874304> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874304" .
+
+_:node1bvvs2ketx39 a wgs:Point ;
+	wgs:lat "16.351730235780604" ;
+	wgs:long "48.249188507851706" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874304> wgs:location _:node1bvvs2ketx39 ;
+	rdfs:label "Botschaft des Königreichs Saudi-Arabien"@de ;
+	dbo:address "19., Formanekgasse 38" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "saudiembassy@saudiembassy.at" ;
+	dbo:phone "(+43 / 1) 367 25 31" ;
+	lw:openingHour "Mo-Fr 09:00-16:00" ;
+	lw:countryName "Saudi-Arabien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874305> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874305" .
+
+_:node1bvvs2ketx40 a wgs:Point ;
+	wgs:lat "16.35812685750353" ;
+	wgs:long "48.222630464497904" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874305> wgs:location _:node1bvvs2ketx40 ;
+	rdfs:label "Botschaft von Schweden"@de ;
+	dbo:address "9., Liechtensteinstraße 51" ;
+	rdfs:seeAlso "www.swedenabroad.se/vienna" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "ambassaden.wien@gov.se" ;
+	dbo:phone "(+43 / 1) 217 530" ;
+	lw:openingHour """Mo-Fr 09:00 - 11:00
+Mo-Fr 09:00 - 12:00 und 13:00-16:00 (Telefonzeiten)
+Telefonzentrale geshlossen Mo 13:30-14:30 und Fr 10:00-11:00, Weitere Info siehe Homepage.""" ;
+	lw:countryName "Schweden"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874306> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874306" .
+
+_:node1bvvs2ketx41 a wgs:Point ;
+	wgs:lat "16.376154650614517" ;
+	wgs:long "48.19634114673932" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874306> wgs:location _:node1bvvs2ketx41 ;
+	rdfs:label "Schweizerische Botschaft"@de ;
+	dbo:address "3., Prinz Eugen-Strasse 9a" ;
+	rdfs:seeAlso "www.schweizerbotschaft.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "vie.vertretung@eda.admin.ch" ;
+	dbo:phone "(+43 / 1) 795 05" ;
+	lw:countryName "Schweiz"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874308> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874308" .
+
+_:node1bvvs2ketx42 a wgs:Point ;
+	wgs:lat "16.37950743842539" ;
+	wgs:long "48.2003883938298" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874308> wgs:location _:node1bvvs2ketx42 ;
+	rdfs:label "Botschaft der Republik Serbien"@de ;
+	dbo:address "3., Ölzeltgasse 3 - Top 7" ;
+	rdfs:seeAlso "www.vienna.mfa.gov.rs" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "embassy.vienna@mfa.rs" ;
+	dbo:phone "(+43 / 1) 713 25 95, 712 12 05" ;
+	lw:openingHour "Mo - Fr 08:30 - 16:30" ;
+	lw:countryName "Serbien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874313> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874313" .
+
+_:node1bvvs2ketx43 a wgs:Point ;
+	wgs:lat "16.257581874217934" ;
+	wgs:long "48.203123720908124" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874313> wgs:location _:node1bvvs2ketx43 ;
+	rdfs:label "Botschaft der Republik Belarus"@de ;
+	dbo:address "14., Hüttelbergstraße 6" ;
+	rdfs:seeAlso "http://austria.mfa.gov.by" ;
+	dbo:codeDistrict "1140" ;
+	foaf:mbox "austria@mfa.gov.by" ;
+	dbo:phone "(+43 / 1) 419 96 30" ;
+	lw:openingHour "Mo - Fr 08.30 - 17.30" ;
+	lw:countryName "Belarus"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874314> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874314" .
+
+_:node1bvvs2ketx44 a wgs:Point ;
+	wgs:lat "16.36698174813674" ;
+	wgs:long "48.1895019531792" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874314> wgs:location _:node1bvvs2ketx44 ;
+	rdfs:label "Botschaft des Königreichs Belgien"@de ;
+	dbo:address "4., Schönburgstrasse 10" ;
+	rdfs:seeAlso "diplomatie.belgium.be/austria" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "vienna@diplobel.fed.be" ;
+	dbo:phone "(+43 / 1) 502 07 - 0" ;
+	lw:openingHour """Mo - Fr 09:00 -12:00 und 14:00 - 16:00
+bis 27. März 2017 wegen Umzug geschlossen.""" ;
+	lw:countryName "Belgien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874316> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874316" .
+
+_:node1bvvs2ketx45 a wgs:Point ;
+	wgs:lat "16.36494996324577" ;
+	wgs:long "48.1952918555979" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874316> wgs:location _:node1bvvs2ketx45 ;
+	rdfs:label "Botschaft des Plurinationalen Staates Bolivien"@de ;
+	dbo:address "4., Waaggasse 10/8" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embolaustria@of-viena.at" ;
+	dbo:phone "(+43 / 1) 587 46 75" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Bolivien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874317> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874317" .
+
+_:node1bvvs2ketx46 a wgs:Point ;
+	wgs:lat "16.320952166393813" ;
+	wgs:long "48.18067117855805" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874317> wgs:location _:node1bvvs2ketx46 ;
+	rdfs:label "Botschaft von Bosnien und Herzegowina"@de ;
+	dbo:address "12., Tivoligasse 54" ;
+	rdfs:seeAlso "www.bh-botschaft.at" ;
+	dbo:codeDistrict "1120" ;
+	foaf:mbox "bhbotschaft@bhbotschaft.at" ;
+	dbo:phone "(+43 / 1) 811 85 55" ;
+	lw:openingHour "Mo - Fr 09:00 - 17:00" ;
+	lw:countryName "Bosnien und Herzegowina"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874320> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874320" .
+
+_:node1bvvs2ketx47 a wgs:Point ;
+	wgs:lat "16.375597548319174" ;
+	wgs:long "48.20129901662122" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874320> wgs:location _:node1bvvs2ketx47 ;
+	rdfs:label "Botschaft der Föderativen Republik Brasilien"@de ;
+	dbo:address "1., Pestalozzigasse 4/2" ;
+	rdfs:seeAlso "http://www.viena@itamaraty.gov.br" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "brasemb.viena@itamaraty.gov.br" ;
+	dbo:phone "(+43 / 1) 512 06 31" ;
+	lw:openingHour "Mo - Fr 09.00 - 13.00 und 15.00 - 17.00" ;
+	lw:countryName "Brasilien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874321> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874321" .
+
+_:node1bvvs2ketx48 a wgs:Point ;
+	wgs:lat "16.373737529897692" ;
+	wgs:long "48.19753949831853" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874321> wgs:location _:node1bvvs2ketx48 ;
+	rdfs:label "Botschaft der Republik Bulgarien"@de ;
+	dbo:address "4., Schwindgasse 8" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "amboffice@embassybulgaria.at" ;
+	dbo:phone "(+43 / 1) 505 31 13, 505 64 44" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.30" ;
+	lw:countryName "Bulgarien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874322> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874322" .
+
+_:node1bvvs2ketx49 a wgs:Point ;
+	wgs:lat "16.38318962282758" ;
+	wgs:long "48.198497293742186" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874322> wgs:location _:node1bvvs2ketx49 ;
+	rdfs:label "Botschaft von Burkina Faso"@de ;
+	dbo:address "3., Strohgasse 14c/5" ;
+	rdfs:seeAlso "www.abfvienne.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "s.r@abfvienne.at;" ;
+	dbo:phone "(+43 / 1) 503 82 64" ;
+	lw:openingHour "Mo - Fr 09.00 - 13.00 und 14.00 - 16.00" ;
+	lw:countryName "Burkina Faso"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874326> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874326" .
+
+_:node1bvvs2ketx50 a wgs:Point ;
+	wgs:lat "16.374801553082982" ;
+	wgs:long "48.21002914846951" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874326> wgs:location _:node1bvvs2ketx50 ;
+	rdfs:label "Botschaft der Republik Chile"@de ;
+	dbo:address "1., Lugeck 1/III/10" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "echile.austria@minrel.gob.cl" ;
+	dbo:phone "(+43 / 1) 512 92 08" ;
+	lw:countryName "Chile"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874327> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874327" .
+
+_:node1bvvs2ketx51 a wgs:Point ;
+	wgs:lat "16.382373766636533" ;
+	wgs:long "48.19774822258782" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874327> wgs:location _:node1bvvs2ketx51 ;
+	rdfs:label "Botschaft der Volksrepublik China"@de ;
+	dbo:address "3., Metternichgasse 4" ;
+	rdfs:seeAlso "www.chinaembassy.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "chinaemb_at@mfa.gov.cn" ;
+	dbo:phone "(+43 / 1) 714 31 49" ;
+	lw:countryName "China"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874328> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874328" .
+
+_:node1bvvs2ketx52 a wgs:Point ;
+	wgs:lat "16.37468693604675" ;
+	wgs:long "48.21738676799477" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874328> wgs:location _:node1bvvs2ketx52 ;
+	rdfs:label "Botschaft der Republik Costa Rica"@de ;
+	dbo:address "2., Floßgasse 7/1/3-4" ;
+	dbo:codeDistrict "1020" ;
+	foaf:mbox "embajadaaustria_costa.rica@chello.at" ;
+	dbo:phone "(+43 / 1) 263 38 24" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.00" ;
+	lw:countryName "Costa Rica"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874329> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874329" .
+
+_:node1bvvs2ketx53 a wgs:Point ;
+	wgs:lat "16.384708177600277" ;
+	wgs:long "48.19904191830887" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874329> wgs:location _:node1bvvs2ketx53 ;
+	rdfs:label "Botschaft der Republik Côte d'Ivoire"@de ;
+	dbo:address "3., Neulinggasse 29/6/20" ;
+	rdfs:seeAlso "www.ambaciaut.org" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "office@ambaciaut.org" ;
+	dbo:phone "(+43 / 1) 581 00 76" ;
+	lw:openingHour "Mo - Fr 09:30-13:00 und 14:00-17:00" ;
+	lw:countryName "Côte d'Ivoire"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874338> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874338" .
+
+_:node1bvvs2ketx54 a wgs:Point ;
+	wgs:lat "16.369949702145657" ;
+	wgs:long "48.20488370559667" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874338> wgs:location _:node1bvvs2ketx54 ;
+	rdfs:label "Botschaft & Ständige Vertretung Dänemarks"@de ;
+	dbo:address "1., Führichgasse 6" ;
+	rdfs:seeAlso "oestrig.um.dk/de.aspx" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "vieamb@um.dk" ;
+	dbo:phone "(+43 / 1) 512 79 04" ;
+	lw:openingHour """Mo - Do 09.00 - 16.00 / Fr 09.00 - 14.00
+Konsularangelegenheiten: Nach Vereinbarung""" ;
+	lw:countryName "Dänemark"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874340> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874340" .
+
+_:node1bvvs2ketx55 a wgs:Point ;
+	wgs:lat "16.364195316722654" ;
+	wgs:long "48.20159366267023" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874340> wgs:location _:node1bvvs2ketx55 ;
+	rdfs:label "Botschaft der Bundesrepublik Deutschland"@de ;
+	dbo:address "1., Gauermanngasse 2-4" ;
+	rdfs:seeAlso "www.wien.diplo.de" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "info@wien.diplo.de" ;
+	dbo:phone "(+43 / 1) 711 54 - 0" ;
+	lw:openingHour """Mo - Fr 08.00 - 16.30
+Postanschrift: Postfach 60, A-1037 Wien""" ;
+	lw:countryName "Deutschland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874341> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874341" .
+
+_:node1bvvs2ketx56 a wgs:Point ;
+	wgs:lat "16.376267559225994" ;
+	wgs:long "48.19554880669337" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874341> wgs:location _:node1bvvs2ketx56 ;
+	rdfs:label "Botschaft der Dominikanischen Republik"@de ;
+	dbo:address "4., Prinz Eugen Strasse 18" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embajada@embrepdom.at" ;
+	dbo:phone "(+43 / 1) 505 85 55" ;
+	lw:countryName "Dominikanische Republik"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874344> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874344" .
+
+_:node1bvvs2ketx57 a wgs:Point ;
+	wgs:lat "16.380322537370695" ;
+	wgs:long "48.18948463960347" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874344> wgs:location _:node1bvvs2ketx57 ;
+	rdfs:label "Botschaft der Republik El Salvador"@de ;
+	dbo:address "4., Prinz Eugen Strasse 72/2/1" ;
+	rdfs:seeAlso "www.rree.gob.sv" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "elsalvador@embasal.at" ;
+	dbo:phone "(+43 / 1) 505 38 74" ;
+	lw:countryName "El Salvador"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874347> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874347" .
+
+_:node1bvvs2ketx58 a wgs:Point ;
+	wgs:lat "16.374104995260737" ;
+	wgs:long "48.19640668439118" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874347> wgs:location _:node1bvvs2ketx58 ;
+	rdfs:label "Botschaft der Republik Estland"@de ;
+	dbo:address "4., Wohllebengasse 9/12" ;
+	rdfs:seeAlso "www.estemb.at/" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embassy@estwien.at" ;
+	dbo:phone "(+43 / 1) 503 77 61 11" ;
+	lw:openingHour "Bitte vereinbaren Sie einen Termin telefonisch oder per E-Mail" ;
+	lw:countryName "Estland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874349> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874349" .
+
+_:node1bvvs2ketx59 a wgs:Point ;
+	wgs:lat "16.37023374689524" ;
+	wgs:long "48.21566104106008" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874349> wgs:location _:node1bvvs2ketx59 ;
+	rdfs:label "Botschaft der Republik Finnland"@de ;
+	dbo:address "1., Gonzagagasse 16" ;
+	rdfs:seeAlso "www.finnland.at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "sanomat.wie@formin.fi" ;
+	dbo:phone "(+43 / 1) 535 03 65" ;
+	lw:openingHour "Mo - Fr 09:00 - 12:00" ;
+	lw:countryName "Finnland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874351> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874351" .
+
+_:node1bvvs2ketx60 a wgs:Point ;
+	wgs:lat "16.374451477634175" ;
+	wgs:long "48.198536427319446" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874351> wgs:location _:node1bvvs2ketx60 ;
+	rdfs:label "Botschaft der Französischen Republik"@de ;
+	dbo:address "4., Technikerstraße 2" ;
+	rdfs:seeAlso "www.ambafrance-at.org" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "secretariat.vienne-amba@diplomatie.gouv.fr" ;
+	dbo:phone "(+43 / 1) 502 75 0" ;
+	lw:countryName "Frankreich"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874352> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874352" .
+
+_:node1bvvs2ketx61 a wgs:Point ;
+	wgs:lat "16.35623315831393" ;
+	wgs:long "48.2082431863085" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874352> wgs:location _:node1bvvs2ketx61 ;
+	rdfs:label "Botschaft von Georgien"@de ;
+	dbo:address "1., Doblhoffgasse 5/5" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "vienna.emb@mfa.gov.ge" ;
+	dbo:phone "(+43 / 1) 403 98 48" ;
+	lw:countryName "Georgien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874354> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874354" .
+
+_:node1bvvs2ketx62 a wgs:Point ;
+	wgs:lat "16.371940697553814" ;
+	wgs:long "48.19681153460324" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874354> wgs:location _:node1bvvs2ketx62 ;
+	rdfs:label "Botschaft der Hellenischen Republik"@de ;
+	dbo:address "4., Argentinierstraße 14" ;
+	rdfs:seeAlso "www.mfa.gr/missionsabroad/austria" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "gremb@griechischebotschaft.at" ;
+	dbo:phone "(+43 / 1) 506 15" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.30" ;
+	lw:countryName "Griechenland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874355> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874355" .
+
+_:node1bvvs2ketx63 a wgs:Point ;
+	wgs:lat "16.376267559225994" ;
+	wgs:long "48.19554880669337" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874355> wgs:location _:node1bvvs2ketx63 ;
+	rdfs:label "Botschaft der Republik Guatemala"@de ;
+	dbo:address "4., Prinz Eugen Straße 18 / Top 7" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embajada@embaguate.co.at" ;
+	dbo:phone "(+43 / 1) 714 35 70" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Guatemala"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874359> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874359" .
+
+_:node1bvvs2ketx64 a wgs:Point ;
+	wgs:lat "16.372758102789245" ;
+	wgs:long "48.191300243957066" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874359> wgs:location _:node1bvvs2ketx64 ;
+	rdfs:label "Apostolische Nuntiatur in Österreich"@de ;
+	dbo:address "4., Theresianumgasse 31" ;
+	rdfs:seeAlso "www.nuntiatur.at" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "nuntius@nuntiatur.at" ;
+	dbo:phone "(+43 / 1) 505 13  27" ;
+	lw:openingHour """Werktags von 10:00 - 12:30 und 15:00 - 17:00;
+Voranmeldung erforderlich.""" ;
+	lw:countryName "Heiliger Stuhl"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874361> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874361" .
+
+_:node1bvvs2ketx65 a wgs:Point ;
+	wgs:lat "16.36982294001393" ;
+	wgs:long "48.20197264904248" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874361> wgs:location _:node1bvvs2ketx65 ;
+	rdfs:label "Botschaft der Republik Indien"@de ;
+	dbo:address "1., Kärntner Ring 2" ;
+	rdfs:seeAlso "www.indianembassy.at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "emb.vienna@mea.gov.in" ;
+	dbo:phone "(+43 / 1) 505 86 66" ;
+	lw:countryName "Indien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874362> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874362" .
+
+_:node1bvvs2ketx66 a wgs:Point ;
+	wgs:lat "16.339000954822133" ;
+	wgs:long "48.23226807331474" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874362> wgs:location _:node1bvvs2ketx66 ;
+	rdfs:label "Botschaft der Republik Indonesien"@de ;
+	dbo:address "18., Gustav-Tschermak-Gasse 5-7" ;
+	rdfs:seeAlso "www.kbriwina.at" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "unitkom@kbriwina.at" ;
+	dbo:phone "(+43 / 1) 476 23 - 0" ;
+	lw:openingHour "Mo - Fr 08.30 - 17.00" ;
+	lw:countryName "Indonesien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874363> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874363" .
+
+_:node1bvvs2ketx67 a wgs:Point ;
+	wgs:lat "16.377831588749572" ;
+	wgs:long "48.20258946824206" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874363> wgs:location _:node1bvvs2ketx67 ;
+	rdfs:label "Botschaft der Republik Irak"@de ;
+	dbo:address "1., Johannesgasse 26 (P.O.Box 322)" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "office@iraqembassy.at; iq.un@iraqembassy.at" ;
+	dbo:phone "(+43 / 1) 713 81 95" ;
+	lw:openingHour "Mo - Fr    09.00 - 15.00" ;
+	lw:countryName "Irak"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874364> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874364" .
+
+_:node1bvvs2ketx68 a wgs:Point ;
+	wgs:lat "16.38407980038591" ;
+	wgs:long "48.19713292763715" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874364> wgs:location _:node1bvvs2ketx68 ;
+	rdfs:label "Botschaft der Islamischen Republik Iran"@de ;
+	dbo:address "3., Jauresgasse 9" ;
+	rdfs:seeAlso "www.vienna.mfa.ir" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "public@iranembassy-wien.at" ;
+	dbo:phone "(+43 / 1) 712 26 50, 712 26 57" ;
+	lw:openingHour "Mo - Fr 08:00 - 16:00" ;
+	lw:countryName "Iran"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874365> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874365" .
+
+_:node1bvvs2ketx69 a wgs:Point ;
+	wgs:lat "16.375613715989722" ;
+	wgs:long "48.21076442354201" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874365> wgs:location _:node1bvvs2ketx69 ;
+	rdfs:label "Botschaft von Irland"@de ;
+	dbo:address "1., Rotenturmstraße 16-18, 5.Stock" ;
+	rdfs:seeAlso "www.dfa.ie/austria" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "vienna@dfa.ie" ;
+	dbo:phone "(+43 / 1) 715 42 46 10" ;
+	lw:countryName "Irland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874366> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874366" .
+
+_:node1bvvs2ketx70 a wgs:Point ;
+	wgs:lat "16.368472875530376" ;
+	wgs:long "48.20973001586464" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874366> wgs:location _:node1bvvs2ketx70 ;
+	rdfs:label "Botschaft der Republik Island"@de ;
+	dbo:address "1., Naglergasse 2/8" ;
+	rdfs:seeAlso "www.iceland.is/at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "emb.vienna@mfa.is" ;
+	dbo:phone "(+43 / 1) 533 27 71" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.00" ;
+	lw:countryName "Island"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874368> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874368" .
+
+_:node1bvvs2ketx71 a wgs:Point ;
+	wgs:lat "16.34132281729179" ;
+	wgs:long "48.229938766750344" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874368> wgs:location _:node1bvvs2ketx71 ;
+	rdfs:label "Botschaft des Staates Israel"@de ;
+	dbo:address "18., Anton-Frank-Gasse 20" ;
+	rdfs:seeAlso "vienna.mfa.gov.il" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "ambassador-assist@vienna.mfa.gov.il" ;
+	dbo:phone "(+43 / 1) 476 46 - 0" ;
+	lw:openingHour "Mo-Do 08.30 - 17.00, Fr 08.30 - 14.30" ;
+	lw:countryName "Israel"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874369> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874369" .
+
+_:node1bvvs2ketx72 a wgs:Point ;
+	wgs:lat "16.3827455327166" ;
+	wgs:long "48.19607902513992" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874369> wgs:location _:node1bvvs2ketx72 ;
+	rdfs:label "Botschaft der Italienischen Republik"@de ;
+	dbo:address "3., Rennweg 27" ;
+	rdfs:seeAlso "www.ambvienna.esteri.it" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "ambasciata.vienna@esteri.it" ;
+	dbo:phone "(+43 / 1) 712 51 21" ;
+	lw:countryName "Italien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874372> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874372" .
+
+_:node1bvvs2ketx73 a wgs:Point ;
+	wgs:lat "16.31182539738787" ;
+	wgs:long "48.23410915248872" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874372> wgs:location _:node1bvvs2ketx73 ;
+	rdfs:label "Botschaft der Ukraine"@de ;
+	dbo:address "18., Naaffgasse 23" ;
+	rdfs:seeAlso "www.ukremb.at" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "info@ukremb.at" ;
+	dbo:phone "(+43 / 1) 479 71 72 11" ;
+	lw:openingHour "Mo - Fr 08.30 - 18.00" ;
+	lw:countryName "Ukraine"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874373> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874373" .
+
+_:node1bvvs2ketx74 a wgs:Point ;
+	wgs:lat "16.363146978099856" ;
+	wgs:long "48.21031478162389" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874373> wgs:location _:node1bvvs2ketx74 ;
+	rdfs:label "Botschaft von Ungarn"@de ;
+	dbo:address "1., Bankgasse 4-6" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "mission.vie@mfa.gov.hu" ;
+	dbo:phone "(+43 / 1) 537 80 - 300" ;
+	lw:openingHour """Mo-Do 08:00-16:30
+Fr  08:00-14:00""" ;
+	lw:countryName "Ungarn"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874375> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874375" .
+
+_:node1bvvs2ketx75 a wgs:Point ;
+	wgs:lat "16.37260686676521" ;
+	wgs:long "48.20256336936279" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874375> wgs:location _:node1bvvs2ketx75 ;
+	rdfs:label "Botschaft der Republik Östlich des Uruguay"@de ;
+	dbo:address "1., Mahlerstrasse 11/2/2" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "uruaustria@mrree.gub.uy" ;
+	dbo:phone "(+43 / 1) 535 66 36" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Uruguay"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874376> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874376" .
+
+_:node1bvvs2ketx76 a wgs:Point ;
+	wgs:lat "16.312386071791803" ;
+	wgs:long "48.24020247573412" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874376> wgs:location _:node1bvvs2ketx76 ;
+	rdfs:label "Botschaft der Republik Usbekistan"@de ;
+	dbo:address "18., Pötzleinsdorferstrasse 49" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "embassy@usbekistan.at" ;
+	dbo:phone "(+43 / 1) 315 39 94, 95" ;
+	lw:openingHour "Mo - Fr 09:00 - 18:00" ;
+	lw:countryName "Usbekistan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874377> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874377" .
+
+_:node1bvvs2ketx77 a wgs:Point ;
+	wgs:lat "16.380322537370695" ;
+	wgs:long "48.18948463960347" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874377> wgs:location _:node1bvvs2ketx77 ;
+	rdfs:label "Botschaft der Bolivarischen Republik Venezuela"@de ;
+	dbo:address "4., Prinz-Eugen-Straße 72/1" ;
+	rdfs:seeAlso "www.austria.gob.ve" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embajada@austria.gob.ve" ;
+	dbo:phone "(+43 / 1) 712 26 38" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Venezuela"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874378> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874378" .
+
+_:node1bvvs2ketx78 a wgs:Point ;
+	wgs:lat "16.341095893941805" ;
+	wgs:long "48.23965909712372" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874378> wgs:location _:node1bvvs2ketx78 ;
+	rdfs:label "Botschaft der Vereinigten Arabischen Emirate"@de ;
+	dbo:address "19., Chimanistraße 36" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "ViennaEMB@mofaic.gov.ae" ;
+	dbo:phone "(+43 / 1) 368 14 55" ;
+	lw:openingHour "Mo - Fr 09:00 - 16:00" ;
+	lw:countryName "Vereinigte Arabische Emirate"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874379> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874379" .
+
+_:node1bvvs2ketx79 a wgs:Point ;
+	wgs:lat "16.35663875956014" ;
+	wgs:long "48.22289109240585" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874379> wgs:location _:node1bvvs2ketx79 ;
+	rdfs:label "Botschaft der Vereinigten Staaten von Amerika"@de ;
+	dbo:address "9., Boltzmanngasse  16" ;
+	rdfs:seeAlso "https://at.usembassy.gov" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "ViennaUSEmbassy@state.gov" ;
+	dbo:phone "(+43 / 1) 313 39-0" ;
+	lw:openingHour "Mo - Fr 08.30 - 17.00" ;
+	lw:countryName "Vereinigte Staaten"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874380> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874380" .
+
+_:node1bvvs2ketx80 a wgs:Point ;
+	wgs:lat "16.381357214227684" ;
+	wgs:long "48.197429009577355" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874380> wgs:location _:node1bvvs2ketx80 ;
+	rdfs:label "Botschaft des Vereinigten Königreichs Großbritannien und Nordirland"@de ;
+	dbo:address "3., Jauresgasse 12" ;
+	rdfs:seeAlso "www.ukinaustria.fco.gov.uk" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "press@britishembassy.at" ;
+	dbo:phone "(+43 / 1) 716 13 - 0" ;
+	lw:openingHour "Mo - Fr 09.00 - 13.00 und 14.00 - 17.00" ;
+	lw:countryName "Vereinigtes Königreich"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874381> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874381" .
+
+_:node1bvvs2ketx81 a wgs:Point ;
+	wgs:lat "16.34369896857663" ;
+	wgs:long "48.234759855121055" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874381> wgs:location _:node1bvvs2ketx81 ;
+	rdfs:label "Botschaft der Sozialistischen Republik Vietnam"@de ;
+	dbo:address "19., Felix-Mottl-Straße 20" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "mission@vietnamembassy.at" ;
+	dbo:phone "(+43 / 1) 368 07 55" ;
+	lw:countryName "Vietnam"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874382> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874382" .
+
+_:node1bvvs2ketx82 a wgs:Point ;
+	wgs:lat "16.383289646018138" ;
+	wgs:long "48.19901903769097" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874382> wgs:location _:node1bvvs2ketx82 ;
+	rdfs:label "Botschaft der Republik Zypern"@de ;
+	dbo:address "3., Neulinggasse 37 / Top 4" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "office@cyprusembassy.at" ;
+	dbo:phone "(+43 / 1) 513 06 30" ;
+	lw:openingHour "Mo - Fr  09:00 - 17:00" ;
+	lw:countryName "Zypern"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874410> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874410" .
+
+_:node1bvvs2ketx83 a wgs:Point ;
+	wgs:lat "16.357688932945628" ;
+	wgs:long "48.25679606889835" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874410> wgs:location _:node1bvvs2ketx83 ;
+	rdfs:label "Botschaft der Slowakischen Republik"@de ;
+	dbo:address "19., Armbrustergasse 24" ;
+	rdfs:seeAlso "www.mzv.sk/vieden" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "emb.vieden@mzv.sk" ;
+	dbo:phone "(+43 / 1) 318 90 55 - 200" ;
+	lw:openingHour "Mo - Fr 08.00 - 16.00" ;
+	lw:countryName "Slowakei"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874411> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874411" .
+
+_:node1bvvs2ketx84 a wgs:Point ;
+	wgs:lat "16.363548779428154" ;
+	wgs:long "48.215913293884086" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874411> wgs:location _:node1bvvs2ketx84 ;
+	rdfs:label "Botschaft der Republik Slowenien"@de ;
+	dbo:address "9., Kolingasse 12 / 3. Stock" ;
+	rdfs:seeAlso "www.dunaj.veleposlanistvo.si" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "sloembassy.vienna@gov.si" ;
+	dbo:phone "(+43 / 1) 319 11 60" ;
+	lw:openingHour "Mo - Fr 09:00 - 17:00" ;
+	lw:countryName "Slowenien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874412> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874412" .
+
+_:node1bvvs2ketx85 a wgs:Point ;
+	wgs:lat "16.374564213392635" ;
+	wgs:long "48.19172835910015" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874412> wgs:location _:node1bvvs2ketx85 ;
+	rdfs:label "Botschaft des Königreiches Spanien"@de ;
+	dbo:address "4., Argentinierstraße 34" ;
+	rdfs:seeAlso "http://www.exteriores.gob.es/Embajadas/VIENA/" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "emb.viena@maec.es" ;
+	dbo:phone "(+43 / 1) 505 57 88" ;
+	lw:openingHour "Mo - Do 09:00-17:00; Fr 09:00-14:00" ;
+	lw:countryName "Spanien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874214> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874214" .
+
+_:node1bvvs2ketx86 a wgs:Point ;
+	wgs:lat "16.364134847333556" ;
+	wgs:long "48.2142677625221" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874214> wgs:location _:node1bvvs2ketx86 ;
+	rdfs:label "Japanische Botschaft"@de ;
+	dbo:address "1., Heßgasse 6" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "info@wi.mofa.go.jp" ;
+	dbo:phone "(+43 / 1) 531 92 - 0" ;
+	lw:openingHour "Mo - Fr 08:30 - 17:00" ;
+	lw:countryName "Japan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874215> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874215" .
+
+_:node1bvvs2ketx87 a wgs:Point ;
+	wgs:lat "16.380730141537587" ;
+	wgs:long "48.19700927280471" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874215> wgs:location _:node1bvvs2ketx87 ;
+	rdfs:label "Botschaft des Haschemitischen Königreiches Jordanien"@de ;
+	dbo:address "3., Rennweg 17/4" ;
+	rdfs:seeAlso "www.jordanembassy.at" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "info@jordanembassy.at" ;
+	dbo:phone "(+43 / 1) 405 10 25 - 26" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.00" ;
+	lw:countryName "Jordanien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874217> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874217" .
+
+_:node1bvvs2ketx88 a wgs:Point ;
+	wgs:lat "16.37845017303634" ;
+	wgs:long "48.21027481337891" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874217> wgs:location _:node1bvvs2ketx88 ;
+	rdfs:label "Kanadische Botschaft"@de ;
+	dbo:address "1., Laurenzerberg 2/III" ;
+	rdfs:seeAlso "www.kanada.at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "vienn@international.gc.ca" ;
+	dbo:phone "(+43 / 1) 531 38 30 00" ;
+	lw:openingHour """Mo - Fr 08.30 - 12.30
+und 13.30 - 15.30""" ;
+	lw:countryName "Kanada"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874218> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874218" .
+
+_:node1bvvs2ketx89 a wgs:Point ;
+	wgs:lat "16.377570843768783" ;
+	wgs:long "48.19373162737449" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874218> wgs:location _:node1bvvs2ketx89 ;
+	rdfs:label "Botschaft der Republik Kasachstan"@de ;
+	dbo:address "4., Prinz Eugenstr. 32" ;
+	rdfs:seeAlso "www.kazakhstan.at" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embassy@kazakhstan.at" ;
+	dbo:phone "(+43 / 1) 890 80 08 10" ;
+	lw:countryName "Kasachstan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874219> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874219" .
+
+_:node1bvvs2ketx90 a wgs:Point ;
+	wgs:lat "16.36447433477729" ;
+	wgs:long "48.21449925315559" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874219> wgs:location _:node1bvvs2ketx90 ;
+	rdfs:label "Botschaft des Staates Katar"@de ;
+	dbo:address "1., Schottenring 10 (Top 7a,b,c)" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "katar.botschaft@mofa.gov.qa; pm.vienna@mofa.gov.qa" ;
+	dbo:phone "(+43 / 1) 310 49 50" ;
+	lw:countryName "Katar"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874237> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874237" .
+
+_:node1bvvs2ketx91 a wgs:Point ;
+	wgs:lat "16.386601789518114" ;
+	wgs:long "48.20694943877399" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874237> wgs:location _:node1bvvs2ketx91 ;
+	rdfs:label "Botschaft der Kirgisischen Republik"@de ;
+	dbo:address "3., Invalidenstraße 3/8" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "kyremb@inode.at" ;
+	dbo:phone "(+43 / 1) 535 03 79" ;
+	lw:openingHour "Mo - Fr 09.30 - 17.00" ;
+	lw:countryName "Kirgisistan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874238> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874238" .
+
+_:node1bvvs2ketx92 a wgs:Point ;
+	wgs:lat "16.356321425744774" ;
+	wgs:long "48.209282961809066" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874238> wgs:location _:node1bvvs2ketx92 ;
+	rdfs:label "Botschaft der Republik Kolumbien"@de ;
+	dbo:address "1., Stadiongasse 6-8/15" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "eaustria@cancilleria.gov.co" ;
+	dbo:phone "(+43 / 1)  405 42 49" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Kolumbien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874241> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874241" .
+
+_:node1bvvs2ketx93 a wgs:Point ;
+	wgs:lat "16.31193501626823" ;
+	wgs:long "48.19103054049407" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874241> wgs:location _:node1bvvs2ketx93 ;
+	rdfs:label "Botschaft der Demokratischen Volksrepublik Korea"@de ;
+	dbo:address "14., Beckmanngasse 10-12" ;
+	dbo:codeDistrict "1140" ;
+	foaf:mbox "d.v.r.korea.botschaft@chello.at" ;
+	dbo:phone "(+43 / 1) 894 23 13" ;
+	lw:countryName "Korea, Dem. VR"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874242> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874242" .
+
+_:node1bvvs2ketx94 a wgs:Point ;
+	wgs:lat "16.33751680140913" ;
+	wgs:long "48.23300535933024" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874242> wgs:location _:node1bvvs2ketx94 ;
+	rdfs:label "Botschaft der Republik Korea"@de ;
+	dbo:address "18., Gregor-Mendel-Straße 25" ;
+	rdfs:seeAlso "aut.mofat.go.kr/eng/eu/aut/main/index.jsp" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "austria@mofa.go.kr" ;
+	dbo:phone "(+43 / 1) 478 19 91 - 0" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.30 und 13.30 bis 17.00" ;
+	lw:countryName "Korea, Rep."@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874243> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874243" .
+
+_:node1bvvs2ketx95 a wgs:Point ;
+	wgs:lat "16.379532052804286" ;
+	wgs:long "48.190368703639436" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874243> wgs:location _:node1bvvs2ketx95 ;
+	rdfs:label "Botschaft der Republik Kosovo"@de ;
+	dbo:address "4., Goldeggasse 2 Top 15" ;
+	rdfs:seeAlso "http://www.ambasada-ks.net/at" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embassy.austria@rks-gov.net" ;
+	dbo:phone "(+43 / 1) 503 11 77" ;
+	lw:openingHour "Mo - Fr 09:30-12:00 und 13:00-16:00" ;
+	lw:countryName "Kosovo"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874245> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874245" .
+
+_:node1bvvs2ketx96 a wgs:Point ;
+	wgs:lat "16.37830399410494" ;
+	wgs:long "48.19793540987888" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874245> wgs:location _:node1bvvs2ketx96 ;
+	rdfs:label "Botschaft der Republik Kroatien"@de ;
+	dbo:address "3., Rennweg 3" ;
+	rdfs:seeAlso "at.mfa.hr/?mv=579&mh=106" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "croemb.bec@mvep.hr" ;
+	dbo:phone "(+43 / 1) 485 95 24" ;
+	lw:openingHour "Anfragen für Konsulartage (nur Staatsbürger) in Innsbruck, Feldkirch, Salzburg Graz und Linz für 2017 sind an die Konsularabteilung zu richten." ;
+	lw:countryName "Kroatien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874246> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874246" .
+
+_:node1bvvs2ketx97 a wgs:Point ;
+	wgs:lat "16.339998354135" ;
+	wgs:long "48.20552921961897" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874246> wgs:location _:node1bvvs2ketx97 ;
+	rdfs:label "Botschaft der Republik Kuba"@de ;
+	dbo:address "7., Kaiserstrasse 84" ;
+	rdfs:seeAlso "www.cubadiplomatica.cu/austria" ;
+	dbo:codeDistrict "1070" ;
+	foaf:mbox "secembajador@ecuaustria.at" ;
+	dbo:phone "(+43/1) 522 16 48; (+43 / 1) 877 81 98" ;
+	lw:openingHour "Mo - Fr 08.30 - 16.30" ;
+	lw:countryName "Kuba"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874247> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874247" .
+
+_:node1bvvs2ketx98 a wgs:Point ;
+	wgs:lat "16.337281532879587" ;
+	wgs:long "48.25658388274332" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874247> wgs:location _:node1bvvs2ketx98 ;
+	rdfs:label "Botschaft des Staates Kuwait"@de ;
+	dbo:address "19., Strassergasse 32" ;
+	rdfs:seeAlso "https://www.pm.gov.kw/home.aspx" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "kuwait.embassy.vienna@speed.at" ;
+	dbo:phone "(+43 / 1) 405 56 46" ;
+	lw:countryName "Kuwait"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874248> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874248" .
+
+_:node1bvvs2ketx99 a wgs:Point ;
+	wgs:lat "16.29251554926863" ;
+	wgs:long "48.249910947271985" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874248> wgs:location _:node1bvvs2ketx99 ;
+	rdfs:label "Botschaft der Demokratischen Volksrepublik Laos"@de ;
+	dbo:address "18., Sommerhaidenweg 43" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "laoembassyinvienna@hotmail.com" ;
+	dbo:phone "(+43 / 1) 890 2319 - 11, (Konsulat - 13)" ;
+	lw:openingHour "Mo-Fr 09.00 - 12.00 und 14.00 - 17.00" ;
+	lw:countryName "Laos"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874251> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874251" .
+
+_:node1bvvs2ketx100 a wgs:Point ;
+	wgs:lat "16.332591916544878" ;
+	wgs:long "48.252318587794164" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874251> wgs:location _:node1bvvs2ketx100 ;
+	rdfs:label "Botschaft der Republik Lettland"@de ;
+	dbo:address "19., Stefan Esders Platz 4" ;
+	rdfs:seeAlso "http://www.mk.gov.lv/en" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "embassy.austria@mfa.gov.lv" ;
+	dbo:phone "(+43 / 1) 403 31 12" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Lettland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874252> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874252" .
+
+_:node1bvvs2ketx101 a wgs:Point ;
+	wgs:lat "16.361798374734697" ;
+	wgs:long "48.21162440756489" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874252> wgs:location _:node1bvvs2ketx101 ;
+	rdfs:label "Botschaft der Libanesischen Republik"@de ;
+	dbo:address "1., Oppolzergasse 6/3" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "embassy.lebanon@inode.at" ;
+	dbo:phone "(+43 / 1) 533 88 21 - 22" ;
+	lw:openingHour "Mo - Fr 08.30 - 15.00" ;
+	lw:countryName "Libanon"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874253> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874253" .
+
+_:node1bvvs2ketx102 a wgs:Point ;
+	wgs:lat "16.341360679117784" ;
+	wgs:long "48.23812144002891" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874253> wgs:location _:node1bvvs2ketx102 ;
+	rdfs:label "Libysche Botschaft"@de ;
+	dbo:address "19., Blaasstrasse 33" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "ambassadorsoffice@libyanembassyvienna.at" ;
+	dbo:phone "(+43 / 1) 367 76 39" ;
+	lw:openingHour "Mo - Do 09:00 - 15:00, Fr 09:00 - 12:30" ;
+	lw:countryName "Libyen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874254> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874254" .
+
+_:node1bvvs2ketx103 a wgs:Point ;
+	wgs:lat "16.362543004548076" ;
+	wgs:long "48.20930624792206" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874254> wgs:location _:node1bvvs2ketx103 ;
+	rdfs:label "Botschaft des Fürstentums Liechtenstein"@de ;
+	dbo:address "1., Löwelstraße 8/7" ;
+	rdfs:seeAlso "www.wien.liechtenstein.li" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "info@vie.llv.li" ;
+	dbo:phone "(+43 / 1) 535 92 11" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.00 und 14.00 - 17.00" ;
+	lw:countryName "Liechtenstein"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874255> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874255" .
+
+_:node1bvvs2ketx104 a wgs:Point ;
+	wgs:lat "16.394213970873015" ;
+	wgs:long "48.20672766523828" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874255> wgs:location _:node1bvvs2ketx104 ;
+	rdfs:label "Botschaft der Republik Litauen"@de ;
+	dbo:address "3., Löwengasse 47/4" ;
+	rdfs:seeAlso "http://at.mfa.lt" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "amb.at@urm.lt" ;
+	dbo:phone "(+43 / 1) 718 54 67" ;
+	lw:openingHour "Mo - Fr 09.00 - 17.00" ;
+	lw:countryName "Litauen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874694> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874694" .
+
+_:node1bvvs2ketx105 a wgs:Point ;
+	wgs:lat "16.37360851837002" ;
+	wgs:long "48.20212561792566" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874694> wgs:location _:node1bvvs2ketx105 ;
+	rdfs:label "Botschaft der islamischen Republik Afghanistan"@de ;
+	dbo:address "1., Mahlerstrasse 14, Top 1" ;
+	rdfs:seeAlso "www.afghanistan-vienna.org" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "embassy@afghanistan-vienna.org" ;
+	dbo:phone "(+43 / 1) 402 10 06" ;
+	lw:openingHour """Notruf konsularische Angelegenheiten: Tel. (+43/(0)1)) 524 78 06-16, (+43) (0)676 326 84 38; 
+Konsulat und Visaabteilung (+43/  (1)) 524 78 06""" ;
+	lw:countryName "Afghanistan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874695> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874695" .
+
+_:node1bvvs2ketx106 a wgs:Point ;
+	wgs:lat "16.35523925048777" ;
+	wgs:long "48.25028081874614" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874695> wgs:location _:node1bvvs2ketx106 ;
+	rdfs:label "Botschaft der Arabischen Republik Ägypten"@de ;
+	dbo:address "19., Hohe Warte 50 - 54" ;
+	rdfs:seeAlso "www.egyptembassyvienna.at" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "egyptembassyvienna@egyptembassyvienna.at" ;
+	dbo:phone "(+43 / 1) 370 81 04" ;
+	lw:openingHour "Mo - Fr 09.00 - 13:00 und 14.00 - 17.00" ;
+	lw:countryName "Ägypten"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874696> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874696" .
+
+_:node1bvvs2ketx107 a wgs:Point ;
+	wgs:lat "16.376267559225994" ;
+	wgs:long "48.19554880669337" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874696> wgs:location _:node1bvvs2ketx107 ;
+	rdfs:label "Botschaft der Republik Albanien"@de ;
+	dbo:address "4., Prinz-Eugen-Straße 18/1/5" ;
+	rdfs:seeAlso "http://www.kryeministria.al" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "embassy.vienna@mfa.gov.al" ;
+	dbo:phone "(+43 / 1) 328 86 56" ;
+	lw:countryName "Albanien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874697> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874697" .
+
+_:node1bvvs2ketx108 a wgs:Point ;
+	wgs:lat "16.346437185437125" ;
+	wgs:long "48.24430323755859" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874697> wgs:location _:node1bvvs2ketx108 ;
+	rdfs:label "Botschaft der Demokratischen Volksrepublik Algerien"@de ;
+	dbo:address "19., Rudolfinergasse 18" ;
+	rdfs:seeAlso "www.algerische-botschaft.at" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "algerianembassy.vienna@algerische-botschaft.at" ;
+	dbo:phone "(+43 / 1) 369 88 53 - 55" ;
+	lw:openingHour "Mo - Fr   09:00 - 16:00" ;
+	lw:countryName "Algerien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874698> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874698" .
+
+_:node1bvvs2ketx109 a wgs:Point ;
+	wgs:lat "16.37001797575267" ;
+	wgs:long "48.201928794764925" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874698> wgs:location _:node1bvvs2ketx109 ;
+	rdfs:label "Botschaft des Fürstentums Andorra"@de ;
+	dbo:address "1., Kärntner Ring 2A/13" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "office@ambaixada-andorra.at" ;
+	dbo:phone "(+43 / 1) 961 090 920" ;
+	lw:openingHour "Mo - Fr 09:00 - 13:00 und 15:00 - 18:00 Uhr" ;
+	lw:countryName "Andorra"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874699> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874699" .
+
+_:node1bvvs2ketx110 a wgs:Point ;
+	wgs:lat "16.37405233554433" ;
+	wgs:long "48.2041397656852" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874699> wgs:location _:node1bvvs2ketx110 ;
+	rdfs:label "Botschaft der Republik Angola"@de ;
+	dbo:address "1., Seilerstätte 15/1/10 - 11" ;
+	rdfs:seeAlso "www.embangola.at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "embangola.viena@embangola.at" ;
+	dbo:phone "(+43 / 1) 718 74 88" ;
+	lw:openingHour """Mo - Do: 08.30 - 12.30 und 13.30 - 16.30
+Fr: 09.00 - 12.30 und 13.30 - 15.30""" ;
+	lw:countryName "Angola"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874700> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874700" .
+
+_:node1bvvs2ketx111 a wgs:Point ;
+	wgs:lat "16.309648875219164" ;
+	wgs:long "48.18827820694064" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874700> wgs:location _:node1bvvs2ketx111 ;
+	rdfs:label "Botschaft der Republik Armenien"@de ;
+	dbo:address "14., Hadikgasse 28" ;
+	dbo:codeDistrict "1140" ;
+	foaf:mbox "office@armembassy.at" ;
+	dbo:phone "(+43 / 1) 522 74 79 Ext. 100/102" ;
+	lw:openingHour """Mo - Fr 09:00 - 18:00
+Konsularische Angelegenheiten Mo, Mi und Fr 10:00 - 13:00""" ;
+	lw:countryName "Armenien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874701> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874701" .
+
+_:node1bvvs2ketx112 a wgs:Point ;
+	wgs:lat "16.28566945590798" ;
+	wgs:long "48.18976450991479" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874701> wgs:location _:node1bvvs2ketx112 ;
+	rdfs:label "Botschaft der Republik Aserbaidschan"@de ;
+	dbo:address "13., Hügelgasse 2" ;
+	dbo:codeDistrict "1130" ;
+	foaf:mbox "vienna@mission.mfa.gov.az" ;
+	dbo:phone "(+43 / 1) 403 13 22" ;
+	lw:openingHour "Mo - Fr 09.00 - 18.00" ;
+	lw:countryName "Aserbaidschan"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874703> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874703" .
+
+_:node1bvvs2ketx113 a wgs:Point ;
+	wgs:lat "16.372760497325725" ;
+	wgs:long "48.19841889907695" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874703> wgs:location _:node1bvvs2ketx113 ;
+	rdfs:label "Botschaft von Australien"@de ;
+	dbo:address "4., Mattiellistraße 2" ;
+	rdfs:seeAlso "www.austria.embassy.gov.au" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "austemb@aon.at" ;
+	dbo:phone "(+43 / 1) 506 74 - 0" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.00" ;
+	lw:countryName "Australien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874704> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874704" .
+
+_:node1bvvs2ketx114 a wgs:Point ;
+	wgs:lat "16.34956036517135" ;
+	wgs:long "48.24266904267245" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874704> wgs:location _:node1bvvs2ketx114 ;
+	rdfs:label "Botschaft der Volksrepublik Bangladesch"@de ;
+	dbo:address "19., Hofzeile 4" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "mission.vienna@mofa.gov.bd" ;
+	dbo:phone "+43 (1)368 1111" ;
+	lw:openingHour "Mo - Fr 10 - 12 Uhr" ;
+	lw:countryName "Bangladesch"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874261> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874261" .
+
+_:node1bvvs2ketx115 a wgs:Point ;
+	wgs:lat "16.308506661081772" ;
+	wgs:long "48.242926708594624" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874261> wgs:location _:node1bvvs2ketx115 ;
+	rdfs:label "Honorarkonsulat der Republik Madagaskar, Wien"@de ;
+	dbo:address "18., Pötzleinsdorfer Straße 96" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "thomas.krapfenbauer@goldenerbrunnen.at" ;
+	dbo:phone "(+43 / (1) 478 15 22" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Madagaskar"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874262> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874262" .
+
+_:node1bvvs2ketx116 a wgs:Point ;
+	wgs:lat "16.345474928347354" ;
+	wgs:long "48.2369922686776" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874262> wgs:location _:node1bvvs2ketx116 ;
+	rdfs:label "Honorarkonsulat der Republik Malediven, Wien"@de ;
+	dbo:address "19., Weimarer Straße 104" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "einkauf@weidler.com" ;
+	dbo:phone "(+43 / 1) 369 66 44-0" ;
+	lw:openingHour """Mo - Do 08.00 - 17.00 
+Fr 08.00 - 12.30""" ;
+	lw:countryName "Malediven"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874263> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874263" .
+
+_:node1bvvs2ketx117 a wgs:Point ;
+	wgs:lat "16.353386546598152" ;
+	wgs:long "48.21123073371896" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874263> wgs:location _:node1bvvs2ketx117 ;
+	rdfs:label "Honorarkonsulat der Republik Mali, Wien"@de ;
+	dbo:address "8., Lenaugasse 19" ;
+	dbo:codeDistrict "1080" ;
+	foaf:mbox "info@konsulatmali.at" ;
+	dbo:phone "(+ 43 / 1) 402 68 61 - 0" ;
+	lw:openingHour "Mo, Fr, Sa 12.30 - 14.30" ;
+	lw:countryName "Mali"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874265> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874265" .
+
+_:node1bvvs2ketx118 a wgs:Point ;
+	wgs:lat "16.383384882392523" ;
+	wgs:long "48.20164366090468" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874265> wgs:location _:node1bvvs2ketx118 ;
+	rdfs:label "Honorarkonsulat der Republik Malta; Wien, NÖ u. Burgenland"@de ;
+	dbo:address "3., Reisnerstrasse 13, Top 13" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "h.moser@delgrado.at" ;
+	dbo:phone "(+43 / (0) 664) 201 53 30" ;
+	lw:openingHour "Mo - Fr (nach telefonischer Vereinbarung)" ;
+	lw:countryName "Malta"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874268> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874268" .
+
+_:node1bvvs2ketx119 a wgs:Point ;
+	wgs:lat "16.333286894100194" ;
+	wgs:long "48.25231204162271" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874268> wgs:location _:node1bvvs2ketx119 ;
+	rdfs:label "Honorarkonsulat der Republik Mauritius, Wien"@de ;
+	dbo:address "19., Paul Ehrlichgasse 25, Top 8" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "dr.freissler@mauritius-consulate.com" ;
+	dbo:phone "(+43 / 1) 320 8737" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Mauritius"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874273> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874273" .
+
+_:node1bvvs2ketx120 a wgs:Point ;
+	wgs:lat "16.363120565180417" ;
+	wgs:long "48.17550498422" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874273> wgs:location _:node1bvvs2ketx120 ;
+	rdfs:label "Honorarkonsulat der Mongolei, Wien"@de ;
+	dbo:address "10., Buchengasse 131/43" ;
+	dbo:codeDistrict "1100" ;
+	foaf:mbox "josef_mayer@chello.at" ;
+	dbo:phone "(+43 / 1) 604 3421" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Mongolei"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874276> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874276" .
+
+_:node1bvvs2ketx121 a wgs:Point ;
+	wgs:lat "16.353962450447668" ;
+	wgs:long "48.253335803850476" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874276> wgs:location _:node1bvvs2ketx121 ;
+	rdfs:label "Honorarkonsulat der Republik der Union Myanmar, Wien"@de ;
+	dbo:address "19., Grinzingerstrasse 72" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "myanmar@PS19.com" ;
+	dbo:phone "(+43 / 1) 368 4525" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Myanmar"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874278> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874278" .
+
+_:node1bvvs2ketx122 a wgs:Point ;
+	wgs:lat "16.317507249349458" ;
+	wgs:long "48.13448877245831" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874278> wgs:location _:node1bvvs2ketx122 ;
+	rdfs:label "Honorargeneralkonsulat der demokratischen Bundesrepublik Nepal, Wien"@de ;
+	dbo:address "23., Akaziengasse 30" ;
+	dbo:codeDistrict "1230" ;
+	foaf:mbox "consulat@nepal.at" ;
+	dbo:phone "(+43 / 1) 698 1617" ;
+	lw:openingHour "Mo 09.00 - 14.00, Mi 13.00 - 16.00, Do 11.00 - 16.00" ;
+	lw:countryName "Nepal"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874282> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874282" .
+
+_:node1bvvs2ketx123 a wgs:Point ;
+	wgs:lat "16.371607303313848" ;
+	wgs:long "48.20157209407058" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874282> wgs:location _:node1bvvs2ketx123 ;
+	rdfs:label "Honorarkonsulat der Republik Niger, Wien"@de ;
+	dbo:address "1., Kärntner Ring 10" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "office@ra-krebs.at" ;
+	dbo:phone "+43 (0) 150 576 22" ;
+	lw:openingHour "Mo - Do 8:00 - 18:00, Fr 8:00 - 13:00" ;
+	lw:countryName "Niger"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874285> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874285" .
+
+_:node1bvvs2ketx124 a wgs:Point ;
+	wgs:lat "16.36151390713445" ;
+	wgs:long "48.21184894047927" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874285> wgs:location _:node1bvvs2ketx124 ;
+	rdfs:label "Honorargeneralkonsulat des Königreiches Norwegen, Wien"@de ;
+	dbo:address "1., Universitätsring 6" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "k.klausner@kwizda.at" ;
+	dbo:phone "(+43 / 1) 599 77 10 - 252" ;
+	lw:openingHour "Mo - Fr 10.00 - 13.00" ;
+	lw:countryName "Norwegen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874293> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874293" .
+
+_:node1bvvs2ketx125 a wgs:Point ;
+	wgs:lat "16.36958705834375" ;
+	wgs:long "48.217549885863946" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874293> wgs:location _:node1bvvs2ketx125 ;
+	rdfs:label "Honorarkonsulat der Republik Mosambik, Wien"@de ;
+	dbo:address "1., Schottenring 35" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "mosambik@einereisewert.at" ;
+	dbo:phone "(+43 / 01) 406 36 05 12;" ;
+	lw:openingHour "Mo - Fr 09:30  - 12:30 Uhr" ;
+	lw:countryName "Mosambik"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874294> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874294" .
+
+_:node1bvvs2ketx126 a wgs:Point ;
+	wgs:lat "16.354379033692112" ;
+	wgs:long "48.200013385001114" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874294> wgs:location _:node1bvvs2ketx126 ;
+	rdfs:label "Honorarkonsulat der Republik der Philippinen; Wien"@de ;
+	dbo:address "7., Mariahilferstrasse 36/6" ;
+	dbo:codeDistrict "1070" ;
+	foaf:mbox "office@hohenberg-law.at" ;
+	dbo:phone "(+43 / (1)) 961 66 11" ;
+	lw:openingHour "Mo-Fr 09:00 - 15:00" ;
+	lw:countryName "Philippinen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874299> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874299" .
+
+_:node1bvvs2ketx127 a wgs:Point ;
+	wgs:lat "16.2882929760292" ;
+	wgs:long "48.18724798105088" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874299> wgs:location _:node1bvvs2ketx127 ;
+	rdfs:label "Honorarkonsulat der Republik Sambia, Wien"@de ;
+	dbo:address "13., Hietzinger Hauptstraße 46" ;
+	rdfs:seeAlso "www.sambia.co.at" ;
+	dbo:codeDistrict "1130" ;
+	foaf:mbox "office@sambia.co.at" ;
+	dbo:phone "(+43 / 1) 503 59 79" ;
+	lw:openingHour """Mo - Do 09.00 - 17.00, Fr 09.00 - 14.00
+nur nach telefonischer Vereinbarung""" ;
+	lw:countryName "Sambia"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874300> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874300" .
+
+_:node1bvvs2ketx128 a wgs:Point ;
+	wgs:lat "16.338968275716976" ;
+	wgs:long "48.23280181693848" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874300> wgs:location _:node1bvvs2ketx128 ;
+	rdfs:label "Honorarkonsulat von Samoa, Wien"@de ;
+	dbo:address "18., Colloredogasse 31" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "torben.roepstorff@aon.at" ;
+	dbo:phone "(+43 / 1 ) 47 00 510" ;
+	lw:countryName "Samoa"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874414> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874414" .
+
+_:node1bvvs2ketx129 a wgs:Point ;
+	wgs:lat "16.366240784267234" ;
+	wgs:long "48.21486014833319" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874414> wgs:location _:node1bvvs2ketx129 ;
+	rdfs:label "Honorarkonsulat von Sankt Vincent und die Grenadinen, Wien"@de ;
+	dbo:address "1., Börsegasse 11/65" ;
+	rdfs:seeAlso "www.svgconsulate.at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "consulate@svgconsulate.at" ;
+	dbo:phone "(+43 / 1) 533 04 15 99" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "St. Vincent und die Grenadinen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874417> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874417" .
+
+_:node1bvvs2ketx130 a wgs:Point ;
+	wgs:lat "16.355493692553313" ;
+	wgs:long "48.2234919444664" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874417> wgs:location _:node1bvvs2ketx130 ;
+	rdfs:label "Honorarkonsulat des Königreiches Swasiland, Wien"@de ;
+	dbo:address "9., Widerhoferplatz 4" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "herbert.vohryzka@chello.at" ;
+	dbo:phone "(+43 / 1) 319 11 38" ;
+	lw:openingHour "Mo - Do 08.00 - 17.00, Fr 08.00 - 14.00" ;
+	lw:countryName "Swasiland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874421> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874421" .
+
+_:node1bvvs2ketx131 a wgs:Point ;
+	wgs:lat "16.4457059959406" ;
+	wgs:long "48.23551792278256" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874421> wgs:location _:node1bvvs2ketx131 ;
+	rdfs:label "Honorarkonsulat der Republik Togo, Wien"@de ;
+	dbo:address "22., Schachnerstraße 7" ;
+	rdfs:seeAlso "www.konsulat-togo-osterreich.org" ;
+	dbo:codeDistrict "1220" ;
+	foaf:mbox "erich.szabo@gmail.com" ;
+	dbo:phone "(+43 / 1) 203 1490" ;
+	lw:openingHour "Telefonische Vereinbarung" ;
+	lw:countryName "Togo"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874424> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874424" .
+
+_:node1bvvs2ketx132 a wgs:Point ;
+	wgs:lat "16.25575524513167" ;
+	wgs:long "48.206292377062205" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874424> wgs:location _:node1bvvs2ketx132 ;
+	rdfs:label "Honorargeneralkonsulat der Republik Tunesien, Wien"@de ;
+	dbo:address "14., Hüttelbergstrasse 23A" ;
+	dbo:codeDistrict "1140" ;
+	foaf:mbox "mail@society.at" ;
+	dbo:phone "(+43 / (1) 914 77 440" ;
+	lw:openingHour "nur nach telefonischer Voranmeldung" ;
+	lw:countryName "Tunesien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874426> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874426" .
+
+_:node1bvvs2ketx133 a wgs:Point ;
+	wgs:lat "16.29651437636287" ;
+	wgs:long "48.18659873510865" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874426> wgs:location _:node1bvvs2ketx133 ;
+	rdfs:label "Generalkonsulat der Republik Türkei; Wien"@de ;
+	dbo:address "13., Hietzinger Hauptstrasse 29" ;
+	rdfs:seeAlso "www.viyana.bk.mfa.gov.tr/default.aspx" ;
+	dbo:codeDistrict "1130" ;
+	foaf:mbox "konsulat.wien@mfa.gov.tr" ;
+	dbo:phone "(+43 / 1) 877 71 81" ;
+	lw:openingHour """Türk. Staatsbürger Mo - Fr, außer AT/TR Feiertage: 09:00 - 12:00.
+Visaanträge : Mo - Fr, außer AT/TR Feiertage: 11:00-12:00.""" ;
+	lw:countryName "Türkei"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874302> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874302" .
+
+_:node1bvvs2ketx134 a wgs:Point ;
+	wgs:lat "16.36877905852149" ;
+	wgs:long "48.21535641617512" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874302> wgs:location _:node1bvvs2ketx134 ;
+	rdfs:label "Honorargeneralkonsulat der Republik San Marino, Wien"@de ;
+	dbo:address "1., Esslinggasse 5" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "sanmarino@pfka.eu" ;
+	dbo:phone "(+43 / 1) 586 21 80" ;
+	lw:openingHour "Mo - Fr 09.00 - 18.00" ;
+	lw:countryName "San Marino"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874303> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874303" .
+
+_:node1bvvs2ketx135 a wgs:Point ;
+	wgs:lat "16.36760512383866" ;
+	wgs:long "48.183792983388145" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874303> wgs:location _:node1bvvs2ketx135 ;
+	rdfs:label "Honorarkonsulat von Sao Tomé, Wien"@de ;
+	dbo:address "5., Margaretengürtel 1a-3a" ;
+	dbo:codeDistrict "1050" ;
+	foaf:mbox "gerhard.schiesser@schiesser.at" ;
+	dbo:phone "(+43 / 1) 545 16 53 / 50 DW" ;
+	lw:openingHour """Mo - Do 08.00 - 16.30
+Fr 08.00 - 12.00""" ;
+	lw:countryName "São Tomé und Príncipe"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874307> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874307" .
+
+_:node1bvvs2ketx136 a wgs:Point ;
+	wgs:lat "16.36206167816954" ;
+	wgs:long "48.199103771174535" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874307> wgs:location _:node1bvvs2ketx136 ;
+	rdfs:label "Honorarkonsulat der Republik Senegal, Wien"@de ;
+	dbo:address "6., Girardigasse 6" ;
+	dbo:codeDistrict "1060" ;
+	foaf:mbox "konsulat.senegal@gmail.com" ;
+	dbo:phone "(+43 / 1) 512 85 76" ;
+	lw:openingHour """Do 12.00 - 16.00
+Visa auf Anfrage.""" ;
+	lw:countryName "Senegal"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874309> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874309" .
+
+_:node1bvvs2ketx137 a wgs:Point ;
+	wgs:lat "16.372228217423494" ;
+	wgs:long "48.19785735297309" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874309> wgs:location _:node1bvvs2ketx137 ;
+	rdfs:label "Honorargeneralkonsulat der Republik Seychellen; Wien"@de ;
+	dbo:address "4., Argentinierstrasse 1 / Eingang Gußhausstraße 12" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "mission.seychelles@pisec.com" ;
+	dbo:phone "(+43 / 1) 505 32 15 Serie" ;
+	lw:openingHour "nach Vereinbarung" ;
+	lw:countryName "Seychellen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874310> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874310" .
+
+_:node1bvvs2ketx138 a wgs:Point ;
+	wgs:lat "16.333601353522415" ;
+	wgs:long "48.192452531239006" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874310> wgs:location _:node1bvvs2ketx138 ;
+	rdfs:label "Honorargeneralkonsulat der Republik Sierra Leone, Wien"@de ;
+	dbo:address "15., Talgasse 11 / 7" ;
+	dbo:codeDistrict "1150" ;
+	dbo:phone "(+43 / 1) 894 058 220" ;
+	lw:openingHour "Di und Do 10.00 - 12.00 nach telefonischer Vereinbarung" ;
+	lw:countryName "Sierra Leone"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874311> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874311" .
+
+_:node1bvvs2ketx139 a wgs:Point ;
+	wgs:lat "16.383601888361845" ;
+	wgs:long "48.20500261584864" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874311> wgs:location _:node1bvvs2ketx139 ;
+	rdfs:label "Honorargeneralkonsulat von Singapur, Wien"@de ;
+	dbo:address "3., Am Stadtpark 9 (Haus der Raiffeisen Bank International AG)" ;
+	rdfs:seeAlso "www.mfa.gov.sg/vienna" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "singapore@honconsulategeneral.at" ;
+	dbo:phone "(+43 / 1) 71 707-1250 (Frau Susanne Pabisch)" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.00" ;
+	lw:countryName "Singapur"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874312> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874312" .
+
+_:node1bvvs2ketx140 a wgs:Point ;
+	wgs:lat "16.3744859291853" ;
+	wgs:long "48.19909579234285" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874312> wgs:location _:node1bvvs2ketx140 ;
+	rdfs:label "Honorargeneralkonsulat von Barbados, Wien"@de ;
+	dbo:address "4., Brucknerstraße 4" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "kurt.mach@meduniwien.ac.at" ;
+	dbo:phone "(+43 / 1) 505 74  55" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.00" ;
+	lw:countryName "Barbados"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874315> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874315" .
+
+_:node1bvvs2ketx141 a wgs:Point ;
+	wgs:lat "16.34822526675489" ;
+	wgs:long "48.20436258684097" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874315> wgs:location _:node1bvvs2ketx141 ;
+	rdfs:label "Honorarkonsulat der Republik Benin, Wien"@de ;
+	dbo:address "7., Burggasse 60" ;
+	dbo:codeDistrict "1070" ;
+	foaf:mbox "wagner@reiwag.at" ;
+	dbo:phone "(+43 / 1) 523 93 00" ;
+	lw:openingHour "Mo - Fr 09.00 - 18.00" ;
+	lw:countryName "Benin"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874318> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874318" .
+
+_:node1bvvs2ketx142 a wgs:Point ;
+	wgs:lat "16.36630723167292" ;
+	wgs:long "48.20910621002803" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874318> wgs:location _:node1bvvs2ketx142 ;
+	rdfs:label "Honorarkonsulat von Bosnien und Herzegowina, Wien"@de ;
+	dbo:address "1., Herrengasse 6-8" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "friedhelm.boschert@vbi.at" ;
+	dbo:phone "(+43) (0) 50 4004-3903" ;
+	lw:openingHour "nach Vereinbarung" ;
+	lw:countryName "Bosnien und Herzegowina"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874319> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874319" .
+
+_:node1bvvs2ketx143 a wgs:Point ;
+	wgs:lat "16.3645815501428" ;
+	wgs:long "48.199912380759955" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874319> wgs:location _:node1bvvs2ketx143 ;
+	rdfs:label "Honorarkonsulat der Republik Botsuana, Wien"@de ;
+	dbo:address "6., Linke Wienzeile 4" ;
+	dbo:codeDistrict "1060" ;
+	foaf:mbox "meixner@meixner.com" ;
+	dbo:phone "(+43 / 1) 587 96 16" ;
+	lw:openingHour "Mo, Mi, Fr 09.00 - 13.00" ;
+	lw:countryName "Botsuana"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874323> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874323" .
+
+_:node1bvvs2ketx144 a wgs:Point ;
+	wgs:lat "16.34158523702821" ;
+	wgs:long "48.193245444685346" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874323> wgs:location _:node1bvvs2ketx144 ;
+	rdfs:label "Honorargeneralkonsulat von Burkina Faso; Wien"@de ;
+	dbo:address "6., Mittelgasse 16, (Postfach 19)" ;
+	dbo:codeDistrict "1060" ;
+	foaf:mbox "konsulat-burkinafaso@oejab.at" ;
+	dbo:phone "(+43 / 1) 597 97 35" ;
+	lw:openingHour "Mo - Fr 08.30 - 11.30" ;
+	lw:countryName "Burkina Faso"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874324> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874324" .
+
+_:node1bvvs2ketx145 a wgs:Point ;
+	wgs:lat "16.339320632774072" ;
+	wgs:long "48.255291444114576" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874324> wgs:location _:node1bvvs2ketx145 ;
+	rdfs:label "Honorarkonsulat der Republik Burundi, Wien"@de ;
+	dbo:address "19., Strassergasse 25" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "christian.gutmann@schoellerbank.at" ;
+	dbo:phone "(+43 / (0) 699) 100 26 583" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Burundi"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874325> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874325" .
+
+_:node1bvvs2ketx146 a wgs:Point ;
+	wgs:lat "16.294448145909723" ;
+	wgs:long "48.23108023516658" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874325> wgs:location _:node1bvvs2ketx146 ;
+	rdfs:label "Honorarkonsulat der Republik Cabo Verde, Wien"@de ;
+	dbo:address "17., Dornbacher Straße 89" ;
+	rdfs:seeAlso "www.konsulat-kapverde.meixner.at" ;
+	dbo:codeDistrict "1170" ;
+	foaf:mbox "konsulat-kapverde@Meixner.at" ;
+	dbo:phone "(+43 / 1) 489 78 82" ;
+	lw:openingHour """Mo und Mi 08.30 - 10.30
+sowie täglich nach Vereinbarung""" ;
+	lw:countryName "Cabo Verde"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874330> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874330" .
+
+_:node1bvvs2ketx147 a wgs:Point ;
+	wgs:lat "16.349045641934847" ;
+	wgs:long "48.242069800256836" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874330> wgs:location _:node1bvvs2ketx147 ;
+	rdfs:label "Honorarkonsulat der Republik Côte d'Ivoire, Wien"@de ;
+	dbo:address "19., Billrothstraße 74" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "marcel.landesmann@gutmann.at" ;
+	dbo:phone "(+43 (0)) 664 969 51 88" ;
+	lw:openingHour "Termin nach Vereinbarung" ;
+	lw:countryName "Côte d'Ivoire"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874339> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874339" .
+
+_:node1bvvs2ketx148 a wgs:Point ;
+	wgs:lat "16.36151390713445" ;
+	wgs:long "48.21184894047927" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874339> wgs:location _:node1bvvs2ketx148 ;
+	rdfs:label "Honorargeneralkonsulat des Königreiches Dänemark; Wien"@de ;
+	dbo:address "1., Universitätsring 6" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "rp.kwizda@kwizda.at" ;
+	dbo:phone "(+43) 0599 77 - 0" ;
+	lw:countryName "Dänemark"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874342> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874342" .
+
+_:node1bvvs2ketx149 a wgs:Point ;
+	wgs:lat "16.311402301395145" ;
+	wgs:long "48.194042970255595" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874342> wgs:location _:node1bvvs2ketx149 ;
+	rdfs:label "Honorarkonsulat von Dschibuti, Wien"@de ;
+	dbo:address "14., Reinlgasse 5-9" ;
+	dbo:codeDistrict "1140" ;
+	foaf:mbox "gf@starbeg.at" ;
+	dbo:phone "(+43 / 1) 982 26 28, 982 23 57" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Dschibuti"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874343> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874343" .
+
+_:node1bvvs2ketx150 a wgs:Point ;
+	wgs:lat "16.37047176789602" ;
+	wgs:long "48.20920450316605" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874343> wgs:location _:node1bvvs2ketx150 ;
+	rdfs:label "Generalkonsulat der Republik Ecuador"@de ;
+	dbo:address "1., Goldschmiedgasse 10/2/201+202" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "consular@ecuadorvienna.at" ;
+	dbo:phone "(+43 / 1) 890 44 34" ;
+	lw:openingHour "Mo - Fr 08.30 - 13.00 und 14.00 - 17.30" ;
+	lw:countryName "Ecuador"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874345> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874345" .
+
+_:node1bvvs2ketx151 a wgs:Point ;
+	wgs:lat "16.380101965599824" ;
+	wgs:long "48.20909815488299" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874345> wgs:location _:node1bvvs2ketx151 ;
+	rdfs:label "Honorarkonsulat der Republik El Salvador, Wien"@de ;
+	dbo:address "1., Dominikanerbastei 10" ;
+	rdfs:seeAlso "www.ssfp-law.at" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "Fuereder@ssfp-law.at" ;
+	dbo:phone "+43 (1) 512 14 45" ;
+	lw:openingHour "Mo - Do 08:00 - 18:00 und Fr 08:00-16:00" ;
+	lw:countryName "El Salvador"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874346> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874346" .
+
+_:node1bvvs2ketx152 a wgs:Point ;
+	wgs:lat "16.40005713917983" ;
+	wgs:long "48.19655101701903" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874346> wgs:location _:node1bvvs2ketx152 ;
+	rdfs:label "Honorarkonsulat des Staates Eritrea, Wien"@de ;
+	dbo:address "3., Rabengasse 2-10/62/2" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "syoum2@hotmail.com" ;
+	dbo:phone "(+43 / 1) 713 19 00" ;
+	lw:countryName "Eritrea"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874348> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874348" .
+
+_:node1bvvs2ketx153 a wgs:Point ;
+	wgs:lat "16.377149433789373" ;
+	wgs:long "48.18985885594685" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874348> wgs:location _:node1bvvs2ketx153 ;
+	rdfs:label "Honorarkonsulat der Republik Estland; Wien"@de ;
+	dbo:address "4., Goldeggasse 16" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "rainer@henn-holding.at" ;
+	dbo:phone "(+43 / 1) 503 08 08 - 30" ;
+	lw:openingHour "Mo - Mi 10.00 - 12.00 und 15.00 - 17.00, Fr  10.00 - 12.00" ;
+	lw:countryName "Estland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874350> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874350" .
+
+_:node1bvvs2ketx154 a wgs:Point ;
+	wgs:lat "16.335041038840043" ;
+	wgs:long "48.1802658521863" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874350> wgs:location _:node1bvvs2ketx154 ;
+	rdfs:label "Honorarkonsulat der Republik Finnland, Wien"@de ;
+	dbo:address "12., Bendlgasse 16" ;
+	dbo:codeDistrict "1120" ;
+	foaf:mbox "ferdinand@auersperg.eu" ;
+	dbo:phone "(+43 / 1) 523 35 00 21" ;
+	lw:openingHour "Mo - Fr 09.00 - 16.00" ;
+	lw:countryName "Finnland"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874353> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874353" .
+
+_:node1bvvs2ketx155 a wgs:Point ;
+	wgs:lat "16.373901538913174" ;
+	wgs:long "48.21237657636775" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874353> wgs:location _:node1bvvs2ketx155 ;
+	rdfs:label "Honorarkonsulat von Grenada, Wien"@de ;
+	dbo:address "1., Marc-Aurel-Strasse 10-12" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "office@konsulat-grenada.at" ;
+	lw:openingHour """Mo - Do 08.00 - 10.00
+in Bearbeitung""" ;
+	lw:countryName "Grenada"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874356> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874356" .
+
+_:node1bvvs2ketx156 a wgs:Point ;
+	wgs:lat "16.377243048105736" ;
+	wgs:long "48.202451365415136" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874356> wgs:location _:node1bvvs2ketx156 ;
+	rdfs:label "Honorarkonsulat der Republik Guatemala; Wien"@de ;
+	dbo:address "1., Kantgasse 3" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "ksk@lawyers.at" ;
+	dbo:phone "(+43 / 1) 713 07 13" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.00" ;
+	lw:countryName "Guatemala"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874357> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874357" .
+
+_:node1bvvs2ketx157 a wgs:Point ;
+	wgs:lat "16.38051211753823" ;
+	wgs:long "48.201856237607885" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874357> wgs:location _:node1bvvs2ketx157 ;
+	rdfs:label "Honorarkonsulat der Republik Guinea, Wien"@de ;
+	dbo:address "3., Am Heumarkt 13/I/1/4" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "konsulat.guinea@schinner.at" ;
+	dbo:phone "(+43 / 1) 713 60 87" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.00" ;
+	lw:countryName "Guinea"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874358> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874358" .
+
+_:node1bvvs2ketx158 a wgs:Point ;
+	wgs:lat "16.37927087852333" ;
+	wgs:long "48.19135094997913" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874358> wgs:location _:node1bvvs2ketx158 ;
+	rdfs:label "Honorarkonsulat der Republik Haiti, Wien"@de ;
+	dbo:address "4., Prinz Eugen Strasse 56/16" ;
+	dbo:codeDistrict "1040" ;
+	foaf:mbox "consulat.hon.haiti@chello.at" ;
+	dbo:phone "(+43 / 1) 943 53 63" ;
+	lw:countryName "Haiti"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874360> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874360" .
+
+_:node1bvvs2ketx159 a wgs:Point ;
+	wgs:lat "16.273589646452546" ;
+	wgs:long "48.1396922805161" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874360> wgs:location _:node1bvvs2ketx159 ;
+	rdfs:label "Honorarkonsulat der Republik Honduras, Wien"@de ;
+	dbo:address "23., Breitenfurter Straße 380 A/8" ;
+	dbo:codeDistrict "1230" ;
+	foaf:mbox "ewald.kloser@chello.at" ;
+	dbo:phone "(+43 / 1) 888 70 77" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Honduras"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874367> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874367" .
+
+_:node1bvvs2ketx160 a wgs:Point ;
+	wgs:lat "16.368472875530376" ;
+	wgs:long "48.20973001586464" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874367> wgs:location _:node1bvvs2ketx160 ;
+	rdfs:label "Honorargeneralkonsulat der Republik Island; Wien"@de ;
+	dbo:address "1., Naglergasse 2/5" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "office@schubrig.at" ;
+	dbo:phone "(+43 / 1) 533 24 98" ;
+	lw:openingHour "nach telefonischer Terminvereinbarung" ;
+	lw:countryName "Island"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874370> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874370" .
+
+_:node1bvvs2ketx161 a wgs:Point ;
+	wgs:lat "16.362584815415996" ;
+	wgs:long "48.14226460141143" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874370> wgs:location _:node1bvvs2ketx161 ;
+	rdfs:label "Honorargeneralkonsulat von Gambia, Wien"@de ;
+	dbo:address "23., Wagner-Schönkirch-Gasse 9" ;
+	dbo:codeDistrict "1230" ;
+	foaf:mbox "gambia@aon.at" ;
+	dbo:phone "(+43 / 1) 616 73 95" ;
+	lw:openingHour "Di, Mi und Do 09.00 - 12.00" ;
+	lw:countryName "Gambia"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874371> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874371" .
+
+_:node1bvvs2ketx162 a wgs:Point ;
+	wgs:lat "16.30442592786106" ;
+	wgs:long "48.156304144175884" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874371> wgs:location _:node1bvvs2ketx162 ;
+	rdfs:label "Honorargeneralkonsulat der Republik Uganda, Wien"@de ;
+	dbo:address "23., Breitenfurterstrasse 219" ;
+	rdfs:seeAlso "www.uganda.at" ;
+	dbo:codeDistrict "1230" ;
+	foaf:mbox "consulategeneral@uganda.at" ;
+	dbo:phone "(+43 / 1) 863 11 40" ;
+	lw:openingHour "Mo - Fr 09.00 - 12.00" ;
+	lw:countryName "Uganda"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874374> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874374" .
+
+_:node1bvvs2ketx163 a wgs:Point ;
+	wgs:lat "16.389982859618033" ;
+	wgs:long "48.1935581220048" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874374> wgs:location _:node1bvvs2ketx163 ;
+	rdfs:label "Honorarkonsulat von Ungarn; Wien"@de ;
+	dbo:address "3., Rennweg 44" ;
+	dbo:codeDistrict "1030" ;
+	foaf:mbox "glatz-kremsner@ung-konsulat.at" ;
+	dbo:phone "(+43 / (1)) 790 70 15 55" ;
+	lw:countryName "Ungarn"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874213> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874213" .
+
+_:node1bvvs2ketx164 a wgs:Point ;
+	wgs:lat "16.361279121713242" ;
+	wgs:long "48.184743959314176" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874213> wgs:location _:node1bvvs2ketx164 ;
+	rdfs:label "Honorargeneralkonsulat von Jamaika; Wien"@de ;
+	dbo:address "5., Wiedner Hauptstraße 120/5.1" ;
+	rdfs:seeAlso "www.jamaicanconsulate.at" ;
+	dbo:codeDistrict "1050" ;
+	foaf:mbox "vienna@jamaicanconsulate.at" ;
+	dbo:phone "(+43 / 1) 545 05 91" ;
+	lw:openingHour "Mo - Do: 09.00-15.00, Fr: 09.00 - 14.00" ;
+	lw:countryName "Jamaika"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874216> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874216" .
+
+_:node1bvvs2ketx165 a wgs:Point ;
+	wgs:lat "16.297820876839204" ;
+	wgs:long "48.23943746727152" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874216> wgs:location _:node1bvvs2ketx165 ;
+	rdfs:label "Honorarkonsulat der Republik Kamerun, Wien"@de ;
+	dbo:address "18., Ladenburghöhe 21-27" ;
+	rdfs:seeAlso "www.society.at" ;
+	dbo:codeDistrict "1180" ;
+	foaf:mbox "konsulat@society.at" ;
+	dbo:phone "(+43 / (1)) 914 77 44 0 od. 16 statt 0" ;
+	lw:openingHour "DO 09:00 - 12:30 (telefonische Vereinbarung)" ;
+	lw:countryName "Kamerun"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874239> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874239" .
+
+_:node1bvvs2ketx166 a wgs:Point ;
+	wgs:lat "16.35681079039419" ;
+	wgs:long "48.212991478941206" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874239> wgs:location _:node1bvvs2ketx166 ;
+	rdfs:label "Honorargeneralkonsulat der Republik Kongo, Wien"@de ;
+	dbo:address "1., Rathausstraße 15/1" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "konsulat@republikkongo.at" ;
+	dbo:phone "(+43 / 1) 404 41 - 300" ;
+	lw:openingHour "Mo - Fr 10.00 - 16.00" ;
+	lw:countryName "Kongo"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874240> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874240" .
+
+_:node1bvvs2ketx167 a wgs:Point ;
+	wgs:lat "16.400556649691413" ;
+	wgs:long "48.26824872215082" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874240> wgs:location _:node1bvvs2ketx167 ;
+	rdfs:label "Honorarkonsulat der Demokratischen Republik Kongo, Wien"@de ;
+	dbo:address "21., Ignaz Köck Straße 8" ;
+	dbo:codeDistrict "1210" ;
+	dbo:phone "(+43 / (1) 211 66 10 630" ;
+	lw:openingHour "Wegen Urlaubes im Zeitraum vom 15.07.2016 - 08.08.2016 geschlossen" ;
+	lw:countryName "Kongo, Dem. Rep."@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874244> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874244" .
+
+_:node1bvvs2ketx168 a wgs:Point ;
+	wgs:lat "16.370738994901338" ;
+	wgs:long "48.212418762753956" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874244> wgs:location _:node1bvvs2ketx168 ;
+	rdfs:label "Honorarkonsulat der Republik Kosovo, Wien"@de ;
+	dbo:address "1., Stoss im Himmel 3" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "office@create-connections.com" ;
+	dbo:phone "(+43 / 0) 1 504 66 77" ;
+	lw:openingHour "Öffnugszeiten von 09:00 - 16:00; ausschließlich nach vorhergehender Anmeldung" ;
+	lw:countryName "Kosovo"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874249> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874249" .
+
+_:node1bvvs2ketx169 a wgs:Point ;
+	wgs:lat "16.26596580566334" ;
+	wgs:long "48.144622138333474" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874249> wgs:location _:node1bvvs2ketx169 ;
+	rdfs:label "Honorarkonsulat der Demokratischen Volksrepublik Laos, Wien"@de ;
+	dbo:address "23., Silvester Früchtl Gasse 11" ;
+	dbo:codeDistrict "1230" ;
+	foaf:mbox "h.consul-laos.austria@parizek.co.at" ;
+	dbo:phone "(+43 / 1) 888 73 63" ;
+	lw:openingHour "Nach telefonischer Vereinbarung" ;
+	lw:countryName "Laos"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874250> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874250" .
+
+_:node1bvvs2ketx170 a wgs:Point ;
+	wgs:lat "16.370171367341527" ;
+	wgs:long "48.20622857028478" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874250> wgs:location _:node1bvvs2ketx170 ;
+	rdfs:label "Honorarkonsulat des Königreiches Lesotho, Wien"@de ;
+	dbo:address "1., Plankengasse 1" ;
+	dbo:codeDistrict "1010" ;
+	foaf:mbox "lesotho@urschler.com" ;
+	dbo:phone "(+43 / 1) 512 76 47" ;
+	lw:openingHour "nach telefonischer Vereinbarung" ;
+	lw:countryName "Lesotho"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874259> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874259" .
+
+_:node1bvvs2ketx171 a wgs:Point ;
+	wgs:lat "16.315304975276227" ;
+	wgs:long "48.244093374863866" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874259> wgs:location _:node1bvvs2ketx171 ;
+	rdfs:label "Honorarkonsulat von Litauen, Wien"@de ;
+	dbo:address "19., Glanzinggasse 17/2" ;
+	dbo:codeDistrict "1190" ;
+	foaf:mbox "hc@kaeuffler.cc" ;
+	dbo:phone "(+43 / 1) 604 25 42" ;
+	lw:openingHour "Di, Fr 10.00 - 12.00" ;
+	lw:countryName "Litauen"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874702> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874702" .
+
+_:node1bvvs2ketx172 a wgs:Point ;
+	wgs:lat "16.358938517698007" ;
+	wgs:long "48.22926940824498" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874702> wgs:location _:node1bvvs2ketx172 ;
+	rdfs:label "Honorarkonsulat der Demokratischen Bundesrepublik Äthiopien, Wien"@de ;
+	dbo:address "9., Althanstrasse 14" ;
+	dbo:codeDistrict "1090" ;
+	foaf:mbox "horst.seidler@univie.ac.at" ;
+	dbo:phone "(+43 / 1) 4277 - 54 701" ;
+	lw:openingHour "Nach Vereinbarung" ;
+	lw:countryName "Äthiopien"@de .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874705> a dbo:Place ;
+	lw:hasId "BOTSCHAFTOGD.1874705" .
+
+_:node1bvvs2ketx173 a wgs:Point ;
+	wgs:lat "16.290224527280113" ;
+	wgs:long "48.1390834476623" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874705> wgs:location _:node1bvvs2ketx173 ;
+	rdfs:label "Honorarkonsulat der Volksrepublik Bangladesch; Wien"@de ;
+	dbo:address "23., Fröhlichgasse 15" ;
+	rdfs:seeAlso "www.bangladeshconsulate.at" ;
+	dbo:codeDistrict "1230" ;
+	foaf:mbox "egraft@trod.at" ;
+	dbo:phone "(+ 43 / 1) 869 83 01 72" ;
+	lw:openingHour "Di und Do 09:00-11:00 oder nach telefonsicher Vereinbarung" ;
+	lw:countryName "Bangladesch"@de .

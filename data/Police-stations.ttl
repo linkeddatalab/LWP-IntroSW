@@ -1,0 +1,1360 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874528> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874528" .
+
+_:node1bvvs49smx1 a wgs:Point ;
+	wgs:lat "16.364160330844634" ;
+	wgs:long "48.2150752347662" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874528> wgs:location _:node1bvvs49smx1 ;
+	rdfs:label "Landespolizeidirektion Wien"@de ;
+	dbo:address "Schottenring 7-9" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874541> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874541" .
+
+_:node1bvvs49smx2 a wgs:Point ;
+	wgs:lat "16.35727655828703" ;
+	wgs:long "48.234316227581736" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874541> wgs:location _:node1bvvs49smx2 ;
+	rdfs:label "Landespolizeidirektion Wien Verkehrsamt"@de ;
+	dbo:address "Josef-Holaubek-Platz 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1090" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874383> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874383" .
+
+_:node1bvvs49smx3 a wgs:Point ;
+	wgs:lat "16.454836132251668" ;
+	wgs:long "48.26034432342365" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874383> wgs:location _:node1bvvs49smx3 ;
+	rdfs:label "Polizeiinspektion Puchgasse"@de ;
+	dbo:address "Puchgasse 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874856> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874856" .
+
+_:node1bvvs49smx4 a wgs:Point ;
+	wgs:lat "16.337845260702824" ;
+	wgs:long "48.19681498112739" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874856> wgs:location _:node1bvvs49smx4 ;
+	rdfs:label "Polizeiinspektion Westbahnhof"@de ;
+	dbo:address "Europaplatz 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1150" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874657> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874657" .
+
+_:node1bvvs49smx5 a wgs:Point ;
+	wgs:lat "16.35590491326174" ;
+	wgs:long "48.24736003032419" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874657> wgs:location _:node1bvvs49smx5 ;
+	rdfs:label "Polizeiinspektion Hohe Warte"@de ;
+	dbo:address "Hohe Warte 32" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1190" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874658> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874658" .
+
+_:node1bvvs49smx6 a wgs:Point ;
+	wgs:lat "16.36939146914255" ;
+	wgs:long "48.23397104710073" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874658> wgs:location _:node1bvvs49smx6 ;
+	rdfs:label "Polizeiinspektion Pappenheimgasse"@de ;
+	dbo:address "Pappenheimgasse 33" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1200" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874683> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874683" .
+
+_:node1bvvs49smx7 a wgs:Point ;
+	wgs:lat "16.363765104089143" ;
+	wgs:long "48.20840714583903" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874683> wgs:location _:node1bvvs49smx7 ;
+	rdfs:label "Polizeiinspektion Ballhausplatz 2 (Hauswachzimmer)"@de ;
+	dbo:address "Ballhausplatz 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874684> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874684" .
+
+_:node1bvvs49smx8 a wgs:Point ;
+	wgs:lat "16.36443953632145" ;
+	wgs:long "48.20748613387097" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874684> wgs:location _:node1bvvs49smx8 ;
+	rdfs:label "Polizeiinspektion Hofburg (Leopoldinischer Trakt - Hauswachzimmer)"@de ;
+	dbo:address "Hofburg, (Leopoldinischer Trakt)" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874685> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874685" .
+
+_:node1bvvs49smx9 a wgs:Point ;
+	wgs:lat "16.36892522470461" ;
+	wgs:long "48.20056314608325" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874685> wgs:location _:node1bvvs49smx9 ;
+	rdfs:label "Polizeiinspektion Kärtnertorpassage (Karlsplatz)"@de ;
+	dbo:address "Kärntnertorpassage (Karlsplatz)" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874686> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874686" .
+
+_:node1bvvs49smx10 a wgs:Point ;
+	wgs:lat "16.364670728294897" ;
+	wgs:long "48.209361207861576" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874686> wgs:location _:node1bvvs49smx10 ;
+	rdfs:label "Polizeiinspektion Minoritenplatz (Hauswachzimmer)"@de ;
+	dbo:address "Minoritenplatz 9" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874687> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874687" .
+
+_:node1bvvs49smx11 a wgs:Point ;
+	wgs:lat "16.37663010057592" ;
+	wgs:long "48.184025774263006" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874687> wgs:location _:node1bvvs49smx11 ;
+	rdfs:label "Polizeiinspektion Hauptbahnhof AGM"@de ;
+	dbo:address "Am Hauptbahnhof 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874754> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874754" .
+
+_:node1bvvs49smx12 a wgs:Point ;
+	wgs:lat "16.32439198633503" ;
+	wgs:long "48.17429103842566" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874754> wgs:location _:node1bvvs49smx12 ;
+	rdfs:label "Polizeiinspektion Hohenbergstraße"@de ;
+	dbo:address "Hohenbergstraße 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1120" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874755> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874755" .
+
+_:node1bvvs49smx13 a wgs:Point ;
+	wgs:lat "16.281956403426594" ;
+	wgs:long "48.2073427789702" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874755> wgs:location _:node1bvvs49smx13 ;
+	rdfs:label "Polizeiinspektion Baumgartner Höhe"@de ;
+	dbo:address "Baumgartner Höhe 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1140" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874756> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874756" .
+
+_:node1bvvs49smx14 a wgs:Point ;
+	wgs:lat "16.386044767521412" ;
+	wgs:long "48.206979467750756" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874756> wgs:location _:node1bvvs49smx14 ;
+	rdfs:label "Polizeiinspektion Wien Mitte"@de ;
+	dbo:address "Invalidenstraße 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874768> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874768" .
+
+_:node1bvvs49smx15 a wgs:Point ;
+	wgs:lat "16.39337993203563" ;
+	wgs:long "48.2202408782545" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874768> wgs:location _:node1bvvs49smx15 ;
+	rdfs:label "Polizeiinspektion Lassallestraße"@de ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1Lassallestraße 1, (Eingang Walcherstr. 2)0" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874784> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874784" .
+
+_:node1bvvs49smx16 a wgs:Point ;
+	wgs:lat "16.366653305928562" ;
+	wgs:long "48.2599104918357" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874784> wgs:location _:node1bvvs49smx16 ;
+	rdfs:label "Polizeiinspektion Nußdorfer Platz"@de ;
+	dbo:address "Nußdorfer Platz 1-2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1190" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874785> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874785" .
+
+_:node1bvvs49smx17 a wgs:Point ;
+	wgs:lat "16.326213527986884" ;
+	wgs:long "48.16087017267396" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874785> wgs:location _:node1bvvs49smx17 ;
+	rdfs:label "Polizeiinspektion Am Schöpfwerk"@de ;
+	dbo:address "Am Schöpfwerk 29" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1120" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874786> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874786" .
+
+_:node1bvvs49smx18 a wgs:Point ;
+	wgs:lat "16.30238546862456" ;
+	wgs:long "48.18596031474352" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874786> wgs:location _:node1bvvs49smx18 ;
+	rdfs:label "Polizeiinspektion Am Platz"@de ;
+	dbo:address "Am Platz (Schönbrunn, Hiietzinger Tor)" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1130" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874434> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874434" .
+
+_:node1bvvs49smx19 a wgs:Point ;
+	wgs:lat "16.332991687437875" ;
+	wgs:long "48.185111109472906" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874434> wgs:location _:node1bvvs49smx19 ;
+	rdfs:label "Polizeiinspektion Storchengasse"@de ;
+	dbo:address "Storchengasse 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1150" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874435> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874435" .
+
+_:node1bvvs49smx20 a wgs:Point ;
+	wgs:lat "16.328745765003916" ;
+	wgs:long "48.18257868038259" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874435> wgs:location _:node1bvvs49smx20 ;
+	rdfs:label "Polizeiinspektion Hufelandgasse"@de ;
+	dbo:address "Hufelandgasse 4" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1120" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874437> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874437" .
+
+_:node1bvvs49smx21 a wgs:Point ;
+	wgs:lat "16.33588703203919" ;
+	wgs:long "48.21011366747605" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874437> wgs:location _:node1bvvs49smx21 ;
+	rdfs:label "Polizeiinspektion Brunnengasse"@de ;
+	dbo:address "Brunnengasse 40" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874438> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874438" .
+
+_:node1bvvs49smx22 a wgs:Point ;
+	wgs:lat "16.35768946045173" ;
+	wgs:long "48.18814934090008" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874438> wgs:location _:node1bvvs49smx22 ;
+	rdfs:label "Polizeiinspektion Viktor-Christ-Gasse"@de ;
+	dbo:address "Viktor-Christ-Gasse 19" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1050" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874468> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874468" .
+
+_:node1bvvs49smx23 a wgs:Point ;
+	wgs:lat "16.378233253402197" ;
+	wgs:long "48.2105703189264" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874468> wgs:location _:node1bvvs49smx23 ;
+	rdfs:label "Polizeiinspektion Laurenzerberg"@de ;
+	dbo:address "Laurenzerberg 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874469> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874469" .
+
+_:node1bvvs49smx24 a wgs:Point ;
+	wgs:lat "16.369658994390015" ;
+	wgs:long "48.179082553513204" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874469> wgs:location _:node1bvvs49smx24 ;
+	rdfs:label "Polizeiinspektion Van-der-Nüll-Gasse"@de ;
+	dbo:address "Van-der-Nüll-Gasse 11" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874470> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874470" .
+
+_:node1bvvs49smx25 a wgs:Point ;
+	wgs:lat "16.35306754430465" ;
+	wgs:long "48.197073891921264" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874470> wgs:location _:node1bvvs49smx25 ;
+	rdfs:label "Polizeiinspektion Kopernikusgasse"@de ;
+	dbo:address "Kopernikusgasse 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1060" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874471> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874471" .
+
+_:node1bvvs49smx26 a wgs:Point ;
+	wgs:lat "16.219300029332487" ;
+	wgs:long "48.2077516929226" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874471> wgs:location _:node1bvvs49smx26 ;
+	rdfs:label "Polizeiinspektion Albert-Schweitzer-Gasse"@de ;
+	dbo:address "Albert-Schweitzer-Gasse 4" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1140" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874472> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874472" .
+
+_:node1bvvs49smx27 a wgs:Point ;
+	wgs:lat "16.372217991841087" ;
+	wgs:long "48.20958782280669" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874472> wgs:location _:node1bvvs49smx27 ;
+	rdfs:label "Polizeiinspektion Brandstätte"@de ;
+	dbo:address "Brandstätte 4" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874474> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874474" .
+
+_:node1bvvs49smx28 a wgs:Point ;
+	wgs:lat "16.473833077685956" ;
+	wgs:long "48.21799742865064" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874474> wgs:location _:node1bvvs49smx28 ;
+	rdfs:label "Polizeiinspektion Langobardenstraße"@de ;
+	dbo:address "Langobardenstraße 128" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874475> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874475" .
+
+_:node1bvvs49smx29 a wgs:Point ;
+	wgs:lat "16.33241062497966" ;
+	wgs:long "48.197458626240156" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874475> wgs:location _:node1bvvs49smx29 ;
+	rdfs:label "Polizeiinspektion Tannengasse"@de ;
+	dbo:address "Tannengasse 6-10" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1150" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874476> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874476" .
+
+_:node1bvvs49smx30 a wgs:Point ;
+	wgs:lat "16.40541959595258" ;
+	wgs:long "48.272997474955986" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874476> wgs:location _:node1bvvs49smx30 ;
+	rdfs:label "Polizeiinspektion Trillergasse"@de ;
+	dbo:address "Trillergasse 6" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874477> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874477" .
+
+_:node1bvvs49smx31 a wgs:Point ;
+	wgs:lat "16.334159071195785" ;
+	wgs:long "48.15001445442791" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874477> wgs:location _:node1bvvs49smx31 ;
+	rdfs:label "Polizeiinspektion Purkytgasse"@de ;
+	dbo:address "Purkytgasse 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1230" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874478> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874478" .
+
+_:node1bvvs49smx32 a wgs:Point ;
+	wgs:lat "16.424497295149912" ;
+	wgs:long "48.1658403665493" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874478> wgs:location _:node1bvvs49smx32 ;
+	rdfs:label "Polizeiinspektion Simmeringer Hauptstraße"@de ;
+	dbo:address "Simmeringer Hauptstraße 164" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1110" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874479> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874479" .
+
+_:node1bvvs49smx33 a wgs:Point ;
+	wgs:lat "16.355372591691523" ;
+	wgs:long "48.21597563552399" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874479> wgs:location _:node1bvvs49smx33 ;
+	rdfs:label "Polizeiinspektion Otto-Wagner-Platz"@de ;
+	dbo:address "Otto-Wagner-Platz 4-4A" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1090" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874481> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874481" .
+
+_:node1bvvs49smx34 a wgs:Point ;
+	wgs:lat "16.340698409033724" ;
+	wgs:long "48.21363249368135" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874481> wgs:location _:node1bvvs49smx34 ;
+	rdfs:label "Polizeiinspektion Hernalser Gürtel"@de ;
+	dbo:address "Hernalser Gürtel 6-12" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1080" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874483> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874483" .
+
+_:node1bvvs49smx35 a wgs:Point ;
+	wgs:lat "16.302800316302108" ;
+	wgs:long "48.19864127342943" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874483> wgs:location _:node1bvvs49smx35 ;
+	rdfs:label "Polizeiinspektion Leyserstraße"@de ;
+	dbo:address "Leyserstraße 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1140" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874484> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874484" .
+
+_:node1bvvs49smx36 a wgs:Point ;
+	wgs:lat "16.338457460173" ;
+	wgs:long "48.184452534025525" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874484> wgs:location _:node1bvvs49smx36 ;
+	rdfs:label "Polizeiinspektion Arndtstraße"@de ;
+	dbo:address "Arndtstraße 40" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1120" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874485> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874485" .
+
+_:node1bvvs49smx37 a wgs:Point ;
+	wgs:lat "16.31723331564662" ;
+	wgs:long "48.224515586177006" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874485> wgs:location _:node1bvvs49smx37 ;
+	rdfs:label "Polizeiinspektion Halirschgasse"@de ;
+	dbo:address "Halirschgasse 16" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1170" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874486> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874486" .
+
+_:node1bvvs49smx38 a wgs:Point ;
+	wgs:lat "16.371157919740288" ;
+	wgs:long "48.19497869306834" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874486> wgs:location _:node1bvvs49smx38 ;
+	rdfs:label "Polizeiinspektion Taubstummengasse"@de ;
+	dbo:address "Taubstummengasse 11" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1040" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874513> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874513" .
+
+_:node1bvvs49smx39 a wgs:Point ;
+	wgs:lat "16.41504118340539" ;
+	wgs:long "48.229742152582006" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874513> wgs:location _:node1bvvs49smx39 ;
+	rdfs:label "Polizeiinspektion Rudolf-Nurejew-Promenade"@de ;
+	dbo:address "Rudolf-Nurejew-Promenade 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874516> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874516" .
+
+_:node1bvvs49smx40 a wgs:Point ;
+	wgs:lat "16.393668387076342" ;
+	wgs:long "48.19655696845571" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874516> wgs:location _:node1bvvs49smx40 ;
+	rdfs:label "Polizeiinspektion Juchgasse"@de ;
+	dbo:address "Juchgasse 19" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874517> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874517" .
+
+_:node1bvvs49smx41 a wgs:Point ;
+	wgs:lat "16.446849406347397" ;
+	wgs:long "48.22759359885721" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874517> wgs:location _:node1bvvs49smx41 ;
+	rdfs:label "Polizeiinspektion Lange Allee"@de ;
+	dbo:address "Lange Allee 13" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874518> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874518" .
+
+_:node1bvvs49smx42 a wgs:Point ;
+	wgs:lat "16.340967836346515" ;
+	wgs:long "48.221101483920435" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874518> wgs:location _:node1bvvs49smx42 ;
+	rdfs:label "Polizeiinspektion Martinstraße"@de ;
+	dbo:address "Martinstraße 40" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1180" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874519> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874519" .
+
+_:node1bvvs49smx43 a wgs:Point ;
+	wgs:lat "16.405404387418915" ;
+	wgs:long "48.21763611167676" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874519> wgs:location _:node1bvvs49smx43 ;
+	rdfs:label "Polizeiinspektion Ausstellungsstraße"@de ;
+	dbo:address "Ausstellungsstraße 44" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1020" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874520> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874520" .
+
+_:node1bvvs49smx44 a wgs:Point ;
+	wgs:lat "16.404345725628414" ;
+	wgs:long "48.196274616630845" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874520> wgs:location _:node1bvvs49smx44 ;
+	rdfs:label "Polizeiinspektion Fiakerplatz"@de ;
+	dbo:address "Fiakerplatz 4" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874521> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874521" .
+
+_:node1bvvs49smx45 a wgs:Point ;
+	wgs:lat "16.416770388956433" ;
+	wgs:long "48.29370995147974" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874521> wgs:location _:node1bvvs49smx45 ;
+	rdfs:label "Polizeiinspektion Kummergasse"@de ;
+	dbo:address "Kummergasse 7" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874522> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874522" .
+
+_:node1bvvs49smx46 a wgs:Point ;
+	wgs:lat "16.259602048451292" ;
+	wgs:long "48.20164236623047" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874522> wgs:location _:node1bvvs49smx46 ;
+	rdfs:label "Polizeiinspektion Linzer Straße"@de ;
+	dbo:address "Linzer Straße 395" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1140" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874525> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874525" .
+
+_:node1bvvs49smx47 a wgs:Point ;
+	wgs:lat "16.32800474156539" ;
+	wgs:long "48.24211663073" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874525> wgs:location _:node1bvvs49smx47 ;
+	rdfs:label "Polizeiinspektion Krottenbachstraße"@de ;
+	dbo:address "Krottenbachstraße 106" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1190" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874526> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874526" .
+
+_:node1bvvs49smx48 a wgs:Point ;
+	wgs:lat "16.347962243890052" ;
+	wgs:long "48.21041388126578" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874526> wgs:location _:node1bvvs49smx48 ;
+	rdfs:label "Polizeiinspektion Fuhrmannsgasse"@de ;
+	dbo:address "Fuhrmannsgasse 5" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1080" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874527> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874527" .
+
+_:node1bvvs49smx49 a wgs:Point ;
+	wgs:lat "16.382758473079136" ;
+	wgs:long "48.163822447394125" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874527> wgs:location _:node1bvvs49smx49 ;
+	rdfs:label "Polizeiinspektion Favoritenstraße"@de ;
+	dbo:address "Favoritenstraße 211" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874529> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874529" .
+
+_:node1bvvs49smx50 a wgs:Point ;
+	wgs:lat "16.319388983223625" ;
+	wgs:long "48.23816900838161" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874529> wgs:location _:node1bvvs49smx50 ;
+	rdfs:label "Polizeiinspektion Gersthofer Straße"@de ;
+	dbo:address "Gersthofer Straße 135" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1180" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874530> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874530" .
+
+_:node1bvvs49smx51 a wgs:Point ;
+	wgs:lat "16.31354518344781" ;
+	wgs:long "48.149980160165896" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874530> wgs:location _:node1bvvs49smx51 ;
+	rdfs:label "Polizeiinspektion Anton-Baumgartner Straße"@de ;
+	dbo:address "Anton-Baumgartner-Straße 125" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1230" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874531> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874531" .
+
+_:node1bvvs49smx52 a wgs:Point ;
+	wgs:lat "16.33900551264115" ;
+	wgs:long "48.201535646026194" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874531> wgs:location _:node1bvvs49smx52 ;
+	rdfs:label "Polizeiinspektion Urban-Loritz-Platz"@de ;
+	dbo:address "Urban-Loritz-Platz 7" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1070" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874533> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874533" .
+
+_:node1bvvs49smx53 a wgs:Point ;
+	wgs:lat "16.36729922945971" ;
+	wgs:long "48.20400195548838" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874533> wgs:location _:node1bvvs49smx53 ;
+	rdfs:label "Polizeiinspektion Goethegasse"@de ;
+	dbo:address "Goethegasse 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874534> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874534" .
+
+_:node1bvvs49smx54 a wgs:Point ;
+	wgs:lat "16.385297974835712" ;
+	wgs:long "48.152771796976744" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874534> wgs:location _:node1bvvs49smx54 ;
+	rdfs:label "Polizeiinspektion Ada-Christen-Gasse"@de ;
+	dbo:address "Ada-Christen-Gasse 2" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874535> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874535" .
+
+_:node1bvvs49smx55 a wgs:Point ;
+	wgs:lat "16.318547849906967" ;
+	wgs:long "48.21369473801383" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874535> wgs:location _:node1bvvs49smx55 ;
+	rdfs:label "Polizeiinspektion Wattgasse"@de ;
+	dbo:address "Wattgasse 15" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874536> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874536" .
+
+_:node1bvvs49smx56 a wgs:Point ;
+	wgs:lat "16.384793211063442" ;
+	wgs:long "48.23506885439811" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874536> wgs:location _:node1bvvs49smx56 ;
+	rdfs:label "Polizeiinspektion Pasettistraße"@de ;
+	dbo:address "Pasettistraße 81-83" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1200" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874537> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874537" .
+
+_:node1bvvs49smx57 a wgs:Point ;
+	wgs:lat "16.503009020645276" ;
+	wgs:long "48.22441220963542" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874537> wgs:location _:node1bvvs49smx57 ;
+	rdfs:label "Polizeiinspektion Sonnenallee 33 (Seestadt Aspern)"@de ;
+	dbo:address "Sonnenallee 33" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874538> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874538" .
+
+_:node1bvvs49smx58 a wgs:Point ;
+	wgs:lat "16.34342947841161" ;
+	wgs:long "48.24509630335921" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874538> wgs:location _:node1bvvs49smx58 ;
+	rdfs:label "Polizeiinspektion Billrothstraße"@de ;
+	dbo:address "Billrothstraße 79A" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1190" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874539> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874539" .
+
+_:node1bvvs49smx59 a wgs:Point ;
+	wgs:lat "16.469774584648878" ;
+	wgs:long "48.15277173334041" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874539> wgs:location _:node1bvvs49smx59 ;
+	rdfs:label "Polizeiinspektion Sängergasse"@de ;
+	dbo:address "Sängergasse 11" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1110" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874540> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874540" .
+
+_:node1bvvs49smx60 a wgs:Point ;
+	wgs:lat "16.361272722302505" ;
+	wgs:long "48.22612635480198" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874540> wgs:location _:node1bvvs49smx60 ;
+	rdfs:label "Polizeiinspektion Julius-Tandler-Platz"@de ;
+	dbo:address "Julius-Tandler-Platz 3" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1090" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874542> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874542" .
+
+_:node1bvvs49smx61 a wgs:Point ;
+	wgs:lat "16.34626266987875" ;
+	wgs:long "48.20290884981358" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874542> wgs:location _:node1bvvs49smx61 ;
+	rdfs:label "Polizeiinspektion Kandlgasse"@de ;
+	dbo:address "Kandlgasse 4" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1070" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874543> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874543" .
+
+_:node1bvvs49smx62 a wgs:Point ;
+	wgs:lat "16.41324324612067" ;
+	wgs:long "48.17517576538795" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874543> wgs:location _:node1bvvs49smx62 ;
+	rdfs:label "Polizeiinspektion Sedlitzkygasse"@de ;
+	dbo:address "Sedlitzkygasse 27" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1110" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874544> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874544" .
+
+_:node1bvvs49smx63 a wgs:Point ;
+	wgs:lat "16.280907917985726" ;
+	wgs:long "48.13549364087686" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874544> wgs:location _:node1bvvs49smx63 ;
+	rdfs:label "Polizeiinspektion Lehmanngasse"@de ;
+	dbo:address "Lehmanngasse 3A" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1230" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874545> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874545" .
+
+_:node1bvvs49smx64 a wgs:Point ;
+	wgs:lat "16.36377099232943" ;
+	wgs:long "48.21490511563443" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874545> wgs:location _:node1bvvs49smx64 ;
+	rdfs:label "Polizeiinspektion Schottenring"@de ;
+	dbo:address "Schottenring 7-9" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874546> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874546" .
+
+_:node1bvvs49smx65 a wgs:Point ;
+	wgs:lat "16.469881563038793" ;
+	wgs:long "48.23495436497951" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874546> wgs:location _:node1bvvs49smx65 ;
+	rdfs:label "Polizeiinspektion Quadenstraße"@de ;
+	dbo:address "Quadenstraße 8" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874547> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874547" .
+
+_:node1bvvs49smx66 a wgs:Point ;
+	wgs:lat "16.344227479623317" ;
+	wgs:long "48.194311880633215" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874547> wgs:location _:node1bvvs49smx66 ;
+	rdfs:label "Polizeiinspektion Stumpergasse"@de ;
+	dbo:address "Stumpergasse 42" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1060" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874549> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874549" .
+
+_:node1bvvs49smx67 a wgs:Point ;
+	wgs:lat "16.306437096128807" ;
+	wgs:long "48.213927256889725" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874549> wgs:location _:node1bvvs49smx67 ;
+	rdfs:label "Polizeiinspektion Maroltingergasse"@de ;
+	dbo:address "Maroltingergasse 79" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874550> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874550" .
+
+_:node1bvvs49smx68 a wgs:Point ;
+	wgs:lat "16.464341285530942" ;
+	wgs:long "48.159904716089386" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874550> wgs:location _:node1bvvs49smx68 ;
+	rdfs:label "Polizeiinspektion Kaiser-Ebersdorfer Straße"@de ;
+	dbo:address "Kaiser-Ebersdorfer Straße 290" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1110" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874551> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874551" .
+
+_:node1bvvs49smx69 a wgs:Point ;
+	wgs:lat "16.39728764472064" ;
+	wgs:long "48.26031581677159" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874551> wgs:location _:node1bvvs49smx69 ;
+	rdfs:label "Polizeiinspektion Hermann-Bahr-Straße"@de ;
+	dbo:address "Hermann-Bahr-Straße 3" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874552> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874552" .
+
+_:node1bvvs49smx70 a wgs:Point ;
+	wgs:lat "16.320454941722584" ;
+	wgs:long "48.19823025812394" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874552> wgs:location _:node1bvvs49smx70 ;
+	rdfs:label "Polizeiinspektion Wurmsergasse"@de ;
+	dbo:address "Wurmsergasse 35" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1150" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874553> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874553" .
+
+_:node1bvvs49smx71 a wgs:Point ;
+	wgs:lat "16.377032990979004" ;
+	wgs:long "48.17943738107042" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874553> wgs:location _:node1bvvs49smx71 ;
+	rdfs:label "Polizeiinspektion Keplergasse"@de ;
+	dbo:address "Keplergasse 10" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874554> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874554" .
+
+_:node1bvvs49smx72 a wgs:Point ;
+	wgs:lat "16.356523551522347" ;
+	wgs:long "48.223653102863985" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874554> wgs:location _:node1bvvs49smx72 ;
+	rdfs:label "Polizeiinspektion Boltzmanngasse"@de ;
+	dbo:address "Boltzmanngasse 20" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1090" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874556> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874556" .
+
+_:node1bvvs49smx73 a wgs:Point ;
+	wgs:lat "16.277302177499944" ;
+	wgs:long "48.18968814303218" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874556> wgs:location _:node1bvvs49smx73 ;
+	rdfs:label "Polizeiinspektion Preindlgasse"@de ;
+	dbo:address "Preindlgasse 21-23" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1130" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874557> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874557" .
+
+_:node1bvvs49smx74 a wgs:Point ;
+	wgs:lat "16.333374561584808" ;
+	wgs:long "48.20653414519167" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874557> wgs:location _:node1bvvs49smx74 ;
+	rdfs:label "Polizeiinspektion Koppstraße"@de ;
+	dbo:address "Koppstraße 9-11" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874558> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874558" .
+
+_:node1bvvs49smx75 a wgs:Point ;
+	wgs:lat "16.368195779137377" ;
+	wgs:long "48.21734772126813" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874558> wgs:location _:node1bvvs49smx75 ;
+	rdfs:label "Polizeiinspektion Deutschmeisterplatz"@de ;
+	dbo:address "Deutschmeisterplatz 3" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874559> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874559" .
+
+_:node1bvvs49smx76 a wgs:Point ;
+	wgs:lat "16.37640354561627" ;
+	wgs:long "48.2196930140366" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874559> wgs:location _:node1bvvs49smx76 ;
+	rdfs:label "Polizeiinspektion Leopoldsgasse"@de ;
+	dbo:address "Leopoldsgasse 18" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1020" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874560> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874560" .
+
+_:node1bvvs49smx77 a wgs:Point ;
+	wgs:lat "16.361756956440306" ;
+	wgs:long "48.159547726423085" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874560> wgs:location _:node1bvvs49smx77 ;
+	rdfs:label "Polizeiinspektion Sibeliusstraße"@de ;
+	dbo:address "Sibeliusstraße 8" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874561> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874561" .
+
+_:node1bvvs49smx78 a wgs:Point ;
+	wgs:lat "16.35708907878944" ;
+	wgs:long "48.19268562492988" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874561> wgs:location _:node1bvvs49smx78 ;
+	rdfs:label "Polizeiinspektion Schönbrunner Straße"@de ;
+	dbo:address "Schönbrunner Straße 34" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1050" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874562> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874562" .
+
+_:node1bvvs49smx79 a wgs:Point ;
+	wgs:lat "16.334344622221966" ;
+	wgs:long "48.22743889760684" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874562> wgs:location _:node1bvvs49smx79 ;
+	rdfs:label "Polizeiinspektion Schulgasse"@de ;
+	dbo:address "Schulgasse 88" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1180" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874563> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874563" .
+
+_:node1bvvs49smx80 a wgs:Point ;
+	wgs:lat "16.331227804144277" ;
+	wgs:long "48.219505921790834" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874563> wgs:location _:node1bvvs49smx80 ;
+	rdfs:label "Polizeiinspektion Rötzergasse"@de ;
+	dbo:address "Rötzergasse 24-26" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1170" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874564> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874564" .
+
+_:node1bvvs49smx81 a wgs:Point ;
+	wgs:lat "16.292983629544562" ;
+	wgs:long "48.183133100602085" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874564> wgs:location _:node1bvvs49smx81 ;
+	rdfs:label "Polizeiinspektion Lainzer Straße"@de ;
+	dbo:address "Lainzer Straße 49-51" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1130" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874565> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874565" .
+
+_:node1bvvs49smx82 a wgs:Point ;
+	wgs:lat "16.3798466497137" ;
+	wgs:long "48.24355046566254" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874565> wgs:location _:node1bvvs49smx82 ;
+	rdfs:label "Polizeiinspektion Vorgartenstraße"@de ;
+	dbo:address "Vorgartenstraße 27" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1200" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874566> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874566" .
+
+_:node1bvvs49smx83 a wgs:Point ;
+	wgs:lat "16.385158038383864" ;
+	wgs:long "48.213566162780836" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874566> wgs:location _:node1bvvs49smx83 ;
+	rdfs:label "Polizeiinspektion Tempelgasse"@de ;
+	dbo:address "Tempelgasse 5A" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1020" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874567> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874567" .
+
+_:node1bvvs49smx84 a wgs:Point ;
+	wgs:lat "16.43625137411287" ;
+	wgs:long "48.24392417251856" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874567> wgs:location _:node1bvvs49smx84 ;
+	rdfs:label "Polizeiinspektion Wagramer Straße"@de ;
+	dbo:address "Wagramer Straße 89" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874569> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874569" .
+
+_:node1bvvs49smx85 a wgs:Point ;
+	wgs:lat "16.386393183680415" ;
+	wgs:long "48.28741250451846" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874569> wgs:location _:node1bvvs49smx85 ;
+	rdfs:label "Polizeiinspektion Berlagasse"@de ;
+	dbo:address "Berlagasse 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874570> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874570" .
+
+_:node1bvvs49smx86 a wgs:Point ;
+	wgs:lat "16.42004083602703" ;
+	wgs:long "48.2534907572401" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874570> wgs:location _:node1bvvs49smx86 ;
+	rdfs:label "Polizeiinspektion Donaufelder Straße"@de ;
+	dbo:address "Donaufelder Straße 99" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874571> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874571" .
+
+_:node1bvvs49smx87 a wgs:Point ;
+	wgs:lat "16.36321962057322" ;
+	wgs:long "48.16970168156065" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874571> wgs:location _:node1bvvs49smx87 ;
+	rdfs:label "Polizeiinspektion Zohmanngasse"@de ;
+	dbo:address "Zohmanngasse 10" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874572> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874572" .
+
+_:node1bvvs49smx88 a wgs:Point ;
+	wgs:lat "16.355062488272612" ;
+	wgs:long "48.20205139128985" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874572> wgs:location _:node1bvvs49smx88 ;
+	rdfs:label "Polizeiinspektion Stiftgasse"@de ;
+	dbo:address "Stiftgasse 2A" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1070" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874573> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874573" .
+
+_:node1bvvs49smx89 a wgs:Point ;
+	wgs:lat "16.284899318627335" ;
+	wgs:long "48.16937095838025" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874573> wgs:location _:node1bvvs49smx89 ;
+	rdfs:label "Polizeiinspektion Speisinger Straße"@de ;
+	dbo:address "Speisinger Straße 46-48" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1130" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874574> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874574" .
+
+_:node1bvvs49smx90 a wgs:Point ;
+	wgs:lat "16.446962762892564" ;
+	wgs:long "48.273865783593244" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874574> wgs:location _:node1bvvs49smx90 ;
+	rdfs:label "Polizeiinspektion Kürschnergasse"@de ;
+	dbo:address "Kürschnergasse 18C" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874688> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874688" .
+
+_:node1bvvs49smx91 a wgs:Point ;
+	wgs:lat "16.324508479601743" ;
+	wgs:long "48.17428445814591" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874688> wgs:location _:node1bvvs49smx91 ;
+	rdfs:label "Stadtpolizeikommando Meidling (12.u.13.Bezirk)"@de ;
+	dbo:address "Hohenbergstraße 1" ;
+	rdfs:seeAlso "http://www.polizei.gv.at" ;
+	dbo:codeDistrict "1120" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874436> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874436" .
+
+_:node1bvvs49smx92 a wgs:Point ;
+	wgs:lat "16.347956544919978" ;
+	wgs:long "48.21049750937645" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874436> wgs:location _:node1bvvs49smx92 ;
+	rdfs:label "Stadtpolizeikommando Josefstadt (7.,8.u.9.Bezirk)"@de ;
+	dbo:address "Fuhrmannsgasse 5" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1080" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874473> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874473" .
+
+_:node1bvvs49smx93 a wgs:Point ;
+	wgs:lat "16.318556410861145" ;
+	wgs:long "48.21360675914835" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874473> wgs:location _:node1bvvs49smx93 ;
+	rdfs:label "Stadtpolizeikommando Ottakring (16.u.17.Bezirk)"@de ;
+	dbo:address "Wattgasse 15" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874480> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874480" .
+
+_:node1bvvs49smx94 a wgs:Point ;
+	wgs:lat "16.436352420534522" ;
+	wgs:long "48.24387651080307" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874480> wgs:location _:node1bvvs49smx94 ;
+	rdfs:label "Stadtpolizeikommando Donaustadt (22.Bezirk)"@de ;
+	dbo:address "Wagramer Straße 89" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874482> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874482" .
+
+_:node1bvvs49smx95 a wgs:Point ;
+	wgs:lat "16.35753382863888" ;
+	wgs:long "48.18808838713953" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874482> wgs:location _:node1bvvs49smx95 ;
+	rdfs:label "Stadtpolizeikommando Margareten (4.,5.u.6.Bezirk)"@de ;
+	dbo:address "Viktor-Christ-Gasse 19" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1050" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874512> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874512" .
+
+_:node1bvvs49smx96 a wgs:Point ;
+	wgs:lat "16.413214916968453" ;
+	wgs:long "48.17538253875128" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874512> wgs:location _:node1bvvs49smx96 ;
+	rdfs:label "Stadtpolizeikommando Simmering (11.Bezirk)"@de ;
+	dbo:address "Enkplatz 3" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1110" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874514> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874514" .
+
+_:node1bvvs49smx97 a wgs:Point ;
+	wgs:lat "16.355908572892922" ;
+	wgs:long "48.2475616013807" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874514> wgs:location _:node1bvvs49smx97 ;
+	rdfs:label "Stadtpolizeikommando Döbling (18.u.19.Bezirk)"@de ;
+	dbo:address "Hohe Warte 32" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1190" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874515> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874515" .
+
+_:node1bvvs49smx98 a wgs:Point ;
+	wgs:lat "16.368293813523305" ;
+	wgs:long "48.217393504988266" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874515> wgs:location _:node1bvvs49smx98 ;
+	rdfs:label "Stadtpolizeikommando Innere Stadt (1.Bezirk)"@de ;
+	dbo:address "Deutschmeisterplatz 3" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874523> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874523" .
+
+_:node1bvvs49smx99 a wgs:Point ;
+	wgs:lat "16.281335182369993" ;
+	wgs:long "48.1353486034205" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874523> wgs:location _:node1bvvs49smx99 ;
+	rdfs:label "Stadtpolizeikommando Liesing (23.Bezirk)"@de ;
+	dbo:address "Lehmanngasse 3A" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1230" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874524> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874524" .
+
+_:node1bvvs49smx100 a wgs:Point ;
+	wgs:lat "16.36965762547641" ;
+	wgs:long "48.17904546586222" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874524> wgs:location _:node1bvvs49smx100 ;
+	rdfs:label "Stadtpolizeikommando Favoriten (10.Bezirk)"@de ;
+	dbo:address "Van-der-Nüll-Gasse 11" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874532> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874532" .
+
+_:node1bvvs49smx101 a wgs:Point ;
+	wgs:lat "16.393405242422983" ;
+	wgs:long "48.19654811583286" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874532> wgs:location _:node1bvvs49smx101 ;
+	rdfs:label "Stadtpolizeikommando Landstraße (3.Bezirk)"@de ;
+	dbo:address "Juchgasse 19" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874548> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874548" .
+
+_:node1bvvs49smx102 a wgs:Point ;
+	wgs:lat "16.36947677563747" ;
+	wgs:long "48.233976175399945" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874548> wgs:location _:node1bvvs49smx102 ;
+	rdfs:label "Stadtpolizeikommando Brigittenau (2.u.20.Bezirk)"@de ;
+	dbo:address "Pappenheimgasse 33" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1200" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874555> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874555" .
+
+_:node1bvvs49smx103 a wgs:Point ;
+	wgs:lat "16.39769040831295" ;
+	wgs:long "48.260294917458744" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874555> wgs:location _:node1bvvs49smx103 ;
+	rdfs:label "Stadtpolizeikommando Floridsdorf (21.Bezirk)"@de ;
+	dbo:address "Hermann-Bahr-Straße 3" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874568> a dbo:Place ;
+	lw:hasId "POLIZEIOGD.1874568" .
+
+_:node1bvvs49smx104 a wgs:Point ;
+	wgs:lat "16.33246594229112" ;
+	wgs:long "48.1973940838256" .
+
+<http://linkedwidgets.org/ontology/resource/wien/POLIZEIOGD.1874568> wgs:location _:node1bvvs49smx104 ;
+	rdfs:label "Stadtpolizeikommando Fünfhaus (14.u.15.Bezirk)"@de ;
+	dbo:address "Tannengasse 6-10" ;
+	rdfs:seeAlso "http://www.polizei.gv.at/" ;
+	dbo:codeDistrict "1150" .

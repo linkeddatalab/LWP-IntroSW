@@ -1,0 +1,2052 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+
+<http://linkedwidgets.org/ontology/resource/wien/21erHaus> rdfs:label "21er Haus" ;
+	dbo:type "museum" ;
+	dc:description "Das Museum wurde 2011 saniert und stellt unter der Leitung des Belvedere österreichische Kunst von 1945 bis heute aus."@de ;
+	dbo:address "Arsenalstraße 1" ;
+	dbo:codeDistrict "1030" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx1 a wgs:Point ;
+	wgs:lat "48.1857710810320" ;
+	wgs:long "16.3836224650817" .
+
+<http://linkedwidgets.org/ontology/resource/wien/21erHaus> wgs:location _:node1bvvlrklgx1 ;
+	foaf:phone "+43 1 795 57-134" ;
+	rdfs:seeAlso "http://www.21erhaus.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AEKchert> rdfs:label "A.E. Köchert" ;
+	dbo:type "shopping" ;
+	dc:description "Dieser Traditions-Juwelier schmückt heute mit seinen Brillant-Sternen auch ungekrönte Häupter."@de ;
+	dbo:address "Neuer Markt 15 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx2 a wgs:Point ;
+	wgs:lat "48.2065731" ;
+	wgs:long "16.3705892" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AEKchert> wgs:location _:node1bvvlrklgx2 ;
+	rdfs:seeAlso "http://www.koechert.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Aida> rdfs:label "Aida" ;
+	dbo:type "cafes" ;
+	dc:description "Aida ist eine Wiener Konditoreikette. Das Design der 50er, 60er und 70er, opulente Süßspeisen, hervorragender Kaffee und viel Rosa sind die Zutaten zum Erfolg."@de ;
+	dbo:address "Stock-im-Eisen-Platz 2 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx3 a wgs:Point ;
+	wgs:lat "48.2080194" ;
+	wgs:long "16.3720473" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Aida> wgs:location _:node1bvvlrklgx3 ;
+	foaf:phone "+43 1 512 79 25 " ;
+	rdfs:seeAlso "http://www.aida.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Akademietheater> rdfs:label "Akademietheater" ;
+	dbo:type "musicstage" ;
+	dc:description "Seit 1922 ist das Akademietheater die zweite Spielstätte des Burgtheaters. Hier werden vor allem zeitgenössische Stücke gespielt."@de ;
+	dbo:address "Lisztstraße 1" ;
+	dbo:codeDistrict "1030" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx4 a wgs:Point ;
+	wgs:lat "48.2002455" ;
+	wgs:long "16.3770872" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Akademietheater> wgs:location _:node1bvvlrklgx4 ;
+	foaf:phone "+43 1 51444 4140" , "+43 1 51444 4740" , "+43 1 513 1 513" ;
+	rdfs:seeAlso "http://www.burgtheater.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Albertina> rdfs:label "Albertina" ;
+	dbo:type "museum" ;
+	dc:description "Die Albertina besitzt nicht nur eine der größten und wertvollsten grafischen Sammlungen der Welt mit Werken wie Dürers Feldhase und Klimts Frauenstudien. Ihre neue Schausammlung präsentiert Meisterwerke der Moderne und spannt damit den Bogen von Monet über Picasso zu Baselitz."@de ;
+	dbo:address "Albertinaplatz 1 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx5 a wgs:Point ;
+	wgs:lat "48.2048541" ;
+	wgs:long "16.3681588" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Albertina> wgs:location _:node1bvvlrklgx5 ;
+	foaf:phone "+43 1 534 83 0 " ;
+	foaf:mbox "info@albertina.at" ;
+	rdfs:seeAlso "http://www.albertina.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AltmannKhne> rdfs:label "Altmann & Kühne" ;
+	dbo:type "cafes" ;
+	dc:description "Die kleinste Verführung\" Wiens: handgefertigte Bonbons nach alten Originalrezepten (weltweiter Versand!). "@de ;
+	dbo:address "Am Graben 30 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx6 a wgs:Point ;
+	wgs:lat "48.2083379" ;
+	wgs:long "16.3709213" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AltmannKhne> wgs:location _:node1bvvlrklgx6 ;
+	foaf:phone "+43 1 533 09 27 " ;
+	rdfs:seeAlso "http://www.altmann-kuehne.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AnnaSacher> rdfs:label "Anna Sacher" ;
+	dbo:type "restaurants" ;
+	dc:description "Facettenreich wie der Charakter seiner Namensgeberin präsentiert sich dieses 2-Hauben-Restaurant"@de ;
+	dbo:address "Philharmonikerstraße 4 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx7 a wgs:Point ;
+	wgs:lat "48.2038663" ;
+	wgs:long "16.3697551" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AnnaSacher> wgs:location _:node1bvvlrklgx7 ;
+	foaf:phone "+43 1 514 56 840 " ;
+	rdfs:seeAlso "http://www.sacher.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AnzenbergerGallery> rdfs:label "Anzenberger Gallery" ;
+	dbo:type "museum" ;
+	dc:description "Die 1989 gegründete Gallerie zeigt hauptsächlich internationale Künstler aus den Bereichen Photojournalismus, Dokumentation, Reportage und Portrait. "@de ;
+	dbo:address "Absberggasse 27" ;
+	dbo:codeDistrict "1100" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx8 a wgs:Point ;
+	wgs:lat "48.1716442986060" ;
+	wgs:long "16.3891426661316" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AnzenbergerGallery> wgs:location _:node1bvvlrklgx8 ;
+	foaf:phone "+43-1-587 82 51" ;
+	rdfs:seeAlso "http://www.anzenbergergallery.com" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Atelier10> rdfs:label "Atelier 10" ;
+	dbo:type "museum" ;
+	dc:description "Das 2012 eröffnete Atelier bietet Künstlern, die aus sozialen Gründen, nicht selbständig in der Kunst bewegen können, Unterstützung. Neben Raum werden auch Materialen zur Verfügung gestellt.  "@de ;
+	dbo:address "Puchsbaumgasse 1c/5/5" ;
+	dbo:codeDistrict "1100" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx9 a wgs:Point ;
+	wgs:lat "48.17182" ;
+	wgs:long "16.3911993000000" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Atelier10> wgs:location _:node1bvvlrklgx9 ;
+	foaf:phone "+43-1-64 11 281" ;
+	rdfs:seeAlso "http://www.atelier10.eu" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AzWArchitekturzentrumWien> rdfs:label "Az W  Architekturzentrum Wien" ;
+	dbo:type "sightseeing" ;
+	dc:description "Das Az W genießt mittlerweile in aller Welt eine hohe Reputation als Informations-, Wissens- und Forschungszentrum sowie als Architektursammlung. Hier werden die international aktuellen Leistungen der Architektur einer breiten Öffentlichkeit vermittelt und die nationale Architekturgeschichte des 20. und 21. Jahrhunderts kritisch beleuchtet. "@de ;
+	dbo:address "MuseumsQuartier, Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx10 a wgs:Point ;
+	wgs:lat "48.2046538" ;
+	wgs:long "16.3585099" .
+
+<http://linkedwidgets.org/ontology/resource/wien/AzWArchitekturzentrumWien> wgs:location _:node1bvvlrklgx10 ;
+	foaf:phone "+43 1 522 31 15 " ;
+	foaf:mbox "office@azw.at" ;
+	rdfs:seeAlso "http://www.azw.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/B72> rdfs:label "B72" ;
+	dbo:type "nightlife" ;
+	dc:description "Eines der angesagtesten Lokale am Gürtel, unter der U-Bahn. Besonderheit: zweistöckig. Live-Musik und DJs"@de ;
+	dbo:address "Hernalser Gürtel, Stadtbahnbogen 72 " ;
+	dbo:codeDistrict "1080" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx11 a wgs:Point ;
+	wgs:lat "48.2112571" ;
+	wgs:long "16.3478654" .
+
+<http://linkedwidgets.org/ontology/resource/wien/B72> wgs:location _:node1bvvlrklgx11 ;
+	foaf:phone "+43 1 409 21 28 " ;
+	rdfs:seeAlso "http://www.b72.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BabenbergerPassage> rdfs:label "Babenberger Passage" ;
+	dbo:type "nightlife" ;
+	dc:description "In einer aufgelassenen Fußgänger-Unterführung hat sich ein Club der besonderen Art etabliert, der mit futuristischem Interieur besticht."@de ;
+	dbo:address "Burgring 3, Babenberger Passage" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx12 a wgs:Point ;
+	wgs:lat "48.2033453" ;
+	wgs:long "16.3627575" .
+
+<http://linkedwidgets.org/ontology/resource/wien/BabenbergerPassage> wgs:location _:node1bvvlrklgx12 ;
+	foaf:phone "+43   1   961 88 00 " ;
+	rdfs:seeAlso "http://www.club-passage.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Backhausen> rdfs:label "Backhausen" ;
+	dbo:type "shopping" ;
+	dc:description "Geschenkartikel und Wohnaccessoires nach historischen Originalentwürfen. Wiener Traditionsunternehmen."@de ;
+	dbo:address "Schwarzenbergstraße 10 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx13 a wgs:Point ;
+	wgs:lat "48.2021199" ;
+	wgs:long "16.373805" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Backhausen> wgs:location _:node1bvvlrklgx13 ;
+	rdfs:seeAlso "http://www.backhausen.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Badeschiff> rdfs:label "Badeschiff" ;
+	dbo:type "nightlife" ;
+	dc:description "Am Oberdeck des fest verankerten Stadtbads auf zwei Schiffen verlockt der überdachte Pool zum Schwimmen im angenehm temperierten Wasser. Die wahre Attraktion verbirgt sich allerdings unter Deck: Der ehemalige Laderaum ist jetzt Dancefloor zum coolen Abtanzen unterhalb der Wasserlinie."@de ;
+	dbo:address "Donaukanal (Schwedenplatz - Urania)" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx14 a wgs:Point ;
+	wgs:lat "48.21161138" ;
+	wgs:long "16.38106289" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Badeschiff> wgs:location _:node1bvvlrklgx14 ;
+	foaf:phone "+43 699 1 513 07 50 " ;
+	foaf:mbox "office@badeschiff.at" ;
+	rdfs:seeAlso "http://www.badeschiff.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Barflys> rdfs:label "Barfly's" ;
+	dbo:type "nightlife" ;
+	dc:description "Eine Hotelbar nahe der Mariahilfer Straße, in der alles klassisch ist."@de ;
+	dbo:address "Esterházygasse 33 " ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx15 a wgs:Point ;
+	wgs:lat "48.1968887" ;
+	wgs:long "16.3490578" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Barflys> wgs:location _:node1bvvlrklgx15 ;
+	foaf:phone "+43 1 586 08 25 " ;
+	rdfs:seeAlso "http://www.castillo.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Burgtheater> rdfs:label "Burgtheater" ;
+	dbo:type "musicstage" ;
+	dc:description "Das Haus am Ring wurde 1874 bis 1888 nach den Plänen von Gottfried Semper und Karl von Hasenauer erbaut und ist auch heute noch eine der ersten Adressen für deutschsprachige Schauspielkunst. Führungen: in Deutsch und Englisch bzw. mit englischer Zusammenfassung, Dauer ca. 1 Stunde; andere Sprachen auf Anfrage."@de ;
+	dbo:address "Universitätsring 2 (Dr.-Karl-Lueger-Ring 2)" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx16 a wgs:Point ;
+	wgs:lat "48.2103409" ;
+	wgs:long "16.3610849" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Burgtheater> wgs:location _:node1bvvlrklgx16 ;
+	foaf:phone "+43 1 51444 4140 " , "+43 1 51444 4440 " , "+43 1 513 1 513" ;
+	rdfs:seeAlso "http://www.burgtheater.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafBerg> rdfs:label "Café Berg" ;
+	dbo:type "cafes" ;
+	dc:description "Das Café und die daneben ansässige Buchhandlung \"Löwenherz\" sind fixer Treffpunkt der Wiener Homosexuellen-Community und ihrer Freunde."@de ;
+	dbo:address "Berggasse 8 " ;
+	dbo:codeDistrict "1090" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx17 a wgs:Point ;
+	wgs:lat "48.2176676" ;
+	wgs:long "16.3609186" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafBerg> wgs:location _:node1bvvlrklgx17 ;
+	foaf:phone "+43 1 319 57 20 " ;
+	rdfs:seeAlso "http://www.cafe-berg.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafCentral> rdfs:label "Café Central" ;
+	dbo:type "cafes" ;
+	dc:description "Das Café Central war immer wieder Heimat großer Dichter, Lenker und Denker. Der Charme des berühmtesten Kaffeehauses der Welt macht jeden Besuch zu einem besonderen kulinarischen Erlebnis."@de ;
+	dbo:address "Herrengasse/Strauchgasse" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx18 a wgs:Point ;
+	wgs:lat "48.210196" ;
+	wgs:long "16.365431" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafCentral> wgs:location _:node1bvvlrklgx18 ;
+	foaf:phone "+43 1 533 37 63 61" ;
+	foaf:mbox "cafe.central@palaisevents.at" ;
+	rdfs:seeAlso "http://www.cafecentral-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafDiglas> rdfs:label "Café Diglas" ;
+	dbo:type "cafes" ;
+	dc:description "Ein Wiener Traditionscafé im Zentrum der Stadt. Hier wird Genuss groß geschrieben, vom Frühstück bis zum Dinner gibts zu jeder Tageszeit das passende Angebot."@de ;
+	dbo:address "Wollzeile 10" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx19 a wgs:Point ;
+	wgs:lat "48.2086116" ;
+	wgs:long "16.3752607" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafDiglas> wgs:location _:node1bvvlrklgx19 ;
+	foaf:phone "+43 1 512 57 65" ;
+	foaf:mbox "office@diglas.at" ;
+	rdfs:seeAlso "http://www.diglas.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafDrechsler> rdfs:label "Café Drechsler" ;
+	dbo:type "cafes" ;
+	dc:description "Das legendäre Café Drechsler  am Naschmarkt wurde vom britischen Stardesigner Sir Terence Conran mit viel Fingerspitzengefühl umgestaltet. Täglich 23 Stunden geöffnet  ab drei Uhr morgens werden die ersten Gäste verköstigt. "@de ;
+	dbo:address "Linke Wienzeile 22 " ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx20 a wgs:Point ;
+	wgs:lat "48.1984329" ;
+	wgs:long "16.3623848" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafDrechsler> wgs:location _:node1bvvlrklgx20 ;
+	foaf:phone "+43 1 581 20 44 " ;
+	rdfs:seeAlso "http://www.cafedrechsler.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafHawelka> rdfs:label "Café Hawelka" ;
+	dbo:type "cafes" ;
+	dc:description "Eine Wiener Institution. Sein einzigartiger Charme macht das Hawelka zum beliebten Treffpunkt für Künstler und zu einem Ort der Ruhe - nur eine Seitengasse vom Stephansplatz entfernt."@de ;
+	dbo:address "Dorotheergasse 6 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx21 a wgs:Point ;
+	wgs:lat "48.2078082" ;
+	wgs:long "16.3697549" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafHawelka> wgs:location _:node1bvvlrklgx21 ;
+	foaf:phone "+43 1 512 82 30 " ;
+	rdfs:seeAlso "http://www.hawelka.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafLandtmann> rdfs:label "Café Landtmann" ;
+	dbo:type "cafes" ;
+	dc:description "In diesem Wiener Traditions-Kaffeehaus waren u.a. Sigmund Freud, Marlene Dietrich, Romy Schneider, Paul McCartney und Hillary Clinton zu Gast."@de ;
+	dbo:address "Universitätsring 4" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx22 a wgs:Point ;
+	wgs:lat "48.2114529" ;
+	wgs:long "16.3615795" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafLandtmann> wgs:location _:node1bvvlrklgx22 ;
+	foaf:phone "+43 1 24 100-120" ;
+	foaf:mbox "cafe@landtmann.at" ;
+	rdfs:seeAlso "http://www.landtmann.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafLeopold> rdfs:label "Café Leopold" ;
+	dbo:type "cafes" ;
+	dc:description "Gestaltet hat das Lokal im Leopold Museum das Wiener Architektenteam Ortner & Ortner. Das Café zeigt besonders bei Einbruch der Dunkelheit viel Charme und Wärme. Gute \"neue\" Wiener Küche, DJs am Abend. Schanigarten / Garten; Terasse"@de ;
+	dbo:address "Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx23 a wgs:Point ;
+	wgs:lat "48.2046538" ;
+	wgs:long "16.3585099" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafLeopold> wgs:location _:node1bvvlrklgx23 ;
+	foaf:phone "+43 1 523 67 32 " ;
+	rdfs:seeAlso "http://www.cafe-leopold.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafPrckel> rdfs:label "Café Prückel" ;
+	dbo:type "cafes" ;
+	dc:description "Ein Ringstraßen-Café gegenüber dem Museum für angewandte Kunst, dessen Interieur aus den 1950er-Jahren nicht nur Kaffeehaus-Freunde begeistert."@de ;
+	dbo:address "Stubenring 24" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx24 a wgs:Point ;
+	wgs:lat "48.207674" ;
+	wgs:long "16.3804718" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafPrckel> wgs:location _:node1bvvlrklgx24 ;
+	foaf:phone "+43 1 512 61 15" ;
+	foaf:mbox "prueckel@aon.at" ;
+	rdfs:seeAlso "http://www.prueckel.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafRdigerhof> rdfs:label "Café Rüdigerhof" ;
+	dbo:type "cafes" ;
+	dc:description "Karten spielen, Zeitung lesen oder über Gott und die Welt plaudern: Im Café Rüdigerhof kommt keine Hektik auf. Das in der Nähe des Naschmarktes gelegene Lokal befindet sich in einem der schönsten Jugendstilhäuser Wiens."@de ;
+	dbo:address "Hamburger Straße 20 " ;
+	dbo:codeDistrict "1050" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx25 a wgs:Point ;
+	wgs:lat "48.195423" ;
+	wgs:long "16.3552339" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafRdigerhof> wgs:location _:node1bvvlrklgx25 ;
+	foaf:phone "+43 1 586 31 38 " .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafSacher> rdfs:label "Café Sacher" ;
+	dbo:type "cafes" ;
+	dc:description "Hier genießt man altehrwürdige Wiener Kaffeehaustradition am besten mit einer Sacher-Torte."@de ;
+	dbo:address "Philharmonikerstraße 4 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx26 a wgs:Point ;
+	wgs:lat "48.2038663" ;
+	wgs:long "16.3697551" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafSacher> wgs:location _:node1bvvlrklgx26 ;
+	foaf:phone "+43 1 514 56 0 " ;
+	rdfs:seeAlso "http://www.sacher.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafStein> rdfs:label "Café Stein" ;
+	dbo:type "gastronomy" ;
+	dc:description "Ein angesagter Treff in einer angesagten Gegend.Ganz nahe bei der Universität trifft sich seit Ewigkeiten eine interessante Mischung aus alter und junger Szene. "@de ;
+	dbo:address "Währinger Straße 6-8 " ;
+	dbo:codeDistrict "1090" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx27 a wgs:Point ;
+	wgs:lat "48.2156599" ;
+	wgs:long "16.361139" .
+
+<http://linkedwidgets.org/ontology/resource/wien/CafStein> wgs:location _:node1bvvlrklgx27 ;
+	foaf:phone "+43-1-319 72 41-0" ;
+	rdfs:seeAlso "http://www.cafe-stein.com/ " .
+
+<http://linkedwidgets.org/ontology/resource/wien/Chelsea> rdfs:label "Chelsea" ;
+	dbo:type "nightlife" ;
+	dc:description "Das Urgestein der Gürtel-Lokale.Musik von Punk bis Brit-Pop. Jede Woche spielen hier auch mehrere Bands (oft aus England) live."@de ;
+	dbo:address "Lerchenfelder Gürtel, Stadtbahnbögen 29-30 " ;
+	dbo:codeDistrict "1080" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx28 a wgs:Point ;
+	wgs:lat "48.2112571" ;
+	wgs:long "16.3478654" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Chelsea> wgs:location _:node1bvvlrklgx28 ;
+	foaf:phone "+43 1 407 93 09 " ;
+	rdfs:seeAlso "http://www.chelsea.co.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Corbaci> rdfs:label "Corbaci" ;
+	dbo:type "gastronomy" ;
+	dc:description "Hier gehört hochwertige Architektur zum Pflichtprogramm: die bemerkenswerte Mosaikdecke steht im Kontrast zur restlichen minimalistischen Architektur des Lokals."@de ;
+	dbo:address "MuseumsQuartier, Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx29 a wgs:Point ;
+	wgs:lat "48.2046538" ;
+	wgs:long "16.3585099" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Corbaci> wgs:location _:node1bvvlrklgx29 ;
+	foaf:phone "+43 1 523 65 66 " ;
+	rdfs:seeAlso "http://www.azw.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DasMbelDasCaf> rdfs:label "Das Möbel - Das Café" ;
+	dbo:type "cafes" ;
+	dc:description "Kein Tisch gleicht dem anderen, jeder Sessel schaut anders aus - und die Gäste können hier nicht nur essen und trinken. Sondern auch die - ständig wechselnden - Einrichtungsstücke kaufen."@de ;
+	dbo:address "Burggasse 10" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx30 a wgs:Point ;
+	wgs:lat "48.2042672" ;
+	wgs:long "16.3550872" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DasMbelDasCaf> wgs:location _:node1bvvlrklgx30 ;
+	foaf:phone "+43 1 524 94 97" ;
+	rdfs:seeAlso "http://www.dasmoebel.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DasMbelDasGeschft> rdfs:label "Das Möbel - Das Geschäft" ;
+	dbo:type "shopping" ;
+	dc:description "Ein absolut kreativer Shop nahe der Einkaufsmeile Mariahilfer Straße, der zum Staunen und Stöbern einlädt."@de ;
+	dbo:address "Gumpendorfer Straße 11 " ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx31 a wgs:Point ;
+	wgs:lat "48.1999371" ;
+	wgs:long "16.3613137" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DasMbelDasGeschft> wgs:location _:node1bvvlrklgx31 ;
+	foaf:phone "+43 1 924 38 34 " ;
+	rdfs:seeAlso "http://www.dasmoebel.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DemelKKHofzuckerbcker> rdfs:label "Demel K. & K. Hofzuckerbäcker" ;
+	dbo:type "shopping" ;
+	dc:description "Die einstige k.u.k. Hofzuckerbäckerei steht noch heute für höchste Qualität in Sachen Mehlspeisen & Kaffee. "@de ;
+	dbo:address "Kohlmarkt 14 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx32 a wgs:Point ;
+	wgs:lat "48.208589" ;
+	wgs:long "16.3671648" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DemelKKHofzuckerbcker> wgs:location _:node1bvvlrklgx32 ;
+	foaf:phone "+43 1 535 17 17 0 " ;
+	rdfs:seeAlso "http://www.demel.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Dommuseum> rdfs:label "Dommuseum" ;
+	dbo:type "museum" ;
+	dc:description "Es liegt gleich neben dem Stephansdom. Zu sehen sind Kostbarkeiten sakraler Kunst, liturgische Geräte, das kunstgeschichtlich bedeutende Bildnis des Habsburgers Herzog Rudolfs IV., gemalt um 1365, und vieles mehr."@de ;
+	dbo:address "Stephansplatz 6, Durchgang Wollzeile " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx33 a wgs:Point ;
+	wgs:lat "48.20884374" ;
+	wgs:long "16.37389346" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Dommuseum> wgs:location _:node1bvvlrklgx33 ;
+	foaf:phone "+43 1 51552 3300" ;
+	rdfs:seeAlso "http://www.dommuseum.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Donauturm> rdfs:label "Donauturm" ;
+	dbo:type "sightseeing" ;
+	dc:description "252 Meter hoch, mit zwei Schnell-Liften, die Sie binnen 45 Sekunden zum rotierenden Aussichts-Restaurant in 170 Metern Höhe bringen."@de ;
+	dbo:address "Donauturmstraße 4" ;
+	dbo:codeDistrict "1220" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx34 a wgs:Point ;
+	wgs:lat "48.24028346" ;
+	wgs:long "16.4099199" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Donauturm> wgs:location _:node1bvvlrklgx34 ;
+	foaf:phone "+43 1 263 35 72" ;
+	rdfs:seeAlso "http://www.donauturm.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DorotheumJuwelier> rdfs:label "Dorotheum Juwelier" ;
+	dbo:type "shopping" ;
+	dc:description "Das Palais Dorotheum ist seit 1901 Sitz des \"Dorotheums\", eines der führenden Auktionshäuser weltweit. Rarer Schmuck von Art Déco bis zur Moderne kann nicht nur ersteigert sondern auch erworben werden."@de ;
+	dbo:address "Kärntner Straße 36" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx35 a wgs:Point ;
+	wgs:lat "48.2040438" ;
+	wgs:long "16.3702775" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DorotheumJuwelier> wgs:location _:node1bvvlrklgx35 ;
+	foaf:phone "+43 1 51 33 202" ;
+	rdfs:seeAlso "http://www.dorotheum.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DschungelWien> rdfs:label "Dschungel Wien" ;
+	dbo:type "musicstage" ;
+	dc:description "Junge Menschen von 2 bis 22 sind das Zielpublikum des Theaters für junges Publikum im MuseumsQuartier Wien. "@de ;
+	dbo:address "MuseumsQuartier, Museumsplatz 1" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx36 a wgs:Point ;
+	wgs:lat "48.2023513" ;
+	wgs:long "16.3594755" .
+
+<http://linkedwidgets.org/ontology/resource/wien/DschungelWien> wgs:location _:node1bvvlrklgx36 ;
+	foaf:phone "+43 1 522 07 20 20 " ;
+	foaf:mbox "tickets@dschungelwien.at" ;
+	rdfs:seeAlso "http://www.dschungelwien.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Elfenkleid> rdfs:label "Elfenkleid" ;
+	dbo:type "shopping" ;
+	dc:description "Damenmode, bei der Tragekomfort und trendunabhängige Eleganz in schlichtem, geradlinigem Design dominiert."@de ;
+	dbo:address "Margaretenstraße 39 " ;
+	dbo:codeDistrict "1040" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx37 a wgs:Point ;
+	wgs:lat "48.1948272" ;
+	wgs:long "16.3629146" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Elfenkleid> wgs:location _:node1bvvlrklgx37 ;
+	rdfs:seeAlso "http://www.elfenkleid.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/FirstFloor> rdfs:label "First Floor" ;
+	dbo:type "nightlife" ;
+	dc:description "Inmitten der Innenstadt im Nightlife-Gebiet \"Bermuda Dreieck\" liegt - ein wenig versteckt im 1. Stock - eine der besten Cocktail-Bars der Stadt."@de ;
+	dbo:address "Seitenstettengasse 5, Ecke Rabensteig " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx38 a wgs:Point ;
+	wgs:lat "48.2115391" ;
+	wgs:long "16.3753057" .
+
+<http://linkedwidgets.org/ontology/resource/wien/FirstFloor> wgs:location _:node1bvvlrklgx38 ;
+	foaf:phone "+43 1 533 78 66 " .
+
+<http://linkedwidgets.org/ontology/resource/wien/Flex> rdfs:label "Flex" ;
+	dbo:type "nightlife" ;
+	dc:description "Star-DJs der Techno- und Drum'n'Bass-Szene, die angesagtesten Stars der Alternative Music und aktuellen Dancekultur statten dem Flex regelmäßig einen Besuch ab."@de ;
+	dbo:address "Donaukanal - Augartenbrücke" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx39 a wgs:Point ;
+	wgs:lat "48.2186475" ;
+	wgs:long "16.3700592" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Flex> wgs:location _:node1bvvlrklgx39 ;
+	foaf:phone "+43 1 533 75 25 " ;
+	foaf:mbox "office@flex.at" ;
+	rdfs:seeAlso "http://www.flex.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Fluc> rdfs:label "Fluc" ;
+	dbo:type "nightlife" ;
+	dc:description "These clubs are strongly influenced by electronic music; everything from avant garde noise performances to boisterous indie disco parties take place here."@de ;
+	dbo:address "Praterstern 5 " ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx40 a wgs:Point ;
+	wgs:lat "48.2194446" ;
+	wgs:long "16.3922694" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Fluc> wgs:location _:node1bvvlrklgx40 .
+
+<http://linkedwidgets.org/ontology/resource/wien/Gergelys> rdfs:label "Gergely's" ;
+	dbo:type "restaurants" ;
+	dc:description "Das Angebot in diesem Szeneviertel reicht von gediegener österreichischer Küche beim Silberwirt bis zu italienischen Köstlichkeiten in der Trattoria Margareta."@de ;
+	dbo:address "Schlossgasse 21 " ;
+	dbo:codeDistrict "1050" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx41 a wgs:Point ;
+	wgs:lat "48.191094" ;
+	wgs:long "16.3593266" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Gergelys> wgs:location _:node1bvvlrklgx41 ;
+	foaf:phone "+43 1 544 07 67 " ;
+	rdfs:seeAlso "http://www.gergelys.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/GlacisBeisl> rdfs:label "Glacis Beisl" ;
+	dbo:type "gastronomy" ;
+	dc:description "Klassiker der Wiener Küche und eine große Auswahl an österreichischen Weinen stehen hier auf der Karte."@de ;
+	dbo:address "Breitegasse 4" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx42 a wgs:Point ;
+	wgs:lat "48.2032121" ;
+	wgs:long "16.3571072" .
+
+<http://linkedwidgets.org/ontology/resource/wien/GlacisBeisl> wgs:location _:node1bvvlrklgx42 ;
+	foaf:phone "+43 1 526 56 60 " ;
+	rdfs:seeAlso "http://www.glacisbeisl.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HaasHaas> rdfs:label "Haas & Haas" ;
+	dbo:type "shopping" ;
+	dc:description "Das traditionsreiche Teehaus bietet duftende Tees und andere exklusive Produkte, die im Lokal nebenan konsumiert werden können."@de ;
+	dbo:address "Stephansplatz 4 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx43 a wgs:Point ;
+	wgs:lat "48.2079211" ;
+	wgs:long "16.3737791" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HaasHaas> wgs:location _:node1bvvlrklgx43 ;
+	rdfs:seeAlso "http://www.haas-haas.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HausderMusik> rdfs:label "Haus der Musik" ;
+	dbo:type "museum" ;
+	dc:description "In der musikalischen Erlebniswelt im Herzen der Stadt wird Musik mit allen Sinnen erlebbar."@de ;
+	dbo:address "Seilerstätte 30 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx44 a wgs:Point ;
+	wgs:lat "48.2038573" ;
+	wgs:long "16.3732316" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HausderMusik> wgs:location _:node1bvvlrklgx44 ;
+	foaf:phone "+43 1 513 48 50" ;
+	foaf:mbox "info@hdm.at" ;
+	rdfs:seeAlso "http://www.hdm.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HausdesMeeresVivariumWien> rdfs:label "Haus des Meeres Vivarium Wien" ;
+	dbo:type "museum" ;
+	dc:description "Fische aus dem Mittelmeer, aus tropischen und heimischen Gewässern, freifliegende Vögel, herumlaufende Äffchen und Krokodile bietet dieses Vivarium."@de ;
+	dbo:address "Fritz-Grünbaum-Platz 1 (Esterházypark) " ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx45 a wgs:Point ;
+	wgs:lat "48.19760668" ;
+	wgs:long "16.35291553" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HausdesMeeresVivariumWien> wgs:location _:node1bvvlrklgx45 ;
+	foaf:phone "+43 1 587 14 17 " ;
+	foaf:mbox "office@haus-des-meeres.at" ;
+	rdfs:seeAlso "http://www.haus-des-meeres.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HermesvillaWienMuseum> rdfs:label "Hermesvilla Wien Museum" ;
+	dbo:type "sightseeing" ;
+	dc:description "Die Villa der berühmten Kaiserin Elisabeth ist heute ein beliebter Schauplatz vielbeachteter Sonderausstellungen zu kulturgeschichtlichen Themen."@de ;
+	dbo:address "Lainzer Tiergarten" ;
+	dbo:codeDistrict "1130" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx46 a wgs:Point ;
+	wgs:lat "48.17070736" ;
+	wgs:long "16.24608243" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HermesvillaWienMuseum> wgs:location _:node1bvvlrklgx46 ;
+	foaf:phone "+43 1 804 13 24 " ;
+	foaf:mbox "office@wienmuseum.at" ;
+	rdfs:seeAlso "http://www.wienmuseum.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Hofburg> rdfs:label "Hofburg" ;
+	dbo:type "sightseeing" ;
+	dc:description "Inmitten der Altstadt können die Privatgemächer und Repräsentationsräume der Habsburger, sowie zahlreiche Museen besichtigt werden."@de ;
+	dbo:address "Heldenplatz " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx47 a wgs:Point ;
+	wgs:lat "48.2062953" ;
+	wgs:long "16.3637448" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Hofburg> wgs:location _:node1bvvlrklgx47 ;
+	foaf:phone "+43 1 587 36 66 " ;
+	foaf:mbox "vienna@hofburg.com" ;
+	rdfs:seeAlso "http://www.hofburg.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HotelSacher> rdfs:label "Hotel Sacher" ;
+	dbo:type "accommodations" ;
+	dc:description "Beschreibung"@de ;
+	dbo:address "Philharmonikerstraße 4 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx48 a wgs:Point ;
+	wgs:lat "48.2038663" ;
+	wgs:long "16.3697551" .
+
+<http://linkedwidgets.org/ontology/resource/wien/HotelSacher> wgs:location _:node1bvvlrklgx48 ;
+	foaf:phone "+43-1-514 56" ;
+	rdfs:seeAlso "http://www.sacher.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/JdischesMuseumWien> rdfs:label "Jüdisches Museum Wien" ;
+	dbo:type "museum" ;
+	dc:description "Dieses Haus bietet eine ständige Schau zur jüdischer Geschichte und Religion sowie Wechselausstellungen zu verschiedenen Themen wie jüdische Literatur, Architektur, Fotografie, Kunst."@de ;
+	dbo:address "Dorotheergasse 11" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx49 a wgs:Point ;
+	wgs:lat "48.2071645" ;
+	wgs:long "16.3693173" .
+
+<http://linkedwidgets.org/ontology/resource/wien/JdischesMuseumWien> wgs:location _:node1bvvlrklgx49 ;
+	foaf:phone "+43-1-535 04 31" ;
+	foaf:mbox "info@jmw.at" ;
+	rdfs:seeAlso "http://www.jmw.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/JuliusMeinlamGraben> rdfs:label "Julius Meinl am Graben" ;
+	dbo:type "shopping" ;
+	dc:description "Hier kann man feinste Kulinarik und Lebensart aus aller Herren Länder in unvergleichlicher Atmosphäre erleben."@de ;
+	dbo:address "Graben 19 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx50 a wgs:Point ;
+	wgs:lat "48.2094059" ;
+	wgs:long "16.36829" .
+
+<http://linkedwidgets.org/ontology/resource/wien/JuliusMeinlamGraben> wgs:location _:node1bvvlrklgx50 ;
+	rdfs:seeAlso "http://www.meinlamgraben.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Karlskirche> rdfs:label "Karlskirche" ;
+	dbo:type "sightseeing" ;
+	dc:description "Der auffällige Sakralbau mit der mächtiger Kuppel zählt zu den wichtigsten Barockbauten Wiens. Ein Lift führt bis in die Kuppel, so dass die berühmten Rottmayr-Fresken ganz aus der Nähe betrachtet werden können."@de ;
+	dbo:address "Karlsplatz " ;
+	dbo:codeDistrict "1040" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx51 a wgs:Point ;
+	wgs:lat "48.1989597" ;
+	wgs:long "16.3702557" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Karlskirche> wgs:location _:node1bvvlrklgx51 ;
+	foaf:phone "+43 1 505 62 94 " ;
+	rdfs:seeAlso "http://www.karlskirche.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KircheamSteinhof> rdfs:label "Kirche am Steinhof" ;
+	dbo:type "sightseeing" ;
+	dc:description "Das architektonisches Meisterwerk Otto Wagners ist der erste Kirchenbau der Moderne in Europa und ein Wiener Jugendstiljuwel."@de ;
+	dbo:address "Baumgartner Höhe 1 " ;
+	dbo:codeDistrict "1140" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx52 a wgs:Point ;
+	wgs:lat "48.2114384" ;
+	wgs:long "16.2851174" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KircheamSteinhof> wgs:location _:node1bvvlrklgx52 ;
+	foaf:phone "+43 910 60  11007" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KleinesCaf> rdfs:label "Kleines Café" ;
+	dbo:type "cafes" ;
+	dc:description "In diesem beliebten Szenetreffpunkt sieht man vor allem Leute aus dem künstlerischen Bereich."@de ;
+	dbo:address "Franziskanerplatz 3 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx53 a wgs:Point ;
+	wgs:lat "48.2066268" ;
+	wgs:long "16.3743903" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KleinesCaf> wgs:location _:node1bvvlrklgx53 .
+
+<http://linkedwidgets.org/ontology/resource/wien/KunstHausWien> rdfs:label "Kunst Haus Wien" ;
+	dbo:type "museum" ;
+	dc:description "Das von Friedensreich Hundertwasser im typischen Stil erbaute Haus bietet eine Schau seiner Werke sowie wechselnde Ausstellungen spannender Gegenwartskunst."@de ;
+	dbo:address "Untere Weißgerberstraße 13 " ;
+	dbo:codeDistrict "1030" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx54 a wgs:Point ;
+	wgs:lat "48.2110063" ;
+	wgs:long "16.3934495" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KunstHausWien> wgs:location _:node1bvvlrklgx54 ;
+	foaf:phone "+43 1 712 04 91 " , "+43 1 712 04 95" ;
+	foaf:mbox "info@kunsthauswien.com" ;
+	rdfs:seeAlso "http://www.kunsthauswien.com" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KunsthalleWien> rdfs:label "Kunsthalle Wien" ;
+	dbo:type "museum" ;
+	dc:description "Die Kunsthalle Wien im MuseumsQuartier konzentriert sich auf Präsentationen internationaler zeitgenössischer Kunst."@de ;
+	dbo:address "Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx55 a wgs:Point ;
+	wgs:lat "48.2046538" ;
+	wgs:long "16.3585099" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KunsthalleWien> wgs:location _:node1bvvlrklgx55 ;
+	foaf:phone "+43-1-521 89-0" ;
+	foaf:mbox "office@kunsthallewien.at" ;
+	rdfs:seeAlso "http://www.kunsthallewien.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KunsthistorischesMuseum> rdfs:label "Kunsthistorisches Museum" ;
+	dbo:type "museum" ;
+	dc:description "Mit seiner Kollektion bedeutender Werke und der weltgrößten Bruegel-Sammlung zählt das KHM zu den bedeutendsten Kunstsammlungen der Welt."@de ;
+	dbo:address "Maria-Theresien-Platz " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx56 a wgs:Point ;
+	wgs:lat "48.20375984" ;
+	wgs:long "16.36174428" .
+
+<http://linkedwidgets.org/ontology/resource/wien/KunsthistorischesMuseum> wgs:location _:node1bvvlrklgx56 ;
+	foaf:phone "+43 1 525 240 " ;
+	foaf:mbox "info@khm.at" ;
+	rdfs:seeAlso "http://www.khm.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LeopoldMuseum> rdfs:label "Leopold Museum" ;
+	dbo:type "museum" ;
+	dc:description "Hunderte Meisterwerke der österreichischen Moderne, zusammengetragen vom leidenschaftlichen Kunstliebhaber Dr. Rudolf Leopold, zeigt das neue Leopold Museum im MuseumsQuartier."@de ;
+	dbo:address "Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx57 a wgs:Point ;
+	wgs:lat "48.2046538" ;
+	wgs:long "16.3585099" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LeopoldMuseum> wgs:location _:node1bvvlrklgx57 ;
+	foaf:phone "+43 1 525 70  0 " ;
+	foaf:mbox "office@leopoldmuseum.org" ;
+	rdfs:seeAlso "http://www.leopoldmuseum.org/ " .
+
+<http://linkedwidgets.org/ontology/resource/wien/Loft8> rdfs:label "Loft 8" ;
+	dbo:type "museum" ;
+	dc:description "Das Loft 8 stellt vorwiegend Kunst junger österreichischer oder in Österreich lebender Künster aus."@de ;
+	dbo:address "Absberggasse 27, Loft 8, Objekt 8, Stiege 9/4. Stock" ;
+	dbo:codeDistrict "1100" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx58 a wgs:Point ;
+	wgs:lat "48.1720289999999" ;
+	wgs:long "16.3891158999999" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Loft8> wgs:location _:node1bvvlrklgx58 ;
+	foaf:phone "+43 1 8022779" ;
+	rdfs:seeAlso "http://www.loft8.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LoftCityehemaligeAnkerbrotfabrik> rdfs:label "Loft City (ehemalige Ankerbrotfabrik)" ;
+	dbo:type "musuem" ;
+	dc:description "In den einstigen Gebäuden der Ankertbrotfabrik wurden Lofts errichtet, die neben Gallerien auch Ateliers und eine Veranstaltungshalle beherbergen."@de ;
+	dbo:address "Absberggasse 27" ;
+	dbo:codeDistrict "1100" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx59 a wgs:Point ;
+	wgs:lat "48.1715628438166" ;
+	wgs:long "16.3892215275085" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LoftCityehemaligeAnkerbrotfabrik> wgs:location _:node1bvvlrklgx59 ;
+	foaf:phone "+43 1 982 39 39" ;
+	rdfs:seeAlso "http://www.loftcity.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LoosAmericanBar> rdfs:label "Loos American Bar" ;
+	dbo:type "nightlife" ;
+	dc:description "Eine mondäne Bar zum Schauen und Chillen, heute wie damals beliebt."@de ;
+	dbo:address "Kärntner Straße 10 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx60 a wgs:Point ;
+	wgs:lat "48.2070907" ;
+	wgs:long "16.3714544" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LoosAmericanBar> wgs:location _:node1bvvlrklgx60 ;
+	foaf:phone "+43 1 512 32 83 " ;
+	rdfs:seeAlso "http://www.loosbar.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LudwigReiterSchuhmanufaktur> rdfs:label "Ludwig Reiter Schuhmanufaktur" ;
+	dbo:type "shopping" ;
+	dc:description "Die besondere Tradition des Hauses ist die Erzeugung rahmengenähter Schuhe im klassisch Wiener Stil."@de ;
+	dbo:address "Mölkersteig 1" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx61 a wgs:Point ;
+	wgs:lat "48.21218416" ;
+	wgs:long "16.36234603" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LudwigReiterSchuhmanufaktur> wgs:location _:node1bvvlrklgx61 ;
+	rdfs:seeAlso "http://www.ludwig-reiter.com/" ;
+	dbo:address "Führichgasse 6 " .
+
+_:node1bvvlrklgx62 a wgs:Point ;
+	wgs:lat "48.2049256" ;
+	wgs:long "16.3699003" .
+
+<http://linkedwidgets.org/ontology/resource/wien/LudwigReiterSchuhmanufaktur> wgs:location _:node1bvvlrklgx62 .
+
+<http://linkedwidgets.org/ontology/resource/wien/MAKsterreichischesMuseumfrangewandteKunstGegenwartskunst> rdfs:label "MAK - Österreichisches Museum für angewandte Kunst/Gegenwartskunst" ;
+	dbo:type "museum" ;
+	dc:description "In diesem Museum für Design sieht man auch kostbares Kunsthandwerk der Wiener Werkstätte, Bugholzmöbel von Thonet und Highlights des Jugendstils."@de ;
+	dbo:address "Stubenring 5 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx63 a wgs:Point ;
+	wgs:lat "48.2076234" ;
+	wgs:long "16.3813158" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MAKsterreichischesMuseumfrangewandteKunstGegenwartskunst> wgs:location _:node1bvvlrklgx63 ;
+	foaf:phone "+43 1 711 36 0 " ;
+	foaf:mbox "office@MAK.at" ;
+	rdfs:seeAlso "http://www.mak.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MAKDesignShop> rdfs:label "MAK Design Shop " ;
+	dbo:type "shopping" ;
+	dc:description "Artikel des täglichen Lebens in jungem und ausgefallenem Design können hier erstanden werden."@de ;
+	dbo:address "Stubenring 5 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx64 a wgs:Point ;
+	wgs:lat "48.2076234" ;
+	wgs:long "16.3813158" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MAKDesignShop> wgs:location _:node1bvvlrklgx64 ;
+	rdfs:seeAlso "http://www.makdesignshop.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MannerShop> rdfs:label "Manner Shop" ;
+	dbo:type "shopping" ;
+	dc:description "Die Manner Schnitten, jene Nougat-Waffeln in der rosaroten Verpackung mit der Silhouette des Stephansdoms, sind absoluter Kult und in diesem Shop täglich frisch"@de ;
+	dbo:address "Stephansplatz 7, Rotenturmstraße " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx65 a wgs:Point ;
+	wgs:lat "48.2095097" ;
+	wgs:long "16.373307" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MannerShop> wgs:location _:node1bvvlrklgx65 ;
+	foaf:phone "+43 1 488 22 0 " ;
+	rdfs:seeAlso "http://www.manner.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Motto> rdfs:label "Motto" ;
+	dbo:type "restaurants" ;
+	dc:description "Das Restaurant Motto bewährt sich seit Jahren als Hotspot der Wiener Gastro-Szene. Hier mischen sich internationale Stars gerne unter das bunte Volk der \"Motto-Gäste\"."@de ;
+	dbo:address "Schönbrunner Straße 30 " ;
+	dbo:codeDistrict "1050" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx66 a wgs:Point ;
+	wgs:lat "48.1929409" ;
+	wgs:long "16.3575794" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Motto> wgs:location _:node1bvvlrklgx66 ;
+	foaf:phone "+43 1 587 06 72 " ;
+	foaf:mbox "info@motto.at" ;
+	rdfs:seeAlso "http://www.motto.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MQPoint> rdfs:label "MQ Point" ;
+	dbo:type "shopping" ;
+	dc:description "Mehr als ein Museumsshop: Hier findet man Tassen und  Taschen in coolem Design, Buttons oder T-Shirts mit spaßigen Aufdrucken."@de ;
+	dbo:address "Museumsplatz 1" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx67 a wgs:Point ;
+	wgs:lat "48.2035349" ;
+	wgs:long "16.3591216" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MQPoint> wgs:location _:node1bvvlrklgx67 ;
+	foaf:phone "+43 820 600 600 " ;
+	rdfs:seeAlso "http://www.mqpoint.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MhlbauerHutmanufaktur> rdfs:label "Mühlbauer Hutmanufaktur" ;
+	dbo:type "shopping" ;
+	dc:description "Trendige Kopfbedeckungen des 1903 in Wien gegründeten Familienunternehmens schmückt heute die Häupter des internationalen Jetsets."@de ;
+	dbo:address "Seilergasse 10" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx68 a wgs:Point ;
+	wgs:lat "48.2073137" ;
+	wgs:long "16.3701304" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MhlbauerHutmanufaktur> wgs:location _:node1bvvlrklgx68 ;
+	foaf:phone "+43 1 512 22 41" ;
+	rdfs:seeAlso "http://www.muehlbauer.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/mumokMuseummodernerKunstStiftungLudwigWien> rdfs:label "mumok - Museum moderner Kunst Stiftung Ludwig Wien" ;
+	dbo:type "museum" ;
+	dc:description "Bedeutende Werke internationaler Künstler aus den Bereichen Pop Art, Fluxus, Nouveau Réalisme und Wiener Aktionismus sind hier zu sehen."@de ;
+	dbo:address "Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx69 a wgs:Point ;
+	wgs:lat "48.20375283" ;
+	wgs:long "16.35797346" .
+
+<http://linkedwidgets.org/ontology/resource/wien/mumokMuseummodernerKunstStiftungLudwigWien> wgs:location _:node1bvvlrklgx69 ;
+	foaf:phone "+43 1 525 00 " ;
+	foaf:mbox "info@mumok.at" ;
+	rdfs:seeAlso "http://www.mumok.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MuseumsQuartierWien> rdfs:label "MuseumsQuartier Wien" ;
+	dbo:type "museum" ;
+	dc:description "Das Aufsehen erregende Kunstareal nahe der Hofburg lockt nicht nur mit prominenten Museen sondern auch mit einer quicklebendigen Lokal-Szene"@de ;
+	dbo:address "Museumsplatz 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx70 a wgs:Point ;
+	wgs:lat "48.20337385" ;
+	wgs:long "16.35870302" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MuseumsQuartierWien> wgs:location _:node1bvvlrklgx70 ;
+	foaf:phone "+43 1 523 58 81 " , "+43-0820 600 600 " , "+43-1-523 58 81-1730 " ;
+	foaf:mbox "office@mqw.at" ;
+	rdfs:seeAlso "http://www.mqw.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Musikverein> rdfs:label "Musikverein" ;
+	dbo:type "musicstage" ;
+	dc:description "Musikfreunde auf der ganzen Welt kennen den Musikverein als Zentrum der Wiener Musikkultur, als Mittelpunkt des internationalen Konzertlebens, als Eldorado klassischer Musik."@de ;
+	dbo:address "Musikvereinsplatz 1" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx71 a wgs:Point ;
+	wgs:lat "48.20061724" ;
+	wgs:long "16.3724119" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Musikverein> wgs:location _:node1bvvlrklgx71 ;
+	foaf:phone "+43 1 505 81 90" ;
+	foaf:mbox "tickets@musikverein.at" ;
+	rdfs:seeAlso "http://www.musikverein.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MuThMuseumTheater> rdfs:label "MuTh Museum & Theater" ;
+	dbo:type "musicstage" ;
+	dc:description "Das MuTh ist ein 2012 eröffneter Konzertsaal der Wiener Sängerknaben. Neben dem berühmten Chor treten auch andere Größen der Musikbranche auf."@de ;
+	dbo:address "Obere Augartenstraße 1E" ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx72 a wgs:Point ;
+	wgs:lat "48.2199835664055" ;
+	wgs:long "16.3797569354736" .
+
+<http://linkedwidgets.org/ontology/resource/wien/MuThMuseumTheater> wgs:location _:node1bvvlrklgx72 ;
+	foaf:phone "+43 1 347 80 80" ;
+	rdfs:seeAlso "http://www.muth.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/NaschmarktDeli> rdfs:label "Naschmarkt Deli" ;
+	dbo:type "gastronomy" ;
+	dc:description "Ein beliebter Platz der Wiener Szene - Sounds zwischen Break Beats und Easy Listening von Wiener und internationalen DJs kann man hier hören."@de ;
+	dbo:address "Naschmarkt 421-436 " ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx73 a wgs:Point ;
+	wgs:lat "48.1997355" ;
+	wgs:long "16.3656163" .
+
+<http://linkedwidgets.org/ontology/resource/wien/NaschmarktDeli> wgs:location _:node1bvvlrklgx73 ;
+	foaf:phone "+43 1 585 08 23 " ;
+	rdfs:seeAlso "http://www.naschmarkt-deli.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/NaturhistorischesMuseum> rdfs:label "Naturhistorisches Museum" ;
+	dbo:type "museum" ;
+	dc:description "Von Insekten über Edelsteine und Mineralien bis zu Flugsauriern gewinnen Sie in diesem Museusm nahe der Hofburg faszinierende Einblicke in die Geschichte unserer Erde."@de ;
+	dbo:address "Maria-Theresien-Platz" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx74 a wgs:Point ;
+	wgs:lat "48.20513273" ;
+	wgs:long "16.36002766" .
+
+<http://linkedwidgets.org/ontology/resource/wien/NaturhistorischesMuseum> wgs:location _:node1bvvlrklgx74 ;
+	foaf:phone "+43 1 521 77" ;
+	foaf:mbox "info@nhm-wien.ac.at" ;
+	rdfs:seeAlso "http://www.nhm-wien.ac.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/OriginalWienerSchneekugelmanufakturSchneekugelmuseum> rdfs:label "Original Wiener Schneekugelmanufaktur & Schneekugelmuseum" ;
+	dbo:type "museum" ;
+	dc:description "Seit über 100 Jahren verzaubern die Glaskugeln der Wiener Manufaktur Perzy mit ihren liebevoll gestalteten Winterlandschaften."@de ;
+	dbo:address "Schumanngasse 87 " ;
+	dbo:codeDistrict "1170" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx75 a wgs:Point ;
+	wgs:lat "48.2242513" ;
+	wgs:long "16.331125" .
+
+<http://linkedwidgets.org/ontology/resource/wien/OriginalWienerSchneekugelmanufakturSchneekugelmuseum> wgs:location _:node1bvvlrklgx75 ;
+	foaf:phone "+43 1 486 43 41 " ;
+	rdfs:seeAlso "http://www.viennasnowglobe.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/sterreichischeWerksttten> rdfs:label "Österreichische Werkstätten" ;
+	dbo:type "shopping" ;
+	dc:description "Das Fachgeschäft für Designerschmuck, Glas, Mode-Accessoires und Wien Products."@de ;
+	dbo:address "Kärntner Straße 6 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx76 a wgs:Point ;
+	wgs:lat "48.2073423" ;
+	wgs:long "16.3714692" .
+
+<http://linkedwidgets.org/ontology/resource/wien/sterreichischeWerksttten> wgs:location _:node1bvvlrklgx76 ;
+	foaf:phone "+43-1-512 24 18" ;
+	foaf:mbox "office@austrianarts.com" ;
+	rdfs:seeAlso "http://www.austrianarts.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/sterreichischesFilmmuseum> rdfs:label "Österreichisches Filmmuseum" ;
+	dbo:type "museum" ;
+	dc:description "Werke von heimischen und internationalen Filmemachern, Vorträge und eine Bibliothek lassen hier die Herzen von Filmliebhabern höher schlagen. "@de ;
+	dbo:address "Augustinerstraße 1" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx77 a wgs:Point ;
+	wgs:lat "48.2045802" ;
+	wgs:long "16.3680759" .
+
+<http://linkedwidgets.org/ontology/resource/wien/sterreichischesFilmmuseum> wgs:location _:node1bvvlrklgx77 ;
+	foaf:phone "+43 1 533 70 54 0 " ;
+	foaf:mbox "office@filmmuseum.at" ;
+	rdfs:seeAlso "http://www.filmmuseum.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/OttoWagnerPavillon> rdfs:label "Otto Wagner Pavillon" ;
+	dbo:type "sightseeing" ;
+	dc:description "Dieses ehemalige Stadtbahn-Stationsgebäude ist ein Wahrzeichen des Jugendstils und bietet heute den Rahmen für eine kompakte Otto Wagner Präsentation."@de ;
+	dbo:address "Karlsplatz" ;
+	dbo:codeDistrict "1040" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx78 a wgs:Point ;
+	wgs:lat "48.20039961" ;
+	wgs:long "16.37046383" .
+
+<http://linkedwidgets.org/ontology/resource/wien/OttoWagnerPavillon> wgs:location _:node1bvvlrklgx78 ;
+	foaf:phone "+43 1 505 87 47-0" ;
+	foaf:mbox "office@wienmuseum.at" ;
+	rdfs:seeAlso "http://www.wienmuseum.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Palmenhaus> rdfs:label "Palmenhaus" ;
+	dbo:type "sightseeing" ;
+	dc:description "In dem ehemaligen Gewächshaus speist man zwischen exotischen Pflanzen und entspannt sich bei einem guten Glas Wein oder einem feinen Cocktail."@de ;
+	dbo:codeDistrict "1130" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx79 a wgs:Point ;
+	wgs:lat "48.18482627" ;
+	wgs:long "16.30238958" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Palmenhaus> wgs:location _:node1bvvlrklgx79 ;
+	foaf:phone "+43 1 87 75 08 74 06" ;
+	foaf:mbox "office@bundesgaerten.at" ;
+	rdfs:seeAlso "http://www.bundesgaerten.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Park> rdfs:label "Park" ;
+	dbo:type "shopping" ;
+	dc:description "In diesem ganz in Weiß gehaltenem Concept Store findet man Mode heimischer und internationaler Labels."@de ;
+	dbo:address "Mondscheingasse 20 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx80 a wgs:Point ;
+	wgs:lat "48.2010723" ;
+	wgs:long "16.3495025" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Park> wgs:location _:node1bvvlrklgx80 ;
+	foaf:phone "+43 1 526 44 14 " ;
+	rdfs:seeAlso "http://www.park.co.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Pitti> rdfs:label "Pitti" ;
+	dbo:type "shopping" ;
+	dc:description "Ob gediegen oder flippig, wer Taschen liebt, ist hier zu Hause."@de ;
+	dbo:address "Goldschmiedgasse 10" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx81 a wgs:Point ;
+	wgs:lat "48.2086192" ;
+	wgs:long "16.3711802" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Pitti> wgs:location _:node1bvvlrklgx81 ;
+	rdfs:seeAlso "http://www.pitti.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/PorgyBess> rdfs:label "Porgy & Bess" ;
+	dbo:type "musicstage" ;
+	dc:description "Jazz vom Feinsten  findet man im Porgy & Bess, einem renommierten Jazz- und Musicclub mit vielfältigem Programmangebot. Österreichischer und internationaler Musiker setzen hier außergewöhnliche und interessante musikalische Schwerpunkte. "@de ;
+	dbo:address "Riemergasse 11" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx82 a wgs:Point ;
+	wgs:lat "48.2068277" ;
+	wgs:long "16.3766916" .
+
+<http://linkedwidgets.org/ontology/resource/wien/PorgyBess> wgs:location _:node1bvvlrklgx82 ;
+	foaf:phone "+43 1 512 88 11" ;
+	foaf:mbox "porgy@porgy.at" ;
+	rdfs:seeAlso "http://www.porgy.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Pratersauna> rdfs:label "Pratersauna" ;
+	dbo:type "nightlife" ;
+	dc:description "Die großzügigen Räumlichkeiten einer ehemaligen Sauna im Prater sind Treffpunkt der Musik-, Kunst-, Kultur- und Lifestyle-Szene."@de ;
+	dbo:address "Waldsteingartenstraße 135" ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx83 a wgs:Point ;
+	wgs:lat "48.2132942" ;
+	wgs:long "16.4046699" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Pratersauna> wgs:location _:node1bvvlrklgx83 ;
+	foaf:phone "+43 1 729 19 27 " ;
+	foaf:mbox "info@pratersauna.tv" ;
+	rdfs:seeAlso "http://www.pratersauna.tv" .
+
+<http://linkedwidgets.org/ontology/resource/wien/PregenzerFashionstore> rdfs:label "Pregenzer Fashionstore" ;
+	dbo:type "shopping" ;
+	dc:description "Neben den eigenen puristisch-strengen Kollektionen sind hier auch internationale Designerlabels vertreten."@de ;
+	dbo:address "Schleifmühlgasse 4 " ;
+	dbo:codeDistrict "1040" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx84 a wgs:Point ;
+	wgs:lat "48.1966415" ;
+	wgs:long "16.3665213" .
+
+<http://linkedwidgets.org/ontology/resource/wien/PregenzerFashionstore> wgs:location _:node1bvvlrklgx84 ;
+	rdfs:seeAlso "http://www.pregenzer.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/RaimundTheater> rdfs:label "Raimund Theater" ;
+	dbo:type "musicstage" ;
+	dc:description "Das Raimund Theater war lange Zeit das Stammhaus publikumswirksamer Operetten, bevor auch hier in den 1970er Jahren das Musical Einzug hielt. Heute ist es eine Musical-Spielstätte der Vereinigten Bühnen Wiens."@de ;
+	dbo:address "Wallgasse 18-20" ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx85 a wgs:Point ;
+	wgs:lat "48.1921594" ;
+	wgs:long "16.3397895" .
+
+<http://linkedwidgets.org/ontology/resource/wien/RaimundTheater> wgs:location _:node1bvvlrklgx85 ;
+	foaf:phone "+43 1 588 85" ;
+	foaf:mbox "info@vbw.at" ;
+	rdfs:seeAlso "http://www.musicalvienna.at/ " .
+
+<http://linkedwidgets.org/ontology/resource/wien/Ramien> rdfs:label "Ra'mien" ;
+	dbo:type "gastronomy" ;
+	dc:description "Asiatische Fusionsküche in einem absolut coolen Ambiente. Nicht teuer, nette Menschen und vor allem beste Qualität. "@de ;
+	dbo:address "Gumpendorfer Straße 9 " ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx86 a wgs:Point ;
+	wgs:lat "48.200167" ;
+	wgs:long "16.3614752" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Ramien> wgs:location _:node1bvvlrklgx86 ;
+	foaf:phone "+43 1  585 47 98 " ;
+	rdfs:seeAlso "http://www.ramien.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/RestaurantVestibl> rdfs:label "Restaurant Vestibül" ;
+	dbo:type "restaurants" ;
+	dc:description "Das Lokal im Burgtheater ist eine Großstadtbrasserie der Sonderklasse mit einem der schönsten Gastgärten der Stadt."@de ;
+	dbo:address "Burgtheater, Universitätsring 2" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx87 a wgs:Point ;
+	wgs:lat "48.2103678" ;
+	wgs:long "16.3609253" .
+
+<http://linkedwidgets.org/ontology/resource/wien/RestaurantVestibl> wgs:location _:node1bvvlrklgx87 ;
+	foaf:phone "+43 1 532 49 99" ;
+	foaf:mbox "restaurant@vestibuel.at" ;
+	rdfs:seeAlso "http://www.vestibuel.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Riesenrad> rdfs:label "Riesenrad" ;
+	dbo:type "sightseeing" ;
+	dc:description "Von diesem Wahrzeichen Wiens kann man den Blick auf die Stadt aus 64,75 Meter Höhe genießen."@de ;
+	dbo:address "Riesenradplatz 1" ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx88 a wgs:Point ;
+	wgs:lat "48.2175095" ;
+	wgs:long "16.3966444" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Riesenrad> wgs:location _:node1bvvlrklgx88 ;
+	foaf:phone "+43 1 729 54 30" ;
+	foaf:mbox "info@wienerriesenrad.com" ;
+	rdfs:seeAlso "http://www.wienerriesenrad.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/RonacherTheater> rdfs:label "Ronacher Theater" ;
+	dbo:type "musicstage" ;
+	dc:description "Das Ronacher, jenes Theater, in dem alle Stars des Revuetheaters ihr Wien-Debüt feierten, ist heute die Musicalbühne in der Wiener Innenstadt."@de ;
+	dbo:address "Seilerstätte 9" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx89 a wgs:Point ;
+	wgs:lat "48.2051876" ;
+	wgs:long "16.3750333" .
+
+<http://linkedwidgets.org/ontology/resource/wien/RonacherTheater> wgs:location _:node1bvvlrklgx89 ;
+	foaf:phone "+43-1-588 85" ;
+	foaf:mbox "wienticket@wien-ticket.at" ;
+	rdfs:seeAlso "http://www.musicalvienna.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Sulenhalle> rdfs:label "Säulenhalle" ;
+	dbo:type "nightlife" ;
+	dc:description "Die Clubdiskothek mit dem blumengeschmückten und palmenbestückten Garten bietet Tanzunterhaltung mit Stil."@de ;
+	dbo:address "Heldenplatz" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx90 a wgs:Point ;
+	wgs:lat "48.20722645" ;
+	wgs:long "16.36169742" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Sulenhalle> wgs:location _:node1bvvlrklgx90 ;
+	foaf:phone "+43 1 532 42 41" ;
+	rdfs:seeAlso "http://www.facebook.com/Saeulenhalle" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Schatzkammer> rdfs:label "Schatzkammer " ;
+	dbo:type "sightseeing" ;
+	dc:description "Hier, im ältesten Teil der Hofburg (13. Jh.), finden Sie nicht nur die Kaiserkrone des Heiligen Römischen Reiches (um 962) und die österreichische Kaiserkrone (1602), sondern auch den Burgunderschatz aus dem 15. Jahrhundert und den Schatz des Ordens vom Goldenen Vlies."@de ;
+	dbo:address "Hofburg, Schweizerhof" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx91 a wgs:Point ;
+	wgs:lat "48.2083556" ;
+	wgs:long "16.3677601" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Schatzkammer> wgs:location _:node1bvvlrklgx91 ;
+	foaf:phone "+43 1 525 24 4031" ;
+	foaf:mbox "info.kk@khm.at" ;
+	rdfs:seeAlso "http://www.khm.at " .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchauSchauBrillen> rdfs:label "Schau Schau Brillen" ;
+	dbo:type "shopping" ;
+	dc:description "In diesem außergewöhnlichen Fachgeschäft mit hauseigener Manufaktur werden Augen mit Formenreichtum und Farbvielfalt verwöhnt."@de ;
+	dbo:address "Rotenturmstraße 11 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx92 a wgs:Point ;
+	wgs:lat "48.209697" ;
+	wgs:long "16.3733443" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchauSchauBrillen> wgs:location _:node1bvvlrklgx92 ;
+	rdfs:seeAlso "http://www.schau-schau.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchauraumLichterloh> rdfs:label "Schauraum Lichterloh" ;
+	dbo:type "museum" ;
+	dc:description "Der Schauraum Lichterloh zeigt Designermöbel von damals und heute"@de ;
+	dbo:codeDistrict "1100" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx93 a wgs:Point ;
+	wgs:lat "48.1720289999999" ;
+	wgs:long "16.3891158999999" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchauraumLichterloh> wgs:location _:node1bvvlrklgx93 ;
+	foaf:phone "0664 453 95 96" ;
+	rdfs:seeAlso "http://www.lichterloh.com" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchlossBelvedere> rdfs:label "Schloss Belvedere" ;
+	dbo:type "sightseeing" ;
+	dc:description "Besuchen Sie Gustav Klimt's legendäres Gemälde \"Der Kuss\" und die bedeutenden Werke von Schiele und Kokoschka."@de ;
+	dbo:address "Oberes Belvedere, Prinz-Eugen-Straße 27" ;
+	dbo:codeDistrict "1030" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx94 a wgs:Point ;
+	wgs:lat "48.19125929" ;
+	wgs:long "16.37988422" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchlossBelvedere> wgs:location _:node1bvvlrklgx94 ;
+	foaf:phone "+43 1 79 55 70 " ;
+	foaf:mbox "office@bundesgaerten.at" ;
+	rdfs:seeAlso "http://www.belvedere.at " .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchlossSchnbrunn> rdfs:label "Schloss Schönbrunn" ;
+	dbo:type "sightseeing" ;
+	dc:description "Schönbrunn, die ehemalige Sommerresidenz der Kaiserfamilie, zählt zu den schönsten Barockschlössern Europas."@de ;
+	dbo:address "Maxingstraße" ;
+	dbo:codeDistrict "1130" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx95 a wgs:Point ;
+	wgs:lat "48.1806637" ;
+	wgs:long "16.2991312" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SchlossSchnbrunn> wgs:location _:node1bvvlrklgx95 ;
+	foaf:phone "+43 1 877 50 87" ;
+	foaf:mbox "office@bundesgaerten.at" ;
+	rdfs:seeAlso "http://www.bundesgaerten.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Schokoladeknig> rdfs:label "Schokoladekönig" ;
+	dbo:type "shopping" ;
+	dc:description "Handgemachte Schokolade-Köstlichkeiten von goldenen Wienerherzen bis zu Schokoladeknöpfen warten hier auf Naschkatzen."@de ;
+	dbo:address "Freisingergasse 1 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx96 a wgs:Point ;
+	wgs:lat "48.2093168" ;
+	wgs:long "16.3706687" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Schokoladeknig> wgs:location _:node1bvvlrklgx96 ;
+	rdfs:seeAlso "http://www.leschanz.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Secession> rdfs:label "Secession" ;
+	dbo:type "museum" ;
+	dc:description "In diesem bedeutenden Jugendstilgebäude mit seinem markanten goldenen Blätterdach ist Klimts berühmter Beethovenfries zu sehen."@de ;
+	dbo:address "Friedrichstraße 12 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx97 a wgs:Point ;
+	wgs:lat "48.2004313" ;
+	wgs:long "16.3658402" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Secession> wgs:location _:node1bvvlrklgx97 ;
+	foaf:phone "+43 1 587 53 07 " ;
+	foaf:mbox "office@secession.at" ;
+	rdfs:seeAlso "http://www.secession.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/shu> rdfs:label "shu! " ;
+	dbo:type "shopping" ;
+	dc:description "Ein Shop, so extravagant wie seine Schreibweise - macht Menschen mit dem etwas anderen Geschmack Lust auf neue Fußbekleidung."@de ;
+	dbo:address "Neubaugasse 34 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx98 a wgs:Point ;
+	wgs:lat "48.2007076" ;
+	wgs:long "16.3493332" .
+
+<http://linkedwidgets.org/ontology/resource/wien/shu> wgs:location _:node1bvvlrklgx98 ;
+	foaf:phone "+43 1 523 14 49 " ;
+	rdfs:seeAlso "http://www.shu.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SisiMuseum> rdfs:label "Sisi Museum" ;
+	dbo:type "sightseeing" ;
+	dc:description "In den originalen Privatgemächern der Kaiserin Elisabeth sind zahlreiche persönliche Objekte sowie die berühmtesten Elisabeth-Porträts zu sehen."@de ;
+	dbo:address "Hofburg" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx99 a wgs:Point ;
+	wgs:lat "48.2083556" ;
+	wgs:long "16.3677601" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SisiMuseum> wgs:location _:node1bvvlrklgx99 ;
+	foaf:phone "+43 1 533 75 70" ;
+	rdfs:seeAlso "http://www.hofburg-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SkyCafRestaurantBar> rdfs:label "Sky Café Restaurant Bar" ;
+	dbo:type "gastronomy" ;
+	dc:description "Hier bietet sich vom obersten Stock des Kaufhauses Steffl ein hervorragender Blick über die Innenstadt."@de ;
+	dbo:address "Kärntner Straße 19 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx100 a wgs:Point ;
+	wgs:lat "48.2064095" ;
+	wgs:long "16.371684" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SkyCafRestaurantBar> wgs:location _:node1bvvlrklgx100 ;
+	foaf:phone "+43 1 513 17 12 " ;
+	rdfs:seeAlso "http://www.skybar.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Song> rdfs:label "Song" ;
+	dbo:type "shopping" ;
+	dc:description "Die Boutique Song bietet aktuelle Mode von renommierten Designern und ist auch Wiens erster Acne-Shop."@de ;
+	dbo:address "Praterstraße 11-13 " ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx101 a wgs:Point ;
+	wgs:lat "48.2131057" ;
+	wgs:long "16.3812965" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Song> wgs:location _:node1bvvlrklgx101 ;
+	foaf:phone "+43 1 532 28 58" ;
+	rdfs:seeAlso "http://www.song.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SpanischeHofreitschule> rdfs:label "Spanische Hofreitschule" ;
+	dbo:type "sightseeing" ;
+	dc:description "Reitkunst in höchster Vollendung kann man hier im barocken Ambiente der Hofburg erleben."@de ;
+	dbo:address "Michaelerplatz 1 (Besucherzentrum)" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx102 a wgs:Point ;
+	wgs:lat "48.2083556" ;
+	wgs:long "16.3677601" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SpanischeHofreitschule> wgs:location _:node1bvvlrklgx102 ;
+	foaf:phone "+43 1 533 90 31" ;
+	foaf:mbox "tickets@srs.at" ;
+	rdfs:seeAlso "http://www.srs.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/StaudsWien> rdfs:label "Staud's Wien" ;
+	dbo:type "shopping" ;
+	dc:description "Seit 1947 verkauft hier Familie Staud erlesene Konfitüren und Gemüsedelikatessen."@de ;
+	dbo:address "Brunnenmarkt, Brunnengasse/Schellhammergasse" ;
+	dbo:codeDistrict "1160" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx103 a wgs:Point ;
+	wgs:lat "48.2151781" ;
+	wgs:long "16.3033805" .
+
+<http://linkedwidgets.org/ontology/resource/wien/StaudsWien> wgs:location _:node1bvvlrklgx103 ;
+	rdfs:seeAlso "http://www.stauds.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SteinsDiner> rdfs:label "Stein's Diner" ;
+	dbo:type "gastronomy" ;
+	dc:description "Schon am Morgen ist im Café einiges los und wer bis in die Nacht bleiben will, der begibt sich am Abend in \"Stein's Diner\" unter dem Café."@de ;
+	dbo:address "Kolingasse 1 " ;
+	dbo:codeDistrict "1090" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx104 a wgs:Point ;
+	wgs:lat "48.2155309" ;
+	wgs:long "16.3612527" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SteinsDiner> wgs:location _:node1bvvlrklgx104 ;
+	foaf:phone "+43 1 310 95 15 " ;
+	rdfs:seeAlso "http://www.cafe-stein.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Stephansdom> rdfs:label "Stephansdom" ;
+	dbo:type "sightseeing" ;
+	dc:description "Das Wahrzeichen Wiens und Österreichs bedeutendstes gotisches Bauwerk beherbergt eine Reihe von Kunstschätzen, die teilweise im Rahmen einer Führung besichtigt werden können: z.B. das Grabmal Kaiser Friedrichs III., der Wiener Neustädter Altar, die Katakomben, die Pummerin - die größte Glocke Österreichs usw."@de ;
+	dbo:address "Stephansplatz" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx105 a wgs:Point ;
+	wgs:lat "48.2087202" ;
+	wgs:long "16.37276317" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Stephansdom> wgs:location _:node1bvvlrklgx105 ;
+	foaf:phone "+43 1 515 52 3526" ;
+	rdfs:seeAlso "http://www.stephanskirche.at " .
+
+<http://linkedwidgets.org/ontology/resource/wien/Sterngasse4> rdfs:label "Sterngasse4" ;
+	dbo:type "shopping" ;
+	dc:description "Ein Store mit den aktuellsten Trends und Labels aus aller Welt und Fokus auf schicke Kleider und Accessoires."@de ;
+	dbo:address "Sterngasse 4 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx106 a wgs:Point ;
+	wgs:lat "48.2035475" ;
+	wgs:long "16.3682037" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Sterngasse4> wgs:location _:node1bvvlrklgx106 ;
+	rdfs:seeAlso "http://www.sterngasse4.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/StrandbarHerrmann> rdfs:label "Strandbar Herrmann" ;
+	dbo:type "gastronomy" ;
+	dc:description "Sonne, Sand und Urlaubsfeeling, gutes Essen und coole Drinks bietet am Wiener Donaukanal die Strandbar Herrmann."@de ;
+	dbo:address "Herrmannpark (Donaukanal-Urania)" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx107 a wgs:Point ;
+	wgs:lat "48.2121534" ;
+	wgs:long "16.3861776" .
+
+<http://linkedwidgets.org/ontology/resource/wien/StrandbarHerrmann> wgs:location _:node1bvvlrklgx107 ;
+	rdfs:seeAlso "http://www.strandbar-herrmann.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SusanneBisovsky> rdfs:label "Susanne Bisovsky" ;
+	dbo:type "shopping" ;
+	dc:description "Bisovsky greift traditionelle Motive der Tracht auf und verwandelt sie in Couture, sie kombiniert folkloristische Elemente mit Eleganz oder kontrastiert sie mit Punk."@de ;
+	dbo:address "Seidengasse 13/6" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx108 a wgs:Point ;
+	wgs:lat "48.2002938" ;
+	wgs:long "16.3455941" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SusanneBisovsky> wgs:location _:node1bvvlrklgx108 ;
+	foaf:mbox "office@bisovsky.com" ;
+	rdfs:seeAlso "http://www.bisovsky.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SusanneKitz> rdfs:label "Susanne Kitz" ;
+	dbo:type "shopping" ;
+	dc:description "Exklusive Taschen und Schmuck-Unikate aus Halbedelsteinen, Perlmutt und Horn erwarten die Kunden hier."@de ;
+	dbo:address "Weihburggasse 7 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx109 a wgs:Point ;
+	wgs:lat "48.2072730" ;
+	wgs:long "16.3727446" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SusanneKitz> wgs:location _:node1bvvlrklgx109 ;
+	rdfs:seeAlso "http://www.susannekitz.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SwarovskiWien> rdfs:label "Swarovski Wien" ;
+	dbo:type "shopping" ;
+	dc:description "Die gesamte glitzernde und schillernde Produktvielfalt des weltbekannten Kristall-Designers kann hier bestaunt und auch gekauft werden."@de ;
+	dbo:address "Kärntner Straße 24 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx110 a wgs:Point ;
+	wgs:lat "48.2054839" ;
+	wgs:long "16.3709295" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SwarovskiWien> wgs:location _:node1bvvlrklgx110 ;
+	rdfs:seeAlso "http://www.swarovski.com/wien/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TanzquartierWien> rdfs:label "Tanzquartier Wien" ;
+	dbo:type "musicstage" ;
+	dc:description "Im MuseumsQuartier, nahe der Hofburg, verfügt dieses österreichische Zentrum für zeigenössischen Tanz und Performance über zwei Veranstaltungsorte."@de ;
+	dbo:address "MuseumsQuartier, Museumsplatz 1" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx111 a wgs:Point ;
+	wgs:lat "48.2046538" ;
+	wgs:long "16.3585099" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TanzquartierWien> wgs:location _:node1bvvlrklgx111 ;
+	foaf:phone "+43 1 581 35 91" ;
+	foaf:mbox "tanzquartier@tqw.at" ;
+	rdfs:seeAlso "http://www.tqw.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TechnischesMuseumWien> rdfs:label "Technisches Museum Wien" ;
+	dbo:type "museum" ;
+	dc:description "Einzigartige Schaustücke aus der Technik- und Industriegeschichte beherbergt dieses Wiener Traditionsmuseum, wie die noch immer flugfähige Ettrich-Taube, die Dampfmaschinen, der bordeauxrote Lohner-Porsche, das Schaubergwerk im Keller... "@de ;
+	dbo:address "Mariahilfer Straße 212" ;
+	dbo:codeDistrict "1140" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx112 a wgs:Point ;
+	wgs:lat "48.1909435" ;
+	wgs:long "16.3181505" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TechnischesMuseumWien> wgs:location _:node1bvvlrklgx112 ;
+	foaf:phone "+43 1 899 98-0" ;
+	foaf:mbox "museumsbox@tmw.at" ;
+	rdfs:seeAlso "http://www.technischesmuseum.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TheateranderWien> rdfs:label "Theater an der Wien" ;
+	dbo:type "musicstage" ;
+	dc:description "Rund jeden Monat eine Premiere, und das zwölf Monate im Jahr  das bietet das 2006 als Opernhaus eröffnete Theater an der Wien."@de ;
+	dbo:address "Linke Wienzeile 6" ;
+	dbo:codeDistrict "1060" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx113 a wgs:Point ;
+	wgs:lat "48.1994032" ;
+	wgs:long "16.3642544" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TheateranderWien> wgs:location _:node1bvvlrklgx113 ;
+	foaf:phone "+43 1 588 30 661" ;
+	rdfs:seeAlso "http://www.theater-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TheaterinderJosefstadt> rdfs:label "Theater in der Josefstadt" ;
+	dbo:type "musicstage" ;
+	dc:description "Eröffnet 1788 ist das Theater in der Josefstadt heute das älteste noch bestehende, ständig bespielte Theater Wiens. Heute bietet man hier einen gelungenen Mix aus Klassikern und Uraufführungen zeitgenössischer Autoren."@de ;
+	dbo:address "Josefstädter Straße 26" ;
+	dbo:codeDistrict "1080" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx114 a wgs:Point ;
+	wgs:lat "48.209524" ;
+	wgs:long "16.3509494" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TheaterinderJosefstadt> wgs:location _:node1bvvlrklgx114 ;
+	foaf:phone "+43 1 42 700-300" ;
+	foaf:mbox "ticket@josefstadt.org" ;
+	rdfs:seeAlso "http://www.josefstadt.org" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TiergartenSchnbrunn> rdfs:label "Tiergarten Schönbrunn" ;
+	dbo:type "sightseeing" ;
+	dc:description "Der Tiergarten Schönbrunn in Wien ist der älteste bestehende Zoo der Welt, die einzige erhaltene \"Barock-Menagerie\". Die oberste Maxime des Zoos heute ist aber: \"Schönbrunn soll ein Zoo der glücklichen Tiere sein\"  und das sieht man!"@de ;
+	dbo:codeDistrict "1130" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx115 a wgs:Point ;
+	wgs:lat "48.18348407" ;
+	wgs:long "16.30199974" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TiergartenSchnbrunn> wgs:location _:node1bvvlrklgx115 ;
+	foaf:phone "+43-1-877 92 94" ;
+	foaf:mbox "office@zoovienna.at" ;
+	rdfs:seeAlso "http://www.zoovienna.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TouristInfo> rdfs:label "Tourist-Info" ;
+	dbo:type "servicepoints" ;
+	dc:description "Das Team vom WienTourismus hilft hier bei der Planung Ihres Wienbesuches und bucht vor Ort Ihr Hotel in Wien. Außerdem: gratis Stadtpläne und Boschüren. Geöffnet täglich von 9 bis 19 Uhr."@de ;
+	dbo:address "Albertinaplatz, Ecke Maysedergasse " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx116 a wgs:Point ;
+	wgs:lat "48.2042157" ;
+	wgs:long "16.3702358" .
+
+<http://linkedwidgets.org/ontology/resource/wien/TouristInfo> wgs:location _:node1bvvlrklgx116 ;
+	foaf:phone "+43-1-24555" ;
+	foaf:mbox "info@wien.info" ;
+	rdfs:seeAlso "http://www.wien.info" .
+
+<http://linkedwidgets.org/ontology/resource/wien/U4Diskothek> rdfs:label "U4 Diskothek" ;
+	dbo:type "nightlife" ;
+	dc:description "Die legendärste Disco der Stadt versorgt mittlerweile schon die vierte Generation an Gästen mit Partylaune auf zwei Floors  und den nötigen Drinks."@de ;
+	dbo:address "Schönbrunner Straße 222 " ;
+	dbo:codeDistrict "1120" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx117 a wgs:Point ;
+	wgs:lat "48.1831645" ;
+	wgs:long "16.328091" .
+
+<http://linkedwidgets.org/ontology/resource/wien/U4Diskothek> wgs:location _:node1bvvlrklgx117 ;
+	foaf:phone "+43 1 817 11 92 " ;
+	rdfs:seeAlso "http://www.u-4.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/UngerundKlein> rdfs:label "Unger und Klein" ;
+	dbo:type "gastronomy" ;
+	dc:description "In dieser Kombination aus Weinhandlung und Bar gehen ästhetischer und kulinarischer Genuss eine wunderbare Symbiose ein."@de ;
+	dbo:address "Gölsdorfgasse 2 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx118 a wgs:Point ;
+	wgs:lat "48.2133233" ;
+	wgs:long "16.3721272" .
+
+<http://linkedwidgets.org/ontology/resource/wien/UngerundKlein> wgs:location _:node1bvvlrklgx118 ;
+	foaf:phone "+43 1 532 13 23 " ;
+	rdfs:seeAlso "http://www.ungerundklein.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/VolksgartenClubdiskothek> rdfs:label "Volksgarten Clubdiskothek" ;
+	dbo:type "nightlife" ;
+	dc:description "Die Clubdiskothek mit dem blumengeschmückten und palmenbestückten Garten bietet Tanzunterhaltung mit Stil."@de ;
+	dbo:address "Burgring 1 (Heldenplatz) " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx119 a wgs:Point ;
+	wgs:lat "48.2062953" ;
+	wgs:long "16.3637448" .
+
+<http://linkedwidgets.org/ontology/resource/wien/VolksgartenClubdiskothek> wgs:location _:node1bvvlrklgx119 ;
+	foaf:phone "+43 1 532 42 41" ;
+	foaf:mbox "info@volksgarten.at" ;
+	rdfs:seeAlso "http://www.volksgarten.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/VolksoperWien> rdfs:label "Volksoper Wien" ;
+	dbo:type "musicstage" ;
+	dc:description "Die Volksoper bietet ungeheuer vielfältige Bühnenkunst: Sowohl Opern, klassische Musicals, zeitgenössischen Tanz und Konzerte als auch Operetten."@de ;
+	dbo:address "Währinger Straße 78" ;
+	dbo:codeDistrict "1090" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx120 a wgs:Point ;
+	wgs:lat "48.2245845" ;
+	wgs:long "16.350275" .
+
+<http://linkedwidgets.org/ontology/resource/wien/VolksoperWien> wgs:location _:node1bvvlrklgx120 ;
+	foaf:phone "+43 1 51444-3670" , "+43 1 513 1 513" ;
+	foaf:mbox "tickets@volksoper.at" ;
+	rdfs:seeAlso "http://www.volksoper.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Volkstheater> rdfs:label "Volkstheater" ;
+	dbo:type "musicstage" ;
+	dc:description "Das Volkstheater wurde 1889 als bürgerliches Gegenstück zum heutigen Burgtheater eröffnet. Das Repertoire des Theaters umfasst neben österreichischen auch deutsche und internationale Klassiker."@de ;
+	dbo:address "Neustiftgasse 1 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx121 a wgs:Point ;
+	wgs:lat "48.2055471" ;
+	wgs:long "16.356933" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Volkstheater> wgs:location _:node1bvvlrklgx121 ;
+	foaf:phone "+43 1 52 111 400" ;
+	foaf:mbox "info@volkstheater.at" ;
+	rdfs:seeAlso "http://www.volkstheater.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WestLichtSchauplatzfrFotografie> rdfs:label "WestLicht - Schauplatz für Fotografie" ;
+	dbo:type "museum" ;
+	dc:description "Das Fotomuseum zeigt 700 wertvolle historische Fotoapparate und Spezialkameras, wechselnde Fotoausstellungen runden das Angebot ab."@de ;
+	dbo:address "Westbahnstraße 40 " ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx122 a wgs:Point ;
+	wgs:lat "48.2019837" ;
+	wgs:long "16.3421219" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WestLichtSchauplatzfrFotografie> wgs:location _:node1bvvlrklgx122 ;
+	foaf:phone "+43 1 522 66 36 " ;
+	foaf:mbox "info@westlicht.com" ;
+	rdfs:seeAlso "http://www.westlicht.com/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienMuseumKarlsplatz> rdfs:label "Wien Museum Karlsplatz" ;
+	dbo:type "museum" ;
+	dc:description "Hier wird die Geschichte Wiens von den ersten Ansiedlungen bis zur Gegenwart dokumentiert."@de ;
+	dbo:address "Karlsplatz" ;
+	dbo:codeDistrict "1040" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx123 a wgs:Point ;
+	wgs:lat "48.19935723" ;
+	wgs:long "16.37275999" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienMuseumKarlsplatz> wgs:location _:node1bvvlrklgx123 ;
+	foaf:phone "+43 1 505 87 470 " ;
+	foaf:mbox "service@wienmuseum.at" ;
+	rdfs:seeAlso "http://www.wienmuseum.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerGlasmuseumLobmeyr> rdfs:label "Wiener Glasmuseum (Lobmeyr) " ;
+	dbo:type "museum" ;
+	dc:description "Seit beinah 200 Jahren steht dieser Wiener Familienbetrieb für exklusive Glaserzeugung in hochwertigem Design."@de ;
+	dbo:address "Kärntner Straße 26 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx124 a wgs:Point ;
+	wgs:lat "48.205244" ;
+	wgs:long "16.3708078" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerGlasmuseumLobmeyr> wgs:location _:node1bvvlrklgx124 ;
+	foaf:phone "+43 1 512 05 08 " ;
+	rdfs:seeAlso "http://www.lobmeyr.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerKammeroper> rdfs:label "Wiener Kammeroper " ;
+	dbo:type "musicstage" ;
+	dc:description "Dieses Opernhaus steht für aktuelle, niveauvolle Inszenierungen, junge, unverbrauchte Stimmen und ist Sprungbrett für die Stars von morgen."@de ;
+	dbo:address "Fleischmarkt 24" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx125 a wgs:Point ;
+	wgs:lat "48.2114195" ;
+	wgs:long "16.3739165" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerKammeroper> wgs:location _:node1bvvlrklgx125 ;
+	foaf:phone "+43 1 588 30 200" ;
+	foaf:mbox "info@theater-wien.at" ;
+	rdfs:seeAlso "http://www.theater-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerKonzerthaus> rdfs:label "Wiener Konzerthaus" ;
+	dbo:type "musicstage" ;
+	dc:description "Im stimmungsvollen Jugendstil-Ambiente des Konzerthauses kann man nicht nur klassisches Repertoire hören, sondern auch Musik vom Mittelalter bis zu progressivsten Tönen der Gegenwart."@de ;
+	dbo:address "Lothringerstraße" ;
+	dbo:codeDistrict "1030" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx126 a wgs:Point ;
+	wgs:lat "48.2008436" ;
+	wgs:long "16.37717884" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerKonzerthaus> wgs:location _:node1bvvlrklgx126 ;
+	foaf:phone "+43 1 242 002" ;
+	foaf:mbox "ticket@konzerthaus.at" ;
+	rdfs:seeAlso "http://www.konzerthaus.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerPorzellanmanufakturAugarten> rdfs:label "Wiener Porzellanmanufaktur Augarten" ;
+	dbo:type "shopping" ;
+	dc:description "Augarten Porzellan besticht durch extravagantes Design, zeitlose Eleganz und präzise Handarbeit. "@de ;
+	dbo:address "Obere Augartenstraße 1a" ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx127 a wgs:Point ;
+	wgs:lat "48.224469" ;
+	wgs:long "16.373627" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerPorzellanmanufakturAugarten> wgs:location _:node1bvvlrklgx127 ;
+	foaf:phone "+43 1 211 24-0" ;
+	foaf:mbox "augarten@augarten.at" ;
+	rdfs:seeAlso "http://www.augarten.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerSngerknaben> rdfs:label "Wiener Sängerknaben" ;
+	dbo:type "musicstage" ;
+	dc:description "Die \"jüngsten musikalischen Botschafter Wiens\" sind bei den sonntäglichen Heiligen Messen in der Hofburgkapelle zu hören."@de ;
+	dbo:address "Obere Augartenstraße 1c " ;
+	dbo:codeDistrict "1020" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx128 a wgs:Point ;
+	wgs:lat "48.224458" ;
+	wgs:long "16.3734017" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerSngerknaben> wgs:location _:node1bvvlrklgx128 ;
+	rdfs:seeAlso "http://www.wsk.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerStaatsoper> rdfs:label "Wiener Staatsoper" ;
+	dbo:type "musicstage" ;
+	dc:description "Die Wiener Staatsoper ist eine der ersten Opernadressen der Welt. Internationale Spitzeninterpreten und Regisseure genießen es hier ihre Kunst darzubieten."@de ;
+	dbo:address "Opernring 2" ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx129 a wgs:Point ;
+	wgs:lat "48.2028178" ;
+	wgs:long "16.3689153" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerStaatsoper> wgs:location _:node1bvvlrklgx129 ;
+	foaf:phone "+43 1 514 44 2250" , "+43 1 513 1 513" ;
+	rdfs:seeAlso "http://www.wiener-staatsoper.at " .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerStadthalle> rdfs:label "Wiener Stadthalle" ;
+	dbo:type "musicstage" ;
+	dc:description "1956 bekam Wien dank Architekt Roland Rainer die Wiener Stadthalle als Aushängeschild für moderne Konzerte und Shows. Die bis dahin unbekannte Größenordnung ermöglichte von Beginn an Events der Sonderklasse."@de ;
+	dbo:address "Vogelweidplatz 14" ;
+	dbo:codeDistrict "1150" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx130 a wgs:Point ;
+	wgs:lat "48.2020572" ;
+	wgs:long "16.3315712" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WienerStadthalle> wgs:location _:node1bvvlrklgx130 ;
+	foaf:phone "+43 1 79 999 79" ;
+	foaf:mbox "tickets@stadthalle.com" ;
+	rdfs:seeAlso "http://www.stadthalle.com" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WrstelstandAlbertina> rdfs:label "Würstelstand Albertina" ;
+	dbo:type "gastronomy" ;
+	dc:description "Dieser Würstelstand gilt als zeitgemäße Interpretation dieser Wiener Institution: hier werden auch Bouteillenweine und Sekt angeboten."@de ;
+	dbo:address "Albertinaplatz " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx131 a wgs:Point ;
+	wgs:lat "48.204367" ;
+	wgs:long "16.3688208" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WrstelstandAlbertina> wgs:location _:node1bvvlrklgx131 ;
+	foaf:phone "+43 1 533 10 26 " ;
+	rdfs:seeAlso "http://www.bitzinger.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WrstelstandamHohenMarkt> rdfs:label "Würstelstand am Hohen Markt" ;
+	dbo:type "gastronomy" ;
+	dc:description "Seinen Kultfaktor verdankt dieser Würstelstand seinen Öffnungszeiten bis in die frühen Morgenstunden."@de ;
+	dbo:address "Hoher Markt " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx132 a wgs:Point ;
+	wgs:lat "48.210862" ;
+	wgs:long "16.372725" .
+
+<http://linkedwidgets.org/ontology/resource/wien/WrstelstandamHohenMarkt> wgs:location _:node1bvvlrklgx132 ;
+	foaf:phone "+43 1 699 1 846 21 86 " .
+
+<http://linkedwidgets.org/ontology/resource/wien/Zentralfriedhof> rdfs:label "Zentralfriedhof" ;
+	dbo:type "sightseeing" ;
+	dc:description "Auf dem mehr als 2 Quadratkilometer große Zentralfriedhof befindet sich die wahrscheinlich größte Anlage von Ehrengräbern der Welt.Ihre letzte Ruhestätte fanden hier u.a Ludwig van Beethoven, Franz Schubert, Johann Strauß und Johannes Brahms."@de ;
+	dbo:address "Simmeringer Hauptstraße 234 " ;
+	dbo:codeDistrict "1110" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx133 a wgs:Point ;
+	wgs:lat "48.1542998" ;
+	wgs:long "16.441214" .
+
+<http://linkedwidgets.org/ontology/resource/wien/Zentralfriedhof> wgs:location _:node1bvvlrklgx133 ;
+	foaf:phone "+43 1 534 69" ;
+	rdfs:seeAlso "http://www.friedhoefewien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ZOOMKindermuseum> rdfs:label "ZOOM Kindermuseum" ;
+	dbo:type "museum" ;
+	dc:description "Das Kindermuseum im MuseumsQuartier bietet ein ganzjähriges Ausstellungs- und Workshopangebot, sowie ein einzigartiges Multimedialabor."@de ;
+	dbo:address "Museumsquartier, Museumsplatz 1" ;
+	dbo:codeDistrict "1070" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx134 a wgs:Point ;
+	wgs:lat "48.20222973" ;
+	wgs:long "16.35943794" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ZOOMKindermuseum> wgs:location _:node1bvvlrklgx134 ;
+	foaf:phone "+43 1 524 79 08 " ;
+	foaf:mbox "info@kindermuseum.at" ;
+	rdfs:seeAlso "http://www.kindermuseum.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ZurSchwbischenJungfrau> rdfs:label "Zur Schwäbischen Jungfrau" ;
+	dbo:type "shopping" ;
+	dc:description "Hier findet man exklusive Tisch-, Bett- und Frotteewäsche sowie Daunendecken bester Qualität."@de ;
+	dbo:address "Graben 26 " ;
+	dbo:codeDistrict "1010" ;
+	lw:cityName "Wien" .
+
+_:node1bvvlrklgx135 a wgs:Point ;
+	wgs:lat "48.2090112" ;
+	wgs:long "16.3696138" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ZurSchwbischenJungfrau> wgs:location _:node1bvvlrklgx135 ;
+	rdfs:seeAlso "http://www.schwaebische-jungfrau.at/" .

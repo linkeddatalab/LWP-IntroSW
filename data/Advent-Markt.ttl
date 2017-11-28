@@ -1,0 +1,563 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix test: <http://test2.example.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25443> a dbo:Place ;
+	lw:hasId "25443" ;
+	rdfs:label "Wiener Weihnachtstraum am Christkindlmarkt 2017" ;
+	dbo:address "Rathausplatz 1" ;
+	dbo:startDate "18.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438243" .
+
+_:node1bvvrku5tx1 a wgs:Point ;
+	wgs:lat "16.358637302993912" ;
+	wgs:long "48.21064814369224" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25443> wgs:location _:node1bvvrku5tx1 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25444> a dbo:Place ;
+	lw:hasId "25444" ;
+	rdfs:label "Weihnachtsbasar der Schwedischen Kirche" ;
+	dbo:address "Radetzkystraße 2" ;
+	dbo:startDate "03.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438253" .
+
+_:node1bvvrku5tx2 a wgs:Point ;
+	wgs:lat "16.385362994919426" ;
+	wgs:long "48.21078943350504" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25444> wgs:location _:node1bvvrku5tx2 ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25445> a dbo:Place ;
+	lw:hasId "25445" ;
+	rdfs:label "Altwiener Christkindlmarkt" ;
+	dbo:address "Freyung 6" ;
+	dbo:startDate "18.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437336" .
+
+_:node1bvvrku5tx3 a wgs:Point ;
+	wgs:lat "16.3645541662106" ;
+	wgs:long "48.21189939809723" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25445> wgs:location _:node1bvvrku5tx3 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25145> a dbo:Place ;
+	lw:hasId "25145" ;
+	rdfs:label "Wiener Christkindlmarkt am Rathausplatz" ;
+	dbo:address "Rathausplatz 1" ;
+	dbo:startDate "18.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437324" .
+
+_:node1bvvrku5tx4 a wgs:Point ;
+	wgs:lat "16.358637302993912" ;
+	wgs:long "48.21064814369224" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25145> wgs:location _:node1bvvrku5tx4 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25146> a dbo:Place ;
+	lw:hasId "25146" ;
+	rdfs:label "Radio Arabella - Weihnachtsdorf im Alten AKH" ;
+	dbo:address "Spitalgasse 2" ;
+	dbo:startDate "18.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437325" .
+
+_:node1bvvrku5tx5 a wgs:Point ;
+	wgs:lat "16.35146485279869" ;
+	wgs:long "48.21696846859229" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25146> wgs:location _:node1bvvrku5tx5 ;
+	dbo:codeDistrict "1090" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25446> a dbo:Place ;
+	lw:hasId "25446" ;
+	rdfs:label "Weihnachtsmarkt im HandWerk der Wienser Sozialdienste" ;
+	dbo:address "Herbststraße 21" ;
+	dbo:startDate "06.12.2017" ;
+	dbo:endDate " 08.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439257" .
+
+_:node1bvvrku5tx6 a wgs:Point ;
+	wgs:lat "16.33142338499572" ;
+	wgs:long "48.20555851197912" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25446> wgs:location _:node1bvvrku5tx6 ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25147> a dbo:Place ;
+	lw:hasId "25147" ;
+	rdfs:label "Adventmarkt der Biobauern von der Freyung" ;
+	dbo:address "Freyung 6" ;
+	dbo:startDate "24.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437907" .
+
+_:node1bvvrku5tx7 a wgs:Point ;
+	wgs:lat "16.3645541662106" ;
+	wgs:long "48.21189939809723" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25147> wgs:location _:node1bvvrku5tx7 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25148> a dbo:Place ;
+	lw:hasId "25148" ;
+	rdfs:label "Adventmarkt in Meidling - Meidlinger Hauptstraße" ;
+	dbo:address "Meidlinger Hauptstraße 12-14" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=419157" .
+
+_:node1bvvrku5tx8 a wgs:Point ;
+	wgs:lat "16.329421353175853" ;
+	wgs:long "48.181501963325694" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25148> wgs:location _:node1bvvrku5tx8 ;
+	dbo:codeDistrict "1120" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25149> a dbo:Place ;
+	lw:hasId "25149" ;
+	rdfs:label "Der Radio Wien Weihnachts Markt Am Hof" ;
+	dbo:address "Am Hof 1" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437319" .
+
+_:node1bvvrku5tx9 a wgs:Point ;
+	wgs:lat "16.367618675134565" ;
+	wgs:long "48.210894689718764" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25149> wgs:location _:node1bvvrku5tx9 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25150> a dbo:Place ;
+	lw:hasId "25150" ;
+	rdfs:label "Hunde-Weihnachtsmarkt" ;
+	dbo:address "Sinawastingasse 2C" ;
+	dbo:startDate "08.12.2017" ;
+	dbo:endDate " 09.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=419520" .
+
+_:node1bvvrku5tx10 a wgs:Point ;
+	wgs:lat "16.386441054992083" ;
+	wgs:long "48.25675810587898" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25150> wgs:location _:node1bvvrku5tx10 ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25151> a dbo:Place ;
+	lw:hasId "25151" ;
+	rdfs:label "Advent Genussmarkt bei der Oper" ;
+	dbo:address "Mahlerstraße 6" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437323" .
+
+_:node1bvvrku5tx11 a wgs:Point ;
+	wgs:lat "16.371200975604864" ;
+	wgs:long "48.202273687603125" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25151> wgs:location _:node1bvvrku5tx11 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25152> a dbo:Place ;
+	lw:hasId "25152" ;
+	rdfs:label "Weihnachtsmarkt der Pfarre Donaufeld" ;
+	dbo:address "Kinzerplatz 19" ;
+	dbo:startDate "01.12.2017" ;
+	dbo:endDate " 02.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438069" .
+
+_:node1bvvrku5tx12 a wgs:Point ;
+	wgs:lat "16.40795712053567" ;
+	wgs:long "48.25239202294901" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25152> wgs:location _:node1bvvrku5tx12 ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25441> a dbo:Place ;
+	lw:hasId "25441" ;
+	rdfs:label "Radio Arabella - Weihnachtsdorf am Maria-Theresien Platz" ;
+	dbo:address "Burgring 5" ;
+	dbo:startDate "22.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437326" .
+
+_:node1bvvrku5tx13 a wgs:Point ;
+	wgs:lat "16.361115489956454" ;
+	wgs:long "48.204669684912076" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25441> wgs:location _:node1bvvrku5tx13 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25442> a dbo:Place ;
+	lw:hasId "25442" ;
+	rdfs:label "Radio Arabella - Weihnachtsdorf vor dem Schloss Belvedere" ;
+	dbo:address "Prinz-Eugen-Straße 27" ;
+	dbo:startDate "24.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437327" .
+
+_:node1bvvrku5tx14 a wgs:Point ;
+	wgs:lat "16.37980086456676" ;
+	wgs:long "48.1912606376118" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25442> wgs:location _:node1bvvrku5tx14 ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25447> a dbo:Place ;
+	lw:hasId "25447" ;
+	rdfs:label "\"Gutes vom Bauernhof\" Weihnachtsmarkt im Theatermuseum" ;
+	dbo:address "Lobkowitzplatz 2" ;
+	dbo:startDate "07.12.2017" ;
+	dbo:endDate " 10.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=416875" .
+
+_:node1bvvrku5tx15 a wgs:Point ;
+	wgs:lat "16.368526097098865" ;
+	wgs:long "48.20559268932395" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25447> wgs:location _:node1bvvrku5tx15 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25448> a dbo:Place ;
+	lw:hasId "25448" ;
+	rdfs:label "Dänischer Weihnachtsbasar" ;
+	dbo:address "Hegergasse 9" ;
+	dbo:startDate "08.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=389892" .
+
+_:node1bvvrku5tx16 a wgs:Point ;
+	wgs:lat "16.38731597156753" ;
+	wgs:long "48.19175503610096" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25448> wgs:location _:node1bvvrku5tx16 ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25449> a dbo:Place ;
+	lw:hasId "25449" ;
+	rdfs:label "Kultur- und Weihnachtsmarkt vor dem Schloß Schönbrunn" ;
+	dbo:address "Schönbrunner Schloßstraße 47" ;
+	dbo:startDate "18.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=286955" .
+
+_:node1bvvrku5tx17 a wgs:Point ;
+	wgs:lat "16.313087276662937" ;
+	wgs:long "48.18649379306993" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25449> wgs:location _:node1bvvrku5tx17 ;
+	dbo:codeDistrict "1130" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25450> a dbo:Place ;
+	lw:hasId "25450" ;
+	rdfs:label "Adventmarkt vor der Kirche Mariahilf" ;
+	dbo:address "Mariahilfer Straße 55" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438934" .
+
+_:node1bvvrku5tx18 a wgs:Point ;
+	wgs:lat "16.353268603044167" ;
+	wgs:long "48.19936173021695" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25450> wgs:location _:node1bvvrku5tx18 ;
+	dbo:codeDistrict "1060" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25451> a dbo:Place ;
+	lw:hasId "25451" ;
+	rdfs:label "Weihnachtszauber am Schloss Wilhelminenberg" ;
+	dbo:address "Savoyenstraße 2" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437424" .
+
+_:node1bvvrku5tx19 a wgs:Point ;
+	wgs:lat "16.28546771155556" ;
+	wgs:long "48.21968824875009" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25451> wgs:location _:node1bvvrku5tx19 ;
+	dbo:codeDistrict "1160" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25452> a dbo:Place ;
+	lw:hasId "25452" ;
+	rdfs:label "Adventmarkt und Weihnachtsschau in den Blumengärten Hirschstetten - Glanzvoller Advent" ;
+	dbo:address "Quadenstraße 15" ;
+	dbo:startDate "16.11.2017" ;
+	dbo:endDate " 17.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437328" .
+
+_:node1bvvrku5tx20 a wgs:Point ;
+	wgs:lat "16.472599668311062" ;
+	wgs:long "48.23615669008921" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25452> wgs:location _:node1bvvrku5tx20 ;
+	dbo:codeDistrict "1220" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25453> a dbo:Place ;
+	lw:hasId "25453" ;
+	rdfs:label "Kunst-, Kultur-Adventmarkt im Schloss Neugebäude" ;
+	dbo:address "Otmar-Brix-Gasse 1" ;
+	dbo:startDate "30.11.2017" ;
+	dbo:endDate " 10.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=305301" .
+
+_:node1bvvrku5tx21 a wgs:Point ;
+	wgs:lat "16.442351704989804" ;
+	wgs:long "48.16063537330406" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25453> wgs:location _:node1bvvrku5tx21 ;
+	dbo:codeDistrict "1110" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25454> a dbo:Place ;
+	lw:hasId "25454" ;
+	rdfs:label "WeihnachtsQuartier im MQ" ;
+	dbo:address "Museumsplatz 1" ;
+	dbo:startDate "01.12.2017" ;
+	dbo:endDate " 03.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=450923" .
+
+_:node1bvvrku5tx22 a wgs:Point ;
+	wgs:lat "16.359112971682215" ;
+	wgs:long "48.20353147707585" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25454> wgs:location _:node1bvvrku5tx22 ;
+	dbo:codeDistrict "1070" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25455> a dbo:Place ;
+	lw:hasId "25455" ;
+	rdfs:label "Radio Arabella - Silvesterdorf am Maria-Theresien Platz" ;
+	dbo:address "Burgring 5" ;
+	dbo:startDate "27.12.2017" ;
+	dbo:endDate " 31.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439384" .
+
+_:node1bvvrku5tx23 a wgs:Point ;
+	wgs:lat "16.36084633424987" ;
+	wgs:long "48.20448987962025" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25455> wgs:location _:node1bvvrku5tx23 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25456> a dbo:Place ;
+	lw:hasId "25456" ;
+	rdfs:label "Advent im Bildhauerzentrum" ;
+	dbo:address "Schultheßgasse 8" ;
+	dbo:startDate "03.12.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=451785" .
+
+_:node1bvvrku5tx24 a wgs:Point ;
+	wgs:lat "16.317965041096137" ;
+	wgs:long "48.224537440052515" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25456> wgs:location _:node1bvvrku5tx24 ;
+	dbo:codeDistrict "1170" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25457> a dbo:Place ;
+	lw:hasId "25457" ;
+	rdfs:label "Weihnachtsmarkt am Spittelberg" ;
+	dbo:address "Spittelberggasse 1" ;
+	dbo:startDate "16.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437320" .
+
+_:node1bvvrku5tx25 a wgs:Point ;
+	wgs:lat "16.35530381909226" ;
+	wgs:long "48.202738169751164" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25457> wgs:location _:node1bvvrku5tx25 ;
+	dbo:codeDistrict "1070" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25458> a dbo:Place ;
+	lw:hasId "25458" ;
+	rdfs:label "Art Advent - Kunst und Handwerk am Karlsplatz" ;
+	dbo:address "Resselpark " ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=436918" .
+
+_:node1bvvrku5tx26 a wgs:Point ;
+	wgs:lat "16.37021452839534" ;
+	wgs:long "48.19991803942954" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25458> wgs:location _:node1bvvrku5tx26 ;
+	dbo:codeDistrict "1040" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25459> a dbo:Place ;
+	lw:hasId "25459" ;
+	rdfs:label "Floridsdorfer Weihnachtsmarkt am Franz-Jonas-Platz" ;
+	dbo:address "Franz-Jonas-Platz 1" ;
+	dbo:startDate "16.11.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439456" .
+
+_:node1bvvrku5tx27 a wgs:Point ;
+	wgs:lat "16.39824949750289" ;
+	wgs:long "48.25615716140113" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25459> wgs:location _:node1bvvrku5tx27 ;
+	dbo:codeDistrict "1210" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25460> a dbo:Place ;
+	lw:hasId "25460" ;
+	rdfs:label "Weihnachtsmarkt im Türkenschanzpark" ;
+	dbo:address "Türkenschanzpark T" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437322" .
+
+_:node1bvvrku5tx28 a wgs:Point ;
+	wgs:lat "16.333588142556735" ;
+	wgs:long "48.23515668041274" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25460> wgs:location _:node1bvvrku5tx28 ;
+	dbo:codeDistrict "1180" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25461> a dbo:Place ;
+	lw:hasId "25461" ;
+	rdfs:label "WORLD ART WEIHNACHTSBASAR - Fairtrade Kunsthandwerk aus aller Welt" ;
+	dbo:address "Berggasse 21" ;
+	dbo:startDate "18.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438614" .
+
+_:node1bvvrku5tx29 a wgs:Point ;
+	wgs:lat "16.363448825305504" ;
+	wgs:long "48.21873798023485" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25461> wgs:location _:node1bvvrku5tx29 ;
+	dbo:codeDistrict "1090" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25462> a dbo:Place ;
+	lw:hasId "25462" ;
+	rdfs:label "Winter im MQ 2017" ;
+	dbo:address "Museumsplatz 1" ;
+	dbo:startDate "09.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437318" .
+
+_:node1bvvrku5tx30 a wgs:Point ;
+	wgs:lat "16.359112971682215" ;
+	wgs:long "48.20353147707585" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25462> wgs:location _:node1bvvrku5tx30 ;
+	dbo:codeDistrict "1070" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25463> a dbo:Place ;
+	lw:hasId "25463" ;
+	rdfs:label "Adventmarkt in der Favoritner Fußgängerzone" ;
+	dbo:address "Favoritenstraße 128" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439386" .
+
+_:node1bvvrku5tx31 a wgs:Point ;
+	wgs:lat "16.37742686852959" ;
+	wgs:long "48.17561790710544" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25463> wgs:location _:node1bvvrku5tx31 ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25464> a dbo:Place ;
+	lw:hasId "25464" ;
+	rdfs:label "k.u.k. Weihnachtsmarkt am Michaelerplatz" ;
+	dbo:address "Michaelerplatz 1" ;
+	dbo:startDate "17.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439082" .
+
+_:node1bvvrku5tx32 a wgs:Point ;
+	wgs:lat "16.366156535645462" ;
+	wgs:long "48.20772130036573" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25464> wgs:location _:node1bvvrku5tx32 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25465> a dbo:Place ;
+	lw:hasId "25465" ;
+	rdfs:label "Adventmarkt am Columbusplatz" ;
+	dbo:address "Columbusplatz 7-8" ;
+	dbo:startDate "01.12.2017" ;
+	dbo:endDate " 24.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439455" .
+
+_:node1bvvrku5tx33 a wgs:Point ;
+	wgs:lat "16.37518095616" ;
+	wgs:long "48.18208643981428" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25465> wgs:location _:node1bvvrku5tx33 ;
+	dbo:codeDistrict "1100" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25466> a dbo:Place ;
+	lw:hasId "25466" ;
+	rdfs:label "Weihnachtsmarkt im 48er-Tandler" ;
+	dbo:address "Siebenbrunnenfeldgasse 3" ;
+	dbo:startDate "15.11.2017" ;
+	dbo:endDate " 23.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=452378" .
+
+_:node1bvvrku5tx34 a wgs:Point ;
+	wgs:lat "16.353243226194714" ;
+	wgs:long "48.18060370564281" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25466> wgs:location _:node1bvvrku5tx34 ;
+	dbo:codeDistrict "1050" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25467> a dbo:Place ;
+	lw:hasId "25467" ;
+	rdfs:label "Weihnachtsmarkt am Stephansplatz" ;
+	dbo:address "Stephansplatz 1" ;
+	dbo:startDate "15.11.2017" ;
+	dbo:endDate " 26.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437321" .
+
+_:node1bvvrku5tx35 a wgs:Point ;
+	wgs:lat "16.372518009528143" ;
+	wgs:long "48.208342685780394" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25467> wgs:location _:node1bvvrku5tx35 ;
+	dbo:codeDistrict "1010" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25468> a dbo:Place ;
+	lw:hasId "25468" ;
+	rdfs:label "Mittelalterlicher Weihnachtsmarkt im HGM" ;
+	dbo:address "Arsenal 18" ;
+	dbo:startDate "30.11.2017" ;
+	dbo:endDate " 03.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437760" .
+
+_:node1bvvrku5tx36 a wgs:Point ;
+	wgs:lat "16.38898117429548" ;
+	wgs:long "48.1842615893926" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25468> wgs:location _:node1bvvrku5tx36 ;
+	dbo:codeDistrict "1030" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25469> a dbo:Place ;
+	lw:hasId "25469" ;
+	rdfs:label "Wiener Linien Adventmarkt" ;
+	dbo:address "Ludwig-Koeßler-Platz 3" ;
+	dbo:startDate "06.12.2017" ;
+	dbo:endDate " 17.12.2017" ;
+	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=419620" .
+
+_:node1bvvrku5tx37 a wgs:Point ;
+	wgs:lat "16.409207276743206" ;
+	wgs:long "48.196180614692025" .
+
+<http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25469> wgs:location _:node1bvvrku5tx37 ;
+	dbo:codeDistrict "1030" .

@@ -1,0 +1,765 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lw: <http://linkedwidgets.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225978> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225978" .
+
+_:node1bvvkv3qjx1 a wgs:Point ;
+	wgs:lat "16.401661221006314" ;
+	wgs:long "48.182967852920775" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225978> wgs:location _:node1bvvkv3qjx1 ;
+	rdfs:label "Friedhof St. Marx"@de ;
+	dbo:address "Leberstraße 6-8" ;
+	rdfs:seeAlso "http://www.wien.gv.at/umwelt/parks/anlagen/friedhof-st-marx.html" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225979> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225979" .
+
+_:node1bvvkv3qjx2 a wgs:Point ;
+	wgs:lat "16.291251819570988" ;
+	wgs:long "48.21286564527366" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225979> wgs:location _:node1bvvkv3qjx2 ;
+	rdfs:label "Kuffner-Sternwarte"@de ;
+	dbo:address "Johann-Staud- Straße 10" ;
+	rdfs:seeAlso "http://www.kuffner.ac.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225980> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225980" .
+
+_:node1bvvkv3qjx3 a wgs:Point ;
+	wgs:lat "16.37128536485903" ;
+	wgs:long "48.20095894769477" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225980> wgs:location _:node1bvvkv3qjx3 ;
+	rdfs:label "Künstlerhaus"@de ;
+	dbo:address "Karlsplatz 5" ;
+	rdfs:seeAlso "http://www.k-haus.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225981> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225981" .
+
+_:node1bvvkv3qjx4 a wgs:Point ;
+	wgs:lat "16.35848482492768" ;
+	wgs:long "48.20810859079746" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225981> wgs:location _:node1bvvkv3qjx4 ;
+	rdfs:label "Parlament"@de ;
+	dbo:address "Dr.-Karl-Renner-Ring 3" ;
+	rdfs:seeAlso "http://www.parlament.gv.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225982> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225982" .
+
+_:node1bvvkv3qjx5 a wgs:Point ;
+	wgs:lat "16.39500562331404" ;
+	wgs:long "48.2161226989382" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225982> wgs:location _:node1bvvkv3qjx5 ;
+	rdfs:label "Planetarium"@de ;
+	dbo:address "Oswald Thomas Platz 1" ;
+	rdfs:seeAlso "http://www.planetarium-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225983> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225983" .
+
+_:node1bvvkv3qjx6 a wgs:Point ;
+	wgs:lat "16.357291874373033" ;
+	wgs:long "48.21082367707388" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225983> wgs:location _:node1bvvkv3qjx6 ;
+	rdfs:label "Rathaus"@de ;
+	dbo:address "Friedrich-Schmidt- Platz 1" ;
+	rdfs:seeAlso "http://www.wien.gv.at/buergerdienst/stadtinfo/rathausfuehrung" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225984> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225984" .
+
+_:node1bvvkv3qjx7 a wgs:Point ;
+	wgs:lat "16.366827776091235" ;
+	wgs:long "48.20728576288226" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225984> wgs:location _:node1bvvkv3qjx7 ;
+	rdfs:label "Spanische Hofreitschule"@de ;
+	dbo:address "Michaelerplatz 1" ;
+	rdfs:seeAlso "http://www.srs.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226177> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226177" .
+
+_:node1bvvkv3qjx8 a wgs:Point ;
+	wgs:lat "16.37480126609056" ;
+	wgs:long "48.21161050811439" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226177> wgs:location _:node1bvvkv3qjx8 ;
+	rdfs:label "Synagoge"@de ;
+	dbo:address "Seitenstettengasse 2-4" ;
+	rdfs:seeAlso "http://www.jmw.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226178> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226178" .
+
+_:node1bvvkv3qjx9 a wgs:Point ;
+	wgs:lat "16.383930200298963" ;
+	wgs:long "48.21154715632915" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226178> wgs:location _:node1bvvkv3qjx9 ;
+	rdfs:label "Urania Sternwarte"@de ;
+	dbo:address "Uraniastraße 1" ;
+	rdfs:seeAlso "http://www.urania-sternwarte.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226179> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226179" .
+
+_:node1bvvkv3qjx10 a wgs:Point ;
+	wgs:lat "16.36910592891493" ;
+	wgs:long "48.2032582534874" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226179> wgs:location _:node1bvvkv3qjx10 ;
+	rdfs:label "Wiener Staatsoper"@de ;
+	dbo:address "Opernring 2" ;
+	rdfs:seeAlso "http://www.wiener-staatsoper.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226180> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226180" .
+
+_:node1bvvkv3qjx11 a wgs:Point ;
+	wgs:lat "16.438719546791315" ;
+	wgs:long "48.151263650534325" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226180> wgs:location _:node1bvvkv3qjx11 ;
+	rdfs:label "Zentralfriedhof (Ehrengräber)"@de ;
+	dbo:address "Simmeringer Hauptstraße 234" ;
+	rdfs:seeAlso "http://www.friedhoefewien.at/fhw/ep/channelView.do/channelId/-26709/pageTypeId/13572" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226181> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226181" .
+
+_:node1bvvkv3qjx12 a wgs:Point ;
+	wgs:lat "16.368192278416373" ;
+	wgs:long "48.20457279441526" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226181> wgs:location _:node1bvvkv3qjx12 ;
+	rdfs:label "Albertina"@de ;
+	dbo:address "Albertinaplatz 1" ;
+	rdfs:seeAlso "http://www.albertina.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226182> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226182" .
+
+_:node1bvvkv3qjx13 a wgs:Point ;
+	wgs:lat "16.37306751380093" ;
+	wgs:long "48.203842034890236" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226182> wgs:location _:node1bvvkv3qjx13 ;
+	rdfs:label "Haus der Musik"@de ;
+	dbo:address "Seilerstätte 30" ;
+	rdfs:seeAlso "http://www.hdm.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226183> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226183" .
+
+_:node1bvvkv3qjx14 a wgs:Point ;
+	wgs:lat "16.352937093396132" ;
+	wgs:long "48.19756916635613" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226183> wgs:location _:node1bvvkv3qjx14 ;
+	rdfs:label "Haus des Meeres"@de ;
+	dbo:address "Fritz-Grünbaum-Platz 1" ;
+	rdfs:seeAlso "http://www.haus-des-meeres.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226184> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226184" .
+
+_:node1bvvkv3qjx15 a wgs:Point ;
+	wgs:lat "16.369406705080205" ;
+	wgs:long "48.20712109794745" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226184> wgs:location _:node1bvvkv3qjx15 ;
+	rdfs:label "Jüdisches Museum der Stadt Wien"@de ;
+	dbo:address "Dorotheergasse 11" ;
+	rdfs:seeAlso "http://www.jmw.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226185> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226185" .
+
+_:node1bvvkv3qjx16 a wgs:Point ;
+	wgs:lat "16.369858130433744" ;
+	wgs:long "48.205608780860025" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226185> wgs:location _:node1bvvkv3qjx16 ;
+	rdfs:label "Kaisergruft (Kapuzinergruft)"@de ;
+	dbo:address "Tegetthoffstraße 2" ;
+	rdfs:seeAlso "http://www.kaisergruft.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226186> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226186" .
+
+_:node1bvvkv3qjx17 a wgs:Point ;
+	wgs:lat "16.39350061425079" ;
+	wgs:long "48.21108295153063" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226186> wgs:location _:node1bvvkv3qjx17 ;
+	rdfs:label "KunstHausWien - Friedensreich Hundertwasser"@de ;
+	dbo:address "Untere Weißgerberstraße 13" ;
+	rdfs:seeAlso "http://www.kunsthauswien.com" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226187> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226187" .
+
+_:node1bvvkv3qjx18 a wgs:Point ;
+	wgs:lat "16.35957440356108" ;
+	wgs:long "48.222602568463486" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226187> wgs:location _:node1bvvkv3qjx18 ;
+	rdfs:label "Palais Liechtenstein"@de ;
+	dbo:address "Fürstengasse 1" ;
+	rdfs:seeAlso "http://www.liechtensteinmuseum.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226188> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226188" .
+
+_:node1bvvkv3qjx19 a wgs:Point ;
+	wgs:lat "16.381583648825064" ;
+	wgs:long "48.20757434927788" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226188> wgs:location _:node1bvvkv3qjx19 ;
+	rdfs:label "MAK - Österreichisches Museum für angewandte Kunst"@de ;
+	dbo:address "Stubenring 5" ;
+	rdfs:seeAlso "http://www.mak.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226189> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226189" .
+
+_:node1bvvkv3qjx20 a wgs:Point ;
+	wgs:lat "16.37490522065433" ;
+	wgs:long "48.20815880271996" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226189> wgs:location _:node1bvvkv3qjx20 ;
+	rdfs:label "Mozarthaus Vienna \"Figarohaus\""@de ;
+	dbo:address "Domgasse 5" ;
+	rdfs:seeAlso "http://www.mozarthausvienna.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226190> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226190" .
+
+_:node1bvvkv3qjx21 a wgs:Point ;
+	wgs:lat "16.358538956391854" ;
+	wgs:long "48.20329390091692" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226190> wgs:location _:node1bvvkv3qjx21 ;
+	rdfs:label "MuseumsQuartier Wien"@de ;
+	dbo:address "Museumsplatz 1(HOF E1/5)" ;
+	rdfs:seeAlso "http://www.mqw.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226191> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226191" .
+
+_:node1bvvkv3qjx22 a wgs:Point ;
+	wgs:lat "16.380861000236685" ;
+	wgs:long "48.191628887678625" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226191> wgs:location _:node1bvvkv3qjx22 ;
+	rdfs:label "Oberes Belvedere"@de ;
+	dbo:address "Prinz-Eugen-Straße 27" ;
+	rdfs:seeAlso "http://www.belvedere.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226192> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226192" .
+
+_:node1bvvkv3qjx23 a wgs:Point ;
+	wgs:lat "16.36538903245094" ;
+	wgs:long "48.205708825222764" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226192> wgs:location _:node1bvvkv3qjx23 ;
+	rdfs:label "Österreichische Nationalbibliothek"@de ;
+	dbo:address "Josefsplatz 1" ;
+	rdfs:seeAlso "http://www.onb.ac.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226193> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226193" .
+
+_:node1bvvkv3qjx24 a wgs:Point ;
+	wgs:lat "16.367767945485717" ;
+	wgs:long "48.205533905707895" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226193> wgs:location _:node1bvvkv3qjx24 ;
+	rdfs:label "Augustinerkirche"@de ;
+	dbo:address "Josefsplatz" ;
+	rdfs:seeAlso "http://www.kaisergruft.at/augustiner/augustiner.htm" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226194> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226194" .
+
+_:node1bvvkv3qjx25 a wgs:Point ;
+	wgs:lat "16.36138370237263" ;
+	wgs:long "48.210298906019645" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226194> wgs:location _:node1bvvkv3qjx25 ;
+	rdfs:label "Burgtheater"@de ;
+	dbo:address "Dr.-Karl-Lueger-Ring 2" ;
+	rdfs:seeAlso "http://www.burgtheater.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226195> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226195" .
+
+_:node1bvvkv3qjx26 a wgs:Point ;
+	wgs:lat "16.410024806655144" ;
+	wgs:long "48.24024577557429" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226195> wgs:location _:node1bvvkv3qjx26 ;
+	rdfs:label "Donauturm"@de ;
+	dbo:address "Donauturmstraße 4" ;
+	rdfs:seeAlso "http://www.donauturm.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226196> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226196" .
+
+_:node1bvvkv3qjx27 a wgs:Point ;
+	wgs:lat "16.308727679572506" ;
+	wgs:long "48.17827582631082" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226196> wgs:location _:node1bvvkv3qjx27 ;
+	rdfs:label "Gloriette"@de ;
+	dbo:address "Gloriette" ;
+	rdfs:seeAlso "http://www.schoenbrunn.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226197> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226197" .
+
+_:node1bvvkv3qjx28 a wgs:Point ;
+	wgs:lat "16.364935443621118" ;
+	wgs:long "48.2065521406637" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226197> wgs:location _:node1bvvkv3qjx28 ;
+	rdfs:label "Hofburg"@de ;
+	dbo:address "Hofburg" ;
+	rdfs:seeAlso "http://www.hofburg-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225977> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.225977" .
+
+_:node1bvvkv3qjx29 a wgs:Point ;
+	wgs:lat "16.373667033114803" ;
+	wgs:long "48.21075446499098" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.225977> wgs:location _:node1bvvkv3qjx29 ;
+	rdfs:label "Ankeruhr"@de ;
+	dbo:address "Hoher Markt 10/11" ;
+	rdfs:seeAlso "http://www.wien.info/article.asp?IDArticle=2018" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226198> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226198" .
+
+_:node1bvvkv3qjx30 a wgs:Point ;
+	wgs:lat "16.397777060085474" ;
+	wgs:long "48.24513363380669" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226198> wgs:location _:node1bvvkv3qjx30 ;
+	rdfs:label "Islamisches Zentrum Wien / Moschee"@de ;
+	dbo:address "Am Bruckhafen 3" ;
+	rdfs:seeAlso "http://www.islamiccentre.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226199> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226199" .
+
+_:node1bvvkv3qjx31 a wgs:Point ;
+	wgs:lat "16.37188467947388" ;
+	wgs:long "48.198268269621536" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226199> wgs:location _:node1bvvkv3qjx31 ;
+	rdfs:label "Karlskirche"@de ;
+	dbo:address "Karlsplatz" ;
+	rdfs:seeAlso "https://www.wien.gv.at/wiki/index.php/Karlskirche" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226200> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226200" .
+
+_:node1bvvkv3qjx32 a wgs:Point ;
+	wgs:lat "16.37263593559322" ;
+	wgs:long "48.20051891179954" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226200> wgs:location _:node1bvvkv3qjx32 ;
+	rdfs:label "Musikverein"@de ;
+	dbo:address "Bösendorferstraße 12" ;
+	rdfs:seeAlso "http://www.musikverein.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226201> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226201" .
+
+_:node1bvvkv3qjx33 a wgs:Point ;
+	wgs:lat "16.365776021454174" ;
+	wgs:long "48.20048785810917" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226201> wgs:location _:node1bvvkv3qjx33 ;
+	rdfs:label "Secession"@de ;
+	dbo:address "Friedrichstraße 12" ;
+	rdfs:seeAlso "http://www.secession.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226202> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226202" .
+
+_:node1bvvkv3qjx34 a wgs:Point ;
+	wgs:lat "16.36299031434416" ;
+	wgs:long "48.2186875110471" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226202> wgs:location _:node1bvvkv3qjx34 ;
+	rdfs:label "Sigmund Freud Museum"@de ;
+	dbo:address "Berggasse 19" ;
+	rdfs:seeAlso "http://www.freud-museum.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226204> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226204" .
+
+_:node1bvvkv3qjx35 a wgs:Point ;
+	wgs:lat "16.372956842278885" ;
+	wgs:long "48.19924624583902" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226204> wgs:location _:node1bvvkv3qjx35 ;
+	rdfs:label "Wien Museum Karlsplatz"@de ;
+	dbo:address "Karlsplatz 8" ;
+	rdfs:seeAlso "http://www.wienmuseum.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226205> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226205" .
+
+_:node1bvvkv3qjx36 a wgs:Point ;
+	wgs:lat "16.381101966825252" ;
+	wgs:long "48.2099737655915" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226205> wgs:location _:node1bvvkv3qjx36 ;
+	rdfs:label "Wagner:Werk Museum Postsparkasse"@de ;
+	dbo:address "Georg-Coch-Platz 2" ;
+	rdfs:seeAlso "http://www.ottowagner.com/oesterreichische-postsparkasse/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226206> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226206" .
+
+_:node1bvvkv3qjx37 a wgs:Point ;
+	wgs:lat "16.359620414405153" ;
+	wgs:long "48.20655934258129" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226206> wgs:location _:node1bvvkv3qjx37 ;
+	rdfs:label "Palais Epstein"@de ;
+	dbo:address "Dr.-Karl-Renner-Ring 1" ;
+	rdfs:seeAlso "http://www.parlament.gv.at/GEBF/EPSTEIN/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226207> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226207" .
+
+_:node1bvvkv3qjx38 a wgs:Point ;
+	wgs:lat "16.360683147673182" ;
+	wgs:long "48.21302585083619" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226207> wgs:location _:node1bvvkv3qjx38 ;
+	rdfs:label "Universität Wien"@de ;
+	dbo:address "Universitätsring 1" ;
+	rdfs:seeAlso "http://www.univie.ac.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226208> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226208" .
+
+_:node1bvvkv3qjx39 a wgs:Point ;
+	wgs:lat "16.379789096809862" ;
+	wgs:long "48.196967285716305" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226208> wgs:location _:node1bvvkv3qjx39 ;
+	rdfs:label "Unteres Belvedere"@de ;
+	dbo:address "Rennweg 6" ;
+	rdfs:seeAlso "http://www.belvedere.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226209> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226209" .
+
+_:node1bvvkv3qjx40 a wgs:Point ;
+	wgs:lat "16.253404685662233" ;
+	wgs:long "48.14763313187073" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226209> wgs:location _:node1bvvkv3qjx40 ;
+	rdfs:label "Wotrubakirche"@de ;
+	dbo:address "Rysergasse 2" ;
+	rdfs:seeAlso "http://www.georgenberg.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226210> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226210" .
+
+_:node1bvvkv3qjx41 a wgs:Point ;
+	wgs:lat "16.278775472937717" ;
+	wgs:long "48.21065498099298" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226210> wgs:location _:node1bvvkv3qjx41 ;
+	rdfs:label "Kirche am Steinhof"@de ;
+	dbo:address "Baumgartener Höhe 1" ;
+	rdfs:seeAlso "http://www.wienkav.at/kav/ows/texte_anzeigen.asp?id=2268" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226211> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226211" .
+
+_:node1bvvkv3qjx42 a wgs:Point ;
+	wgs:lat "16.36737187095563" ;
+	wgs:long "48.20796379149775" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226211> wgs:location _:node1bvvkv3qjx42 ;
+	rdfs:label "Michaelerkirche"@de ;
+	dbo:address "Michaelerplatz" ;
+	rdfs:seeAlso "http://www.michaelerkirche.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226212> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226212" .
+
+_:node1bvvkv3qjx43 a wgs:Point ;
+	wgs:lat "16.302929302713736" ;
+	wgs:long "48.184267113556906" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226212> wgs:location _:node1bvvkv3qjx43 ;
+	rdfs:label "Palmenhaus"@de ;
+	dbo:address "Schönbrunner Schloßpark" ;
+	rdfs:seeAlso "http://www.schoenbrunn.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226213> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226213" .
+
+_:node1bvvkv3qjx44 a wgs:Point ;
+	wgs:lat "16.395899457997896" ;
+	wgs:long "48.21663385826322" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226213> wgs:location _:node1bvvkv3qjx44 ;
+	rdfs:label "Riesenrad"@de ;
+	dbo:address "Prater" ;
+	rdfs:seeAlso "http://www.wienerriesenrad.com" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226214> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226214" .
+
+_:node1bvvkv3qjx45 a wgs:Point ;
+	wgs:lat "16.3127359334708" ;
+	wgs:long "48.185744138133586" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226214> wgs:location _:node1bvvkv3qjx45 ;
+	rdfs:label "Schloss Schönbrunn"@de ;
+	dbo:address "Schönbrunner Schloßstraße" ;
+	rdfs:seeAlso "http://www.schoenbrunn.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226215> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226215" .
+
+_:node1bvvkv3qjx46 a wgs:Point ;
+	wgs:lat "16.36643889914607" ;
+	wgs:long "48.20542292009458" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226215> wgs:location _:node1bvvkv3qjx46 ;
+	rdfs:label "Schmetterlinghaus"@de ;
+	dbo:address "Burggarten" ;
+	rdfs:seeAlso "http://www.schmetterlinghaus.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226216> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226216" .
+
+_:node1bvvkv3qjx47 a wgs:Point ;
+	wgs:lat "16.308967564480003" ;
+	wgs:long "48.182362762458496" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226216> wgs:location _:node1bvvkv3qjx47 ;
+	rdfs:label "Schönbrunn - Irrgarten"@de ;
+	dbo:address "Schönbrunner Schloßpark" ;
+	rdfs:seeAlso "http://www.schoenbrunn.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226217> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226217" .
+
+_:node1bvvkv3qjx48 a wgs:Point ;
+	wgs:lat "16.373140357653114" ;
+	wgs:long "48.208455890655436" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226217> wgs:location _:node1bvvkv3qjx48 ;
+	rdfs:label "Stephansdom"@de ;
+	dbo:address "Stephansplatz" ;
+	rdfs:seeAlso "http://www.stephanskirche.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226218> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226218" .
+
+_:node1bvvkv3qjx49 a wgs:Point ;
+	wgs:lat "16.304178016746338" ;
+	wgs:long "48.18200558264164" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226218> wgs:location _:node1bvvkv3qjx49 ;
+	rdfs:label "Tiergarten Schönbrunn"@de ;
+	dbo:address "Schönbrunner Schloßpark" ;
+	rdfs:seeAlso "http://www.zoovienna.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226219> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226219" .
+
+_:node1bvvkv3qjx50 a wgs:Point ;
+	wgs:lat "16.416838209784697" ;
+	wgs:long "48.234791442402226" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226219> wgs:location _:node1bvvkv3qjx50 ;
+	rdfs:label "UNO-City"@de ;
+	dbo:address "Wagramer Straße 3-5" ;
+	rdfs:seeAlso "http://www.unvienna.org" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226220> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226220" .
+
+_:node1bvvkv3qjx51 a wgs:Point ;
+	wgs:lat "16.361768851290897" ;
+	wgs:long "48.203718511475664" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226220> wgs:location _:node1bvvkv3qjx51 ;
+	rdfs:label "Kunsthistorisches Museum"@de ;
+	dbo:address "Maria-Theresien-Platz" ;
+	rdfs:seeAlso "http://www.khm.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226221> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226221" .
+
+_:node1bvvkv3qjx52 a wgs:Point ;
+	wgs:lat "16.359026579045775" ;
+	wgs:long "48.2025765979741" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226221> wgs:location _:node1bvvkv3qjx52 ;
+	rdfs:label "Leopold Museum"@de ;
+	dbo:address "Museumsplatz 1" ;
+	rdfs:seeAlso "http://www.leopoldmuseum.org" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226222> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226222" .
+
+_:node1bvvkv3qjx53 a wgs:Point ;
+	wgs:lat "16.357801384835703" ;
+	wgs:long "48.2037561126336" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226222> wgs:location _:node1bvvkv3qjx53 ;
+	rdfs:label "MUMOK Museum Moderner Kunst Stiftung Ludwig Wien"@de ;
+	dbo:address "Museumsplatz 1" ;
+	rdfs:seeAlso "http://www.mumok.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226223> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226223" .
+
+_:node1bvvkv3qjx54 a wgs:Point ;
+	wgs:lat "16.35974349895067" ;
+	wgs:long "48.205234567808645" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226223> wgs:location _:node1bvvkv3qjx54 ;
+	rdfs:label "Naturhistorisches Museum"@de ;
+	dbo:address "Maria-Theresien-Platz" ;
+	rdfs:seeAlso "http://www.nhm-wien.ac.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226224> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226224" .
+
+_:node1bvvkv3qjx55 a wgs:Point ;
+	wgs:lat "16.365444380965073" ;
+	wgs:long "48.206837320292955" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226224> wgs:location _:node1bvvkv3qjx55 ;
+	rdfs:label "Schatzkammer"@de ;
+	dbo:address "Hofburg Schatzkammerstiege" ;
+	rdfs:seeAlso "http://www.khm.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226225> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226225" .
+
+_:node1bvvkv3qjx56 a wgs:Point ;
+	wgs:lat "16.365627547083026" ;
+	wgs:long "48.20768405302652" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226225> wgs:location _:node1bvvkv3qjx56 ;
+	rdfs:label "Sisi Museum"@de ;
+	dbo:address "Hofburg Kaiserstiege" ;
+	rdfs:seeAlso "http://www.hofburg-wien.at" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226226> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226226" .
+
+_:node1bvvkv3qjx57 a wgs:Point ;
+	wgs:lat "16.35927855207326" ;
+	wgs:long "48.21537126453009" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226226> wgs:location _:node1bvvkv3qjx57 ;
+	rdfs:label "Votivkirche"@de ;
+	dbo:address "Rooseveltplatz" ;
+	rdfs:seeAlso "http://www.votivkirche.at/_museum.htm" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226227> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226227" .
+
+_:node1bvvkv3qjx58 a wgs:Point ;
+	wgs:lat "16.245426266609076" ;
+	wgs:long "48.17111638565784" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226227> wgs:location _:node1bvvkv3qjx58 ;
+	rdfs:label "Hermesvilla Wien Museum"@de ;
+	dbo:address "Lainzer Tiergarten, Zugang: Hermesstraße" ;
+	rdfs:seeAlso "http://www.wienmuseum.at/de/standorte/ansicht/hermesvilla.html" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226228> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226228" .
+
+_:node1bvvkv3qjx59 a wgs:Point ;
+	wgs:lat "16.370286255837843" ;
+	wgs:long "48.200261719822954" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226228> wgs:location _:node1bvvkv3qjx59 ;
+	rdfs:label "Otto Wagner Pavillon"@de ;
+	dbo:address "Karlsplatz" ;
+	rdfs:seeAlso "http://www.wienmuseum.at/de/standorte/ansicht//standorte/otto-wagner-pavillon-karlsplatz.html" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226229> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226229" .
+
+_:node1bvvkv3qjx60 a wgs:Point ;
+	wgs:lat "16.305984604913675" ;
+	wgs:long "48.18748618332721" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226229> wgs:location _:node1bvvkv3qjx60 ;
+	rdfs:label "Otto Wagner-Stadtpavillon Hietzing"@de ;
+	dbo:address "Schönbrunner Schloßstraße" ;
+	rdfs:seeAlso "http://www.wienmuseum.at/de/standorte/ansicht//standorte/otto-wagner-hofpavillon-hietzing.html" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226230> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226230" .
+
+_:node1bvvkv3qjx61 a wgs:Point ;
+	wgs:lat "16.31085983259406" ;
+	wgs:long "48.18222279060343" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226230> wgs:location _:node1bvvkv3qjx61 ;
+	rdfs:label "Schlosspark Schönbrunn"@de ;
+	dbo:address "Maxingstraße, Eingang Hietzinger Tor" ;
+	rdfs:seeAlso "http://www.lebensministerium.at/ministerium/bundesgaerten/gaerten_parks/Schoenbrunn.html" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226231> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226231" .
+
+_:node1bvvkv3qjx62 a wgs:Point ;
+	wgs:lat "16.309818336998504" ;
+	wgs:long "48.18624433233801" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226231> wgs:location _:node1bvvkv3qjx62 ;
+	rdfs:label "Wagenburg Schönbrunn"@de ;
+	dbo:address "Schönbrunner Schloßstraße" ;
+	rdfs:seeAlso "http://www.kaiserliche-wagenburg.at/" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226203> a dbo:Place ;
+	lw:hasId "SEHENSWUERDIGOGD.226203" .
+
+_:node1bvvkv3qjx63 a wgs:Point ;
+	wgs:lat "16.317896849870067" ;
+	wgs:long "48.19091283638529" .
+
+<http://linkedwidgets.org/ontology/resource/wien/SEHENSWUERDIGOGD.226203> wgs:location _:node1bvvkv3qjx63 ;
+	rdfs:label "Technisches Museum"@de ;
+	dbo:address "Mariahilfer Straße 212" ;
+	rdfs:seeAlso "http://www.tmw.at" .
