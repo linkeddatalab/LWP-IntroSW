@@ -5,6 +5,7 @@ import java.util.Properties;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
+import org.linkedwidgets.example.collection.CollectionRegistry;
 import org.linkedwidgets.example.widget.util.Util;
 import org.lw.shared.datamodel.Resource;
 import org.lw.shared.datamodel.WidgetInfo;
@@ -31,18 +32,19 @@ public class ClientWidgetRegistry implements ServletContextListener {
 
         this.properties = Util.loadProperties("config.properties");
 
-        initializeWidget("Json Viewer", "visualization", "JsonViewerWidget/index.html",
+        initializeWidget("JSON Viewer", "visualization", "JsonViewerWidget/index.html",
                 "A basic JSON viewer for any kind of JSON file", false);
-//         initializeWidget("Google Map Visualization (Carousel)", "visualization", "GoogleMapWidget/index.html",
-//                 "Google Maps input visualization", false);
-        initializeWidget("Map Pointer", "visualization", "MapPointerWidget/index.html",
+        initializeWidget("Map Pointer", "data", "MapPointerWidget/index.html",
                 "Map Pointer Widget for data inputs", false);
-//         initializeWidget("Flickr Geo Search", "process", "FlickrGeoSearch/index.html",
-//                 "Add Flickr images from area nearby appointed locations. To be used with Google Map visualization widget",
-//                 false);
         initializeWidget("Leaflet Map", "visualization", "LeafletMapWidget/index.html",
                 "Simple Leaflet Map Visualization", false);
-//         initializeWidget("Geo Merge", "data", "GeoMergeWidget/index.html", "", false);
+
+        // initializeWidget("Google Map Visualization (Carousel)", "visualization", "GoogleMapWidget/index.html",
+        // "Google Maps input visualization", false);
+        // initializeWidget("Flickr Geo Search", "process", "FlickrGeoSearch/index.html",
+        // "Add Flickr images from area nearby appointed locations. To be used with Google Map visualization widget",
+        // false);
+        // initializeWidget("Geo Merge", "data", "GeoMergeWidget/index.html", "", false);
 
         log.info("Context initialized done");
     }
@@ -57,11 +59,11 @@ public class ClientWidgetRegistry implements ServletContextListener {
 
         log.info(name + " widget initialization started");
         String url = properties.getProperty("widgetURL", "http://localhost:8080/example-widgets/html/") + "client/";
-        String resourceURIName = name.replaceAll("[^a-zA-Z0-9\\s]", "");
+        String widgetId = name.replaceAll("[^a-zA-Z0-9]", "");
 
         Resource resource = new Resource();
         resource.setName(name);
-        resource.setUri(OntologyConstant.RESOURCE + resourceURIName);
+        resource.setUri(OntologyConstant.RESOURCE + widgetId);
 
         WidgetInfo widgetInfo = new WidgetInfo();
         widgetInfo.setWidget(resource);
@@ -72,7 +74,10 @@ public class ClientWidgetRegistry implements ServletContextListener {
         Gson gson = new Gson();
 
         log.info("sendPost");
+
         Util.sendPost(properties.getProperty("serverAddWidgetURL"), gson.toJson(widgetInfo));
+        CollectionRegistry.widgets.put(widgetId, widgetInfo);
+        log.info("add widget: "+widgetId);
 
         log.info(name + " widget initialization finished");
     }

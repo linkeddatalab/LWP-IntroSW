@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Map Points Limiter</title>
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="../../widgets/WidgetHub.js"></script>
+    <script type="text/javascript">
+
+        var config = {
+            size: {width: 300, height: 125}, // the width, height of your widget (in pixels)
+            terminals: [ // define the position of your terminals
+                {"name": "input", "position": {"left": 0, "top": 1 / 2}, "type": "input"},
+                {"name": "output", "position": {"left": 1, "top": 1 / 2}, "type": "output"}
+            ],
+            serverId: "point_limit", // server id
+            resizable: true // decide whether your widget is resizable or not
+        };
+
+        function getParam() {
+            return {"limit": $("#limit").val()};
+        }
+
+        var hub = new WidgetHub(config);
+        hub.setGetParam(getParam);
+    </script>
+</head>
+A process widget to limit the number of map points shown/processed in the visualization.<br/><br/>
+
+Example param (prefix):
+<select id="limit">
+    <option value="1">1</option>
+    <option value="10" selected>10</option>
+    <option value="25">25</option>
+    <option value="50">50</option>
+    <option value="100">100</option>
+</select>
+<br/>
+</body>
+</html>

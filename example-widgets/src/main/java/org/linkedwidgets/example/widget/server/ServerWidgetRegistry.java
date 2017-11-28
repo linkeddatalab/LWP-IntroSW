@@ -10,8 +10,10 @@ import java.util.Properties;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
+import org.linkedwidgets.example.collection.CollectionRegistry;
 import org.linkedwidgets.example.widget.server.rdf.loader.TurtleLoader;
 import org.linkedwidgets.example.widget.server.rdf.loader.TurtleLoaderWithParam;
+import org.linkedwidgets.example.widget.server.rdf.maplimit.MapPointLimit;
 import org.linkedwidgets.example.widget.server.rdf.merger.RDFMerger;
 import org.lw.serverwidget.core.ServerWidget;
 import org.lw.serverwidget.core.ServerWidgetJob;
@@ -44,7 +46,7 @@ public class ServerWidgetRegistry implements ServletContextListener {
         this.serverWidgets = new ArrayList<>();
         this.properties = loadProperties("config.properties");
 
-        initializeWidget(new TurtleLoaderWithParam(file2), "Turtle Loader with Param", "data",
+        initializeWidget(new TurtleLoaderWithParam(file2), "Turtle Loader With Param", "data",
                 "loader/rdf-loader-1.html", "Loading RDF data from file: " + file2 + " with parameter prefix",
                 "turtle_loader_1");
         initializeWidget(new TurtleLoader(file1), "Turtle Loader", "data",
@@ -56,6 +58,9 @@ public class ServerWidgetRegistry implements ServletContextListener {
         initializeWidget(new RDFMerger(), "RDF Merge", "process",
                 "merger/rdf-merger.html", "Merging two RDF files",
                 "rdf_merger");
+        initializeWidget(new MapPointLimit(), "Map Points Limiter", "process",
+                "MapPointLimit/index.html", "Limit the number of points to be shown in the map visualization",
+                "point_limit");
 
         log.info("Context initialized done");
     }
@@ -88,7 +93,7 @@ public class ServerWidgetRegistry implements ServletContextListener {
 
         Resource resource = new Resource();
         resource.setName(widgetName);
-        resource.setUri(OntologyConstant.RESOURCE + widgetName.replaceAll("[^A-Za-z0-9]", ""));
+        resource.setUri(OntologyConstant.RESOURCE + widgetId);
 
         WidgetInfo widgetInfo = new WidgetInfo();
         widgetInfo.setWidget(resource);
@@ -99,7 +104,10 @@ public class ServerWidgetRegistry implements ServletContextListener {
         Gson gson = new Gson();
 
         log.info("sendPost");
+
         sendPost(serverAddWidgetURL, gson.toJson(widgetInfo));
+        log.info("add: " + widgetId);
+        CollectionRegistry.widgets.put(widgetId, widgetInfo);
 
         log.info(widgetName + " widget initialization finished");
     }

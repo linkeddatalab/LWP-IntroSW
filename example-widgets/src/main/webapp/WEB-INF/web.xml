@@ -10,4 +10,7 @@
   <listener>
     <listener-class>org.linkedwidgets.example.widget.client.ClientWidgetRegistry</listener-class>
   </listener>
+  <listener>
+    <listener-class>org.linkedwidgets.example.collection.CollectionRegistry</listener-class>
+  </listener>
 </web-app>
