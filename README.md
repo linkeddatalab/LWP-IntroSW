@@ -19,7 +19,6 @@
    * In case you can't use port `8080` for any reason, you'll need to customize the `config.properties` file inside your LWP UI (`<your-tomcat-installation-folder>/webapps/ROOT/config.properties`) and server (`<your-tomcat-installation-folder>/webapps/lw-server/config.properties`) - change `service` value's port into the correct one. 
    * However, these changes may cause Google related services (i.e., login and maps) to be disabled in your LWP installations.
 5. Install/deploy the `lw-server.war` (LWP server) and `ROOT.war` (LWP UI) from the git release tab (v1.1.0-beta) in your tomcat webapp folder `<your-tomcat-installation-folder>/webapps/` or via tomcat manager GUI. 
-   * Please note that **the sequence of deployment matters**! You should start with `lw-server.war`, `ROOT.war`, and then later `example-widgets.war`.
 6. Open http://localhost:8080 in your browser, and you should see an empty LWP isnstance.
 
 ### Example Widgets Installation Steps
@@ -27,7 +26,6 @@
 1. Open `example-widgets` project (i.e., example-widgets folder of the distributed LWP) using your favorite IDE (or alternatively you can also go to the folder from your terminal)
 2. Use maven to compile and install it (i.e., `mvn clean install`)
 3. Install/deploy the generated .war file (e.g., `<your-project-folder>/target/example-widgets.war`) on your tomcat webapp folder, together with `ROOT` and `example-widgets` war files.
-   * In case you restart the tomcat server later (e.g., for development), make sure that you remove `ROOT` and `example-widgets` war files and folders from your webapp, and redeploy them after tomcat finished loading `lw-server.war`.
 4. Reopen http://localhost:8080 in your browser, go to Widgets/Widget Collection/Mashup tab on the left, and you should be able to see a set of example widgets/collections/mashups (e.g., Turtle Loader, Turtle Loader with Param, Json Viewer, and RDF Merger).
 5. You can modify, add widgets by modifying the `example-widgets` project and redo steps 1-4.
 6. Have fun playing with these widgets!
