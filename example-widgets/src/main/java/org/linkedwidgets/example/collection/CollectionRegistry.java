@@ -8,9 +8,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
-import javax.servlet.ServletContextEvent;
-import javax.servlet.ServletContextListener;
-
 import org.linkedwidgets.example.widget.util.Util;
 import org.lw.shared.datamodel.MashupInfo;
 import org.lw.shared.datamodel.Resource;
@@ -23,20 +20,19 @@ import org.slf4j.LoggerFactory;
 
 import com.google.gson.Gson;
 
-public class CollectionRegistry implements ServletContextListener {
+public class CollectionRegistry {
 
     private static final Logger log = LoggerFactory.getLogger(CollectionRegistry.class);
+
+    private Properties properties;
 
     public static Map<String, WidgetInfo> widgets = new HashMap<>();
     public static Map<String, WidgetCollectionInfo> widgetCollections = new HashMap<>();
     public static Map<String, MashupInfo> mashups = new HashMap<>();
 
-    Properties properties;
+    public CollectionRegistry() {
 
-    @Override
-    public void contextInitialized(ServletContextEvent sce) {
-
-        properties = Util.loadProperties("config.properties");
+        properties = Util.getProperties();
 
         UserInfo userInfo = new UserInfo("fajar.juang@gmail.com");
 
@@ -61,7 +57,8 @@ public class CollectionRegistry implements ServletContextListener {
                 new Resource("http://linkedwidgets.org/ontology/resource/CategoryBasic", "Basic"), userInfo,
                 widgetCollections.get("MapWidgetsCollection").getWidgetCollection());
 
-        addMashup("ExampleMashup", "Example RDF Mashup", "An example mashup that merge two turtle files into one RDF data",
+        addMashup("ExampleMashup", "Example RDF Mashup",
+                "An example mashup that merge two turtle files into one RDF data",
                 "{\"mode\":null, \"savedOptions\":[], \"widgetCollection\":\"WidgetCollection5b2b33606618848768a3ce3e36ca2efc_1511873576903\", \"widgets\":[{\"uri\":\"http://linkedwidgets.org/ontology/resource/TurtleLoader\", \"id\":null, \"url\":\"http://localhost:8080/example-widgets/html/server/loader/rdf-loader-2.html\", \"name\":\"Turtle Loader\", \"x\":83, \"y\":116, \"width\":0, \"height\":0, \"minimize\":false},{\"uri\":\"http://linkedwidgets.org/ontology/resource/TurtleLoaderwithParam\", \"id\":null, \"url\":\"http://localhost:8080/example-widgets/html/server/loader/rdf-loader-1.html\", \"name\":\"Turtle Loader with Param\", \"x\":76, \"y\":272, \"width\":0, \"height\":0, \"minimize\":false},{\"uri\":\"http://linkedwidgets.org/ontology/resource/RDFMerge\", \"id\":null, \"url\":\"http://localhost:8080/example-widgets/html/server/merger/rdf-merger.html\", \"name\":\"RDF Merge\", \"x\":361, \"y\":204, \"width\":0, \"height\":0, \"minimize\":false},{\"uri\":\"http://linkedwidgets.org/ontology/resource/JSON Viewer\", \"id\":null, \"url\":\"http://localhost:8080/example-widgets/html/client/JsonViewerWidget/index.html\", \"name\":\"JSON Viewer\", \"x\":644, \"y\":24, \"width\":536, \"height\":621, \"minimize\":false}], \"wires\":[{\"src\":{\"terminal\":\"output\", \"widgetId\":0}, \"tgt\":{\"terminal\":\"input\", \"widgetId\":2}},{\"src\":{\"terminal\":\"output\", \"widgetId\":1}, \"tgt\":{\"terminal\":\"input\", \"widgetId\":2}},{\"src\":{\"terminal\":\"output\", \"widgetId\":2}, \"tgt\":{\"terminal\":\"input\", \"widgetId\":3}}]}",
                 new Resource("http://linkedwidgets.org/ontology/resource/CategoryBasic", "Basic"), userInfo,
                 widgetCollections.get("MapWidgetsCollection").getWidgetCollection());
@@ -108,10 +105,5 @@ public class CollectionRegistry implements ServletContextListener {
         sendPost(serverAddCollectionURL, gson.toJson(mashupInfo));
         log.info(mashupName + "|" + mashupURI);
         mashups.put(mashupName, mashupInfo);
-    }
-
-    @Override
-    public void contextDestroyed(ServletContextEvent sce) {
-        // do nothing
     }
 }

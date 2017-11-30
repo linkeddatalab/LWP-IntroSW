@@ -2,9 +2,6 @@ package org.linkedwidgets.example.widget.client;
 
 import java.util.Properties;
 
-import javax.servlet.ServletContextEvent;
-import javax.servlet.ServletContextListener;
-
 import org.linkedwidgets.example.collection.CollectionRegistry;
 import org.linkedwidgets.example.widget.util.Util;
 import org.lw.shared.datamodel.Resource;
@@ -20,17 +17,16 @@ import com.google.gson.Gson;
  * 
  * @author Ekaputra
  */
-public class ClientWidgetRegistry implements ServletContextListener {
+public class ClientWidgetRegistry {
 
     private static final Logger log = LoggerFactory.getLogger(ClientWidgetRegistry.class);
     private Properties properties;
 
-    @Override
-    public void contextInitialized(ServletContextEvent sce) {
+    public ClientWidgetRegistry() {
 
         log.info("Context initialized");
 
-        this.properties = Util.loadProperties("config.properties");
+        this.properties = Util.getProperties();
 
         initializeWidget("JSON Viewer", "visualization", "JsonViewerWidget/index.html",
                 "A basic JSON viewer for any kind of JSON file", false);
@@ -38,20 +34,10 @@ public class ClientWidgetRegistry implements ServletContextListener {
                 "Map Pointer Widget for data inputs", false);
         initializeWidget("Leaflet Map", "visualization", "LeafletMapWidget/index.html",
                 "Simple Leaflet Map Visualization", false);
-
-        // initializeWidget("Google Map Visualization (Carousel)", "visualization", "GoogleMapWidget/index.html",
-        // "Google Maps input visualization", false);
-        // initializeWidget("Flickr Geo Search", "process", "FlickrGeoSearch/index.html",
-        // "Add Flickr images from area nearby appointed locations. To be used with Google Map visualization widget",
-        // false);
-        // initializeWidget("Geo Merge", "data", "GeoMergeWidget/index.html", "", false);
+        initializeWidget("OwnYourData Widget", "data", "OwnYourDataWidget/index.html",
+                "Example OwnYourData Widget implementation", false);
 
         log.info("Context initialized done");
-    }
-
-    @Override
-    public void contextDestroyed(ServletContextEvent sce) {
-
     }
 
     private void initializeWidget(String name, String widgetType,
@@ -77,7 +63,7 @@ public class ClientWidgetRegistry implements ServletContextListener {
 
         Util.sendPost(properties.getProperty("serverAddWidgetURL"), gson.toJson(widgetInfo));
         CollectionRegistry.widgets.put(widgetId, widgetInfo);
-        log.info("add widget: "+widgetId);
+        log.info("add widget: " + widgetId);
 
         log.info(name + " widget initialization finished");
     }

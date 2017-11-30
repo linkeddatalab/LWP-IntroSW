@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>OwnYourData</title>
+    <script type="text/javascript" src="http://linkedwidgets.org/widgets/WidgetHub.js"></script>
+    <script type="text/javascript" src="http://linkedwidgets.org/autobahn.min.jgz"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var config = {
+            size: {width: 370, height: 180}, // the width, height of our widget (in pixels)
+            terminals: [ // define the position of our terminals
+                {"name": "output", "position" : {"left": 1, "top": 1/2}, "type": "output"}
+            ],
+            resizable: true // decide whether our widget is resizable or not
+        }; 
+        function run(input) { // This is a data widget so we just ignore the input object
+            var dataFeedElements = [];
+            var pia_url    = "";
+            var app_key    = "";
+            var app_secret = "";
+            var repo       = "";
+
+            if (($('#data_vault').val()!="") &
+                ($('#app_key').val()!="") &
+                ($('#app_secret').val()!="") &
+                ($('#repo').val()!="")){
+
+                pia_url = $('#data_vault').val();
+                app_key = $('#app_key').val();
+                app_secret = $('#app_secret').val();
+                repo = $('#repo').val();
+                var xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("POST", pia_url + '/oauth/token', true);
+                xmlhttp.setRequestHeader("Content-Type", "application/json");
+                xmlhttp.send(JSON.stringify({client_id:app_key, client_secret:app_secret, grant_type:"client_credentials"}));
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState == 4) {
+                        var token = JSON.parse(xmlhttp.responseText).access_token;
+                        xmlhttp = new XMLHttpRequest();
+                        xmlhttp.open('GET', pia_url + '/api/repos/' + repo + '/items', true);
+                        xmlhttp.setRequestHeader("Content-Type", "application/json");
+                        xmlhttp.setRequestHeader('Authorization', 'Bearer ' + token);
+                        xmlhttp.setRequestHeader('Accept', '*/*');
+                        xmlhttp.send();
+                        xmlhttp.onreadystatechange = function () {
+                            if (xmlhttp.readyState == 4) {
+                                var repoData = JSON.parse(xmlhttp.responseText);
+                                for (var i = 0; i < repoData.length; i++) {
+                                    dataFeedElements.push(
+                                        {
+                                            "@type": "DataFeedItem",
+                                            "dateCreated": JSON.parse(repoData[i])["created_at"],
+                                            "value": String(JSON.parse(repoData[i])["value"]),
+                                            "valueReference": {
+                                                "@type": "PropertyValue",
+                                                "@id": "CelsiusUnit" }
+                                        }
+                                    )
+                                    
+                                }
+                                var outputObject = {
+                                    "@context": "http://schema.org",
+                                    "@graph": [
+                                        {
+                                            "@type": "DataFeed",
+                                            "@id": "eu.ownyourdata.room.temperature.library",
+                                            "name": "https://chris.datantresor.org",
+                                            "dateCreated": new Date().toISOString(),
+                                            "about": {
+                                                "@type": "Thing",
+                                                "@id": "Sensor-1" },
+                                            "dataFeedElement": dataFeedElements
+                                        },
+                                        {
+                                            "@type": "Thing",
+                                            "@id": "Sensor-1",
+                                            "name": "Output from temperature sensor"
+                                        },
+                                        {
+                                            "@type": "PropertyValue",
+                                            "@id": "CelsiusUnit",
+                                            "unitCode": "http://dbpedia.org/page/Celsius",
+                                            "unitText": "celsius"
+                                        }
+                                    ]
+                                };
+                                hub.returnOutput(outputObject); // return output data
+                            }
+                        }
+                    }
+                }
+            }
+        } 
+        var hub = new WidgetHub(config, run);
+    </script>
+    <style type="text/css">
+        .form {
+            margin: 0 auto;
+            width: 210px;
+        }
+        .form label{
+            display: inline-block;
+            text-align: right;
+            float: left;
+        }
+        .form input{
+            display: inline-block;
+            text-align: left;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <label for="data_vault" style="width: 80px; display: inline-block;">Data Vault: </label>
+    <input type="text" id="data_vault" style="width: 250px;" /><br/>
+    <label for="app_key" style="width: 80px; display: inline-block;">Key: </label>
+    <input type="text" id="app_key" style="width: 250px;" /><br/>
+    <label for="app_secret" style="width: 80px; display: inline-block;">Secret: </label>
+    <input type="text" id="app_secret" style="width: 250px;" /><br/>
+    <label for="repo" style="width: 80px; display: inline-block;">Repo: </label>
+    <input type="text" id="repo" style="width: 250px;" />
+</body>
+</html>
+<!--
+    [
+        {
+            "@type": "DataFeedItem",
+            "dateCreated": "2017-11-19T:04:35:00+01:00",
+            "value": "10",
+            "valueReference": {
+                "@type": "PropertyValue",
+                "@id": "CelsiusUnit" }
+        },
+        {
+            "@type": "DataFeedItem",
+            "dateCreated": "2017-11-19T:04:40:00+01:00",
+            "value": "10.5",
+            "valueReference": {
+                "@type": "PropertyValue",
+                "@id": "CelsiusUnit" }
+        }
+    ]
+-->

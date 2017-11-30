@@ -1,14 +1,13 @@
 package org.linkedwidgets.example.widget.server;
 
-import static org.linkedwidgets.example.widget.util.Util.loadProperties;
+import static org.linkedwidgets.example.widget.util.Util.getProperties;
 import static org.linkedwidgets.example.widget.util.Util.sendPost;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
-
-import javax.servlet.ServletContextEvent;
-import javax.servlet.ServletContextListener;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
 
 import org.linkedwidgets.example.collection.CollectionRegistry;
 import org.linkedwidgets.example.widget.server.rdf.loader.TurtleLoader;
@@ -30,7 +29,7 @@ import com.google.gson.Gson;
  * 
  * @author Ekaputra
  */
-public class ServerWidgetRegistry implements ServletContextListener {
+public class ServerWidgetRegistry {
 
     private static final Logger log = LoggerFactory.getLogger(ServerWidgetRegistry.class);
     private Properties properties;
@@ -39,12 +38,15 @@ public class ServerWidgetRegistry implements ServletContextListener {
     private final String file2 = "data_example_2.ttl";
     private final String halteFile = "Wiener-Linien-Haltestelle.ttl";
 
-    @Override
-    public void contextInitialized(ServletContextEvent sce) {
+    public ServerWidgetRegistry() {
+
         log.info("Context initialized");
 
+        ScheduledExecutorService scheduler = Executors.newSingleThreadScheduledExecutor();
+        scheduler.shutdown();
+
         this.serverWidgets = new ArrayList<>();
-        this.properties = loadProperties("config.properties");
+        this.properties = getProperties();
 
         initializeWidget(new TurtleLoaderWithParam(file2), "Turtle Loader With Param", "data",
                 "loader/rdf-loader-1.html", "Loading RDF data from file: " + file2 + " with parameter prefix",
@@ -63,13 +65,6 @@ public class ServerWidgetRegistry implements ServletContextListener {
                 "point_limit");
 
         log.info("Context initialized done");
-    }
-
-    @Override
-    public void contextDestroyed(ServletContextEvent sce) {
-        for (ServerWidget serverWidget : serverWidgets) {
-            serverWidget.destroy();
-        }
     }
 
     private void initializeWidget(ServerWidgetJob widgetJob, String widgetName, String widgetType,
