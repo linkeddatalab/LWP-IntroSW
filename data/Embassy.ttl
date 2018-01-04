@@ -12,8 +12,8 @@
 	lw:hasId "BOTSCHAFTOGD.1874260" .
 
 _:node1bvvs2ketx1 a wgs:Point ;
-	wgs:lat "16.331305184209516" ;
-	wgs:long "48.2326048962418" .
+	wgs:long "16.331305184209516" ;
+	wgs:lat "48.2326048962418" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874260> wgs:location _:node1bvvs2ketx1 ;
 	rdfs:label "Botschaft des Großherzogtums Luxemburg"@de ;
@@ -29,8 +29,8 @@ _:node1bvvs2ketx1 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874264" .
 
 _:node1bvvs2ketx2 a wgs:Point ;
-	wgs:lat "16.368577482326295" ;
-	wgs:long "48.20218039103535" .
+	wgs:long "16.368577482326295" ;
+	wgs:lat "48.20218039103535" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874264> wgs:location _:node1bvvs2ketx2 ;
 	rdfs:label "Botschaft der Republik Malta"@de ;
@@ -45,8 +45,8 @@ _:node1bvvs2ketx2 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874266" .
 
 _:node1bvvs2ketx3 a wgs:Point ;
-	wgs:lat "16.386074704817364" ;
-	wgs:long "48.19787617380357" .
+	wgs:long "16.386074704817364" ;
+	wgs:lat "48.19787617380357" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874266> wgs:location _:node1bvvs2ketx3 ;
 	rdfs:label "Botschaft des Souveränen Malteser Ritterordens"@de ;
@@ -63,8 +63,8 @@ _:node1bvvs2ketx3 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874267" .
 
 _:node1bvvs2ketx4 a wgs:Point ;
-	wgs:lat "16.335049680027012" ;
-	wgs:long "48.23365520844937" .
+	wgs:long "16.335049680027012" ;
+	wgs:lat "48.23365520844937" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874267> wgs:location _:node1bvvs2ketx4 ;
 	rdfs:label "Botschaft des Königreiches Marokko"@de ;
@@ -80,8 +80,8 @@ _:node1bvvs2ketx4 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874269" .
 
 _:node1bvvs2ketx5 a wgs:Point ;
-	wgs:lat "16.344494349008986" ;
-	wgs:long "48.21563739408397" .
+	wgs:long "16.344494349008986" ;
+	wgs:lat "48.21563739408397" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874269> wgs:location _:node1bvvs2ketx5 ;
 	rdfs:label "Botschaft der Republik Mazedonien"@de ;
@@ -98,8 +98,8 @@ Freitag: kein Parteienverkehr und Telefonauskunft""" ;
 	lw:hasId "BOTSCHAFTOGD.1874270" .
 
 _:node1bvvs2ketx6 a wgs:Point ;
-	wgs:lat "16.366816397508313" ;
-	wgs:long "48.21254821186262" .
+	wgs:long "16.366816397508313" ;
+	wgs:lat "48.21254821186262" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874270> wgs:location _:node1bvvs2ketx6 ;
 	rdfs:label "Botschaft der Vereinigten Mexikanischen Staaten"@de ;
@@ -115,8 +115,8 @@ _:node1bvvs2ketx6 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874271" .
 
 _:node1bvvs2ketx7 a wgs:Point ;
-	wgs:lat "16.394213970873015" ;
-	wgs:long "48.20672766523828" .
+	wgs:long "16.394213970873015" ;
+	wgs:lat "48.20672766523828" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874271> wgs:location _:node1bvvs2ketx7 ;
 	rdfs:label "Botschaft der Republik Moldau"@de ;
@@ -132,8 +132,8 @@ _:node1bvvs2ketx7 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874272" .
 
 _:node1bvvs2ketx8 a wgs:Point ;
-	wgs:lat "16.28906125287613" ;
-	wgs:long "48.173627974286475" .
+	wgs:long "16.28906125287613" ;
+	wgs:lat "48.173627974286475" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874272> wgs:location _:node1bvvs2ketx8 ;
 	rdfs:label "Botschaft der Mongolei"@de ;
@@ -149,8 +149,8 @@ _:node1bvvs2ketx8 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874274" .
 
 _:node1bvvs2ketx9 a wgs:Point ;
-	wgs:lat "16.372803372610043" ;
-	wgs:long "48.20231806252559" .
+	wgs:long "16.372803372610043" ;
+	wgs:lat "48.20231806252559" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874274> wgs:location _:node1bvvs2ketx9 ;
 	rdfs:label "Botschaft von Montenegro"@de ;
@@ -165,8 +165,8 @@ _:node1bvvs2ketx9 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874275" .
 
 _:node1bvvs2ketx10 a wgs:Point ;
-	wgs:lat "16.41426804174577" ;
-	wgs:long "48.23285232059177" .
+	wgs:long "16.41426804174577" ;
+	wgs:lat "48.23285232059177" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874275> wgs:location _:node1bvvs2ketx10 ;
 	rdfs:label "Botschaft der Union Myanmar"@de ;
@@ -181,8 +181,8 @@ _:node1bvvs2ketx10 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874277" .
 
 _:node1bvvs2ketx11 a wgs:Point ;
-	wgs:lat "16.31247928924193" ;
-	wgs:long "48.24418509977205" .
+	wgs:long "16.31247928924193" ;
+	wgs:lat "48.24418509977205" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874277> wgs:location _:node1bvvs2ketx11 ;
 	rdfs:label "Botschaft der Republik Namibia"@de ;
@@ -199,8 +199,8 @@ Fr 09:00-15:00""" ;
 	lw:hasId "BOTSCHAFTOGD.1874279" .
 
 _:node1bvvs2ketx12 a wgs:Point ;
-	wgs:lat "16.372760497325725" ;
-	wgs:long "48.19841889907695" .
+	wgs:long "16.372760497325725" ;
+	wgs:lat "48.19841889907695" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874279> wgs:location _:node1bvvs2ketx12 ;
 	rdfs:label "Botschaft von Neuseeland"@de ;
@@ -216,8 +216,8 @@ _:node1bvvs2ketx12 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874280" .
 
 _:node1bvvs2ketx13 a wgs:Point ;
-	wgs:lat "16.358191948200112" ;
-	wgs:long "48.213159303594985" .
+	wgs:long "16.358191948200112" ;
+	wgs:lat "48.213159303594985" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874280> wgs:location _:node1bvvs2ketx13 ;
 	rdfs:label "Botschaft der Republik Nicaragua"@de ;
@@ -232,8 +232,8 @@ _:node1bvvs2ketx13 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874281" .
 
 _:node1bvvs2ketx14 a wgs:Point ;
-	wgs:lat "16.368577482326295" ;
-	wgs:long "48.20218039103535" .
+	wgs:long "16.368577482326295" ;
+	wgs:lat "48.20218039103535" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874281> wgs:location _:node1bvvs2ketx14 ;
 	rdfs:label "Botschaft des Königreichs der Niederlande"@de ;
@@ -249,8 +249,8 @@ _:node1bvvs2ketx14 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874283" .
 
 _:node1bvvs2ketx15 a wgs:Point ;
-	wgs:lat "16.38194605419209" ;
-	wgs:long "48.19644815804398" .
+	wgs:long "16.38194605419209" ;
+	wgs:lat "48.19644815804398" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874283> wgs:location _:node1bvvs2ketx15 ;
 	rdfs:label "Botschaft der Bundesrepublik Nigeria"@de ;
@@ -266,8 +266,8 @@ _:node1bvvs2ketx15 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874284" .
 
 _:node1bvvs2ketx16 a wgs:Point ;
-	wgs:lat "16.383866638959937" ;
-	wgs:long "48.19631328674199" .
+	wgs:long "16.383866638959937" ;
+	wgs:lat "48.19631328674199" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874284> wgs:location _:node1bvvs2ketx16 ;
 	rdfs:label "Botschaft des Königreiches Norwegen"@de ;
@@ -284,8 +284,8 @@ Mo - Fr 08:30-16:00 (Öffnungszeiten)""" ;
 	lw:hasId "BOTSCHAFTOGD.1874286" .
 
 _:node1bvvs2ketx17 a wgs:Point ;
-	wgs:lat "16.361725634026936" ;
-	wgs:long "48.21495891106278" .
+	wgs:long "16.361725634026936" ;
+	wgs:lat "48.21495891106278" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874286> wgs:location _:node1bvvs2ketx17 ;
 	rdfs:label "Botschaft des Sultanats Oman"@de ;
@@ -300,8 +300,8 @@ _:node1bvvs2ketx17 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874287" .
 
 _:node1bvvs2ketx18 a wgs:Point ;
-	wgs:lat "16.35177597464546" ;
-	wgs:long "48.242900963427644" .
+	wgs:long "16.35177597464546" ;
+	wgs:lat "48.242900963427644" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874287> wgs:location _:node1bvvs2ketx18 ;
 	rdfs:label "Botschaft der Islamischen Republik Pakistan"@de ;
@@ -315,8 +315,8 @@ _:node1bvvs2ketx18 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874288" .
 
 _:node1bvvs2ketx19 a wgs:Point ;
-	wgs:lat "16.35353665109505" ;
-	wgs:long "48.20830208368318" .
+	wgs:long "16.35353665109505" ;
+	wgs:lat "48.20830208368318" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874288> wgs:location _:node1bvvs2ketx19 ;
 	rdfs:label "Vertretung von Palästina"@de ;
@@ -331,8 +331,8 @@ _:node1bvvs2ketx19 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874289" .
 
 _:node1bvvs2ketx20 a wgs:Point ;
-	wgs:lat "16.37047176789602" ;
-	wgs:long "48.20920450316605" .
+	wgs:long "16.37047176789602" ;
+	wgs:lat "48.20920450316605" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874289> wgs:location _:node1bvvs2ketx20 ;
 	rdfs:label "Botschaft der Republik Panama"@de ;
@@ -347,8 +347,8 @@ _:node1bvvs2ketx20 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874290" .
 
 _:node1bvvs2ketx21 a wgs:Point ;
-	wgs:lat "16.376267559225994" ;
-	wgs:long "48.19554880669337" .
+	wgs:long "16.376267559225994" ;
+	wgs:lat "48.19554880669337" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874290> wgs:location _:node1bvvs2ketx21 ;
 	rdfs:label "Botschaft der Republik Paraguay"@de ;
@@ -363,8 +363,8 @@ _:node1bvvs2ketx21 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874291" .
 
 _:node1bvvs2ketx22 a wgs:Point ;
-	wgs:lat "16.37156833174516" ;
-	wgs:long "48.202799136493695" .
+	wgs:long "16.37156833174516" ;
+	wgs:lat "48.202799136493695" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874291> wgs:location _:node1bvvs2ketx22 ;
 	rdfs:label "Botschaft der Republik Peru"@de ;
@@ -379,8 +379,8 @@ _:node1bvvs2ketx22 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874292" .
 
 _:node1bvvs2ketx23 a wgs:Point ;
-	wgs:lat "16.411658804612244" ;
-	wgs:long "48.23368197428556" .
+	wgs:long "16.411658804612244" ;
+	wgs:lat "48.23368197428556" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874292> wgs:location _:node1bvvs2ketx23 ;
 	rdfs:label "Botschaft der Republik der Philippinen"@de ;
@@ -396,8 +396,8 @@ _:node1bvvs2ketx23 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874295" .
 
 _:node1bvvs2ketx24 a wgs:Point ;
-	wgs:lat "16.29149185351465" ;
-	wgs:long "48.1871790285336" .
+	wgs:long "16.29149185351465" ;
+	wgs:lat "48.1871790285336" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874295> wgs:location _:node1bvvs2ketx24 ;
 	rdfs:label "Botschaft der Republik Polen"@de ;
@@ -413,8 +413,8 @@ _:node1bvvs2ketx24 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874296" .
 
 _:node1bvvs2ketx25 a wgs:Point ;
-	wgs:lat "16.368577482326295" ;
-	wgs:long "48.20218039103535" .
+	wgs:long "16.368577482326295" ;
+	wgs:lat "48.20218039103535" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874296> wgs:location _:node1bvvs2ketx25 ;
 	rdfs:label "Botschaft der Portugiesischen Republik"@de ;
@@ -429,8 +429,8 @@ _:node1bvvs2ketx25 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874297" .
 
 _:node1bvvs2ketx26 a wgs:Point ;
-	wgs:lat "16.379601521507563" ;
-	wgs:long "48.19076671659302" .
+	wgs:long "16.379601521507563" ;
+	wgs:lat "48.19076671659302" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874297> wgs:location _:node1bvvs2ketx26 ;
 	rdfs:label "Botschaft von Rumänien"@de ;
@@ -446,8 +446,8 @@ _:node1bvvs2ketx26 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874298" .
 
 _:node1bvvs2ketx27 a wgs:Point ;
-	wgs:lat "16.38410217210699" ;
-	wgs:long "48.19746584634444" .
+	wgs:long "16.38410217210699" ;
+	wgs:lat "48.19746584634444" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874298> wgs:location _:node1bvvs2ketx27 ;
 	rdfs:label "Botschaft der Russischen Föderation"@de ;
@@ -463,8 +463,8 @@ _:node1bvvs2ketx27 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874413" .
 
 _:node1bvvs2ketx28 a wgs:Point ;
-	wgs:lat "16.37469295636427" ;
-	wgs:long "48.18818472301298" .
+	wgs:long "16.37469295636427" ;
+	wgs:lat "48.18818472301298" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874413> wgs:location _:node1bvvs2ketx28 ;
 	rdfs:label "Botschaft der Demokratischen Sozialistischen Republik Sri Lanka"@de ;
@@ -481,8 +481,8 @@ Auskunft (+43 / 1) 503 79 88-13""" ;
 	lw:hasId "BOTSCHAFTOGD.1874415" .
 
 _:node1bvvs2ketx29 a wgs:Point ;
-	wgs:lat "16.34865807124501" ;
-	wgs:long "48.25481650310376" .
+	wgs:long "16.34865807124501" ;
+	wgs:lat "48.25481650310376" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874415> wgs:location _:node1bvvs2ketx29 ;
 	rdfs:label "Botschaft der Republik Südafrika"@de ;
@@ -499,8 +499,8 @@ und 13.30 - 16.30""" ;
 	lw:hasId "BOTSCHAFTOGD.1874416" .
 
 _:node1bvvs2ketx30 a wgs:Point ;
-	wgs:lat "16.383943177117487" ;
-	wgs:long "48.20006638410542" .
+	wgs:long "16.383943177117487" ;
+	wgs:lat "48.20006638410542" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874416> wgs:location _:node1bvvs2ketx30 ;
 	rdfs:label "Botschaft der Republik Sudan"@de ;
@@ -516,8 +516,8 @@ _:node1bvvs2ketx30 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874418" .
 
 _:node1bvvs2ketx31 a wgs:Point ;
-	wgs:lat "16.377361872736294" ;
-	wgs:long "48.199316926732145" .
+	wgs:long "16.377361872736294" ;
+	wgs:lat "48.199316926732145" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874418> wgs:location _:node1bvvs2ketx31 ;
 	rdfs:label "Botschaft der Arabischen Republik Syrien"@de ;
@@ -532,8 +532,8 @@ _:node1bvvs2ketx31 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874419" .
 
 _:node1bvvs2ketx32 a wgs:Point ;
-	wgs:lat "16.333747875761787" ;
-	wgs:long "48.2423621586" .
+	wgs:long "16.333747875761787" ;
+	wgs:lat "48.2423621586" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874419> wgs:location _:node1bvvs2ketx32 ;
 	rdfs:label "Botschaft der Republik Tadschikistan"@de ;
@@ -549,8 +549,8 @@ _:node1bvvs2ketx32 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874420" .
 
 _:node1bvvs2ketx33 a wgs:Point ;
-	wgs:lat "16.341965433915394" ;
-	wgs:long "48.232560775632756" .
+	wgs:long "16.341965433915394" ;
+	wgs:lat "48.232560775632756" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874420> wgs:location _:node1bvvs2ketx33 ;
 	rdfs:label "Botschaft des Königreiches Thailand"@de ;
@@ -565,8 +565,8 @@ _:node1bvvs2ketx33 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874422" .
 
 _:node1bvvs2ketx34 a wgs:Point ;
-	wgs:lat "16.312564862276215" ;
-	wgs:long "48.18958447355275" .
+	wgs:long "16.312564862276215" ;
+	wgs:lat "48.18958447355275" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874422> wgs:location _:node1bvvs2ketx34 ;
 	rdfs:label "Botschaft der Tschechischen Republik"@de ;
@@ -582,8 +582,8 @@ _:node1bvvs2ketx34 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874423" .
 
 _:node1bvvs2ketx35 a wgs:Point ;
-	wgs:lat "16.319723865541935" ;
-	wgs:long "48.251889139110084" .
+	wgs:long "16.319723865541935" ;
+	wgs:lat "48.251889139110084" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874423> wgs:location _:node1bvvs2ketx35 ;
 	rdfs:label "Botschaft der Republik Tunesien"@de ;
@@ -600,8 +600,8 @@ Mo - Fr 09.00 - 15.00 (Juli und August)""" ;
 	lw:hasId "BOTSCHAFTOGD.1874425" .
 
 _:node1bvvs2ketx36 a wgs:Point ;
-	wgs:lat "16.37813201241753" ;
-	wgs:long "48.193087150459725" .
+	wgs:long "16.37813201241753" ;
+	wgs:lat "48.193087150459725" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874425> wgs:location _:node1bvvs2ketx36 ;
 	rdfs:label "Botschaft der Republik Türkei"@de ;
@@ -615,8 +615,8 @@ _:node1bvvs2ketx36 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874427" .
 
 _:node1bvvs2ketx37 a wgs:Point ;
-	wgs:lat "16.372042468555033" ;
-	wgs:long "48.19577125982487" .
+	wgs:long "16.372042468555033" ;
+	wgs:lat "48.19577125982487" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874427> wgs:location _:node1bvvs2ketx37 ;
 	rdfs:label "Botschaft von Turkmenistan"@de ;
@@ -631,8 +631,8 @@ _:node1bvvs2ketx37 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874301" .
 
 _:node1bvvs2ketx38 a wgs:Point ;
-	wgs:lat "16.37612300946358" ;
-	wgs:long "48.19578429906159" .
+	wgs:long "16.37612300946358" ;
+	wgs:lat "48.19578429906159" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874301> wgs:location _:node1bvvs2ketx38 ;
 	rdfs:label "Botschaft der Republik San Marino"@de ;
@@ -647,8 +647,8 @@ _:node1bvvs2ketx38 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874304" .
 
 _:node1bvvs2ketx39 a wgs:Point ;
-	wgs:lat "16.351730235780604" ;
-	wgs:long "48.249188507851706" .
+	wgs:long "16.351730235780604" ;
+	wgs:lat "48.249188507851706" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874304> wgs:location _:node1bvvs2ketx39 ;
 	rdfs:label "Botschaft des Königreichs Saudi-Arabien"@de ;
@@ -663,8 +663,8 @@ _:node1bvvs2ketx39 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874305" .
 
 _:node1bvvs2ketx40 a wgs:Point ;
-	wgs:lat "16.35812685750353" ;
-	wgs:long "48.222630464497904" .
+	wgs:long "16.35812685750353" ;
+	wgs:lat "48.222630464497904" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874305> wgs:location _:node1bvvs2ketx40 ;
 	rdfs:label "Botschaft von Schweden"@de ;
@@ -682,8 +682,8 @@ Telefonzentrale geshlossen Mo 13:30-14:30 und Fr 10:00-11:00, Weitere Info siehe
 	lw:hasId "BOTSCHAFTOGD.1874306" .
 
 _:node1bvvs2ketx41 a wgs:Point ;
-	wgs:lat "16.376154650614517" ;
-	wgs:long "48.19634114673932" .
+	wgs:long "16.376154650614517" ;
+	wgs:lat "48.19634114673932" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874306> wgs:location _:node1bvvs2ketx41 ;
 	rdfs:label "Schweizerische Botschaft"@de ;
@@ -698,8 +698,8 @@ _:node1bvvs2ketx41 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874308" .
 
 _:node1bvvs2ketx42 a wgs:Point ;
-	wgs:lat "16.37950743842539" ;
-	wgs:long "48.2003883938298" .
+	wgs:long "16.37950743842539" ;
+	wgs:lat "48.2003883938298" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874308> wgs:location _:node1bvvs2ketx42 ;
 	rdfs:label "Botschaft der Republik Serbien"@de ;
@@ -715,8 +715,8 @@ _:node1bvvs2ketx42 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874313" .
 
 _:node1bvvs2ketx43 a wgs:Point ;
-	wgs:lat "16.257581874217934" ;
-	wgs:long "48.203123720908124" .
+	wgs:long "16.257581874217934" ;
+	wgs:lat "48.203123720908124" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874313> wgs:location _:node1bvvs2ketx43 ;
 	rdfs:label "Botschaft der Republik Belarus"@de ;
@@ -732,8 +732,8 @@ _:node1bvvs2ketx43 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874314" .
 
 _:node1bvvs2ketx44 a wgs:Point ;
-	wgs:lat "16.36698174813674" ;
-	wgs:long "48.1895019531792" .
+	wgs:long "16.36698174813674" ;
+	wgs:lat "48.1895019531792" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874314> wgs:location _:node1bvvs2ketx44 ;
 	rdfs:label "Botschaft des Königreichs Belgien"@de ;
@@ -750,8 +750,8 @@ bis 27. März 2017 wegen Umzug geschlossen.""" ;
 	lw:hasId "BOTSCHAFTOGD.1874316" .
 
 _:node1bvvs2ketx45 a wgs:Point ;
-	wgs:lat "16.36494996324577" ;
-	wgs:long "48.1952918555979" .
+	wgs:long "16.36494996324577" ;
+	wgs:lat "48.1952918555979" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874316> wgs:location _:node1bvvs2ketx45 ;
 	rdfs:label "Botschaft des Plurinationalen Staates Bolivien"@de ;
@@ -766,8 +766,8 @@ _:node1bvvs2ketx45 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874317" .
 
 _:node1bvvs2ketx46 a wgs:Point ;
-	wgs:lat "16.320952166393813" ;
-	wgs:long "48.18067117855805" .
+	wgs:long "16.320952166393813" ;
+	wgs:lat "48.18067117855805" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874317> wgs:location _:node1bvvs2ketx46 ;
 	rdfs:label "Botschaft von Bosnien und Herzegowina"@de ;
@@ -783,8 +783,8 @@ _:node1bvvs2ketx46 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874320" .
 
 _:node1bvvs2ketx47 a wgs:Point ;
-	wgs:lat "16.375597548319174" ;
-	wgs:long "48.20129901662122" .
+	wgs:long "16.375597548319174" ;
+	wgs:lat "48.20129901662122" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874320> wgs:location _:node1bvvs2ketx47 ;
 	rdfs:label "Botschaft der Föderativen Republik Brasilien"@de ;
@@ -800,8 +800,8 @@ _:node1bvvs2ketx47 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874321" .
 
 _:node1bvvs2ketx48 a wgs:Point ;
-	wgs:lat "16.373737529897692" ;
-	wgs:long "48.19753949831853" .
+	wgs:long "16.373737529897692" ;
+	wgs:lat "48.19753949831853" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874321> wgs:location _:node1bvvs2ketx48 ;
 	rdfs:label "Botschaft der Republik Bulgarien"@de ;
@@ -816,8 +816,8 @@ _:node1bvvs2ketx48 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874322" .
 
 _:node1bvvs2ketx49 a wgs:Point ;
-	wgs:lat "16.38318962282758" ;
-	wgs:long "48.198497293742186" .
+	wgs:long "16.38318962282758" ;
+	wgs:lat "48.198497293742186" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874322> wgs:location _:node1bvvs2ketx49 ;
 	rdfs:label "Botschaft von Burkina Faso"@de ;
@@ -833,8 +833,8 @@ _:node1bvvs2ketx49 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874326" .
 
 _:node1bvvs2ketx50 a wgs:Point ;
-	wgs:lat "16.374801553082982" ;
-	wgs:long "48.21002914846951" .
+	wgs:long "16.374801553082982" ;
+	wgs:lat "48.21002914846951" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874326> wgs:location _:node1bvvs2ketx50 ;
 	rdfs:label "Botschaft der Republik Chile"@de ;
@@ -848,8 +848,8 @@ _:node1bvvs2ketx50 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874327" .
 
 _:node1bvvs2ketx51 a wgs:Point ;
-	wgs:lat "16.382373766636533" ;
-	wgs:long "48.19774822258782" .
+	wgs:long "16.382373766636533" ;
+	wgs:lat "48.19774822258782" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874327> wgs:location _:node1bvvs2ketx51 ;
 	rdfs:label "Botschaft der Volksrepublik China"@de ;
@@ -864,8 +864,8 @@ _:node1bvvs2ketx51 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874328" .
 
 _:node1bvvs2ketx52 a wgs:Point ;
-	wgs:lat "16.37468693604675" ;
-	wgs:long "48.21738676799477" .
+	wgs:long "16.37468693604675" ;
+	wgs:lat "48.21738676799477" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874328> wgs:location _:node1bvvs2ketx52 ;
 	rdfs:label "Botschaft der Republik Costa Rica"@de ;
@@ -880,8 +880,8 @@ _:node1bvvs2ketx52 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874329" .
 
 _:node1bvvs2ketx53 a wgs:Point ;
-	wgs:lat "16.384708177600277" ;
-	wgs:long "48.19904191830887" .
+	wgs:long "16.384708177600277" ;
+	wgs:lat "48.19904191830887" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874329> wgs:location _:node1bvvs2ketx53 ;
 	rdfs:label "Botschaft der Republik Côte d'Ivoire"@de ;
@@ -897,8 +897,8 @@ _:node1bvvs2ketx53 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874338" .
 
 _:node1bvvs2ketx54 a wgs:Point ;
-	wgs:lat "16.369949702145657" ;
-	wgs:long "48.20488370559667" .
+	wgs:long "16.369949702145657" ;
+	wgs:lat "48.20488370559667" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874338> wgs:location _:node1bvvs2ketx54 ;
 	rdfs:label "Botschaft & Ständige Vertretung Dänemarks"@de ;
@@ -915,8 +915,8 @@ Konsularangelegenheiten: Nach Vereinbarung""" ;
 	lw:hasId "BOTSCHAFTOGD.1874340" .
 
 _:node1bvvs2ketx55 a wgs:Point ;
-	wgs:lat "16.364195316722654" ;
-	wgs:long "48.20159366267023" .
+	wgs:long "16.364195316722654" ;
+	wgs:lat "48.20159366267023" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874340> wgs:location _:node1bvvs2ketx55 ;
 	rdfs:label "Botschaft der Bundesrepublik Deutschland"@de ;
@@ -933,8 +933,8 @@ Postanschrift: Postfach 60, A-1037 Wien""" ;
 	lw:hasId "BOTSCHAFTOGD.1874341" .
 
 _:node1bvvs2ketx56 a wgs:Point ;
-	wgs:lat "16.376267559225994" ;
-	wgs:long "48.19554880669337" .
+	wgs:long "16.376267559225994" ;
+	wgs:lat "48.19554880669337" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874341> wgs:location _:node1bvvs2ketx56 ;
 	rdfs:label "Botschaft der Dominikanischen Republik"@de ;
@@ -948,8 +948,8 @@ _:node1bvvs2ketx56 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874344" .
 
 _:node1bvvs2ketx57 a wgs:Point ;
-	wgs:lat "16.380322537370695" ;
-	wgs:long "48.18948463960347" .
+	wgs:long "16.380322537370695" ;
+	wgs:lat "48.18948463960347" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874344> wgs:location _:node1bvvs2ketx57 ;
 	rdfs:label "Botschaft der Republik El Salvador"@de ;
@@ -964,8 +964,8 @@ _:node1bvvs2ketx57 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874347" .
 
 _:node1bvvs2ketx58 a wgs:Point ;
-	wgs:lat "16.374104995260737" ;
-	wgs:long "48.19640668439118" .
+	wgs:long "16.374104995260737" ;
+	wgs:lat "48.19640668439118" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874347> wgs:location _:node1bvvs2ketx58 ;
 	rdfs:label "Botschaft der Republik Estland"@de ;
@@ -981,8 +981,8 @@ _:node1bvvs2ketx58 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874349" .
 
 _:node1bvvs2ketx59 a wgs:Point ;
-	wgs:lat "16.37023374689524" ;
-	wgs:long "48.21566104106008" .
+	wgs:long "16.37023374689524" ;
+	wgs:lat "48.21566104106008" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874349> wgs:location _:node1bvvs2ketx59 ;
 	rdfs:label "Botschaft der Republik Finnland"@de ;
@@ -998,8 +998,8 @@ _:node1bvvs2ketx59 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874351" .
 
 _:node1bvvs2ketx60 a wgs:Point ;
-	wgs:lat "16.374451477634175" ;
-	wgs:long "48.198536427319446" .
+	wgs:long "16.374451477634175" ;
+	wgs:lat "48.198536427319446" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874351> wgs:location _:node1bvvs2ketx60 ;
 	rdfs:label "Botschaft der Französischen Republik"@de ;
@@ -1014,8 +1014,8 @@ _:node1bvvs2ketx60 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874352" .
 
 _:node1bvvs2ketx61 a wgs:Point ;
-	wgs:lat "16.35623315831393" ;
-	wgs:long "48.2082431863085" .
+	wgs:long "16.35623315831393" ;
+	wgs:lat "48.2082431863085" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874352> wgs:location _:node1bvvs2ketx61 ;
 	rdfs:label "Botschaft von Georgien"@de ;
@@ -1029,8 +1029,8 @@ _:node1bvvs2ketx61 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874354" .
 
 _:node1bvvs2ketx62 a wgs:Point ;
-	wgs:lat "16.371940697553814" ;
-	wgs:long "48.19681153460324" .
+	wgs:long "16.371940697553814" ;
+	wgs:lat "48.19681153460324" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874354> wgs:location _:node1bvvs2ketx62 ;
 	rdfs:label "Botschaft der Hellenischen Republik"@de ;
@@ -1046,8 +1046,8 @@ _:node1bvvs2ketx62 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874355" .
 
 _:node1bvvs2ketx63 a wgs:Point ;
-	wgs:lat "16.376267559225994" ;
-	wgs:long "48.19554880669337" .
+	wgs:long "16.376267559225994" ;
+	wgs:lat "48.19554880669337" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874355> wgs:location _:node1bvvs2ketx63 ;
 	rdfs:label "Botschaft der Republik Guatemala"@de ;
@@ -1062,8 +1062,8 @@ _:node1bvvs2ketx63 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874359" .
 
 _:node1bvvs2ketx64 a wgs:Point ;
-	wgs:lat "16.372758102789245" ;
-	wgs:long "48.191300243957066" .
+	wgs:long "16.372758102789245" ;
+	wgs:lat "48.191300243957066" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874359> wgs:location _:node1bvvs2ketx64 ;
 	rdfs:label "Apostolische Nuntiatur in Österreich"@de ;
@@ -1080,8 +1080,8 @@ Voranmeldung erforderlich.""" ;
 	lw:hasId "BOTSCHAFTOGD.1874361" .
 
 _:node1bvvs2ketx65 a wgs:Point ;
-	wgs:lat "16.36982294001393" ;
-	wgs:long "48.20197264904248" .
+	wgs:long "16.36982294001393" ;
+	wgs:lat "48.20197264904248" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874361> wgs:location _:node1bvvs2ketx65 ;
 	rdfs:label "Botschaft der Republik Indien"@de ;
@@ -1096,8 +1096,8 @@ _:node1bvvs2ketx65 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874362" .
 
 _:node1bvvs2ketx66 a wgs:Point ;
-	wgs:lat "16.339000954822133" ;
-	wgs:long "48.23226807331474" .
+	wgs:long "16.339000954822133" ;
+	wgs:lat "48.23226807331474" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874362> wgs:location _:node1bvvs2ketx66 ;
 	rdfs:label "Botschaft der Republik Indonesien"@de ;
@@ -1113,8 +1113,8 @@ _:node1bvvs2ketx66 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874363" .
 
 _:node1bvvs2ketx67 a wgs:Point ;
-	wgs:lat "16.377831588749572" ;
-	wgs:long "48.20258946824206" .
+	wgs:long "16.377831588749572" ;
+	wgs:lat "48.20258946824206" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874363> wgs:location _:node1bvvs2ketx67 ;
 	rdfs:label "Botschaft der Republik Irak"@de ;
@@ -1129,8 +1129,8 @@ _:node1bvvs2ketx67 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874364" .
 
 _:node1bvvs2ketx68 a wgs:Point ;
-	wgs:lat "16.38407980038591" ;
-	wgs:long "48.19713292763715" .
+	wgs:long "16.38407980038591" ;
+	wgs:lat "48.19713292763715" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874364> wgs:location _:node1bvvs2ketx68 ;
 	rdfs:label "Botschaft der Islamischen Republik Iran"@de ;
@@ -1146,8 +1146,8 @@ _:node1bvvs2ketx68 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874365" .
 
 _:node1bvvs2ketx69 a wgs:Point ;
-	wgs:lat "16.375613715989722" ;
-	wgs:long "48.21076442354201" .
+	wgs:long "16.375613715989722" ;
+	wgs:lat "48.21076442354201" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874365> wgs:location _:node1bvvs2ketx69 ;
 	rdfs:label "Botschaft von Irland"@de ;
@@ -1162,8 +1162,8 @@ _:node1bvvs2ketx69 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874366" .
 
 _:node1bvvs2ketx70 a wgs:Point ;
-	wgs:lat "16.368472875530376" ;
-	wgs:long "48.20973001586464" .
+	wgs:long "16.368472875530376" ;
+	wgs:lat "48.20973001586464" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874366> wgs:location _:node1bvvs2ketx70 ;
 	rdfs:label "Botschaft der Republik Island"@de ;
@@ -1179,8 +1179,8 @@ _:node1bvvs2ketx70 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874368" .
 
 _:node1bvvs2ketx71 a wgs:Point ;
-	wgs:lat "16.34132281729179" ;
-	wgs:long "48.229938766750344" .
+	wgs:long "16.34132281729179" ;
+	wgs:lat "48.229938766750344" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874368> wgs:location _:node1bvvs2ketx71 ;
 	rdfs:label "Botschaft des Staates Israel"@de ;
@@ -1196,8 +1196,8 @@ _:node1bvvs2ketx71 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874369" .
 
 _:node1bvvs2ketx72 a wgs:Point ;
-	wgs:lat "16.3827455327166" ;
-	wgs:long "48.19607902513992" .
+	wgs:long "16.3827455327166" ;
+	wgs:lat "48.19607902513992" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874369> wgs:location _:node1bvvs2ketx72 ;
 	rdfs:label "Botschaft der Italienischen Republik"@de ;
@@ -1212,8 +1212,8 @@ _:node1bvvs2ketx72 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874372" .
 
 _:node1bvvs2ketx73 a wgs:Point ;
-	wgs:lat "16.31182539738787" ;
-	wgs:long "48.23410915248872" .
+	wgs:long "16.31182539738787" ;
+	wgs:lat "48.23410915248872" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874372> wgs:location _:node1bvvs2ketx73 ;
 	rdfs:label "Botschaft der Ukraine"@de ;
@@ -1229,8 +1229,8 @@ _:node1bvvs2ketx73 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874373" .
 
 _:node1bvvs2ketx74 a wgs:Point ;
-	wgs:lat "16.363146978099856" ;
-	wgs:long "48.21031478162389" .
+	wgs:long "16.363146978099856" ;
+	wgs:lat "48.21031478162389" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874373> wgs:location _:node1bvvs2ketx74 ;
 	rdfs:label "Botschaft von Ungarn"@de ;
@@ -1246,8 +1246,8 @@ Fr  08:00-14:00""" ;
 	lw:hasId "BOTSCHAFTOGD.1874375" .
 
 _:node1bvvs2ketx75 a wgs:Point ;
-	wgs:lat "16.37260686676521" ;
-	wgs:long "48.20256336936279" .
+	wgs:long "16.37260686676521" ;
+	wgs:lat "48.20256336936279" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874375> wgs:location _:node1bvvs2ketx75 ;
 	rdfs:label "Botschaft der Republik Östlich des Uruguay"@de ;
@@ -1262,8 +1262,8 @@ _:node1bvvs2ketx75 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874376" .
 
 _:node1bvvs2ketx76 a wgs:Point ;
-	wgs:lat "16.312386071791803" ;
-	wgs:long "48.24020247573412" .
+	wgs:long "16.312386071791803" ;
+	wgs:lat "48.24020247573412" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874376> wgs:location _:node1bvvs2ketx76 ;
 	rdfs:label "Botschaft der Republik Usbekistan"@de ;
@@ -1278,8 +1278,8 @@ _:node1bvvs2ketx76 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874377" .
 
 _:node1bvvs2ketx77 a wgs:Point ;
-	wgs:lat "16.380322537370695" ;
-	wgs:long "48.18948463960347" .
+	wgs:long "16.380322537370695" ;
+	wgs:lat "48.18948463960347" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874377> wgs:location _:node1bvvs2ketx77 ;
 	rdfs:label "Botschaft der Bolivarischen Republik Venezuela"@de ;
@@ -1295,8 +1295,8 @@ _:node1bvvs2ketx77 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874378" .
 
 _:node1bvvs2ketx78 a wgs:Point ;
-	wgs:lat "16.341095893941805" ;
-	wgs:long "48.23965909712372" .
+	wgs:long "16.341095893941805" ;
+	wgs:lat "48.23965909712372" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874378> wgs:location _:node1bvvs2ketx78 ;
 	rdfs:label "Botschaft der Vereinigten Arabischen Emirate"@de ;
@@ -1311,8 +1311,8 @@ _:node1bvvs2ketx78 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874379" .
 
 _:node1bvvs2ketx79 a wgs:Point ;
-	wgs:lat "16.35663875956014" ;
-	wgs:long "48.22289109240585" .
+	wgs:long "16.35663875956014" ;
+	wgs:lat "48.22289109240585" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874379> wgs:location _:node1bvvs2ketx79 ;
 	rdfs:label "Botschaft der Vereinigten Staaten von Amerika"@de ;
@@ -1328,8 +1328,8 @@ _:node1bvvs2ketx79 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874380" .
 
 _:node1bvvs2ketx80 a wgs:Point ;
-	wgs:lat "16.381357214227684" ;
-	wgs:long "48.197429009577355" .
+	wgs:long "16.381357214227684" ;
+	wgs:lat "48.197429009577355" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874380> wgs:location _:node1bvvs2ketx80 ;
 	rdfs:label "Botschaft des Vereinigten Königreichs Großbritannien und Nordirland"@de ;
@@ -1345,8 +1345,8 @@ _:node1bvvs2ketx80 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874381" .
 
 _:node1bvvs2ketx81 a wgs:Point ;
-	wgs:lat "16.34369896857663" ;
-	wgs:long "48.234759855121055" .
+	wgs:long "16.34369896857663" ;
+	wgs:lat "48.234759855121055" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874381> wgs:location _:node1bvvs2ketx81 ;
 	rdfs:label "Botschaft der Sozialistischen Republik Vietnam"@de ;
@@ -1360,8 +1360,8 @@ _:node1bvvs2ketx81 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874382" .
 
 _:node1bvvs2ketx82 a wgs:Point ;
-	wgs:lat "16.383289646018138" ;
-	wgs:long "48.19901903769097" .
+	wgs:long "16.383289646018138" ;
+	wgs:lat "48.19901903769097" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874382> wgs:location _:node1bvvs2ketx82 ;
 	rdfs:label "Botschaft der Republik Zypern"@de ;
@@ -1376,8 +1376,8 @@ _:node1bvvs2ketx82 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874410" .
 
 _:node1bvvs2ketx83 a wgs:Point ;
-	wgs:lat "16.357688932945628" ;
-	wgs:long "48.25679606889835" .
+	wgs:long "16.357688932945628" ;
+	wgs:lat "48.25679606889835" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874410> wgs:location _:node1bvvs2ketx83 ;
 	rdfs:label "Botschaft der Slowakischen Republik"@de ;
@@ -1393,8 +1393,8 @@ _:node1bvvs2ketx83 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874411" .
 
 _:node1bvvs2ketx84 a wgs:Point ;
-	wgs:lat "16.363548779428154" ;
-	wgs:long "48.215913293884086" .
+	wgs:long "16.363548779428154" ;
+	wgs:lat "48.215913293884086" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874411> wgs:location _:node1bvvs2ketx84 ;
 	rdfs:label "Botschaft der Republik Slowenien"@de ;
@@ -1410,8 +1410,8 @@ _:node1bvvs2ketx84 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874412" .
 
 _:node1bvvs2ketx85 a wgs:Point ;
-	wgs:lat "16.374564213392635" ;
-	wgs:long "48.19172835910015" .
+	wgs:long "16.374564213392635" ;
+	wgs:lat "48.19172835910015" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874412> wgs:location _:node1bvvs2ketx85 ;
 	rdfs:label "Botschaft des Königreiches Spanien"@de ;
@@ -1427,8 +1427,8 @@ _:node1bvvs2ketx85 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874214" .
 
 _:node1bvvs2ketx86 a wgs:Point ;
-	wgs:lat "16.364134847333556" ;
-	wgs:long "48.2142677625221" .
+	wgs:long "16.364134847333556" ;
+	wgs:lat "48.2142677625221" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874214> wgs:location _:node1bvvs2ketx86 ;
 	rdfs:label "Japanische Botschaft"@de ;
@@ -1443,8 +1443,8 @@ _:node1bvvs2ketx86 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874215" .
 
 _:node1bvvs2ketx87 a wgs:Point ;
-	wgs:lat "16.380730141537587" ;
-	wgs:long "48.19700927280471" .
+	wgs:long "16.380730141537587" ;
+	wgs:lat "48.19700927280471" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874215> wgs:location _:node1bvvs2ketx87 ;
 	rdfs:label "Botschaft des Haschemitischen Königreiches Jordanien"@de ;
@@ -1460,8 +1460,8 @@ _:node1bvvs2ketx87 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874217" .
 
 _:node1bvvs2ketx88 a wgs:Point ;
-	wgs:lat "16.37845017303634" ;
-	wgs:long "48.21027481337891" .
+	wgs:long "16.37845017303634" ;
+	wgs:lat "48.21027481337891" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874217> wgs:location _:node1bvvs2ketx88 ;
 	rdfs:label "Kanadische Botschaft"@de ;
@@ -1478,8 +1478,8 @@ und 13.30 - 15.30""" ;
 	lw:hasId "BOTSCHAFTOGD.1874218" .
 
 _:node1bvvs2ketx89 a wgs:Point ;
-	wgs:lat "16.377570843768783" ;
-	wgs:long "48.19373162737449" .
+	wgs:long "16.377570843768783" ;
+	wgs:lat "48.19373162737449" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874218> wgs:location _:node1bvvs2ketx89 ;
 	rdfs:label "Botschaft der Republik Kasachstan"@de ;
@@ -1494,8 +1494,8 @@ _:node1bvvs2ketx89 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874219" .
 
 _:node1bvvs2ketx90 a wgs:Point ;
-	wgs:lat "16.36447433477729" ;
-	wgs:long "48.21449925315559" .
+	wgs:long "16.36447433477729" ;
+	wgs:lat "48.21449925315559" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874219> wgs:location _:node1bvvs2ketx90 ;
 	rdfs:label "Botschaft des Staates Katar"@de ;
@@ -1509,8 +1509,8 @@ _:node1bvvs2ketx90 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874237" .
 
 _:node1bvvs2ketx91 a wgs:Point ;
-	wgs:lat "16.386601789518114" ;
-	wgs:long "48.20694943877399" .
+	wgs:long "16.386601789518114" ;
+	wgs:lat "48.20694943877399" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874237> wgs:location _:node1bvvs2ketx91 ;
 	rdfs:label "Botschaft der Kirgisischen Republik"@de ;
@@ -1525,8 +1525,8 @@ _:node1bvvs2ketx91 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874238" .
 
 _:node1bvvs2ketx92 a wgs:Point ;
-	wgs:lat "16.356321425744774" ;
-	wgs:long "48.209282961809066" .
+	wgs:long "16.356321425744774" ;
+	wgs:lat "48.209282961809066" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874238> wgs:location _:node1bvvs2ketx92 ;
 	rdfs:label "Botschaft der Republik Kolumbien"@de ;
@@ -1541,8 +1541,8 @@ _:node1bvvs2ketx92 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874241" .
 
 _:node1bvvs2ketx93 a wgs:Point ;
-	wgs:lat "16.31193501626823" ;
-	wgs:long "48.19103054049407" .
+	wgs:long "16.31193501626823" ;
+	wgs:lat "48.19103054049407" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874241> wgs:location _:node1bvvs2ketx93 ;
 	rdfs:label "Botschaft der Demokratischen Volksrepublik Korea"@de ;
@@ -1556,8 +1556,8 @@ _:node1bvvs2ketx93 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874242" .
 
 _:node1bvvs2ketx94 a wgs:Point ;
-	wgs:lat "16.33751680140913" ;
-	wgs:long "48.23300535933024" .
+	wgs:long "16.33751680140913" ;
+	wgs:lat "48.23300535933024" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874242> wgs:location _:node1bvvs2ketx94 ;
 	rdfs:label "Botschaft der Republik Korea"@de ;
@@ -1573,8 +1573,8 @@ _:node1bvvs2ketx94 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874243" .
 
 _:node1bvvs2ketx95 a wgs:Point ;
-	wgs:lat "16.379532052804286" ;
-	wgs:long "48.190368703639436" .
+	wgs:long "16.379532052804286" ;
+	wgs:lat "48.190368703639436" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874243> wgs:location _:node1bvvs2ketx95 ;
 	rdfs:label "Botschaft der Republik Kosovo"@de ;
@@ -1590,8 +1590,8 @@ _:node1bvvs2ketx95 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874245" .
 
 _:node1bvvs2ketx96 a wgs:Point ;
-	wgs:lat "16.37830399410494" ;
-	wgs:long "48.19793540987888" .
+	wgs:long "16.37830399410494" ;
+	wgs:lat "48.19793540987888" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874245> wgs:location _:node1bvvs2ketx96 ;
 	rdfs:label "Botschaft der Republik Kroatien"@de ;
@@ -1607,8 +1607,8 @@ _:node1bvvs2ketx96 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874246" .
 
 _:node1bvvs2ketx97 a wgs:Point ;
-	wgs:lat "16.339998354135" ;
-	wgs:long "48.20552921961897" .
+	wgs:long "16.339998354135" ;
+	wgs:lat "48.20552921961897" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874246> wgs:location _:node1bvvs2ketx97 ;
 	rdfs:label "Botschaft der Republik Kuba"@de ;
@@ -1624,8 +1624,8 @@ _:node1bvvs2ketx97 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874247" .
 
 _:node1bvvs2ketx98 a wgs:Point ;
-	wgs:lat "16.337281532879587" ;
-	wgs:long "48.25658388274332" .
+	wgs:long "16.337281532879587" ;
+	wgs:lat "48.25658388274332" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874247> wgs:location _:node1bvvs2ketx98 ;
 	rdfs:label "Botschaft des Staates Kuwait"@de ;
@@ -1640,8 +1640,8 @@ _:node1bvvs2ketx98 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874248" .
 
 _:node1bvvs2ketx99 a wgs:Point ;
-	wgs:lat "16.29251554926863" ;
-	wgs:long "48.249910947271985" .
+	wgs:long "16.29251554926863" ;
+	wgs:lat "48.249910947271985" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874248> wgs:location _:node1bvvs2ketx99 ;
 	rdfs:label "Botschaft der Demokratischen Volksrepublik Laos"@de ;
@@ -1656,8 +1656,8 @@ _:node1bvvs2ketx99 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874251" .
 
 _:node1bvvs2ketx100 a wgs:Point ;
-	wgs:lat "16.332591916544878" ;
-	wgs:long "48.252318587794164" .
+	wgs:long "16.332591916544878" ;
+	wgs:lat "48.252318587794164" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874251> wgs:location _:node1bvvs2ketx100 ;
 	rdfs:label "Botschaft der Republik Lettland"@de ;
@@ -1673,8 +1673,8 @@ _:node1bvvs2ketx100 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874252" .
 
 _:node1bvvs2ketx101 a wgs:Point ;
-	wgs:lat "16.361798374734697" ;
-	wgs:long "48.21162440756489" .
+	wgs:long "16.361798374734697" ;
+	wgs:lat "48.21162440756489" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874252> wgs:location _:node1bvvs2ketx101 ;
 	rdfs:label "Botschaft der Libanesischen Republik"@de ;
@@ -1689,8 +1689,8 @@ _:node1bvvs2ketx101 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874253" .
 
 _:node1bvvs2ketx102 a wgs:Point ;
-	wgs:lat "16.341360679117784" ;
-	wgs:long "48.23812144002891" .
+	wgs:long "16.341360679117784" ;
+	wgs:lat "48.23812144002891" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874253> wgs:location _:node1bvvs2ketx102 ;
 	rdfs:label "Libysche Botschaft"@de ;
@@ -1705,8 +1705,8 @@ _:node1bvvs2ketx102 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874254" .
 
 _:node1bvvs2ketx103 a wgs:Point ;
-	wgs:lat "16.362543004548076" ;
-	wgs:long "48.20930624792206" .
+	wgs:long "16.362543004548076" ;
+	wgs:lat "48.20930624792206" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874254> wgs:location _:node1bvvs2ketx103 ;
 	rdfs:label "Botschaft des Fürstentums Liechtenstein"@de ;
@@ -1722,8 +1722,8 @@ _:node1bvvs2ketx103 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874255" .
 
 _:node1bvvs2ketx104 a wgs:Point ;
-	wgs:lat "16.394213970873015" ;
-	wgs:long "48.20672766523828" .
+	wgs:long "16.394213970873015" ;
+	wgs:lat "48.20672766523828" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874255> wgs:location _:node1bvvs2ketx104 ;
 	rdfs:label "Botschaft der Republik Litauen"@de ;
@@ -1739,8 +1739,8 @@ _:node1bvvs2ketx104 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874694" .
 
 _:node1bvvs2ketx105 a wgs:Point ;
-	wgs:lat "16.37360851837002" ;
-	wgs:long "48.20212561792566" .
+	wgs:long "16.37360851837002" ;
+	wgs:lat "48.20212561792566" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874694> wgs:location _:node1bvvs2ketx105 ;
 	rdfs:label "Botschaft der islamischen Republik Afghanistan"@de ;
@@ -1757,8 +1757,8 @@ Konsulat und Visaabteilung (+43/  (1)) 524 78 06""" ;
 	lw:hasId "BOTSCHAFTOGD.1874695" .
 
 _:node1bvvs2ketx106 a wgs:Point ;
-	wgs:lat "16.35523925048777" ;
-	wgs:long "48.25028081874614" .
+	wgs:long "16.35523925048777" ;
+	wgs:lat "48.25028081874614" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874695> wgs:location _:node1bvvs2ketx106 ;
 	rdfs:label "Botschaft der Arabischen Republik Ägypten"@de ;
@@ -1774,8 +1774,8 @@ _:node1bvvs2ketx106 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874696" .
 
 _:node1bvvs2ketx107 a wgs:Point ;
-	wgs:lat "16.376267559225994" ;
-	wgs:long "48.19554880669337" .
+	wgs:long "16.376267559225994" ;
+	wgs:lat "48.19554880669337" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874696> wgs:location _:node1bvvs2ketx107 ;
 	rdfs:label "Botschaft der Republik Albanien"@de ;
@@ -1790,8 +1790,8 @@ _:node1bvvs2ketx107 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874697" .
 
 _:node1bvvs2ketx108 a wgs:Point ;
-	wgs:lat "16.346437185437125" ;
-	wgs:long "48.24430323755859" .
+	wgs:long "16.346437185437125" ;
+	wgs:lat "48.24430323755859" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874697> wgs:location _:node1bvvs2ketx108 ;
 	rdfs:label "Botschaft der Demokratischen Volksrepublik Algerien"@de ;
@@ -1807,8 +1807,8 @@ _:node1bvvs2ketx108 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874698" .
 
 _:node1bvvs2ketx109 a wgs:Point ;
-	wgs:lat "16.37001797575267" ;
-	wgs:long "48.201928794764925" .
+	wgs:long "16.37001797575267" ;
+	wgs:lat "48.201928794764925" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874698> wgs:location _:node1bvvs2ketx109 ;
 	rdfs:label "Botschaft des Fürstentums Andorra"@de ;
@@ -1823,8 +1823,8 @@ _:node1bvvs2ketx109 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874699" .
 
 _:node1bvvs2ketx110 a wgs:Point ;
-	wgs:lat "16.37405233554433" ;
-	wgs:long "48.2041397656852" .
+	wgs:long "16.37405233554433" ;
+	wgs:lat "48.2041397656852" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874699> wgs:location _:node1bvvs2ketx110 ;
 	rdfs:label "Botschaft der Republik Angola"@de ;
@@ -1841,8 +1841,8 @@ Fr: 09.00 - 12.30 und 13.30 - 15.30""" ;
 	lw:hasId "BOTSCHAFTOGD.1874700" .
 
 _:node1bvvs2ketx111 a wgs:Point ;
-	wgs:lat "16.309648875219164" ;
-	wgs:long "48.18827820694064" .
+	wgs:long "16.309648875219164" ;
+	wgs:lat "48.18827820694064" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874700> wgs:location _:node1bvvs2ketx111 ;
 	rdfs:label "Botschaft der Republik Armenien"@de ;
@@ -1858,8 +1858,8 @@ Konsularische Angelegenheiten Mo, Mi und Fr 10:00 - 13:00""" ;
 	lw:hasId "BOTSCHAFTOGD.1874701" .
 
 _:node1bvvs2ketx112 a wgs:Point ;
-	wgs:lat "16.28566945590798" ;
-	wgs:long "48.18976450991479" .
+	wgs:long "16.28566945590798" ;
+	wgs:lat "48.18976450991479" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874701> wgs:location _:node1bvvs2ketx112 ;
 	rdfs:label "Botschaft der Republik Aserbaidschan"@de ;
@@ -1874,8 +1874,8 @@ _:node1bvvs2ketx112 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874703" .
 
 _:node1bvvs2ketx113 a wgs:Point ;
-	wgs:lat "16.372760497325725" ;
-	wgs:long "48.19841889907695" .
+	wgs:long "16.372760497325725" ;
+	wgs:lat "48.19841889907695" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874703> wgs:location _:node1bvvs2ketx113 ;
 	rdfs:label "Botschaft von Australien"@de ;
@@ -1891,8 +1891,8 @@ _:node1bvvs2ketx113 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874704" .
 
 _:node1bvvs2ketx114 a wgs:Point ;
-	wgs:lat "16.34956036517135" ;
-	wgs:long "48.24266904267245" .
+	wgs:long "16.34956036517135" ;
+	wgs:lat "48.24266904267245" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874704> wgs:location _:node1bvvs2ketx114 ;
 	rdfs:label "Botschaft der Volksrepublik Bangladesch"@de ;
@@ -1907,8 +1907,8 @@ _:node1bvvs2ketx114 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874261" .
 
 _:node1bvvs2ketx115 a wgs:Point ;
-	wgs:lat "16.308506661081772" ;
-	wgs:long "48.242926708594624" .
+	wgs:long "16.308506661081772" ;
+	wgs:lat "48.242926708594624" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874261> wgs:location _:node1bvvs2ketx115 ;
 	rdfs:label "Honorarkonsulat der Republik Madagaskar, Wien"@de ;
@@ -1923,8 +1923,8 @@ _:node1bvvs2ketx115 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874262" .
 
 _:node1bvvs2ketx116 a wgs:Point ;
-	wgs:lat "16.345474928347354" ;
-	wgs:long "48.2369922686776" .
+	wgs:long "16.345474928347354" ;
+	wgs:lat "48.2369922686776" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874262> wgs:location _:node1bvvs2ketx116 ;
 	rdfs:label "Honorarkonsulat der Republik Malediven, Wien"@de ;
@@ -1940,8 +1940,8 @@ Fr 08.00 - 12.30""" ;
 	lw:hasId "BOTSCHAFTOGD.1874263" .
 
 _:node1bvvs2ketx117 a wgs:Point ;
-	wgs:lat "16.353386546598152" ;
-	wgs:long "48.21123073371896" .
+	wgs:long "16.353386546598152" ;
+	wgs:lat "48.21123073371896" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874263> wgs:location _:node1bvvs2ketx117 ;
 	rdfs:label "Honorarkonsulat der Republik Mali, Wien"@de ;
@@ -1956,8 +1956,8 @@ _:node1bvvs2ketx117 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874265" .
 
 _:node1bvvs2ketx118 a wgs:Point ;
-	wgs:lat "16.383384882392523" ;
-	wgs:long "48.20164366090468" .
+	wgs:long "16.383384882392523" ;
+	wgs:lat "48.20164366090468" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874265> wgs:location _:node1bvvs2ketx118 ;
 	rdfs:label "Honorarkonsulat der Republik Malta; Wien, NÖ u. Burgenland"@de ;
@@ -1972,8 +1972,8 @@ _:node1bvvs2ketx118 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874268" .
 
 _:node1bvvs2ketx119 a wgs:Point ;
-	wgs:lat "16.333286894100194" ;
-	wgs:long "48.25231204162271" .
+	wgs:long "16.333286894100194" ;
+	wgs:lat "48.25231204162271" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874268> wgs:location _:node1bvvs2ketx119 ;
 	rdfs:label "Honorarkonsulat der Republik Mauritius, Wien"@de ;
@@ -1988,8 +1988,8 @@ _:node1bvvs2ketx119 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874273" .
 
 _:node1bvvs2ketx120 a wgs:Point ;
-	wgs:lat "16.363120565180417" ;
-	wgs:long "48.17550498422" .
+	wgs:long "16.363120565180417" ;
+	wgs:lat "48.17550498422" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874273> wgs:location _:node1bvvs2ketx120 ;
 	rdfs:label "Honorarkonsulat der Mongolei, Wien"@de ;
@@ -2004,8 +2004,8 @@ _:node1bvvs2ketx120 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874276" .
 
 _:node1bvvs2ketx121 a wgs:Point ;
-	wgs:lat "16.353962450447668" ;
-	wgs:long "48.253335803850476" .
+	wgs:long "16.353962450447668" ;
+	wgs:lat "48.253335803850476" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874276> wgs:location _:node1bvvs2ketx121 ;
 	rdfs:label "Honorarkonsulat der Republik der Union Myanmar, Wien"@de ;
@@ -2020,8 +2020,8 @@ _:node1bvvs2ketx121 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874278" .
 
 _:node1bvvs2ketx122 a wgs:Point ;
-	wgs:lat "16.317507249349458" ;
-	wgs:long "48.13448877245831" .
+	wgs:long "16.317507249349458" ;
+	wgs:lat "48.13448877245831" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874278> wgs:location _:node1bvvs2ketx122 ;
 	rdfs:label "Honorargeneralkonsulat der demokratischen Bundesrepublik Nepal, Wien"@de ;
@@ -2036,8 +2036,8 @@ _:node1bvvs2ketx122 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874282" .
 
 _:node1bvvs2ketx123 a wgs:Point ;
-	wgs:lat "16.371607303313848" ;
-	wgs:long "48.20157209407058" .
+	wgs:long "16.371607303313848" ;
+	wgs:lat "48.20157209407058" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874282> wgs:location _:node1bvvs2ketx123 ;
 	rdfs:label "Honorarkonsulat der Republik Niger, Wien"@de ;
@@ -2052,8 +2052,8 @@ _:node1bvvs2ketx123 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874285" .
 
 _:node1bvvs2ketx124 a wgs:Point ;
-	wgs:lat "16.36151390713445" ;
-	wgs:long "48.21184894047927" .
+	wgs:long "16.36151390713445" ;
+	wgs:lat "48.21184894047927" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874285> wgs:location _:node1bvvs2ketx124 ;
 	rdfs:label "Honorargeneralkonsulat des Königreiches Norwegen, Wien"@de ;
@@ -2068,8 +2068,8 @@ _:node1bvvs2ketx124 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874293" .
 
 _:node1bvvs2ketx125 a wgs:Point ;
-	wgs:lat "16.36958705834375" ;
-	wgs:long "48.217549885863946" .
+	wgs:long "16.36958705834375" ;
+	wgs:lat "48.217549885863946" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874293> wgs:location _:node1bvvs2ketx125 ;
 	rdfs:label "Honorarkonsulat der Republik Mosambik, Wien"@de ;
@@ -2084,8 +2084,8 @@ _:node1bvvs2ketx125 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874294" .
 
 _:node1bvvs2ketx126 a wgs:Point ;
-	wgs:lat "16.354379033692112" ;
-	wgs:long "48.200013385001114" .
+	wgs:long "16.354379033692112" ;
+	wgs:lat "48.200013385001114" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874294> wgs:location _:node1bvvs2ketx126 ;
 	rdfs:label "Honorarkonsulat der Republik der Philippinen; Wien"@de ;
@@ -2100,8 +2100,8 @@ _:node1bvvs2ketx126 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874299" .
 
 _:node1bvvs2ketx127 a wgs:Point ;
-	wgs:lat "16.2882929760292" ;
-	wgs:long "48.18724798105088" .
+	wgs:long "16.2882929760292" ;
+	wgs:lat "48.18724798105088" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874299> wgs:location _:node1bvvs2ketx127 ;
 	rdfs:label "Honorarkonsulat der Republik Sambia, Wien"@de ;
@@ -2118,8 +2118,8 @@ nur nach telefonischer Vereinbarung""" ;
 	lw:hasId "BOTSCHAFTOGD.1874300" .
 
 _:node1bvvs2ketx128 a wgs:Point ;
-	wgs:lat "16.338968275716976" ;
-	wgs:long "48.23280181693848" .
+	wgs:long "16.338968275716976" ;
+	wgs:lat "48.23280181693848" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874300> wgs:location _:node1bvvs2ketx128 ;
 	rdfs:label "Honorarkonsulat von Samoa, Wien"@de ;
@@ -2133,8 +2133,8 @@ _:node1bvvs2ketx128 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874414" .
 
 _:node1bvvs2ketx129 a wgs:Point ;
-	wgs:lat "16.366240784267234" ;
-	wgs:long "48.21486014833319" .
+	wgs:long "16.366240784267234" ;
+	wgs:lat "48.21486014833319" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874414> wgs:location _:node1bvvs2ketx129 ;
 	rdfs:label "Honorarkonsulat von Sankt Vincent und die Grenadinen, Wien"@de ;
@@ -2150,8 +2150,8 @@ _:node1bvvs2ketx129 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874417" .
 
 _:node1bvvs2ketx130 a wgs:Point ;
-	wgs:lat "16.355493692553313" ;
-	wgs:long "48.2234919444664" .
+	wgs:long "16.355493692553313" ;
+	wgs:lat "48.2234919444664" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874417> wgs:location _:node1bvvs2ketx130 ;
 	rdfs:label "Honorarkonsulat des Königreiches Swasiland, Wien"@de ;
@@ -2166,8 +2166,8 @@ _:node1bvvs2ketx130 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874421" .
 
 _:node1bvvs2ketx131 a wgs:Point ;
-	wgs:lat "16.4457059959406" ;
-	wgs:long "48.23551792278256" .
+	wgs:long "16.4457059959406" ;
+	wgs:lat "48.23551792278256" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874421> wgs:location _:node1bvvs2ketx131 ;
 	rdfs:label "Honorarkonsulat der Republik Togo, Wien"@de ;
@@ -2183,8 +2183,8 @@ _:node1bvvs2ketx131 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874424" .
 
 _:node1bvvs2ketx132 a wgs:Point ;
-	wgs:lat "16.25575524513167" ;
-	wgs:long "48.206292377062205" .
+	wgs:long "16.25575524513167" ;
+	wgs:lat "48.206292377062205" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874424> wgs:location _:node1bvvs2ketx132 ;
 	rdfs:label "Honorargeneralkonsulat der Republik Tunesien, Wien"@de ;
@@ -2199,8 +2199,8 @@ _:node1bvvs2ketx132 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874426" .
 
 _:node1bvvs2ketx133 a wgs:Point ;
-	wgs:lat "16.29651437636287" ;
-	wgs:long "48.18659873510865" .
+	wgs:long "16.29651437636287" ;
+	wgs:lat "48.18659873510865" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874426> wgs:location _:node1bvvs2ketx133 ;
 	rdfs:label "Generalkonsulat der Republik Türkei; Wien"@de ;
@@ -2217,8 +2217,8 @@ Visaanträge : Mo - Fr, außer AT/TR Feiertage: 11:00-12:00.""" ;
 	lw:hasId "BOTSCHAFTOGD.1874302" .
 
 _:node1bvvs2ketx134 a wgs:Point ;
-	wgs:lat "16.36877905852149" ;
-	wgs:long "48.21535641617512" .
+	wgs:long "16.36877905852149" ;
+	wgs:lat "48.21535641617512" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874302> wgs:location _:node1bvvs2ketx134 ;
 	rdfs:label "Honorargeneralkonsulat der Republik San Marino, Wien"@de ;
@@ -2233,8 +2233,8 @@ _:node1bvvs2ketx134 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874303" .
 
 _:node1bvvs2ketx135 a wgs:Point ;
-	wgs:lat "16.36760512383866" ;
-	wgs:long "48.183792983388145" .
+	wgs:long "16.36760512383866" ;
+	wgs:lat "48.183792983388145" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874303> wgs:location _:node1bvvs2ketx135 ;
 	rdfs:label "Honorarkonsulat von Sao Tomé, Wien"@de ;
@@ -2250,8 +2250,8 @@ Fr 08.00 - 12.00""" ;
 	lw:hasId "BOTSCHAFTOGD.1874307" .
 
 _:node1bvvs2ketx136 a wgs:Point ;
-	wgs:lat "16.36206167816954" ;
-	wgs:long "48.199103771174535" .
+	wgs:long "16.36206167816954" ;
+	wgs:lat "48.199103771174535" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874307> wgs:location _:node1bvvs2ketx136 ;
 	rdfs:label "Honorarkonsulat der Republik Senegal, Wien"@de ;
@@ -2267,8 +2267,8 @@ Visa auf Anfrage.""" ;
 	lw:hasId "BOTSCHAFTOGD.1874309" .
 
 _:node1bvvs2ketx137 a wgs:Point ;
-	wgs:lat "16.372228217423494" ;
-	wgs:long "48.19785735297309" .
+	wgs:long "16.372228217423494" ;
+	wgs:lat "48.19785735297309" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874309> wgs:location _:node1bvvs2ketx137 ;
 	rdfs:label "Honorargeneralkonsulat der Republik Seychellen; Wien"@de ;
@@ -2283,8 +2283,8 @@ _:node1bvvs2ketx137 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874310" .
 
 _:node1bvvs2ketx138 a wgs:Point ;
-	wgs:lat "16.333601353522415" ;
-	wgs:long "48.192452531239006" .
+	wgs:long "16.333601353522415" ;
+	wgs:lat "48.192452531239006" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874310> wgs:location _:node1bvvs2ketx138 ;
 	rdfs:label "Honorargeneralkonsulat der Republik Sierra Leone, Wien"@de ;
@@ -2298,8 +2298,8 @@ _:node1bvvs2ketx138 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874311" .
 
 _:node1bvvs2ketx139 a wgs:Point ;
-	wgs:lat "16.383601888361845" ;
-	wgs:long "48.20500261584864" .
+	wgs:long "16.383601888361845" ;
+	wgs:lat "48.20500261584864" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874311> wgs:location _:node1bvvs2ketx139 ;
 	rdfs:label "Honorargeneralkonsulat von Singapur, Wien"@de ;
@@ -2315,8 +2315,8 @@ _:node1bvvs2ketx139 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874312" .
 
 _:node1bvvs2ketx140 a wgs:Point ;
-	wgs:lat "16.3744859291853" ;
-	wgs:long "48.19909579234285" .
+	wgs:long "16.3744859291853" ;
+	wgs:lat "48.19909579234285" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874312> wgs:location _:node1bvvs2ketx140 ;
 	rdfs:label "Honorargeneralkonsulat von Barbados, Wien"@de ;
@@ -2331,8 +2331,8 @@ _:node1bvvs2ketx140 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874315" .
 
 _:node1bvvs2ketx141 a wgs:Point ;
-	wgs:lat "16.34822526675489" ;
-	wgs:long "48.20436258684097" .
+	wgs:long "16.34822526675489" ;
+	wgs:lat "48.20436258684097" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874315> wgs:location _:node1bvvs2ketx141 ;
 	rdfs:label "Honorarkonsulat der Republik Benin, Wien"@de ;
@@ -2347,8 +2347,8 @@ _:node1bvvs2ketx141 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874318" .
 
 _:node1bvvs2ketx142 a wgs:Point ;
-	wgs:lat "16.36630723167292" ;
-	wgs:long "48.20910621002803" .
+	wgs:long "16.36630723167292" ;
+	wgs:lat "48.20910621002803" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874318> wgs:location _:node1bvvs2ketx142 ;
 	rdfs:label "Honorarkonsulat von Bosnien und Herzegowina, Wien"@de ;
@@ -2363,8 +2363,8 @@ _:node1bvvs2ketx142 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874319" .
 
 _:node1bvvs2ketx143 a wgs:Point ;
-	wgs:lat "16.3645815501428" ;
-	wgs:long "48.199912380759955" .
+	wgs:long "16.3645815501428" ;
+	wgs:lat "48.199912380759955" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874319> wgs:location _:node1bvvs2ketx143 ;
 	rdfs:label "Honorarkonsulat der Republik Botsuana, Wien"@de ;
@@ -2379,8 +2379,8 @@ _:node1bvvs2ketx143 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874323" .
 
 _:node1bvvs2ketx144 a wgs:Point ;
-	wgs:lat "16.34158523702821" ;
-	wgs:long "48.193245444685346" .
+	wgs:long "16.34158523702821" ;
+	wgs:lat "48.193245444685346" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874323> wgs:location _:node1bvvs2ketx144 ;
 	rdfs:label "Honorargeneralkonsulat von Burkina Faso; Wien"@de ;
@@ -2395,8 +2395,8 @@ _:node1bvvs2ketx144 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874324" .
 
 _:node1bvvs2ketx145 a wgs:Point ;
-	wgs:lat "16.339320632774072" ;
-	wgs:long "48.255291444114576" .
+	wgs:long "16.339320632774072" ;
+	wgs:lat "48.255291444114576" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874324> wgs:location _:node1bvvs2ketx145 ;
 	rdfs:label "Honorarkonsulat der Republik Burundi, Wien"@de ;
@@ -2411,8 +2411,8 @@ _:node1bvvs2ketx145 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874325" .
 
 _:node1bvvs2ketx146 a wgs:Point ;
-	wgs:lat "16.294448145909723" ;
-	wgs:long "48.23108023516658" .
+	wgs:long "16.294448145909723" ;
+	wgs:lat "48.23108023516658" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874325> wgs:location _:node1bvvs2ketx146 ;
 	rdfs:label "Honorarkonsulat der Republik Cabo Verde, Wien"@de ;
@@ -2429,8 +2429,8 @@ sowie täglich nach Vereinbarung""" ;
 	lw:hasId "BOTSCHAFTOGD.1874330" .
 
 _:node1bvvs2ketx147 a wgs:Point ;
-	wgs:lat "16.349045641934847" ;
-	wgs:long "48.242069800256836" .
+	wgs:long "16.349045641934847" ;
+	wgs:lat "48.242069800256836" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874330> wgs:location _:node1bvvs2ketx147 ;
 	rdfs:label "Honorarkonsulat der Republik Côte d'Ivoire, Wien"@de ;
@@ -2445,8 +2445,8 @@ _:node1bvvs2ketx147 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874339" .
 
 _:node1bvvs2ketx148 a wgs:Point ;
-	wgs:lat "16.36151390713445" ;
-	wgs:long "48.21184894047927" .
+	wgs:long "16.36151390713445" ;
+	wgs:lat "48.21184894047927" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874339> wgs:location _:node1bvvs2ketx148 ;
 	rdfs:label "Honorargeneralkonsulat des Königreiches Dänemark; Wien"@de ;
@@ -2460,8 +2460,8 @@ _:node1bvvs2ketx148 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874342" .
 
 _:node1bvvs2ketx149 a wgs:Point ;
-	wgs:lat "16.311402301395145" ;
-	wgs:long "48.194042970255595" .
+	wgs:long "16.311402301395145" ;
+	wgs:lat "48.194042970255595" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874342> wgs:location _:node1bvvs2ketx149 ;
 	rdfs:label "Honorarkonsulat von Dschibuti, Wien"@de ;
@@ -2476,8 +2476,8 @@ _:node1bvvs2ketx149 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874343" .
 
 _:node1bvvs2ketx150 a wgs:Point ;
-	wgs:lat "16.37047176789602" ;
-	wgs:long "48.20920450316605" .
+	wgs:long "16.37047176789602" ;
+	wgs:lat "48.20920450316605" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874343> wgs:location _:node1bvvs2ketx150 ;
 	rdfs:label "Generalkonsulat der Republik Ecuador"@de ;
@@ -2492,8 +2492,8 @@ _:node1bvvs2ketx150 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874345" .
 
 _:node1bvvs2ketx151 a wgs:Point ;
-	wgs:lat "16.380101965599824" ;
-	wgs:long "48.20909815488299" .
+	wgs:long "16.380101965599824" ;
+	wgs:lat "48.20909815488299" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874345> wgs:location _:node1bvvs2ketx151 ;
 	rdfs:label "Honorarkonsulat der Republik El Salvador, Wien"@de ;
@@ -2509,8 +2509,8 @@ _:node1bvvs2ketx151 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874346" .
 
 _:node1bvvs2ketx152 a wgs:Point ;
-	wgs:lat "16.40005713917983" ;
-	wgs:long "48.19655101701903" .
+	wgs:long "16.40005713917983" ;
+	wgs:lat "48.19655101701903" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874346> wgs:location _:node1bvvs2ketx152 ;
 	rdfs:label "Honorarkonsulat des Staates Eritrea, Wien"@de ;
@@ -2524,8 +2524,8 @@ _:node1bvvs2ketx152 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874348" .
 
 _:node1bvvs2ketx153 a wgs:Point ;
-	wgs:lat "16.377149433789373" ;
-	wgs:long "48.18985885594685" .
+	wgs:long "16.377149433789373" ;
+	wgs:lat "48.18985885594685" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874348> wgs:location _:node1bvvs2ketx153 ;
 	rdfs:label "Honorarkonsulat der Republik Estland; Wien"@de ;
@@ -2540,8 +2540,8 @@ _:node1bvvs2ketx153 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874350" .
 
 _:node1bvvs2ketx154 a wgs:Point ;
-	wgs:lat "16.335041038840043" ;
-	wgs:long "48.1802658521863" .
+	wgs:long "16.335041038840043" ;
+	wgs:lat "48.1802658521863" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874350> wgs:location _:node1bvvs2ketx154 ;
 	rdfs:label "Honorarkonsulat der Republik Finnland, Wien"@de ;
@@ -2556,8 +2556,8 @@ _:node1bvvs2ketx154 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874353" .
 
 _:node1bvvs2ketx155 a wgs:Point ;
-	wgs:lat "16.373901538913174" ;
-	wgs:long "48.21237657636775" .
+	wgs:long "16.373901538913174" ;
+	wgs:lat "48.21237657636775" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874353> wgs:location _:node1bvvs2ketx155 ;
 	rdfs:label "Honorarkonsulat von Grenada, Wien"@de ;
@@ -2572,8 +2572,8 @@ in Bearbeitung""" ;
 	lw:hasId "BOTSCHAFTOGD.1874356" .
 
 _:node1bvvs2ketx156 a wgs:Point ;
-	wgs:lat "16.377243048105736" ;
-	wgs:long "48.202451365415136" .
+	wgs:long "16.377243048105736" ;
+	wgs:lat "48.202451365415136" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874356> wgs:location _:node1bvvs2ketx156 ;
 	rdfs:label "Honorarkonsulat der Republik Guatemala; Wien"@de ;
@@ -2588,8 +2588,8 @@ _:node1bvvs2ketx156 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874357" .
 
 _:node1bvvs2ketx157 a wgs:Point ;
-	wgs:lat "16.38051211753823" ;
-	wgs:long "48.201856237607885" .
+	wgs:long "16.38051211753823" ;
+	wgs:lat "48.201856237607885" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874357> wgs:location _:node1bvvs2ketx157 ;
 	rdfs:label "Honorarkonsulat der Republik Guinea, Wien"@de ;
@@ -2604,8 +2604,8 @@ _:node1bvvs2ketx157 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874358" .
 
 _:node1bvvs2ketx158 a wgs:Point ;
-	wgs:lat "16.37927087852333" ;
-	wgs:long "48.19135094997913" .
+	wgs:long "16.37927087852333" ;
+	wgs:lat "48.19135094997913" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874358> wgs:location _:node1bvvs2ketx158 ;
 	rdfs:label "Honorarkonsulat der Republik Haiti, Wien"@de ;
@@ -2619,8 +2619,8 @@ _:node1bvvs2ketx158 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874360" .
 
 _:node1bvvs2ketx159 a wgs:Point ;
-	wgs:lat "16.273589646452546" ;
-	wgs:long "48.1396922805161" .
+	wgs:long "16.273589646452546" ;
+	wgs:lat "48.1396922805161" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874360> wgs:location _:node1bvvs2ketx159 ;
 	rdfs:label "Honorarkonsulat der Republik Honduras, Wien"@de ;
@@ -2635,8 +2635,8 @@ _:node1bvvs2ketx159 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874367" .
 
 _:node1bvvs2ketx160 a wgs:Point ;
-	wgs:lat "16.368472875530376" ;
-	wgs:long "48.20973001586464" .
+	wgs:long "16.368472875530376" ;
+	wgs:lat "48.20973001586464" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874367> wgs:location _:node1bvvs2ketx160 ;
 	rdfs:label "Honorargeneralkonsulat der Republik Island; Wien"@de ;
@@ -2651,8 +2651,8 @@ _:node1bvvs2ketx160 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874370" .
 
 _:node1bvvs2ketx161 a wgs:Point ;
-	wgs:lat "16.362584815415996" ;
-	wgs:long "48.14226460141143" .
+	wgs:long "16.362584815415996" ;
+	wgs:lat "48.14226460141143" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874370> wgs:location _:node1bvvs2ketx161 ;
 	rdfs:label "Honorargeneralkonsulat von Gambia, Wien"@de ;
@@ -2667,8 +2667,8 @@ _:node1bvvs2ketx161 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874371" .
 
 _:node1bvvs2ketx162 a wgs:Point ;
-	wgs:lat "16.30442592786106" ;
-	wgs:long "48.156304144175884" .
+	wgs:long "16.30442592786106" ;
+	wgs:lat "48.156304144175884" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874371> wgs:location _:node1bvvs2ketx162 ;
 	rdfs:label "Honorargeneralkonsulat der Republik Uganda, Wien"@de ;
@@ -2684,8 +2684,8 @@ _:node1bvvs2ketx162 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874374" .
 
 _:node1bvvs2ketx163 a wgs:Point ;
-	wgs:lat "16.389982859618033" ;
-	wgs:long "48.1935581220048" .
+	wgs:long "16.389982859618033" ;
+	wgs:lat "48.1935581220048" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874374> wgs:location _:node1bvvs2ketx163 ;
 	rdfs:label "Honorarkonsulat von Ungarn; Wien"@de ;
@@ -2699,8 +2699,8 @@ _:node1bvvs2ketx163 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874213" .
 
 _:node1bvvs2ketx164 a wgs:Point ;
-	wgs:lat "16.361279121713242" ;
-	wgs:long "48.184743959314176" .
+	wgs:long "16.361279121713242" ;
+	wgs:lat "48.184743959314176" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874213> wgs:location _:node1bvvs2ketx164 ;
 	rdfs:label "Honorargeneralkonsulat von Jamaika; Wien"@de ;
@@ -2716,8 +2716,8 @@ _:node1bvvs2ketx164 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874216" .
 
 _:node1bvvs2ketx165 a wgs:Point ;
-	wgs:lat "16.297820876839204" ;
-	wgs:long "48.23943746727152" .
+	wgs:long "16.297820876839204" ;
+	wgs:lat "48.23943746727152" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874216> wgs:location _:node1bvvs2ketx165 ;
 	rdfs:label "Honorarkonsulat der Republik Kamerun, Wien"@de ;
@@ -2733,8 +2733,8 @@ _:node1bvvs2ketx165 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874239" .
 
 _:node1bvvs2ketx166 a wgs:Point ;
-	wgs:lat "16.35681079039419" ;
-	wgs:long "48.212991478941206" .
+	wgs:long "16.35681079039419" ;
+	wgs:lat "48.212991478941206" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874239> wgs:location _:node1bvvs2ketx166 ;
 	rdfs:label "Honorargeneralkonsulat der Republik Kongo, Wien"@de ;
@@ -2749,8 +2749,8 @@ _:node1bvvs2ketx166 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874240" .
 
 _:node1bvvs2ketx167 a wgs:Point ;
-	wgs:lat "16.400556649691413" ;
-	wgs:long "48.26824872215082" .
+	wgs:long "16.400556649691413" ;
+	wgs:lat "48.26824872215082" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874240> wgs:location _:node1bvvs2ketx167 ;
 	rdfs:label "Honorarkonsulat der Demokratischen Republik Kongo, Wien"@de ;
@@ -2764,8 +2764,8 @@ _:node1bvvs2ketx167 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874244" .
 
 _:node1bvvs2ketx168 a wgs:Point ;
-	wgs:lat "16.370738994901338" ;
-	wgs:long "48.212418762753956" .
+	wgs:long "16.370738994901338" ;
+	wgs:lat "48.212418762753956" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874244> wgs:location _:node1bvvs2ketx168 ;
 	rdfs:label "Honorarkonsulat der Republik Kosovo, Wien"@de ;
@@ -2780,8 +2780,8 @@ _:node1bvvs2ketx168 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874249" .
 
 _:node1bvvs2ketx169 a wgs:Point ;
-	wgs:lat "16.26596580566334" ;
-	wgs:long "48.144622138333474" .
+	wgs:long "16.26596580566334" ;
+	wgs:lat "48.144622138333474" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874249> wgs:location _:node1bvvs2ketx169 ;
 	rdfs:label "Honorarkonsulat der Demokratischen Volksrepublik Laos, Wien"@de ;
@@ -2796,8 +2796,8 @@ _:node1bvvs2ketx169 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874250" .
 
 _:node1bvvs2ketx170 a wgs:Point ;
-	wgs:lat "16.370171367341527" ;
-	wgs:long "48.20622857028478" .
+	wgs:long "16.370171367341527" ;
+	wgs:lat "48.20622857028478" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874250> wgs:location _:node1bvvs2ketx170 ;
 	rdfs:label "Honorarkonsulat des Königreiches Lesotho, Wien"@de ;
@@ -2812,8 +2812,8 @@ _:node1bvvs2ketx170 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874259" .
 
 _:node1bvvs2ketx171 a wgs:Point ;
-	wgs:lat "16.315304975276227" ;
-	wgs:long "48.244093374863866" .
+	wgs:long "16.315304975276227" ;
+	wgs:lat "48.244093374863866" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874259> wgs:location _:node1bvvs2ketx171 ;
 	rdfs:label "Honorarkonsulat von Litauen, Wien"@de ;
@@ -2828,8 +2828,8 @@ _:node1bvvs2ketx171 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874702" .
 
 _:node1bvvs2ketx172 a wgs:Point ;
-	wgs:lat "16.358938517698007" ;
-	wgs:long "48.22926940824498" .
+	wgs:long "16.358938517698007" ;
+	wgs:lat "48.22926940824498" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874702> wgs:location _:node1bvvs2ketx172 ;
 	rdfs:label "Honorarkonsulat der Demokratischen Bundesrepublik Äthiopien, Wien"@de ;
@@ -2844,8 +2844,8 @@ _:node1bvvs2ketx172 a wgs:Point ;
 	lw:hasId "BOTSCHAFTOGD.1874705" .
 
 _:node1bvvs2ketx173 a wgs:Point ;
-	wgs:lat "16.290224527280113" ;
-	wgs:long "48.1390834476623" .
+	wgs:long "16.290224527280113" ;
+	wgs:lat "48.1390834476623" .
 
 <http://linkedwidgets.org/ontology/resource/wien/BOTSCHAFTOGD.1874705> wgs:location _:node1bvvs2ketx173 ;
 	rdfs:label "Honorarkonsulat der Volksrepublik Bangladesch; Wien"@de ;

@@ -12,8 +12,8 @@
 	lw:hasId "WLANWIENATOGD.1503602" .
 
 _:node1bvvs7555x1 a wgs:Point ;
-	wgs:lat "16.268698891634973" ;
-	wgs:long "48.15046922017304" .
+	wgs:long "16.268698891634973" ;
+	wgs:lat "48.15046922017304" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503602> wgs:location _:node1bvvs7555x1 ;
 	rdfs:label "Maurer Hauptplatz" ;
@@ -26,8 +26,8 @@ _:node1bvvs7555x1 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503603" .
 
 _:node1bvvs7555x2 a wgs:Point ;
-	wgs:lat "16.315220118970608" ;
-	wgs:long "48.14031423285564" .
+	wgs:long "16.315220118970608" ;
+	wgs:lat "48.14031423285564" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503603> wgs:location _:node1bvvs7555x2 ;
 	rdfs:label "PaN Park" ;
@@ -40,8 +40,8 @@ _:node1bvvs7555x2 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503604" .
 
 _:node1bvvs7555x3 a wgs:Point ;
-	wgs:lat "16.31757073240557" ;
-	wgs:long "48.151063649439045" .
+	wgs:long "16.31757073240557" ;
+	wgs:lat "48.151063649439045" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503604> wgs:location _:node1bvvs7555x3 ;
 	rdfs:label "Erlaa Schleife" ;
@@ -54,8 +54,8 @@ _:node1bvvs7555x3 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503605" .
 
 _:node1bvvs7555x4 a wgs:Point ;
-	wgs:lat "16.296775743032196" ;
-	wgs:long "48.146184997871536" .
+	wgs:long "16.296775743032196" ;
+	wgs:lat "48.146184997871536" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503605> wgs:location _:node1bvvs7555x4 ;
 	rdfs:label "Atzgersdorfer Platz" ;
@@ -68,8 +68,8 @@ _:node1bvvs7555x4 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503606" .
 
 _:node1bvvs7555x5 a wgs:Point ;
-	wgs:lat "16.31015674193883" ;
-	wgs:long "48.12952214300599" .
+	wgs:long "16.31015674193883" ;
+	wgs:lat "48.12952214300599" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503606> wgs:location _:node1bvvs7555x5 ;
 	rdfs:label "Porschestrasse " ;
@@ -82,8 +82,8 @@ _:node1bvvs7555x5 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503607" .
 
 _:node1bvvs7555x6 a wgs:Point ;
-	wgs:lat "16.3469953325304" ;
-	wgs:long "48.15001769048821" .
+	wgs:long "16.3469953325304" ;
+	wgs:lat "48.15001769048821" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503607> wgs:location _:node1bvvs7555x6 ;
 	rdfs:label "Inzersdorf Kirchenplatz" ;
@@ -96,8 +96,8 @@ _:node1bvvs7555x6 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503608" .
 
 _:node1bvvs7555x7 a wgs:Point ;
-	wgs:lat "16.33228466381661" ;
-	wgs:long "48.217467742284576" .
+	wgs:long "16.33228466381661" ;
+	wgs:lat "48.217467742284576" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503608> wgs:location _:node1bvvs7555x7 ;
 	rdfs:label "St. Bartholomaeus Platz" ;
@@ -110,8 +110,8 @@ _:node1bvvs7555x7 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503609" .
 
 _:node1bvvs7555x8 a wgs:Point ;
-	wgs:lat "16.392944808329084" ;
-	wgs:long "48.25149248654951" .
+	wgs:long "16.392944808329084" ;
+	wgs:lat "48.25149248654951" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503609> wgs:location _:node1bvvs7555x8 ;
 	rdfs:label "Wasserpark" ;
@@ -124,8 +124,8 @@ _:node1bvvs7555x8 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503610" .
 
 _:node1bvvs7555x9 a wgs:Point ;
-	wgs:lat "16.36467705731315" ;
-	wgs:long "48.2118332227899" .
+	wgs:long "16.36467705731315" ;
+	wgs:lat "48.2118332227899" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503610> wgs:location _:node1bvvs7555x9 ;
 	rdfs:label "Freyung 6A" ;
@@ -138,8 +138,8 @@ _:node1bvvs7555x9 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503613" .
 
 _:node1bvvs7555x10 a wgs:Point ;
-	wgs:lat "16.394585089158706" ;
-	wgs:long "48.25259629577313" .
+	wgs:long "16.394585089158706" ;
+	wgs:lat "48.25259629577313" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503613> wgs:location _:node1bvvs7555x10 ;
 	rdfs:label "Wasserpark" ;
@@ -152,8 +152,8 @@ _:node1bvvs7555x10 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503614" .
 
 _:node1bvvs7555x11 a wgs:Point ;
-	wgs:lat "16.320836688190106" ;
-	wgs:long "48.19750689680567" .
+	wgs:long "16.320836688190106" ;
+	wgs:lat "48.19750689680567" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503614> wgs:location _:node1bvvs7555x11 ;
 	rdfs:label "Wasserwelt" ;
@@ -166,8 +166,8 @@ _:node1bvvs7555x11 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503618" .
 
 _:node1bvvs7555x12 a wgs:Point ;
-	wgs:lat "16.332019574846846" ;
-	wgs:long "48.26609840476728" .
+	wgs:long "16.332019574846846" ;
+	wgs:lat "48.26609840476728" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503618> wgs:location _:node1bvvs7555x12 ;
 	rdfs:label "Krapfenwaldbad_Master" ;
@@ -180,8 +180,8 @@ _:node1bvvs7555x12 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503619" .
 
 _:node1bvvs7555x13 a wgs:Point ;
-	wgs:lat "16.384745863886877" ;
-	wgs:long "48.24134949667981" .
+	wgs:long "16.384745863886877" ;
+	wgs:lat "48.24134949667981" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503619> wgs:location _:node1bvvs7555x13 ;
 	rdfs:label "Maria-Restituta-Platz" ;
@@ -194,8 +194,8 @@ _:node1bvvs7555x13 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503620" .
 
 _:node1bvvs7555x14 a wgs:Point ;
-	wgs:lat "16.3458658942341" ;
-	wgs:long "48.200542381113515" .
+	wgs:long "16.3458658942341" ;
+	wgs:lat "48.200542381113515" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503620> wgs:location _:node1bvvs7555x14 ;
 	rdfs:label "Dorothea-Neff-Park" ;
@@ -208,8 +208,8 @@ _:node1bvvs7555x14 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503621" .
 
 _:node1bvvs7555x15 a wgs:Point ;
-	wgs:lat "16.404043801289006" ;
-	wgs:long "48.26815125157406" .
+	wgs:long "16.404043801289006" ;
+	wgs:lat "48.26815125157406" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503621> wgs:location _:node1bvvs7555x15 ;
 	rdfs:label "KH Nord" ;
@@ -222,8 +222,8 @@ _:node1bvvs7555x15 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503622" .
 
 _:node1bvvs7555x16 a wgs:Point ;
-	wgs:lat "16.324055045055644" ;
-	wgs:long "48.19683313435441" .
+	wgs:long "16.324055045055644" ;
+	wgs:lat "48.19683313435441" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503622> wgs:location _:node1bvvs7555x16 ;
 	rdfs:label "Kardinal Rauscher Platz Kirche" ;
@@ -236,8 +236,8 @@ _:node1bvvs7555x16 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503623" .
 
 _:node1bvvs7555x17 a wgs:Point ;
-	wgs:lat "16.322591305839808" ;
-	wgs:long "48.19737293718072" .
+	wgs:long "16.322591305839808" ;
+	wgs:lat "48.19737293718072" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503623> wgs:location _:node1bvvs7555x17 ;
 	rdfs:label "Meiselstrasse 2" ;
@@ -250,8 +250,8 @@ _:node1bvvs7555x17 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503624" .
 
 _:node1bvvs7555x18 a wgs:Point ;
-	wgs:lat "16.393063763363763" ;
-	wgs:long "48.23287037475946" .
+	wgs:long "16.393063763363763" ;
+	wgs:lat "48.23287037475946" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503624> wgs:location _:node1bvvs7555x18 ;
 	rdfs:label "Parkanlage Innstrasse" ;
@@ -264,8 +264,8 @@ _:node1bvvs7555x18 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503625" .
 
 _:node1bvvs7555x19 a wgs:Point ;
-	wgs:lat "16.42025643377853" ;
-	wgs:long "48.169823033588045" .
+	wgs:long "16.42025643377853" ;
+	wgs:lat "48.169823033588045" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503625> wgs:location _:node1bvvs7555x19 ;
 	rdfs:label "Simmeringer Platz 2" ;
@@ -278,8 +278,8 @@ _:node1bvvs7555x19 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503626" .
 
 _:node1bvvs7555x20 a wgs:Point ;
-	wgs:lat "16.326184422763202" ;
-	wgs:long "48.221401246668314" .
+	wgs:long "16.326184422763202" ;
+	wgs:lat "48.221401246668314" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503626> wgs:location _:node1bvvs7555x20 ;
 	rdfs:label "Gschwandnergasse 62" ;
@@ -292,8 +292,8 @@ _:node1bvvs7555x20 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503627" .
 
 _:node1bvvs7555x21 a wgs:Point ;
-	wgs:lat "16.368539306610685" ;
-	wgs:long "48.21005680007827" .
+	wgs:long "16.368539306610685" ;
+	wgs:lat "48.21005680007827" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503627> wgs:location _:node1bvvs7555x21 ;
 	rdfs:label "Bognergasse " ;
@@ -306,8 +306,8 @@ _:node1bvvs7555x21 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503628" .
 
 _:node1bvvs7555x22 a wgs:Point ;
-	wgs:lat "16.36894451265061" ;
-	wgs:long "48.20976196954249" .
+	wgs:long "16.36894451265061" ;
+	wgs:lat "48.20976196954249" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503628> wgs:location _:node1bvvs7555x22 ;
 	rdfs:label "Tuchlauben" ;
@@ -320,8 +320,8 @@ _:node1bvvs7555x22 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503629" .
 
 _:node1bvvs7555x23 a wgs:Point ;
-	wgs:lat "16.366083953697807" ;
-	wgs:long "48.20949954012878" .
+	wgs:long "16.366083953697807" ;
+	wgs:lat "48.20949954012878" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503629> wgs:location _:node1bvvs7555x23 ;
 	rdfs:label "Herrengasse" ;
@@ -334,8 +334,8 @@ _:node1bvvs7555x23 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503630" .
 
 _:node1bvvs7555x24 a wgs:Point ;
-	wgs:lat "16.327527314995002" ;
-	wgs:long "48.15944745514339" .
+	wgs:long "16.327527314995002" ;
+	wgs:lat "48.15944745514339" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503630> wgs:location _:node1bvvs7555x24 ;
 	rdfs:label "Schöpfwerk" ;
@@ -348,8 +348,8 @@ _:node1bvvs7555x24 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503631" .
 
 _:node1bvvs7555x25 a wgs:Point ;
-	wgs:lat "16.418251816715927" ;
-	wgs:long "48.242235438403476" .
+	wgs:long "16.418251816715927" ;
+	wgs:lat "48.242235438403476" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503631> wgs:location _:node1bvvs7555x25 ;
 	rdfs:label "Alte Donau Bad 2" ;
@@ -362,8 +362,8 @@ _:node1bvvs7555x25 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503632" .
 
 _:node1bvvs7555x26 a wgs:Point ;
-	wgs:lat "16.40956040859322" ;
-	wgs:long "48.23208064522991" .
+	wgs:long "16.40956040859322" ;
+	wgs:lat "48.23208064522991" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503632> wgs:location _:node1bvvs7555x26 ;
 	rdfs:label "Copa Beach 1" ;
@@ -376,8 +376,8 @@ _:node1bvvs7555x26 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503633" .
 
 _:node1bvvs7555x27 a wgs:Point ;
-	wgs:lat "16.409885015800153" ;
-	wgs:long "48.23181869818634" .
+	wgs:long "16.409885015800153" ;
+	wgs:lat "48.23181869818634" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503633> wgs:location _:node1bvvs7555x27 ;
 	rdfs:label "Copa Beach 2" ;
@@ -390,8 +390,8 @@ _:node1bvvs7555x27 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503634" .
 
 _:node1bvvs7555x28 a wgs:Point ;
-	wgs:lat "16.405915850928796" ;
-	wgs:long "48.277125264636275" .
+	wgs:long "16.405915850928796" ;
+	wgs:lat "48.277125264636275" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503634> wgs:location _:node1bvvs7555x28 ;
 	rdfs:label "Haspingerplatz" ;
@@ -404,8 +404,8 @@ _:node1bvvs7555x28 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503635" .
 
 _:node1bvvs7555x29 a wgs:Point ;
-	wgs:lat "16.349409980532204" ;
-	wgs:long "48.23329585960496" .
+	wgs:long "16.349409980532204" ;
+	wgs:lat "48.23329585960496" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503635> wgs:location _:node1bvvs7555x29 ;
 	rdfs:label "Waehringerpark_Phillippovichgasse" ;
@@ -418,8 +418,8 @@ _:node1bvvs7555x29 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503636" .
 
 _:node1bvvs7555x30 a wgs:Point ;
-	wgs:lat "16.347887138854215" ;
-	wgs:long "48.23208548615568" .
+	wgs:long "16.347887138854215" ;
+	wgs:lat "48.23208548615568" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503636> wgs:location _:node1bvvs7555x30 ;
 	rdfs:label "Waehringerpark_Skaterpark" ;
@@ -432,8 +432,8 @@ _:node1bvvs7555x30 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503637" .
 
 _:node1bvvs7555x31 a wgs:Point ;
-	wgs:lat "16.348243195165796" ;
-	wgs:long "48.23170473876423" .
+	wgs:long "16.348243195165796" ;
+	wgs:lat "48.23170473876423" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503637> wgs:location _:node1bvvs7555x31 ;
 	rdfs:label "Waehringerpark_Spielplatz" ;
@@ -446,8 +446,8 @@ _:node1bvvs7555x31 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503638" .
 
 _:node1bvvs7555x32 a wgs:Point ;
-	wgs:lat "16.392361804511566" ;
-	wgs:long "48.229178420965326" .
+	wgs:long "16.392361804511566" ;
+	wgs:lat "48.229178420965326" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503638> wgs:location _:node1bvvs7555x32 ;
 	rdfs:label "Nordbahnhofgelaende" ;
@@ -460,8 +460,8 @@ _:node1bvvs7555x32 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503352" .
 
 _:node1bvvs7555x33 a wgs:Point ;
-	wgs:lat "16.3427262703482" ;
-	wgs:long "48.18829632118833" .
+	wgs:long "16.3427262703482" ;
+	wgs:lat "48.18829632118833" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503352> wgs:location _:node1bvvs7555x33 ;
 	rdfs:label "Bruno Kreisky Park" ;
@@ -474,8 +474,8 @@ _:node1bvvs7555x33 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503353" .
 
 _:node1bvvs7555x34 a wgs:Point ;
-	wgs:lat "16.351374122248632" ;
-	wgs:long "48.180318974793266" .
+	wgs:long "16.351374122248632" ;
+	wgs:lat "48.180318974793266" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503353> wgs:location _:node1bvvs7555x34 ;
 	rdfs:label "Herweghpark" ;
@@ -488,8 +488,8 @@ _:node1bvvs7555x34 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503354" .
 
 _:node1bvvs7555x35 a wgs:Point ;
-	wgs:lat "16.349523883148997" ;
-	wgs:long "48.18537507611625" .
+	wgs:long "16.349523883148997" ;
+	wgs:lat "48.18537507611625" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503354> wgs:location _:node1bvvs7555x35 ;
 	rdfs:label "Einsiedlerpark" ;
@@ -502,8 +502,8 @@ _:node1bvvs7555x35 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503355" .
 
 _:node1bvvs7555x36 a wgs:Point ;
-	wgs:lat "16.343073666234137" ;
-	wgs:long "48.18735139661088" .
+	wgs:long "16.343073666234137" ;
+	wgs:lat "48.18735139661088" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503355> wgs:location _:node1bvvs7555x36 ;
 	rdfs:label "Margaretenguertel" ;
@@ -516,8 +516,8 @@ _:node1bvvs7555x36 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503356" .
 
 _:node1bvvs7555x37 a wgs:Point ;
-	wgs:lat "16.34576349808581" ;
-	wgs:long "48.18414500195759" .
+	wgs:long "16.34576349808581" ;
+	wgs:lat "48.18414500195759" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503356> wgs:location _:node1bvvs7555x37 ;
 	rdfs:label "Margaretenguertel # Arbeitergasse" ;
@@ -530,8 +530,8 @@ _:node1bvvs7555x37 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503357" .
 
 _:node1bvvs7555x38 a wgs:Point ;
-	wgs:lat "16.344771857457523" ;
-	wgs:long "48.22610446490216" .
+	wgs:long "16.344771857457523" ;
+	wgs:lat "48.22610446490216" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503357> wgs:location _:node1bvvs7555x38 ;
 	rdfs:label "Gertrudplatz" ;
@@ -544,8 +544,8 @@ _:node1bvvs7555x38 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503358" .
 
 _:node1bvvs7555x39 a wgs:Point ;
-	wgs:lat "16.36254998526943" ;
-	wgs:long "48.18501598791897" .
+	wgs:long "16.36254998526943" ;
+	wgs:lat "48.18501598791897" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503358> wgs:location _:node1bvvs7555x39 ;
 	rdfs:label "Klieberpark " ;
@@ -558,8 +558,8 @@ _:node1bvvs7555x39 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503359" .
 
 _:node1bvvs7555x40 a wgs:Point ;
-	wgs:lat "16.366525758868338" ;
-	wgs:long "48.19019002103599" .
+	wgs:long "16.366525758868338" ;
+	wgs:lat "48.19019002103599" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503359> wgs:location _:node1bvvs7555x40 ;
 	rdfs:label "Wiedner Hauptstrasse WK" ;
@@ -572,8 +572,8 @@ _:node1bvvs7555x40 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503360" .
 
 _:node1bvvs7555x41 a wgs:Point ;
-	wgs:lat "16.355319104264748" ;
-	wgs:long "48.18796750173649" .
+	wgs:long "16.355319104264748" ;
+	wgs:lat "48.18796750173649" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503360> wgs:location _:node1bvvs7555x41 ;
 	rdfs:label "Bacherpark" ;
@@ -586,8 +586,8 @@ _:node1bvvs7555x41 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503361" .
 
 _:node1bvvs7555x42 a wgs:Point ;
-	wgs:lat "16.338664366557573" ;
-	wgs:long "48.18947745435026" .
+	wgs:long "16.338664366557573" ;
+	wgs:lat "48.18947745435026" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503361> wgs:location _:node1bvvs7555x42 ;
 	rdfs:label "Fritz Imhoff Park" ;
@@ -600,8 +600,8 @@ _:node1bvvs7555x42 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503362" .
 
 _:node1bvvs7555x43 a wgs:Point ;
-	wgs:lat "16.35933844575115" ;
-	wgs:long "48.19699994786815" .
+	wgs:long "16.35933844575115" ;
+	wgs:lat "48.19699994786815" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503362> wgs:location _:node1bvvs7555x43 ;
 	rdfs:label "Naschmarkt" ;
@@ -614,8 +614,8 @@ _:node1bvvs7555x43 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503363" .
 
 _:node1bvvs7555x44 a wgs:Point ;
-	wgs:lat "16.379625049425627" ;
-	wgs:long "48.191249219163694" .
+	wgs:long "16.379625049425627" ;
+	wgs:lat "48.191249219163694" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503363> wgs:location _:node1bvvs7555x44 ;
 	rdfs:label "Belvedere" ;
@@ -628,8 +628,8 @@ _:node1bvvs7555x44 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503364" .
 
 _:node1bvvs7555x45 a wgs:Point ;
-	wgs:lat "16.381334979420696" ;
-	wgs:long "48.18848406570025" .
+	wgs:long "16.381334979420696" ;
+	wgs:lat "48.18848406570025" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503364> wgs:location _:node1bvvs7555x45 ;
 	rdfs:label "Belvedere" ;
@@ -642,8 +642,8 @@ _:node1bvvs7555x45 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503365" .
 
 _:node1bvvs7555x46 a wgs:Point ;
-	wgs:lat "16.381004319645665" ;
-	wgs:long "48.20349803557613" .
+	wgs:long "16.381004319645665" ;
+	wgs:lat "48.20349803557613" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503365> wgs:location _:node1bvvs7555x46 ;
 	rdfs:label "Stadtpark" ;
@@ -656,8 +656,8 @@ _:node1bvvs7555x46 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503366" .
 
 _:node1bvvs7555x47 a wgs:Point ;
-	wgs:lat "16.378406508106064" ;
-	wgs:long "48.2024118223103" .
+	wgs:long "16.378406508106064" ;
+	wgs:lat "48.2024118223103" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503366> wgs:location _:node1bvvs7555x47 ;
 	rdfs:label "Lothringerstrasse 13" ;
@@ -670,8 +670,8 @@ _:node1bvvs7555x47 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503367" .
 
 _:node1bvvs7555x48 a wgs:Point ;
-	wgs:lat "16.377368905614876" ;
-	wgs:long "48.20139149294464" .
+	wgs:long "16.377368905614876" ;
+	wgs:lat "48.20139149294464" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503367> wgs:location _:node1bvvs7555x48 ;
 	rdfs:label "Lothringerstrasse 20" ;
@@ -684,8 +684,8 @@ _:node1bvvs7555x48 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503368" .
 
 _:node1bvvs7555x49 a wgs:Point ;
-	wgs:lat "16.382861715066273" ;
-	wgs:long "48.199304386827485" .
+	wgs:long "16.382861715066273" ;
+	wgs:lat "48.199304386827485" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503368> wgs:location _:node1bvvs7555x49 ;
 	rdfs:label "Am Modenapark 7 " ;
@@ -698,8 +698,8 @@ _:node1bvvs7555x49 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503369" .
 
 _:node1bvvs7555x50 a wgs:Point ;
-	wgs:lat "16.40225496286626" ;
-	wgs:long "48.197395852183064" .
+	wgs:long "16.40225496286626" ;
+	wgs:lat "48.197395852183064" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503369> wgs:location _:node1bvvs7555x50 ;
 	rdfs:label "Kardinal Nagl Platz 1" ;
@@ -712,8 +712,8 @@ _:node1bvvs7555x50 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503370" .
 
 _:node1bvvs7555x51 a wgs:Point ;
-	wgs:lat "16.391740530128132" ;
-	wgs:long "48.19912633860213" .
+	wgs:long "16.391740530128132" ;
+	wgs:lat "48.19912633860213" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503370> wgs:location _:node1bvvs7555x51 ;
 	rdfs:label "Arenbergpark" ;
@@ -726,8 +726,8 @@ _:node1bvvs7555x51 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503371" .
 
 _:node1bvvs7555x52 a wgs:Point ;
-	wgs:lat "16.403819356943984" ;
-	wgs:long "48.187699981008606" .
+	wgs:long "16.403819356943984" ;
+	wgs:lat "48.187699981008606" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503371> wgs:location _:node1bvvs7555x52 ;
 	rdfs:label "Robert Hochner Park" ;
@@ -740,8 +740,8 @@ _:node1bvvs7555x52 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503372" .
 
 _:node1bvvs7555x53 a wgs:Point ;
-	wgs:lat "16.404865714081136" ;
-	wgs:long "48.18849188598617" .
+	wgs:long "16.404865714081136" ;
+	wgs:lat "48.18849188598617" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503372> wgs:location _:node1bvvs7555x53 ;
 	rdfs:label "Karl Farkas Gasse 20" ;
@@ -754,8 +754,8 @@ _:node1bvvs7555x53 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503373" .
 
 _:node1bvvs7555x54 a wgs:Point ;
-	wgs:lat "16.390470805869754" ;
-	wgs:long "48.202709465225205" .
+	wgs:long "16.390470805869754" ;
+	wgs:lat "48.202709465225205" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503373> wgs:location _:node1bvvs7555x54 ;
 	rdfs:label "Rochusmarkt" ;
@@ -768,8 +768,8 @@ _:node1bvvs7555x54 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503374" .
 
 _:node1bvvs7555x55 a wgs:Point ;
-	wgs:lat "16.385268992131937" ;
-	wgs:long "48.205784491925805" .
+	wgs:long "16.385268992131937" ;
+	wgs:lat "48.205784491925805" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503374> wgs:location _:node1bvvs7555x55 ;
 	rdfs:label "Landstrasse Hauptstrasse 2A" ;
@@ -782,8 +782,8 @@ _:node1bvvs7555x55 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503375" .
 
 _:node1bvvs7555x56 a wgs:Point ;
-	wgs:lat "16.368326709449402" ;
-	wgs:long "48.18648214955687" .
+	wgs:long "16.368326709449402" ;
+	wgs:lat "48.18648214955687" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503375> wgs:location _:node1bvvs7555x56 ;
 	rdfs:label "Alois Drasche Park 4" ;
@@ -796,8 +796,8 @@ _:node1bvvs7555x56 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503376" .
 
 _:node1bvvs7555x57 a wgs:Point ;
-	wgs:lat "16.371115629487317" ;
-	wgs:long "48.19860510395947" .
+	wgs:long "16.371115629487317" ;
+	wgs:lat "48.19860510395947" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503376> wgs:location _:node1bvvs7555x57 ;
 	rdfs:label "Resselpark" ;
@@ -810,8 +810,8 @@ _:node1bvvs7555x57 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503377" .
 
 _:node1bvvs7555x58 a wgs:Point ;
-	wgs:lat "16.36842129450839" ;
-	wgs:long "48.19961665691708" .
+	wgs:long "16.36842129450839" ;
+	wgs:lat "48.19961665691708" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503377> wgs:location _:node1bvvs7555x58 ;
 	rdfs:label "Resselpark" ;
@@ -824,8 +824,8 @@ _:node1bvvs7555x58 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503378" .
 
 _:node1bvvs7555x59 a wgs:Point ;
-	wgs:lat "16.35663565916286" ;
-	wgs:long "48.19669127752109" .
+	wgs:long "16.35663565916286" ;
+	wgs:lat "48.19669127752109" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503378> wgs:location _:node1bvvs7555x59 ;
 	rdfs:label "Naschmarkt" ;
@@ -838,8 +838,8 @@ _:node1bvvs7555x59 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503379" .
 
 _:node1bvvs7555x60 a wgs:Point ;
-	wgs:lat "16.363390543251583" ;
-	wgs:long "48.1986681474042" .
+	wgs:long "16.363390543251583" ;
+	wgs:lat "48.1986681474042" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503379> wgs:location _:node1bvvs7555x60 ;
 	rdfs:label "Naschmarkt" ;
@@ -852,8 +852,8 @@ _:node1bvvs7555x60 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503380" .
 
 _:node1bvvs7555x61 a wgs:Point ;
-	wgs:lat "16.35410396737475" ;
-	wgs:long "48.19780631942908" .
+	wgs:long "16.35410396737475" ;
+	wgs:lat "48.19780631942908" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503380> wgs:location _:node1bvvs7555x61 ;
 	rdfs:label "Esterházypark" ;
@@ -866,8 +866,8 @@ _:node1bvvs7555x61 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503381" .
 
 _:node1bvvs7555x62 a wgs:Point ;
-	wgs:lat "16.351795709207007" ;
-	wgs:long "48.19790874044473" .
+	wgs:long "16.351795709207007" ;
+	wgs:lat "48.19790874044473" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503381> wgs:location _:node1bvvs7555x62 ;
 	rdfs:label "Esterházypark" ;
@@ -880,8 +880,8 @@ _:node1bvvs7555x62 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503382" .
 
 _:node1bvvs7555x63 a wgs:Point ;
-	wgs:lat "16.348706591040816" ;
-	wgs:long "48.189463760897766" .
+	wgs:long "16.348706591040816" ;
+	wgs:lat "48.189463760897766" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503382> wgs:location _:node1bvvs7555x63 ;
 	rdfs:label "Therese Sip Park" ;
@@ -894,8 +894,8 @@ _:node1bvvs7555x63 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503383" .
 
 _:node1bvvs7555x64 a wgs:Point ;
-	wgs:lat "16.34397664111267" ;
-	wgs:long "48.1907104896432" .
+	wgs:long "16.34397664111267" ;
+	wgs:lat "48.1907104896432" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503383> wgs:location _:node1bvvs7555x64 ;
 	rdfs:label "Lutherplatz" ;
@@ -908,8 +908,8 @@ _:node1bvvs7555x64 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503384" .
 
 _:node1bvvs7555x65 a wgs:Point ;
-	wgs:lat "16.346450891217906" ;
-	wgs:long "48.19227675559033" .
+	wgs:long "16.346450891217906" ;
+	wgs:lat "48.19227675559033" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503384> wgs:location _:node1bvvs7555x65 ;
 	rdfs:label "Hubert Marischka Park" ;
@@ -922,8 +922,8 @@ _:node1bvvs7555x65 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503385" .
 
 _:node1bvvs7555x66 a wgs:Point ;
-	wgs:lat "16.34783412026504" ;
-	wgs:long "48.191206844692545" .
+	wgs:long "16.34783412026504" ;
+	wgs:lat "48.191206844692545" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503385> wgs:location _:node1bvvs7555x66 ;
 	rdfs:label "Kurt Pint Platz" ;
@@ -936,8 +936,8 @@ _:node1bvvs7555x66 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503386" .
 
 _:node1bvvs7555x67 a wgs:Point ;
-	wgs:lat "16.342622695432393" ;
-	wgs:long "48.20753459662565" .
+	wgs:long "16.342622695432393" ;
+	wgs:lat "48.20753459662565" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503386> wgs:location _:node1bvvs7555x67 ;
 	rdfs:label "Ceija Stojka Platz" ;
@@ -950,8 +950,8 @@ _:node1bvvs7555x67 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503387" .
 
 _:node1bvvs7555x68 a wgs:Point ;
-	wgs:lat "16.33788068000756" ;
-	wgs:long "48.20072054483466" .
+	wgs:long "16.33788068000756" ;
+	wgs:lat "48.20072054483466" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503387> wgs:location _:node1bvvs7555x68 ;
 	rdfs:label "Neubauguertel" ;
@@ -964,8 +964,8 @@ _:node1bvvs7555x68 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503388" .
 
 _:node1bvvs7555x69 a wgs:Point ;
-	wgs:lat "16.33874895850746" ;
-	wgs:long "48.19847735622063" .
+	wgs:long "16.33874895850746" ;
+	wgs:lat "48.19847735622063" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503388> wgs:location _:node1bvvs7555x69 ;
 	rdfs:label "Neubauguertel" ;
@@ -978,8 +978,8 @@ _:node1bvvs7555x69 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503389" .
 
 _:node1bvvs7555x70 a wgs:Point ;
-	wgs:lat "16.346349339381188" ;
-	wgs:long "48.20441223268143" .
+	wgs:long "16.346349339381188" ;
+	wgs:lat "48.20441223268143" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503389> wgs:location _:node1bvvs7555x70 ;
 	rdfs:label "Karl Farkas Park" ;
@@ -992,8 +992,8 @@ _:node1bvvs7555x70 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503390" .
 
 _:node1bvvs7555x71 a wgs:Point ;
-	wgs:lat "16.34722042720344" ;
-	wgs:long "48.19875768475824" .
+	wgs:long "16.34722042720344" ;
+	wgs:lat "48.19875768475824" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503390> wgs:location _:node1bvvs7555x71 ;
 	rdfs:label "Andreaspark" ;
@@ -1006,8 +1006,8 @@ _:node1bvvs7555x71 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503391" .
 
 _:node1bvvs7555x72 a wgs:Point ;
-	wgs:lat "16.358115025423647" ;
-	wgs:long "48.19156106199018" .
+	wgs:long "16.358115025423647" ;
+	wgs:lat "48.19156106199018" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503391> wgs:location _:node1bvvs7555x72 ;
 	rdfs:label "Margaretenplatz" ;
@@ -1020,8 +1020,8 @@ _:node1bvvs7555x72 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503392" .
 
 _:node1bvvs7555x73 a wgs:Point ;
-	wgs:lat "16.35694116714742" ;
-	wgs:long "48.205683031832244" .
+	wgs:long "16.35694116714742" ;
+	wgs:lat "48.205683031832244" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503392> wgs:location _:node1bvvs7555x73 ;
 	rdfs:label "Weghuberpark" ;
@@ -1034,8 +1034,8 @@ _:node1bvvs7555x73 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503393" .
 
 _:node1bvvs7555x74 a wgs:Point ;
-	wgs:lat "16.355790023267602" ;
-	wgs:long "48.2066286280189" .
+	wgs:long "16.355790023267602" ;
+	wgs:lat "48.2066286280189" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503393> wgs:location _:node1bvvs7555x74 ;
 	rdfs:label "Weghuberpark" ;
@@ -1048,8 +1048,8 @@ _:node1bvvs7555x74 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503394" .
 
 _:node1bvvs7555x75 a wgs:Point ;
-	wgs:lat "16.337980203851323" ;
-	wgs:long "48.2014429210534" .
+	wgs:long "16.337980203851323" ;
+	wgs:lat "48.2014429210534" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503394> wgs:location _:node1bvvs7555x75 ;
 	rdfs:label "Urban Loritz Platz " ;
@@ -1062,8 +1062,8 @@ _:node1bvvs7555x75 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503395" .
 
 _:node1bvvs7555x76 a wgs:Point ;
-	wgs:lat "16.359914212270855" ;
-	wgs:long "48.203828372823935" .
+	wgs:long "16.359914212270855" ;
+	wgs:lat "48.203828372823935" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503395> wgs:location _:node1bvvs7555x76 ;
 	rdfs:label "Museumsquartier" ;
@@ -1076,8 +1076,8 @@ _:node1bvvs7555x76 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503396" .
 
 _:node1bvvs7555x77 a wgs:Point ;
-	wgs:lat "16.358866713457818" ;
-	wgs:long "48.20429253841565" .
+	wgs:long "16.358866713457818" ;
+	wgs:lat "48.20429253841565" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503396> wgs:location _:node1bvvs7555x77 ;
 	rdfs:label "Museumsquartier" ;
@@ -1090,8 +1090,8 @@ _:node1bvvs7555x77 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503397" .
 
 _:node1bvvs7555x78 a wgs:Point ;
-	wgs:lat "16.34649549860102" ;
-	wgs:long "48.21238773464275" .
+	wgs:long "16.34649549860102" ;
+	wgs:lat "48.21238773464275" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503397> wgs:location _:node1bvvs7555x78 ;
 	rdfs:label "Schlesingerplatz" ;
@@ -1104,8 +1104,8 @@ _:node1bvvs7555x78 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503398" .
 
 _:node1bvvs7555x79 a wgs:Point ;
-	wgs:lat "16.349049815835134" ;
-	wgs:long "48.21507184774883" .
+	wgs:long "16.349049815835134" ;
+	wgs:lat "48.21507184774883" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503398> wgs:location _:node1bvvs7555x79 ;
 	rdfs:label "Alser Spitz" ;
@@ -1118,8 +1118,8 @@ _:node1bvvs7555x79 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503399" .
 
 _:node1bvvs7555x80 a wgs:Point ;
-	wgs:lat "16.34399658639088" ;
-	wgs:long "48.21424641153909" .
+	wgs:long "16.34399658639088" ;
+	wgs:lat "48.21424641153909" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503399> wgs:location _:node1bvvs7555x80 ;
 	rdfs:label "Albertplatz" ;
@@ -1132,8 +1132,8 @@ _:node1bvvs7555x80 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503400" .
 
 _:node1bvvs7555x81 a wgs:Point ;
-	wgs:lat "16.41363759270182" ;
-	wgs:long "48.22460837155819" .
+	wgs:long "16.41363759270182" ;
+	wgs:lat "48.22460837155819" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503400> wgs:location _:node1bvvs7555x81 ;
 	rdfs:label "Wasserspielplatz" ;
@@ -1146,8 +1146,8 @@ _:node1bvvs7555x81 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503401" .
 
 _:node1bvvs7555x82 a wgs:Point ;
-	wgs:lat "16.415658093240047" ;
-	wgs:long "48.223100763105144" .
+	wgs:long "16.415658093240047" ;
+	wgs:lat "48.223100763105144" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503401> wgs:location _:node1bvvs7555x82 ;
 	rdfs:label "Liegewiese" ;
@@ -1160,8 +1160,8 @@ _:node1bvvs7555x82 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503402" .
 
 _:node1bvvs7555x83 a wgs:Point ;
-	wgs:lat "16.417933300981726" ;
-	wgs:long "48.22188901031957" .
+	wgs:long "16.417933300981726" ;
+	wgs:lat "48.22188901031957" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503402> wgs:location _:node1bvvs7555x83 ;
 	rdfs:label "Kaisermuehlenbruecke" ;
@@ -1174,8 +1174,8 @@ _:node1bvvs7555x83 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503403" .
 
 _:node1bvvs7555x84 a wgs:Point ;
-	wgs:lat "16.301119180969238" ;
-	wgs:long "48.23769169106475" .
+	wgs:long "16.301119180969238" ;
+	wgs:lat "48.23769169106475" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503403> wgs:location _:node1bvvs7555x84 ;
 	rdfs:label "Schafbergbad_Rutsche" ;
@@ -1188,8 +1188,8 @@ _:node1bvvs7555x84 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503404" .
 
 _:node1bvvs7555x85 a wgs:Point ;
-	wgs:lat "16.299587393133837" ;
-	wgs:long "48.23827495782313" .
+	wgs:long "16.299587393133837" ;
+	wgs:lat "48.23827495782313" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503404> wgs:location _:node1bvvs7555x85 ;
 	rdfs:label "Schafbergbad_Kassa" ;
@@ -1202,8 +1202,8 @@ _:node1bvvs7555x85 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503405" .
 
 _:node1bvvs7555x86 a wgs:Point ;
-	wgs:lat "16.365632140417375" ;
-	wgs:long "48.19991993212558" .
+	wgs:long "16.365632140417375" ;
+	wgs:lat "48.19991993212558" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503405> wgs:location _:node1bvvs7555x86 ;
 	rdfs:label "Naschmarkt Secession" ;
@@ -1216,8 +1216,8 @@ _:node1bvvs7555x86 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503406" .
 
 _:node1bvvs7555x87 a wgs:Point ;
-	wgs:lat "16.404426482379765" ;
-	wgs:long "48.26912332978283" .
+	wgs:long "16.404426482379765" ;
+	wgs:lat "48.26912332978283" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503406> wgs:location _:node1bvvs7555x87 ;
 	rdfs:label "KH Nord" ;
@@ -1230,8 +1230,8 @@ _:node1bvvs7555x87 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503407" .
 
 _:node1bvvs7555x88 a wgs:Point ;
-	wgs:lat "16.336476761323127" ;
-	wgs:long "48.22823545042054" .
+	wgs:long "16.336476761323127" ;
+	wgs:lat "48.22823545042054" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503407> wgs:location _:node1bvvs7555x88 ;
 	rdfs:label "Norbert Liebemann" ;
@@ -1244,8 +1244,8 @@ _:node1bvvs7555x88 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503408" .
 
 _:node1bvvs7555x89 a wgs:Point ;
-	wgs:lat "16.43257720745409" ;
-	wgs:long "48.243269522631145" .
+	wgs:long "16.43257720745409" ;
+	wgs:lat "48.243269522631145" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503408> wgs:location _:node1bvvs7555x89 ;
 	rdfs:label "Forum Donaustadt 1" ;
@@ -1258,8 +1258,8 @@ _:node1bvvs7555x89 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503409" .
 
 _:node1bvvs7555x90 a wgs:Point ;
-	wgs:lat "16.433413694887186" ;
-	wgs:long "48.24316100781625" .
+	wgs:long "16.433413694887186" ;
+	wgs:lat "48.24316100781625" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503409> wgs:location _:node1bvvs7555x90 ;
 	rdfs:label "Dr Adolf Schaerf Platz" ;
@@ -1272,8 +1272,8 @@ _:node1bvvs7555x90 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503410" .
 
 _:node1bvvs7555x91 a wgs:Point ;
-	wgs:lat "16.43397735280317" ;
-	wgs:long "48.24486445597348" .
+	wgs:long "16.43397735280317" ;
+	wgs:lat "48.24486445597348" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503410> wgs:location _:node1bvvs7555x91 ;
 	rdfs:label "Forum Donaustadt 2" ;
@@ -1286,8 +1286,8 @@ _:node1bvvs7555x91 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503411" .
 
 _:node1bvvs7555x92 a wgs:Point ;
-	wgs:lat "16.338846553138552" ;
-	wgs:long "48.19647937107561" .
+	wgs:long "16.338846553138552" ;
+	wgs:lat "48.19647937107561" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503411> wgs:location _:node1bvvs7555x92 ;
 	rdfs:label "Europaplatz Einfahrt" ;
@@ -1300,8 +1300,8 @@ _:node1bvvs7555x92 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503412" .
 
 _:node1bvvs7555x93 a wgs:Point ;
-	wgs:lat "16.338585975005856" ;
-	wgs:long "48.1971711804325" .
+	wgs:long "16.338585975005856" ;
+	wgs:lat "48.1971711804325" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503412> wgs:location _:node1bvvs7555x93 ;
 	rdfs:label "Europaplatz Ausfahrt" ;
@@ -1314,8 +1314,8 @@ _:node1bvvs7555x93 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503413" .
 
 _:node1bvvs7555x94 a wgs:Point ;
-	wgs:lat "16.37731959329942" ;
-	wgs:long "48.23958878143743" .
+	wgs:long "16.37731959329942" ;
+	wgs:lat "48.23958878143743" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503413> wgs:location _:node1bvvs7555x94 ;
 	rdfs:label "Hoechstaedtplatz " ;
@@ -1328,8 +1328,8 @@ _:node1bvvs7555x94 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503414" .
 
 _:node1bvvs7555x95 a wgs:Point ;
-	wgs:lat "16.387107954722453" ;
-	wgs:long "48.15888697237064" .
+	wgs:long "16.387107954722453" ;
+	wgs:lat "48.15888697237064" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503414> wgs:location _:node1bvvs7555x95 ;
 	rdfs:label "Volkspark Laaerberg" ;
@@ -1342,8 +1342,8 @@ _:node1bvvs7555x95 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503446" .
 
 _:node1bvvs7555x96 a wgs:Point ;
-	wgs:lat "16.313250659426018" ;
-	wgs:long "48.18787024541142" .
+	wgs:long "16.313250659426018" ;
+	wgs:lat "48.18787024541142" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503446> wgs:location _:node1bvvs7555x96 ;
 	rdfs:label "Hadikpark" ;
@@ -1356,8 +1356,8 @@ _:node1bvvs7555x96 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503447" .
 
 _:node1bvvs7555x97 a wgs:Point ;
-	wgs:lat "16.314813783555635" ;
-	wgs:long "48.187817358983665" .
+	wgs:long "16.314813783555635" ;
+	wgs:lat "48.187817358983665" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503447> wgs:location _:node1bvvs7555x97 ;
 	rdfs:label "Linke Wienzeile Schlossbruecke " ;
@@ -1370,8 +1370,8 @@ _:node1bvvs7555x97 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503448" .
 
 _:node1bvvs7555x98 a wgs:Point ;
-	wgs:lat "16.22283059438511" ;
-	wgs:long "48.20868262766508" .
+	wgs:long "16.22283059438511" ;
+	wgs:lat "48.20868262766508" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503448> wgs:location _:node1bvvs7555x98 ;
 	rdfs:label "Hadersdorf Weidlingau Bad" ;
@@ -1384,8 +1384,8 @@ _:node1bvvs7555x98 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503449" .
 
 _:node1bvvs7555x99 a wgs:Point ;
-	wgs:lat "16.40268375211248" ;
-	wgs:long "48.24893135196298" .
+	wgs:long "16.40268375211248" ;
+	wgs:lat "48.24893135196298" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503449> wgs:location _:node1bvvs7555x99 ;
 	rdfs:label "Angelibad" ;
@@ -1398,8 +1398,8 @@ _:node1bvvs7555x99 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503450" .
 
 _:node1bvvs7555x100 a wgs:Point ;
-	wgs:lat "16.28533733978099" ;
-	wgs:long "48.14756927924014" .
+	wgs:long "16.28533733978099" ;
+	wgs:lat "48.14756927924014" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503450> wgs:location _:node1bvvs7555x100 ;
 	rdfs:label "Höpflerbad" ;
@@ -1412,8 +1412,8 @@ _:node1bvvs7555x100 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503451" .
 
 _:node1bvvs7555x101 a wgs:Point ;
-	wgs:lat "16.281044697212593" ;
-	wgs:long "48.13261912045306" .
+	wgs:long "16.281044697212593" ;
+	wgs:lat "48.13261912045306" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503451> wgs:location _:node1bvvs7555x101 ;
 	rdfs:label "Liesingerbad" ;
@@ -1426,8 +1426,8 @@ _:node1bvvs7555x101 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503452" .
 
 _:node1bvvs7555x102 a wgs:Point ;
-	wgs:lat "16.283391273042753" ;
-	wgs:long "48.19874901006262" .
+	wgs:long "16.283391273042753" ;
+	wgs:lat "48.19874901006262" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503452> wgs:location _:node1bvvs7555x102 ;
 	rdfs:label "Pachmanngasse 14" ;
@@ -1440,8 +1440,8 @@ _:node1bvvs7555x102 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503453" .
 
 _:node1bvvs7555x103 a wgs:Point ;
-	wgs:lat "16.383974313367666" ;
-	wgs:long "48.15920009604129" .
+	wgs:long "16.383974313367666" ;
+	wgs:lat "48.15920009604129" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503453> wgs:location _:node1bvvs7555x103 ;
 	rdfs:label "Laabergbad 2" ;
@@ -1454,8 +1454,8 @@ _:node1bvvs7555x103 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503454" .
 
 _:node1bvvs7555x104 a wgs:Point ;
-	wgs:lat "16.38544369905847" ;
-	wgs:long "48.1592512698147" .
+	wgs:long "16.38544369905847" ;
+	wgs:lat "48.1592512698147" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503454> wgs:location _:node1bvvs7555x104 ;
 	rdfs:label "Laabergbad 1" ;
@@ -1468,8 +1468,8 @@ _:node1bvvs7555x104 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503458" .
 
 _:node1bvvs7555x105 a wgs:Point ;
-	wgs:lat "16.483507564946585" ;
-	wgs:long "48.21788820275743" .
+	wgs:long "16.483507564946585" ;
+	wgs:lat "48.21788820275743" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503458> wgs:location _:node1bvvs7555x105 ;
 	rdfs:label "Asperner Heldenplatz " ;
@@ -1482,8 +1482,8 @@ _:node1bvvs7555x105 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503459" .
 
 _:node1bvvs7555x106 a wgs:Point ;
-	wgs:lat "16.31225406553239" ;
-	wgs:long "48.21532941074932" .
+	wgs:long "16.31225406553239" ;
+	wgs:lat "48.21532941074932" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503459> wgs:location _:node1bvvs7555x106 ;
 	rdfs:label "Mildeplatz" ;
@@ -1496,8 +1496,8 @@ _:node1bvvs7555x106 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503460" .
 
 _:node1bvvs7555x107 a wgs:Point ;
-	wgs:lat "16.357817342875954" ;
-	wgs:long "48.205064006205504" .
+	wgs:long "16.357817342875954" ;
+	wgs:lat "48.205064006205504" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503460> wgs:location _:node1bvvs7555x107 ;
 	rdfs:label "Volkstheater" ;
@@ -1510,8 +1510,8 @@ _:node1bvvs7555x107 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503461" .
 
 _:node1bvvs7555x108 a wgs:Point ;
-	wgs:lat "16.32865513459757" ;
-	wgs:long "48.231867228977976" .
+	wgs:long "16.32865513459757" ;
+	wgs:lat "48.231867228977976" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503461> wgs:location _:node1bvvs7555x108 ;
 	rdfs:label "Gersthofermarkt" ;
@@ -1524,8 +1524,8 @@ _:node1bvvs7555x108 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503462" .
 
 _:node1bvvs7555x109 a wgs:Point ;
-	wgs:lat "16.41729508774431" ;
-	wgs:long "48.24279892246585" .
+	wgs:long "16.41729508774431" ;
+	wgs:lat "48.24279892246585" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503462> wgs:location _:node1bvvs7555x109 ;
 	rdfs:label "Alte Donau Bad" ;
@@ -1538,8 +1538,8 @@ _:node1bvvs7555x109 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503463" .
 
 _:node1bvvs7555x110 a wgs:Point ;
-	wgs:lat "16.375496744280472" ;
-	wgs:long "48.18112189909524" .
+	wgs:long "16.375496744280472" ;
+	wgs:lat "48.18112189909524" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503463> wgs:location _:node1bvvs7555x110 ;
 	rdfs:label "Favoritenstrasse" ;
@@ -1552,8 +1552,8 @@ _:node1bvvs7555x110 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503464" .
 
 _:node1bvvs7555x111 a wgs:Point ;
-	wgs:lat "16.376529266738324" ;
-	wgs:long "48.177997210261836" .
+	wgs:long "16.376529266738324" ;
+	wgs:lat "48.177997210261836" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503464> wgs:location _:node1bvvs7555x111 ;
 	rdfs:label "Favoritenstrasse 80" ;
@@ -1566,8 +1566,8 @@ _:node1bvvs7555x111 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503465" .
 
 _:node1bvvs7555x112 a wgs:Point ;
-	wgs:lat "16.33698746371973" ;
-	wgs:long "48.19774707023751" .
+	wgs:long "16.33698746371973" ;
+	wgs:lat "48.19774707023751" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503465> wgs:location _:node1bvvs7555x112 ;
 	rdfs:label "Felberstrasse # Pelzgasse" ;
@@ -1580,8 +1580,8 @@ _:node1bvvs7555x112 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503469" .
 
 _:node1bvvs7555x113 a wgs:Point ;
-	wgs:lat "16.416238040131915" ;
-	wgs:long "48.20435001623181" .
+	wgs:long "16.416238040131915" ;
+	wgs:lat "48.20435001623181" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503469> wgs:location _:node1bvvs7555x113 ;
 	rdfs:label "Hauptallee" ;
@@ -1594,8 +1594,8 @@ _:node1bvvs7555x113 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503470" .
 
 _:node1bvvs7555x114 a wgs:Point ;
-	wgs:lat "16.400090790561002" ;
-	wgs:long "48.212812210964316" .
+	wgs:long "16.400090790561002" ;
+	wgs:lat "48.212812210964316" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503470> wgs:location _:node1bvvs7555x114 ;
 	rdfs:label "Hauptallee Skaterpark" ;
@@ -1608,8 +1608,8 @@ _:node1bvvs7555x114 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503471" .
 
 _:node1bvvs7555x115 a wgs:Point ;
-	wgs:lat "16.38086540601272" ;
-	wgs:long "48.21890436107006" .
+	wgs:long "16.38086540601272" ;
+	wgs:lat "48.21890436107006" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503471> wgs:location _:node1bvvs7555x115 ;
 	rdfs:label "Taborstrasse" ;
@@ -1622,8 +1622,8 @@ _:node1bvvs7555x115 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503472" .
 
 _:node1bvvs7555x116 a wgs:Point ;
-	wgs:lat "16.384306886384646" ;
-	wgs:long "48.21463148693494" .
+	wgs:long "16.384306886384646" ;
+	wgs:lat "48.21463148693494" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503472> wgs:location _:node1bvvs7555x116 ;
 	rdfs:label "Nestroyplatz" ;
@@ -1636,8 +1636,8 @@ _:node1bvvs7555x116 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503473" .
 
 _:node1bvvs7555x117 a wgs:Point ;
-	wgs:lat "16.40186964828711" ;
-	wgs:long "48.22195897090592" .
+	wgs:long "16.40186964828711" ;
+	wgs:lat "48.22195897090592" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503473> wgs:location _:node1bvvs7555x117 ;
 	rdfs:label "Vorgartenmarkt" ;
@@ -1650,8 +1650,8 @@ _:node1bvvs7555x117 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503474" .
 
 _:node1bvvs7555x118 a wgs:Point ;
-	wgs:lat "16.373684797949334" ;
-	wgs:long "48.186442128403186" .
+	wgs:long "16.373684797949334" ;
+	wgs:lat "48.186442128403186" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503474> wgs:location _:node1bvvs7555x118 ;
 	rdfs:label "Suedtiroler Platz" ;
@@ -1664,8 +1664,8 @@ _:node1bvvs7555x118 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503475" .
 
 _:node1bvvs7555x119 a wgs:Point ;
-	wgs:lat "16.338708784444645" ;
-	wgs:long "48.22653189992177" .
+	wgs:long "16.338708784444645" ;
+	wgs:lat "48.22653189992177" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503475> wgs:location _:node1bvvs7555x119 ;
 	rdfs:label "Schubertpark" ;
@@ -1678,8 +1678,8 @@ _:node1bvvs7555x119 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503540" .
 
 _:node1bvvs7555x120 a wgs:Point ;
-	wgs:lat "16.41786248921644" ;
-	wgs:long "48.185801029546276" .
+	wgs:long "16.41786248921644" ;
+	wgs:lat "48.185801029546276" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503540> wgs:location _:node1bvvs7555x120 ;
 	rdfs:label "U3 Gasometer" ;
@@ -1692,8 +1692,8 @@ _:node1bvvs7555x120 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503541" .
 
 _:node1bvvs7555x121 a wgs:Point ;
-	wgs:lat "16.32632408416167" ;
-	wgs:long "48.16402004955385" .
+	wgs:long "16.32632408416167" ;
+	wgs:lat "48.16402004955385" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503541> wgs:location _:node1bvvs7555x121 ;
 	rdfs:label "Miep Gies Park " ;
@@ -1706,8 +1706,8 @@ _:node1bvvs7555x121 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503542" .
 
 _:node1bvvs7555x122 a wgs:Point ;
-	wgs:lat "16.34473348659922" ;
-	wgs:long "48.17385855865023" .
+	wgs:long "16.34473348659922" ;
+	wgs:lat "48.17385855865023" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503542> wgs:location _:node1bvvs7555x122 ;
 	rdfs:label "Kundratstrasse 37-39" ;
@@ -1720,8 +1720,8 @@ _:node1bvvs7555x122 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503543" .
 
 _:node1bvvs7555x123 a wgs:Point ;
-	wgs:lat "16.337944738595393" ;
-	wgs:long "48.178681325250466" .
+	wgs:long "16.337944738595393" ;
+	wgs:lat "48.178681325250466" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503543> wgs:location _:node1bvvs7555x123 ;
 	rdfs:label "Wilhelmsdorfer Park" ;
@@ -1734,8 +1734,8 @@ _:node1bvvs7555x123 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503544" .
 
 _:node1bvvs7555x124 a wgs:Point ;
-	wgs:lat "16.337604663692254" ;
-	wgs:long "48.1872838816797" .
+	wgs:long "16.337604663692254" ;
+	wgs:lat "48.1872838816797" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503544> wgs:location _:node1bvvs7555x124 ;
 	rdfs:label "Dunklergasse " ;
@@ -1748,8 +1748,8 @@ _:node1bvvs7555x124 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503545" .
 
 _:node1bvvs7555x125 a wgs:Point ;
-	wgs:lat "16.332815620551607" ;
-	wgs:long "48.181288520057244" .
+	wgs:long "16.332815620551607" ;
+	wgs:lat "48.181288520057244" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503545> wgs:location _:node1bvvs7555x125 ;
 	rdfs:label "Hermann Leopoldi Park" ;
@@ -1762,8 +1762,8 @@ _:node1bvvs7555x125 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503546" .
 
 _:node1bvvs7555x126 a wgs:Point ;
-	wgs:lat "16.329738190854535" ;
-	wgs:long "48.183375497709186" .
+	wgs:long "16.329738190854535" ;
+	wgs:lat "48.183375497709186" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503546> wgs:location _:node1bvvs7555x126 ;
 	rdfs:label "Meidlinger Hauptstrasse " ;
@@ -1776,8 +1776,8 @@ _:node1bvvs7555x126 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503547" .
 
 _:node1bvvs7555x127 a wgs:Point ;
-	wgs:lat "16.32986464796091" ;
-	wgs:long "48.182045628106536" .
+	wgs:long "16.32986464796091" ;
+	wgs:lat "48.182045628106536" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503547> wgs:location _:node1bvvs7555x127 ;
 	rdfs:label "Meidlinger Hauptstrasse " ;
@@ -1790,8 +1790,8 @@ _:node1bvvs7555x127 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503548" .
 
 _:node1bvvs7555x128 a wgs:Point ;
-	wgs:lat "16.329760607523504" ;
-	wgs:long "48.181690929923484" .
+	wgs:long "16.329760607523504" ;
+	wgs:lat "48.181690929923484" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503548> wgs:location _:node1bvvs7555x128 ;
 	rdfs:label "Meidlinger Platzl" ;
@@ -1804,8 +1804,8 @@ _:node1bvvs7555x128 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503552" .
 
 _:node1bvvs7555x129 a wgs:Point ;
-	wgs:lat "16.330161820936237" ;
-	wgs:long "48.17515458614981" .
+	wgs:long "16.330161820936237" ;
+	wgs:lat "48.17515458614981" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503552> wgs:location _:node1bvvs7555x129 ;
 	rdfs:label "Meidlinger Hauptstrasse 84" ;
@@ -1818,8 +1818,8 @@ _:node1bvvs7555x129 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503553" .
 
 _:node1bvvs7555x130 a wgs:Point ;
-	wgs:lat "16.32979134956633" ;
-	wgs:long "48.17422709388647" .
+	wgs:long "16.32979134956633" ;
+	wgs:lat "48.17422709388647" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503553> wgs:location _:node1bvvs7555x130 ;
 	rdfs:label "Meidlinger Hauptstrasse " ;
@@ -1832,8 +1832,8 @@ _:node1bvvs7555x130 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503554" .
 
 _:node1bvvs7555x131 a wgs:Point ;
-	wgs:lat "16.304104448813057" ;
-	wgs:long "48.18745339057159" .
+	wgs:long "16.304104448813057" ;
+	wgs:lat "48.18745339057159" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503554> wgs:location _:node1bvvs7555x131 ;
 	rdfs:label "Kennedybruecke" ;
@@ -1846,8 +1846,8 @@ _:node1bvvs7555x131 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503555" .
 
 _:node1bvvs7555x132 a wgs:Point ;
-	wgs:lat "16.303356352374248" ;
-	wgs:long "48.18774805858923" .
+	wgs:long "16.303356352374248" ;
+	wgs:lat "48.18774805858923" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503555> wgs:location _:node1bvvs7555x132 ;
 	rdfs:label "Kennedybruecke" ;
@@ -1860,8 +1860,8 @@ _:node1bvvs7555x132 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503556" .
 
 _:node1bvvs7555x133 a wgs:Point ;
-	wgs:lat "16.301543417974386" ;
-	wgs:long "48.185955271673166" .
+	wgs:long "16.301543417974386" ;
+	wgs:lat "48.185955271673166" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503556> wgs:location _:node1bvvs7555x133 ;
 	rdfs:label "Am Platz" ;
@@ -1874,8 +1874,8 @@ _:node1bvvs7555x133 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503557" .
 
 _:node1bvvs7555x134 a wgs:Point ;
-	wgs:lat "16.31316499552715" ;
-	wgs:long "48.187039993245975" .
+	wgs:long "16.31316499552715" ;
+	wgs:lat "48.187039993245975" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503557> wgs:location _:node1bvvs7555x134 ;
 	rdfs:label "Schlossstrasse Schlossbruecke" ;
@@ -1888,8 +1888,8 @@ _:node1bvvs7555x134 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503558" .
 
 _:node1bvvs7555x135 a wgs:Point ;
-	wgs:lat "16.288264059270478" ;
-	wgs:long "48.185658418861735" .
+	wgs:long "16.288264059270478" ;
+	wgs:lat "48.185658418861735" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503558> wgs:location _:node1bvvs7555x135 ;
 	rdfs:label "Huegelpark" ;
@@ -1902,8 +1902,8 @@ _:node1bvvs7555x135 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503559" .
 
 _:node1bvvs7555x136 a wgs:Point ;
-	wgs:lat "16.201688805242686" ;
-	wgs:long "48.22949687859091" .
+	wgs:long "16.201688805242686" ;
+	wgs:lat "48.22949687859091" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503559> wgs:location _:node1bvvs7555x136 ;
 	rdfs:label "Hohe Wand Wiese" ;
@@ -1916,8 +1916,8 @@ _:node1bvvs7555x136 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503560" .
 
 _:node1bvvs7555x137 a wgs:Point ;
-	wgs:lat "16.286965605376686" ;
-	wgs:long "48.19692905451363" .
+	wgs:long "16.286965605376686" ;
+	wgs:lat "48.19692905451363" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503560> wgs:location _:node1bvvs7555x137 ;
 	rdfs:label "Huetteldorfer Strasse" ;
@@ -1930,8 +1930,8 @@ _:node1bvvs7555x137 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503561" .
 
 _:node1bvvs7555x138 a wgs:Point ;
-	wgs:lat "16.260795501845255" ;
-	wgs:long "48.19827090483812" .
+	wgs:long "16.260795501845255" ;
+	wgs:lat "48.19827090483812" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503561> wgs:location _:node1bvvs7555x138 ;
 	rdfs:label "Bahnhof Huetteldorf" ;
@@ -1944,8 +1944,8 @@ _:node1bvvs7555x138 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503562" .
 
 _:node1bvvs7555x139 a wgs:Point ;
-	wgs:lat "16.31254720821029" ;
-	wgs:long "48.19907238483423" .
+	wgs:long "16.31254720821029" ;
+	wgs:lat "48.19907238483423" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503562> wgs:location _:node1bvvs7555x139 ;
 	rdfs:label "Huetteldorferstrasse" ;
@@ -1958,8 +1958,8 @@ _:node1bvvs7555x139 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503563" .
 
 _:node1bvvs7555x140 a wgs:Point ;
-	wgs:lat "16.334087311169963" ;
-	wgs:long "48.20124343355202" .
+	wgs:long "16.334087311169963" ;
+	wgs:lat "48.20124343355202" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503563> wgs:location _:node1bvvs7555x140 ;
 	rdfs:label "Maerzpark" ;
@@ -1972,8 +1972,8 @@ _:node1bvvs7555x140 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503564" .
 
 _:node1bvvs7555x141 a wgs:Point ;
-	wgs:lat "16.334041404286765" ;
-	wgs:long "48.20244829499339" .
+	wgs:long "16.334041404286765" ;
+	wgs:lat "48.20244829499339" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503564> wgs:location _:node1bvvs7555x141 ;
 	rdfs:label "Maerzpark" ;
@@ -1986,8 +1986,8 @@ _:node1bvvs7555x141 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503565" .
 
 _:node1bvvs7555x142 a wgs:Point ;
-	wgs:lat "16.33123156661599" ;
-	wgs:long "48.19891798918486" .
+	wgs:long "16.33123156661599" ;
+	wgs:lat "48.19891798918486" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503565> wgs:location _:node1bvvs7555x142 ;
 	rdfs:label "Reithofferplatz" ;
@@ -2000,8 +2000,8 @@ _:node1bvvs7555x142 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503566" .
 
 _:node1bvvs7555x143 a wgs:Point ;
-	wgs:lat "16.325381282376185" ;
-	wgs:long "48.19740430597498" .
+	wgs:long "16.325381282376185" ;
+	wgs:lat "48.19740430597498" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503566> wgs:location _:node1bvvs7555x143 ;
 	rdfs:label "Kardinal Rauscher Platz " ;
@@ -2014,8 +2014,8 @@ _:node1bvvs7555x143 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503567" .
 
 _:node1bvvs7555x144 a wgs:Point ;
-	wgs:lat "16.31496072809225" ;
-	wgs:long "48.206759247654155" .
+	wgs:long "16.31496072809225" ;
+	wgs:lat "48.206759247654155" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503567> wgs:location _:node1bvvs7555x144 ;
 	rdfs:label "Rohrauerpark" ;
@@ -2028,8 +2028,8 @@ _:node1bvvs7555x144 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503568" .
 
 _:node1bvvs7555x145 a wgs:Point ;
-	wgs:lat "16.319087991890417" ;
-	wgs:long "48.19418235293109" .
+	wgs:long "16.319087991890417" ;
+	wgs:lat "48.19418235293109" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503568> wgs:location _:node1bvvs7555x145 ;
 	rdfs:label "Wieningerplatz" ;
@@ -2042,8 +2042,8 @@ _:node1bvvs7555x145 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503569" .
 
 _:node1bvvs7555x146 a wgs:Point ;
-	wgs:lat "16.320068312068933" ;
-	wgs:long "48.20406542621102" .
+	wgs:long "16.320068312068933" ;
+	wgs:lat "48.20406542621102" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503569> wgs:location _:node1bvvs7555x146 ;
 	rdfs:label "Auf der Schmelz " ;
@@ -2056,8 +2056,8 @@ _:node1bvvs7555x146 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503571" .
 
 _:node1bvvs7555x147 a wgs:Point ;
-	wgs:lat "16.338583833526997" ;
-	wgs:long "48.211773419663636" .
+	wgs:long "16.338583833526997" ;
+	wgs:lat "48.211773419663636" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503571> wgs:location _:node1bvvs7555x147 ;
 	rdfs:label "Yppenheim" ;
@@ -2070,8 +2070,8 @@ _:node1bvvs7555x147 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503572" .
 
 _:node1bvvs7555x148 a wgs:Point ;
-	wgs:lat "16.308956452805262" ;
-	wgs:long "48.21372247425006" .
+	wgs:long "16.308956452805262" ;
+	wgs:lat "48.21372247425006" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503572> wgs:location _:node1bvvs7555x148 ;
 	rdfs:label "Ottakringer Strasse 200" ;
@@ -2084,8 +2084,8 @@ _:node1bvvs7555x148 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503573" .
 
 _:node1bvvs7555x149 a wgs:Point ;
-	wgs:lat "16.332988421671928" ;
-	wgs:long "48.20899152137519" .
+	wgs:long "16.332988421671928" ;
+	wgs:lat "48.20899152137519" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503573> wgs:location _:node1bvvs7555x149 ;
 	rdfs:label "Hofferpark" ;
@@ -2098,8 +2098,8 @@ _:node1bvvs7555x149 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503574" .
 
 _:node1bvvs7555x150 a wgs:Point ;
-	wgs:lat "16.327458463339433" ;
-	wgs:long "48.20950754824884" .
+	wgs:long "16.327458463339433" ;
+	wgs:lat "48.20950754824884" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503574> wgs:location _:node1bvvs7555x150 ;
 	rdfs:label "Richard Wagner Platz" ;
@@ -2112,8 +2112,8 @@ _:node1bvvs7555x150 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503575" .
 
 _:node1bvvs7555x151 a wgs:Point ;
-	wgs:lat "16.317006824876287" ;
-	wgs:long "48.221346190530454" .
+	wgs:long "16.317006824876287" ;
+	wgs:lat "48.221346190530454" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503575> wgs:location _:node1bvvs7555x151 ;
 	rdfs:label "Stoeberpark" ;
@@ -2126,8 +2126,8 @@ _:node1bvvs7555x151 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503576" .
 
 _:node1bvvs7555x152 a wgs:Point ;
-	wgs:lat "16.31867690755127" ;
-	wgs:long "48.2103448912615" .
+	wgs:long "16.31867690755127" ;
+	wgs:lat "48.2103448912615" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503576> wgs:location _:node1bvvs7555x152 ;
 	rdfs:label "Schuhmeierplatz" ;
@@ -2140,8 +2140,8 @@ _:node1bvvs7555x152 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503577" .
 
 _:node1bvvs7555x153 a wgs:Point ;
-	wgs:lat "16.304735190332558" ;
-	wgs:long "48.21376246475975" .
+	wgs:long "16.304735190332558" ;
+	wgs:lat "48.21376246475975" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503577> wgs:location _:node1bvvs7555x153 ;
 	rdfs:label "Karl Kantner Park" ;
@@ -2154,8 +2154,8 @@ _:node1bvvs7555x153 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503578" .
 
 _:node1bvvs7555x154 a wgs:Point ;
-	wgs:lat "16.312021298384774" ;
-	wgs:long "48.21251358337184" .
+	wgs:long "16.312021298384774" ;
+	wgs:lat "48.21251358337184" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503578> wgs:location _:node1bvvs7555x154 ;
 	rdfs:label "U3 Ottakring" ;
@@ -2168,8 +2168,8 @@ _:node1bvvs7555x154 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503579" .
 
 _:node1bvvs7555x155 a wgs:Point ;
-	wgs:lat "16.333767540471186" ;
-	wgs:long "48.20586345128311" .
+	wgs:long "16.333767540471186" ;
+	wgs:lat "48.20586345128311" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503579> wgs:location _:node1bvvs7555x155 ;
 	rdfs:label "Ludo Hartmann Platz" ;
@@ -2182,8 +2182,8 @@ _:node1bvvs7555x155 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503580" .
 
 _:node1bvvs7555x156 a wgs:Point ;
-	wgs:lat "16.323184430137626" ;
-	wgs:long "48.22420480242852" .
+	wgs:long "16.323184430137626" ;
+	wgs:lat "48.22420480242852" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503580> wgs:location _:node1bvvs7555x156 ;
 	rdfs:label "Lidlpark" ;
@@ -2196,8 +2196,8 @@ _:node1bvvs7555x156 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503581" .
 
 _:node1bvvs7555x157 a wgs:Point ;
-	wgs:lat "16.276410390605506" ;
-	wgs:long "48.24003396167631" .
+	wgs:long "16.276410390605506" ;
+	wgs:lat "48.24003396167631" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503581> wgs:location _:node1bvvs7555x157 ;
 	rdfs:label "Marswiese" ;
@@ -2210,8 +2210,8 @@ _:node1bvvs7555x157 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503582" .
 
 _:node1bvvs7555x158 a wgs:Point ;
-	wgs:lat "16.298123614619715" ;
-	wgs:long "48.229284946139956" .
+	wgs:long "16.298123614619715" ;
+	wgs:lat "48.229284946139956" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503582> wgs:location _:node1bvvs7555x158 ;
 	rdfs:label "Rupertusplatz" ;
@@ -2224,8 +2224,8 @@ _:node1bvvs7555x158 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503583" .
 
 _:node1bvvs7555x159 a wgs:Point ;
-	wgs:lat "16.40728523254649" ;
-	wgs:long "48.2812247231139" .
+	wgs:long "16.40728523254649" ;
+	wgs:lat "48.2812247231139" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503583> wgs:location _:node1bvvs7555x159 ;
 	rdfs:label "Bernreiterpark" ;
@@ -2238,8 +2238,8 @@ _:node1bvvs7555x159 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503584" .
 
 _:node1bvvs7555x160 a wgs:Point ;
-	wgs:lat "16.335116174118998" ;
-	wgs:long "48.22645116208313" .
+	wgs:long "16.335116174118998" ;
+	wgs:lat "48.22645116208313" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503584> wgs:location _:node1bvvs7555x160 ;
 	rdfs:label "Ebner Eschenbach Park" ;
@@ -2252,8 +2252,8 @@ _:node1bvvs7555x160 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503585" .
 
 _:node1bvvs7555x161 a wgs:Point ;
-	wgs:lat "16.371346151947932" ;
-	wgs:long "48.229693524140785" .
+	wgs:long "16.371346151947932" ;
+	wgs:lat "48.229693524140785" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503585> wgs:location _:node1bvvs7555x161 ;
 	rdfs:label "Wallensteinplatz" ;
@@ -2266,8 +2266,8 @@ _:node1bvvs7555x161 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503586" .
 
 _:node1bvvs7555x162 a wgs:Point ;
-	wgs:lat "16.39967529307169" ;
-	wgs:long "48.251312784394365" .
+	wgs:long "16.39967529307169" ;
+	wgs:lat "48.251312784394365" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503586> wgs:location _:node1bvvs7555x162 ;
 	rdfs:label "Tora San Park" ;
@@ -2280,8 +2280,8 @@ _:node1bvvs7555x162 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503587" .
 
 _:node1bvvs7555x163 a wgs:Point ;
-	wgs:lat "16.40363859616622" ;
-	wgs:long "48.247392043961945" .
+	wgs:long "16.40363859616622" ;
+	wgs:lat "48.247392043961945" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503587> wgs:location _:node1bvvs7555x163 ;
 	rdfs:label "Romaplatz" ;
@@ -2294,8 +2294,8 @@ _:node1bvvs7555x163 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503588" .
 
 _:node1bvvs7555x164 a wgs:Point ;
-	wgs:lat "16.395530678858552" ;
-	wgs:long "48.24619216570322" .
+	wgs:long "16.395530678858552" ;
+	wgs:lat "48.24619216570322" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503588> wgs:location _:node1bvvs7555x164 ;
 	rdfs:label "U6 Station Neue Donau" ;
@@ -2308,8 +2308,8 @@ _:node1bvvs7555x164 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503589" .
 
 _:node1bvvs7555x165 a wgs:Point ;
-	wgs:lat "16.40811890564722" ;
-	wgs:long "48.255021236109194" .
+	wgs:long "16.40811890564722" ;
+	wgs:lat "48.255021236109194" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503589> wgs:location _:node1bvvs7555x165 ;
 	rdfs:label "Hossplatz" ;
@@ -2322,8 +2322,8 @@ _:node1bvvs7555x165 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503590" .
 
 _:node1bvvs7555x166 a wgs:Point ;
-	wgs:lat "16.424132072255404" ;
-	wgs:long "48.22588666961058" .
+	wgs:long "16.424132072255404" ;
+	wgs:lat "48.22588666961058" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503590> wgs:location _:node1bvvs7555x166 ;
 	rdfs:label "Schuettauplatz" ;
@@ -2336,8 +2336,8 @@ _:node1bvvs7555x166 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503591" .
 
 _:node1bvvs7555x167 a wgs:Point ;
-	wgs:lat "16.443437455408343" ;
-	wgs:long "48.25018812796545" .
+	wgs:long "16.443437455408343" ;
+	wgs:lat "48.25018812796545" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503591> wgs:location _:node1bvvs7555x167 ;
 	rdfs:label "Kagraner Platz" ;
@@ -2350,8 +2350,8 @@ _:node1bvvs7555x167 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503592" .
 
 _:node1bvvs7555x168 a wgs:Point ;
-	wgs:lat "16.44831719957977" ;
-	wgs:long "48.24876562189444" .
+	wgs:long "16.44831719957977" ;
+	wgs:lat "48.24876562189444" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503592> wgs:location _:node1bvvs7555x168 ;
 	rdfs:label "Kagraner Platz" ;
@@ -2364,8 +2364,8 @@ _:node1bvvs7555x168 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503593" .
 
 _:node1bvvs7555x169 a wgs:Point ;
-	wgs:lat "16.52611163299607" ;
-	wgs:long "48.21408536739169" .
+	wgs:long "16.52611163299607" ;
+	wgs:lat "48.21408536739169" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503593> wgs:location _:node1bvvs7555x169 ;
 	rdfs:label "Bill Grah Park" ;
@@ -2378,8 +2378,8 @@ _:node1bvvs7555x169 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503594" .
 
 _:node1bvvs7555x170 a wgs:Point ;
-	wgs:lat "16.474370712962543" ;
-	wgs:long "48.22242472761673" .
+	wgs:long "16.474370712962543" ;
+	wgs:lat "48.22242472761673" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503594> wgs:location _:node1bvvs7555x170 ;
 	rdfs:label "Wonkaplatz" ;
@@ -2392,8 +2392,8 @@ _:node1bvvs7555x170 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503595" .
 
 _:node1bvvs7555x171 a wgs:Point ;
-	wgs:lat "16.486428670150527" ;
-	wgs:long "48.21756179843871" .
+	wgs:long "16.486428670150527" ;
+	wgs:lat "48.21756179843871" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503595> wgs:location _:node1bvvs7555x171 ;
 	rdfs:label "Siegesplatz" ;
@@ -2406,8 +2406,8 @@ _:node1bvvs7555x171 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503596" .
 
 _:node1bvvs7555x172 a wgs:Point ;
-	wgs:lat "16.415197337352872" ;
-	wgs:long "48.23228499996616" .
+	wgs:long "16.415197337352872" ;
+	wgs:lat "48.23228499996616" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503596> wgs:location _:node1bvvs7555x172 ;
 	rdfs:label "Platz der Vereinten Nationen" ;
@@ -2420,8 +2420,8 @@ _:node1bvvs7555x172 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503597" .
 
 _:node1bvvs7555x173 a wgs:Point ;
-	wgs:lat "16.464572763409898" ;
-	wgs:long "48.2195078079605" .
+	wgs:long "16.464572763409898" ;
+	wgs:lat "48.2195078079605" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503597> wgs:location _:node1bvvs7555x173 ;
 	rdfs:label "SMZ Ost Donauspital" ;
@@ -2434,8 +2434,8 @@ _:node1bvvs7555x173 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503598" .
 
 _:node1bvvs7555x174 a wgs:Point ;
-	wgs:lat "16.44913639602845" ;
-	wgs:long "48.257381907490505" .
+	wgs:long "16.44913639602845" ;
+	wgs:lat "48.257381907490505" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503598> wgs:location _:node1bvvs7555x174 ;
 	rdfs:label "U1 Rennbahnweg" ;
@@ -2448,8 +2448,8 @@ _:node1bvvs7555x174 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503599" .
 
 _:node1bvvs7555x175 a wgs:Point ;
-	wgs:lat "16.31302957280954" ;
-	wgs:long "48.130759342165405" .
+	wgs:long "16.31302957280954" ;
+	wgs:lat "48.130759342165405" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503599> wgs:location _:node1bvvs7555x175 ;
 	rdfs:label "Wiener Flur Park" ;
@@ -2462,8 +2462,8 @@ _:node1bvvs7555x175 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503600" .
 
 _:node1bvvs7555x176 a wgs:Point ;
-	wgs:lat "16.31224338164067" ;
-	wgs:long "48.147842197501355" .
+	wgs:long "16.31224338164067" ;
+	wgs:lat "48.147842197501355" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503600> wgs:location _:node1bvvs7555x176 ;
 	rdfs:label "Alma Seidler Weg" ;
@@ -2476,8 +2476,8 @@ _:node1bvvs7555x176 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503601" .
 
 _:node1bvvs7555x177 a wgs:Point ;
-	wgs:lat "16.282498217750877" ;
-	wgs:long "48.135265099935246" .
+	wgs:long "16.282498217750877" ;
+	wgs:lat "48.135265099935246" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503601> wgs:location _:node1bvvs7555x177 ;
 	rdfs:label "Liesinger Platz" ;
@@ -2490,8 +2490,8 @@ _:node1bvvs7555x177 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503477" .
 
 _:node1bvvs7555x178 a wgs:Point ;
-	wgs:lat "16.348645009088315" ;
-	wgs:long "48.20797371717962" .
+	wgs:long "16.348645009088315" ;
+	wgs:lat "48.20797371717962" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503477> wgs:location _:node1bvvs7555x178 ;
 	rdfs:label "Pfeilgasse 1" ;
@@ -2504,8 +2504,8 @@ _:node1bvvs7555x178 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503478" .
 
 _:node1bvvs7555x179 a wgs:Point ;
-	wgs:lat "16.352429310535683" ;
-	wgs:long "48.2291417388121" .
+	wgs:long "16.352429310535683" ;
+	wgs:lat "48.2291417388121" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503478> wgs:location _:node1bvvs7555x179 ;
 	rdfs:label "Helene Deutsch Park" ;
@@ -2518,8 +2518,8 @@ _:node1bvvs7555x179 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503479" .
 
 _:node1bvvs7555x180 a wgs:Point ;
-	wgs:lat "16.34323443588726" ;
-	wgs:long "48.21690262907541" .
+	wgs:long "16.34323443588726" ;
+	wgs:lat "48.21690262907541" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503479> wgs:location _:node1bvvs7555x180 ;
 	rdfs:label "Heinz Heger Park" ;
@@ -2532,8 +2532,8 @@ _:node1bvvs7555x180 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503480" .
 
 _:node1bvvs7555x181 a wgs:Point ;
-	wgs:lat "16.50078320906409" ;
-	wgs:long "48.227066671898164" .
+	wgs:long "16.50078320906409" ;
+	wgs:lat "48.227066671898164" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503480> wgs:location _:node1bvvs7555x181 ;
 	rdfs:label "Yella-Hertzka-Park 1" ;
@@ -2546,8 +2546,8 @@ _:node1bvvs7555x181 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503481" .
 
 _:node1bvvs7555x182 a wgs:Point ;
-	wgs:lat "16.335420591879608" ;
-	wgs:long "48.18494025944031" .
+	wgs:long "16.335420591879608" ;
+	wgs:lat "48.18494025944031" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503481> wgs:location _:node1bvvs7555x182 ;
 	rdfs:label "Bruno Pittermann Platz" ;
@@ -2560,8 +2560,8 @@ _:node1bvvs7555x182 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503482" .
 
 _:node1bvvs7555x183 a wgs:Point ;
-	wgs:lat "16.32973479871071" ;
-	wgs:long "48.173399462619635" .
+	wgs:long "16.32973479871071" ;
+	wgs:lat "48.173399462619635" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503482> wgs:location _:node1bvvs7555x183 ;
 	rdfs:label "Theodor Koerner Park" ;
@@ -2574,8 +2574,8 @@ _:node1bvvs7555x183 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503483" .
 
 _:node1bvvs7555x184 a wgs:Point ;
-	wgs:lat "16.326227063168684" ;
-	wgs:long "48.215264589613156" .
+	wgs:long "16.326227063168684" ;
+	wgs:lat "48.215264589613156" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503483> wgs:location _:node1bvvs7555x184 ;
 	rdfs:label "Lorenz Bayer Park" ;
@@ -2588,8 +2588,8 @@ _:node1bvvs7555x184 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503484" .
 
 _:node1bvvs7555x185 a wgs:Point ;
-	wgs:lat "16.370398116786266" ;
-	wgs:long "48.23515428342898" .
+	wgs:long "16.370398116786266" ;
+	wgs:lat "48.23515428342898" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503484> wgs:location _:node1bvvs7555x185 ;
 	rdfs:label "Hugo Gottschlich Park" ;
@@ -2602,8 +2602,8 @@ _:node1bvvs7555x185 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503485" .
 
 _:node1bvvs7555x186 a wgs:Point ;
-	wgs:lat "16.387457294640726" ;
-	wgs:long "48.26203543482436" .
+	wgs:long "16.387457294640726" ;
+	wgs:lat "48.26203543482436" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503485> wgs:location _:node1bvvs7555x186 ;
 	rdfs:label "Karl Seitz Platz" ;
@@ -2616,8 +2616,8 @@ _:node1bvvs7555x186 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503486" .
 
 _:node1bvvs7555x187 a wgs:Point ;
-	wgs:lat "16.449048833674567" ;
-	wgs:long "48.26835145340254" .
+	wgs:long "16.449048833674567" ;
+	wgs:lat "48.26835145340254" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503486> wgs:location _:node1bvvs7555x187 ;
 	rdfs:label "Hedwig und Johann Schneider Park" ;
@@ -2630,8 +2630,8 @@ _:node1bvvs7555x187 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503487" .
 
 _:node1bvvs7555x188 a wgs:Point ;
-	wgs:lat "16.448106885006307" ;
-	wgs:long "48.27015323096252" .
+	wgs:long "16.448106885006307" ;
+	wgs:lat "48.27015323096252" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503487> wgs:location _:node1bvvs7555x188 ;
 	rdfs:label "Hedwig und Johann Schneider Park" ;
@@ -2644,8 +2644,8 @@ _:node1bvvs7555x188 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503488" .
 
 _:node1bvvs7555x189 a wgs:Point ;
-	wgs:lat "16.421040031692954" ;
-	wgs:long "48.16989330564962" .
+	wgs:long "16.421040031692954" ;
+	wgs:lat "48.16989330564962" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503488> wgs:location _:node1bvvs7555x189 ;
 	rdfs:label "Simmeringer Platz" ;
@@ -2658,8 +2658,8 @@ _:node1bvvs7555x189 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503490" .
 
 _:node1bvvs7555x190 a wgs:Point ;
-	wgs:lat "16.40018597399228" ;
-	wgs:long "48.255669840578136" .
+	wgs:long "16.40018597399228" ;
+	wgs:lat "48.255669840578136" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503490> wgs:location _:node1bvvs7555x190 ;
 	rdfs:label "Ubahn Station Floridsdorf" ;
@@ -2672,8 +2672,8 @@ _:node1bvvs7555x190 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503491" .
 
 _:node1bvvs7555x191 a wgs:Point ;
-	wgs:lat "16.507774000166663" ;
-	wgs:long "48.22595011389194" .
+	wgs:long "16.507774000166663" ;
+	wgs:lat "48.22595011389194" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503491> wgs:location _:node1bvvs7555x191 ;
 	rdfs:label "Seestadtpark" ;
@@ -2686,8 +2686,8 @@ _:node1bvvs7555x191 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503492" .
 
 _:node1bvvs7555x192 a wgs:Point ;
-	wgs:lat "16.497432503951554" ;
-	wgs:long "48.22502392846402" .
+	wgs:long "16.497432503951554" ;
+	wgs:lat "48.22502392846402" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503492> wgs:location _:node1bvvs7555x192 ;
 	rdfs:label "Maria-Tusch-Straße" ;
@@ -2700,8 +2700,8 @@ _:node1bvvs7555x192 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503493" .
 
 _:node1bvvs7555x193 a wgs:Point ;
-	wgs:lat "16.34950114917063" ;
-	wgs:long "48.224626841745916" .
+	wgs:long "16.34950114917063" ;
+	wgs:lat "48.224626841745916" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503493> wgs:location _:node1bvvs7555x193 ;
 	rdfs:label "Volksoper" ;
@@ -2714,8 +2714,8 @@ _:node1bvvs7555x193 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503494" .
 
 _:node1bvvs7555x194 a wgs:Point ;
-	wgs:lat "16.34909717486639" ;
-	wgs:long "48.22463724121045" .
+	wgs:long "16.34909717486639" ;
+	wgs:lat "48.22463724121045" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503494> wgs:location _:node1bvvs7555x194 ;
 	rdfs:label "Volksoper" ;
@@ -2728,8 +2728,8 @@ _:node1bvvs7555x194 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503495" .
 
 _:node1bvvs7555x195 a wgs:Point ;
-	wgs:lat "16.375802904464752" ;
-	wgs:long "48.18407589377524" .
+	wgs:long "16.375802904464752" ;
+	wgs:lat "48.18407589377524" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503495> wgs:location _:node1bvvs7555x195 ;
 	rdfs:label "Sonnwendgasse HP" ;
@@ -2742,8 +2742,8 @@ _:node1bvvs7555x195 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503496" .
 
 _:node1bvvs7555x196 a wgs:Point ;
-	wgs:lat "16.377833856902654" ;
-	wgs:long "48.18420008302635" .
+	wgs:long "16.377833856902654" ;
+	wgs:lat "48.18420008302635" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503496> wgs:location _:node1bvvs7555x196 ;
 	rdfs:label "Gertrude-Froehlich-Sandner-Strasse" ;
@@ -2756,8 +2756,8 @@ _:node1bvvs7555x196 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503497" .
 
 _:node1bvvs7555x197 a wgs:Point ;
-	wgs:lat "16.367138324694505" ;
-	wgs:long "48.20085211676708" .
+	wgs:long "16.367138324694505" ;
+	wgs:lat "48.20085211676708" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503497> wgs:location _:node1bvvs7555x197 ;
 	rdfs:label "Esperantopark" ;
@@ -2770,8 +2770,8 @@ _:node1bvvs7555x197 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503498" .
 
 _:node1bvvs7555x198 a wgs:Point ;
-	wgs:lat "16.367086436666238" ;
-	wgs:long "48.20032997813551" .
+	wgs:long "16.367086436666238" ;
+	wgs:lat "48.20032997813551" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503498> wgs:location _:node1bvvs7555x198 ;
 	rdfs:label "Rosa-Mayreder-Park" ;
@@ -2784,8 +2784,8 @@ _:node1bvvs7555x198 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503499" .
 
 _:node1bvvs7555x199 a wgs:Point ;
-	wgs:lat "16.353116917642602" ;
-	wgs:long "48.19061218075906" .
+	wgs:long "16.353116917642602" ;
+	wgs:lat "48.19061218075906" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503499> wgs:location _:node1bvvs7555x199 ;
 	rdfs:label "Wientalterrasse" ;
@@ -2798,8 +2798,8 @@ _:node1bvvs7555x199 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503500" .
 
 _:node1bvvs7555x200 a wgs:Point ;
-	wgs:lat "16.318166557075266" ;
-	wgs:long "48.21449331760964" .
+	wgs:long "16.318166557075266" ;
+	wgs:lat "48.21449331760964" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503500> wgs:location _:node1bvvs7555x200 ;
 	rdfs:label "Familienplatz" ;
@@ -2812,8 +2812,8 @@ _:node1bvvs7555x200 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503501" .
 
 _:node1bvvs7555x201 a wgs:Point ;
-	wgs:lat "16.355999498497802" ;
-	wgs:long "48.2105983561957" .
+	wgs:long "16.355999498497802" ;
+	wgs:lat "48.2105983561957" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503501> wgs:location _:node1bvvs7555x201 ;
 	rdfs:label "Friedrich-Schmidt-Platz" ;
@@ -2826,8 +2826,8 @@ _:node1bvvs7555x201 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503502" .
 
 _:node1bvvs7555x202 a wgs:Point ;
-	wgs:lat "16.3427499969643" ;
-	wgs:long "48.2557781820014" .
+	wgs:long "16.3427499969643" ;
+	wgs:lat "48.2557781820014" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503502> wgs:location _:node1bvvs7555x202 ;
 	rdfs:label "Grinzing" ;
@@ -2840,8 +2840,8 @@ _:node1bvvs7555x202 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503503" .
 
 _:node1bvvs7555x203 a wgs:Point ;
-	wgs:lat "16.364547298140284" ;
-	wgs:long "48.248738998055764" .
+	wgs:long "16.364547298140284" ;
+	wgs:lat "48.248738998055764" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503503> wgs:location _:node1bvvs7555x203 ;
 	rdfs:label "Boschstrasse 5" ;
@@ -2854,8 +2854,8 @@ _:node1bvvs7555x203 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503504" .
 
 _:node1bvvs7555x204 a wgs:Point ;
-	wgs:lat "16.364962801342827" ;
-	wgs:long "48.24978800746437" .
+	wgs:long "16.364962801342827" ;
+	wgs:lat "48.24978800746437" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503504> wgs:location _:node1bvvs7555x204 ;
 	rdfs:label "Boschstrasse 13" ;
@@ -2868,8 +2868,8 @@ _:node1bvvs7555x204 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503505" .
 
 _:node1bvvs7555x205 a wgs:Point ;
-	wgs:lat "16.320931643222107" ;
-	wgs:long "48.26412900180782" .
+	wgs:long "16.320931643222107" ;
+	wgs:lat "48.26412900180782" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503505> wgs:location _:node1bvvs7555x205 ;
 	rdfs:label "Am Cobenzl" ;
@@ -2882,8 +2882,8 @@ _:node1bvvs7555x205 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503506" .
 
 _:node1bvvs7555x206 a wgs:Point ;
-	wgs:lat "16.336599687131212" ;
-	wgs:long "48.24323811048407" .
+	wgs:long "16.336599687131212" ;
+	wgs:lat "48.24323811048407" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503506> wgs:location _:node1bvvs7555x206 ;
 	rdfs:label "Weinberggasse geg 28" ;
@@ -2896,8 +2896,8 @@ _:node1bvvs7555x206 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503507" .
 
 _:node1bvvs7555x207 a wgs:Point ;
-	wgs:lat "16.336940459419814" ;
-	wgs:long "48.274788771320814" .
+	wgs:long "16.336940459419814" ;
+	wgs:lat "48.274788771320814" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503507> wgs:location _:node1bvvs7555x207 ;
 	rdfs:label "Am Kahlenberg" ;
@@ -2910,8 +2910,8 @@ _:node1bvvs7555x207 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503508" .
 
 _:node1bvvs7555x208 a wgs:Point ;
-	wgs:lat "16.343717109802842" ;
-	wgs:long "48.24544996591674" .
+	wgs:long "16.343717109802842" ;
+	wgs:lat "48.24544996591674" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503508> wgs:location _:node1bvvs7555x208 ;
 	rdfs:label "Strauss Lanner Park" ;
@@ -2924,8 +2924,8 @@ _:node1bvvs7555x208 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503509" .
 
 _:node1bvvs7555x209 a wgs:Point ;
-	wgs:lat "16.333997958261314" ;
-	wgs:long "48.240649242861615" .
+	wgs:long "16.333997958261314" ;
+	wgs:lat "48.240649242861615" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503509> wgs:location _:node1bvvs7555x209 ;
 	rdfs:label "Hugo Wolf Park" ;
@@ -2938,8 +2938,8 @@ _:node1bvvs7555x209 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503510" .
 
 _:node1bvvs7555x210 a wgs:Point ;
-	wgs:lat "16.33401714850232" ;
-	wgs:long "48.238807990267475" .
+	wgs:long "16.33401714850232" ;
+	wgs:lat "48.238807990267475" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503510> wgs:location _:node1bvvs7555x210 ;
 	rdfs:label "Hugo Wolf Park" ;
@@ -2952,8 +2952,8 @@ _:node1bvvs7555x210 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503511" .
 
 _:node1bvvs7555x211 a wgs:Point ;
-	wgs:lat "16.334375710086942" ;
-	wgs:long "48.23703023403206" .
+	wgs:long "16.334375710086942" ;
+	wgs:lat "48.23703023403206" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503511> wgs:location _:node1bvvs7555x211 ;
 	rdfs:label "Peter Jordan Strasse 65" ;
@@ -2966,8 +2966,8 @@ _:node1bvvs7555x211 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503512" .
 
 _:node1bvvs7555x212 a wgs:Point ;
-	wgs:lat "16.337935852058425" ;
-	wgs:long "48.237041652040645" .
+	wgs:long "16.337935852058425" ;
+	wgs:lat "48.237041652040645" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503512> wgs:location _:node1bvvs7555x212 ;
 	rdfs:label "Linnéplatz" ;
@@ -2980,8 +2980,8 @@ _:node1bvvs7555x212 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503513" .
 
 _:node1bvvs7555x213 a wgs:Point ;
-	wgs:lat "16.367485738830922" ;
-	wgs:long "48.24740830622093" .
+	wgs:long "16.367485738830922" ;
+	wgs:lat "48.24740830622093" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503513> wgs:location _:node1bvvs7555x213 ;
 	rdfs:label "Muthgasse 22" ;
@@ -2994,8 +2994,8 @@ _:node1bvvs7555x213 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503514" .
 
 _:node1bvvs7555x214 a wgs:Point ;
-	wgs:lat "16.367100054995795" ;
-	wgs:long "48.26018431075827" .
+	wgs:long "16.367100054995795" ;
+	wgs:lat "48.26018431075827" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503514> wgs:location _:node1bvvs7555x214 ;
 	rdfs:label "Nussdorfer Platz " ;
@@ -3008,8 +3008,8 @@ _:node1bvvs7555x214 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503515" .
 
 _:node1bvvs7555x215 a wgs:Point ;
-	wgs:lat "16.367229181850192" ;
-	wgs:long "48.23510148839289" .
+	wgs:long "16.367229181850192" ;
+	wgs:lat "48.23510148839289" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503515> wgs:location _:node1bvvs7555x215 ;
 	rdfs:label "Leipziger Platz" ;
@@ -3022,8 +3022,8 @@ _:node1bvvs7555x215 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503516" .
 
 _:node1bvvs7555x216 a wgs:Point ;
-	wgs:lat "16.380544237817865" ;
-	wgs:long "48.24483495506391" .
+	wgs:long "16.380544237817865" ;
+	wgs:lat "48.24483495506391" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503516> wgs:location _:node1bvvs7555x216 ;
 	rdfs:label "Friedrich Engels Platz" ;
@@ -3036,8 +3036,8 @@ _:node1bvvs7555x216 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503517" .
 
 _:node1bvvs7555x217 a wgs:Point ;
-	wgs:lat "16.379252215095228" ;
-	wgs:long "48.243692601998454" .
+	wgs:long "16.379252215095228" ;
+	wgs:lat "48.243692601998454" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503517> wgs:location _:node1bvvs7555x217 ;
 	rdfs:label "Friedrich Engels Platz" ;
@@ -3050,8 +3050,8 @@ _:node1bvvs7555x217 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503518" .
 
 _:node1bvvs7555x218 a wgs:Point ;
-	wgs:lat "16.386011086569134" ;
-	wgs:long "48.2346815288196" .
+	wgs:long "16.386011086569134" ;
+	wgs:lat "48.2346815288196" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503518> wgs:location _:node1bvvs7555x218 ;
 	rdfs:label "Mortaraplatz " ;
@@ -3064,8 +3064,8 @@ _:node1bvvs7555x218 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503519" .
 
 _:node1bvvs7555x219 a wgs:Point ;
-	wgs:lat "16.376925052282576" ;
-	wgs:long "48.23156693516352" .
+	wgs:long "16.376925052282576" ;
+	wgs:lat "48.23156693516352" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503519> wgs:location _:node1bvvs7555x219 ;
 	rdfs:label "Sachsenplatz" ;
@@ -3078,8 +3078,8 @@ _:node1bvvs7555x219 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503520" .
 
 _:node1bvvs7555x220 a wgs:Point ;
-	wgs:lat "16.37515638769277" ;
-	wgs:long "48.24513834506634" .
+	wgs:long "16.37515638769277" ;
+	wgs:lat "48.24513834506634" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503520> wgs:location _:node1bvvs7555x220 ;
 	rdfs:label "Forsthauspark" ;
@@ -3092,8 +3092,8 @@ _:node1bvvs7555x220 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503521" .
 
 _:node1bvvs7555x221 a wgs:Point ;
-	wgs:lat "16.38585097123587" ;
-	wgs:long "48.237573942868586" .
+	wgs:long "16.38585097123587" ;
+	wgs:lat "48.237573942868586" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503521> wgs:location _:node1bvvs7555x221 ;
 	rdfs:label "Allerheiligenplatz" ;
@@ -3106,8 +3106,8 @@ _:node1bvvs7555x221 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503522" .
 
 _:node1bvvs7555x222 a wgs:Point ;
-	wgs:lat "16.377306309207896" ;
-	wgs:long "48.24696972838498" .
+	wgs:long "16.377306309207896" ;
+	wgs:lat "48.24696972838498" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503522> wgs:location _:node1bvvs7555x222 ;
 	rdfs:label "Kapaunplatz" ;
@@ -3120,8 +3120,8 @@ _:node1bvvs7555x222 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503523" .
 
 _:node1bvvs7555x223 a wgs:Point ;
-	wgs:lat "16.369591036988986" ;
-	wgs:long "48.225618436437614" .
+	wgs:long "16.369591036988986" ;
+	wgs:lat "48.225618436437614" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503523> wgs:location _:node1bvvs7555x223 ;
 	rdfs:label "Gaussplatz" ;
@@ -3134,8 +3134,8 @@ _:node1bvvs7555x223 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503524" .
 
 _:node1bvvs7555x224 a wgs:Point ;
-	wgs:lat "16.3587153570514" ;
-	wgs:long "48.21129194956648" .
+	wgs:long "16.3587153570514" ;
+	wgs:lat "48.21129194956648" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503524> wgs:location _:node1bvvs7555x224 ;
 	rdfs:label "Rathauspl01" ;
@@ -3148,8 +3148,8 @@ _:node1bvvs7555x224 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503525" .
 
 _:node1bvvs7555x225 a wgs:Point ;
-	wgs:lat "16.359095584957355" ;
-	wgs:long "48.210957507831054" .
+	wgs:long "16.359095584957355" ;
+	wgs:lat "48.210957507831054" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503525> wgs:location _:node1bvvs7555x225 ;
 	rdfs:label "Rathauspl02" ;
@@ -3162,8 +3162,8 @@ _:node1bvvs7555x225 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503526" .
 
 _:node1bvvs7555x226 a wgs:Point ;
-	wgs:lat "16.359481573894055" ;
-	wgs:long "48.210727420426146" .
+	wgs:long "16.359481573894055" ;
+	wgs:lat "48.210727420426146" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503526> wgs:location _:node1bvvs7555x226 ;
 	rdfs:label "Rathauspl04" ;
@@ -3176,8 +3176,8 @@ _:node1bvvs7555x226 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503527" .
 
 _:node1bvvs7555x227 a wgs:Point ;
-	wgs:lat "16.360113651607215" ;
-	wgs:long "48.210642610156235" .
+	wgs:long "16.360113651607215" ;
+	wgs:lat "48.210642610156235" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503527> wgs:location _:node1bvvs7555x227 ;
 	rdfs:label "Rathauspl05" ;
@@ -3190,8 +3190,8 @@ _:node1bvvs7555x227 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503528" .
 
 _:node1bvvs7555x228 a wgs:Point ;
-	wgs:lat "16.359062785872442" ;
-	wgs:long "48.2104268272529" .
+	wgs:long "16.359062785872442" ;
+	wgs:lat "48.2104268272529" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503528> wgs:location _:node1bvvs7555x228 ;
 	rdfs:label "Rathauspl07" ;
@@ -3204,8 +3204,8 @@ _:node1bvvs7555x228 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503529" .
 
 _:node1bvvs7555x229 a wgs:Point ;
-	wgs:lat "16.35905207650271" ;
-	wgs:long "48.21042254594732" .
+	wgs:long "16.35905207650271" ;
+	wgs:lat "48.21042254594732" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503529> wgs:location _:node1bvvs7555x229 ;
 	rdfs:label "Rathauspl08" ;
@@ -3218,8 +3218,8 @@ _:node1bvvs7555x229 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503530" .
 
 _:node1bvvs7555x230 a wgs:Point ;
-	wgs:lat "16.358892779587947" ;
-	wgs:long "48.210268941024275" .
+	wgs:long "16.358892779587947" ;
+	wgs:lat "48.210268941024275" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503530> wgs:location _:node1bvvs7555x230 ;
 	rdfs:label "Rathauspl09" ;
@@ -3232,8 +3232,8 @@ _:node1bvvs7555x230 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503531" .
 
 _:node1bvvs7555x231 a wgs:Point ;
-	wgs:lat "16.386461112657877" ;
-	wgs:long "48.19424709741342" .
+	wgs:long "16.386461112657877" ;
+	wgs:lat "48.19424709741342" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503531> wgs:location _:node1bvvs7555x231 ;
 	rdfs:label "Fasanplatz" ;
@@ -3246,8 +3246,8 @@ _:node1bvvs7555x231 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503532" .
 
 _:node1bvvs7555x232 a wgs:Point ;
-	wgs:lat "16.375354819326997" ;
-	wgs:long "48.19100466024388" .
+	wgs:long "16.375354819326997" ;
+	wgs:lat "48.19100466024388" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503532> wgs:location _:node1bvvs7555x232 ;
 	rdfs:label "St.-Elisabeth-Platz" ;
@@ -3260,8 +3260,8 @@ _:node1bvvs7555x232 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503533" .
 
 _:node1bvvs7555x233 a wgs:Point ;
-	wgs:lat "16.36989495118133" ;
-	wgs:long "48.194650635708086" .
+	wgs:long "16.36989495118133" ;
+	wgs:lat "48.194650635708086" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503533> wgs:location _:node1bvvs7555x233 ;
 	rdfs:label "Favoritenstrasse MBA" ;
@@ -3274,8 +3274,8 @@ _:node1bvvs7555x233 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503534" .
 
 _:node1bvvs7555x234 a wgs:Point ;
-	wgs:lat "16.365279643557034" ;
-	wgs:long "48.19123428927583" .
+	wgs:long "16.365279643557034" ;
+	wgs:lat "48.19123428927583" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503534> wgs:location _:node1bvvs7555x234 ;
 	rdfs:label "Rubenspark" ;
@@ -3288,8 +3288,8 @@ _:node1bvvs7555x234 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503535" .
 
 _:node1bvvs7555x235 a wgs:Point ;
-	wgs:lat "16.38137367570801" ;
-	wgs:long "48.18224828240382" .
+	wgs:long "16.38137367570801" ;
+	wgs:lat "48.18224828240382" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503535> wgs:location _:node1bvvs7555x235 ;
 	rdfs:label "Helmut Zilk Park 2" ;
@@ -3302,8 +3302,8 @@ _:node1bvvs7555x235 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503536" .
 
 _:node1bvvs7555x236 a wgs:Point ;
-	wgs:lat "16.4141550365822" ;
-	wgs:long "48.17631467252588" .
+	wgs:long "16.4141550365822" ;
+	wgs:lat "48.17631467252588" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503536> wgs:location _:node1bvvs7555x236 ;
 	rdfs:label "Enkplatz" ;
@@ -3316,8 +3316,8 @@ _:node1bvvs7555x236 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503537" .
 
 _:node1bvvs7555x237 a wgs:Point ;
-	wgs:lat "16.466037611469623" ;
-	wgs:long "48.154234439863735" .
+	wgs:long "16.466037611469623" ;
+	wgs:lat "48.154234439863735" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503537> wgs:location _:node1bvvs7555x237 ;
 	rdfs:label "Svetelskystrasse 11" ;
@@ -3330,8 +3330,8 @@ _:node1bvvs7555x237 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503538" .
 
 _:node1bvvs7555x238 a wgs:Point ;
-	wgs:lat "16.410058322841692" ;
-	wgs:long "48.173657644201406" .
+	wgs:long "16.410058322841692" ;
+	wgs:lat "48.173657644201406" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503538> wgs:location _:node1bvvs7555x238 ;
 	rdfs:label "Herderpark" ;
@@ -3344,8 +3344,8 @@ _:node1bvvs7555x238 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503539" .
 
 _:node1bvvs7555x239 a wgs:Point ;
-	wgs:lat "16.42496003762198" ;
-	wgs:long "48.15785764517603" .
+	wgs:long "16.42496003762198" ;
+	wgs:lat "48.15785764517603" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503539> wgs:location _:node1bvvs7555x239 ;
 	rdfs:label "Pretschgasse 1" ;
@@ -3358,8 +3358,8 @@ _:node1bvvs7555x239 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503415" .
 
 _:node1bvvs7555x240 a wgs:Point ;
-	wgs:lat "16.414677343789467" ;
-	wgs:long "48.214045917952554" .
+	wgs:long "16.414677343789467" ;
+	wgs:lat "48.214045917952554" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503415> wgs:location _:node1bvvs7555x240 ;
 	rdfs:label "Trabrennstrasse" ;
@@ -3372,8 +3372,8 @@ _:node1bvvs7555x240 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503416" .
 
 _:node1bvvs7555x241 a wgs:Point ;
-	wgs:lat "16.41316481943384" ;
-	wgs:long "48.213400639296154" .
+	wgs:long "16.41316481943384" ;
+	wgs:lat "48.213400639296154" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503416> wgs:location _:node1bvvs7555x241 ;
 	rdfs:label "Stella-Klein-Loew-Weg" ;
@@ -3386,8 +3386,8 @@ _:node1bvvs7555x241 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503417" .
 
 _:node1bvvs7555x242 a wgs:Point ;
-	wgs:lat "16.42075682548714" ;
-	wgs:long "48.210030105378074" .
+	wgs:long "16.42075682548714" ;
+	wgs:lat "48.210030105378074" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503417> wgs:location _:node1bvvs7555x242 ;
 	rdfs:label "Ernst-Happel-Stadion" ;
@@ -3400,8 +3400,8 @@ _:node1bvvs7555x242 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503418" .
 
 _:node1bvvs7555x243 a wgs:Point ;
-	wgs:lat "16.41819887882959" ;
-	wgs:long "48.20774740685595" .
+	wgs:long "16.41819887882959" ;
+	wgs:lat "48.20774740685595" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503418> wgs:location _:node1bvvs7555x243 ;
 	rdfs:label "Stadion" ;
@@ -3414,8 +3414,8 @@ _:node1bvvs7555x243 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503419" .
 
 _:node1bvvs7555x244 a wgs:Point ;
-	wgs:lat "16.442148090409166" ;
-	wgs:long "48.154626473391346" .
+	wgs:long "16.442148090409166" ;
+	wgs:lat "48.154626473391346" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503419> wgs:location _:node1bvvs7555x244 ;
 	rdfs:label "Johan-Hatzl-Platz" ;
@@ -3428,8 +3428,8 @@ _:node1bvvs7555x244 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503420" .
 
 _:node1bvvs7555x245 a wgs:Point ;
-	wgs:lat "16.416202527209737" ;
-	wgs:long "48.174233479941016" .
+	wgs:long "16.416202527209737" ;
+	wgs:lat "48.174233479941016" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503420> wgs:location _:node1bvvs7555x245 ;
 	rdfs:label "Simmeringer Hauptsrasse # Grillgasse" ;
@@ -3442,8 +3442,8 @@ _:node1bvvs7555x245 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503421" .
 
 _:node1bvvs7555x246 a wgs:Point ;
-	wgs:lat "16.319001641779384" ;
-	wgs:long "48.19779244659" .
+	wgs:long "16.319001641779384" ;
+	wgs:lat "48.19779244659" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503421> wgs:location _:node1bvvs7555x246 ;
 	rdfs:label "Meiselmarkt # Johnstrasse" ;
@@ -3456,8 +3456,8 @@ _:node1bvvs7555x246 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503422" .
 
 _:node1bvvs7555x247 a wgs:Point ;
-	wgs:lat "16.318943704628172" ;
-	wgs:long "48.199237550468325" .
+	wgs:long "16.318943704628172" ;
+	wgs:lat "48.199237550468325" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503422> wgs:location _:node1bvvs7555x247 ;
 	rdfs:label "Meiselmarkt # Huetteldorfer Strasse " ;
@@ -3470,8 +3470,8 @@ _:node1bvvs7555x247 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503423" .
 
 _:node1bvvs7555x248 a wgs:Point ;
-	wgs:lat "16.307170949499472" ;
-	wgs:long "48.22044056213808" .
+	wgs:long "16.307170949499472" ;
+	wgs:lat "48.22044056213808" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503423> wgs:location _:node1bvvs7555x248 ;
 	rdfs:label "Nietzscheplatz" ;
@@ -3484,8 +3484,8 @@ _:node1bvvs7555x248 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503424" .
 
 _:node1bvvs7555x249 a wgs:Point ;
-	wgs:lat "16.309122560510126" ;
-	wgs:long "48.207622983363876" .
+	wgs:long "16.309122560510126" ;
+	wgs:lat "48.207622983363876" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503424> wgs:location _:node1bvvs7555x249 ;
 	rdfs:label "Gutraterplatz" ;
@@ -3498,8 +3498,8 @@ _:node1bvvs7555x249 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503425" .
 
 _:node1bvvs7555x250 a wgs:Point ;
-	wgs:lat "16.382642132926353" ;
-	wgs:long "48.21109121008237" .
+	wgs:long "16.382642132926353" ;
+	wgs:lat "48.21109121008237" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503425> wgs:location _:node1bvvs7555x250 ;
 	rdfs:label "Julius Raab Platz" ;
@@ -3512,8 +3512,8 @@ _:node1bvvs7555x250 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503426" .
 
 _:node1bvvs7555x251 a wgs:Point ;
-	wgs:lat "16.364782090272776" ;
-	wgs:long "48.19790609364555" .
+	wgs:long "16.364782090272776" ;
+	wgs:lat "48.19790609364555" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503426> wgs:location _:node1bvvs7555x251 ;
 	rdfs:label "Kuehnplatz" ;
@@ -3526,8 +3526,8 @@ _:node1bvvs7555x251 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503427" .
 
 _:node1bvvs7555x252 a wgs:Point ;
-	wgs:lat "16.38071220521111" ;
-	wgs:long "48.177885219115964" .
+	wgs:long "16.38071220521111" ;
+	wgs:lat "48.177885219115964" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503427> wgs:location _:node1bvvs7555x252 ;
 	rdfs:label "Helmut Zilk Park" ;
@@ -3540,8 +3540,8 @@ _:node1bvvs7555x252 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503428" .
 
 _:node1bvvs7555x253 a wgs:Point ;
-	wgs:lat "16.33270440505009" ;
-	wgs:long "48.18117578686623" .
+	wgs:long "16.33270440505009" ;
+	wgs:lat "48.18117578686623" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503428> wgs:location _:node1bvvs7555x253 ;
 	rdfs:label "Meidlingermarkt" ;
@@ -3554,8 +3554,8 @@ _:node1bvvs7555x253 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503429" .
 
 _:node1bvvs7555x254 a wgs:Point ;
-	wgs:lat "16.314566512618917" ;
-	wgs:long "48.223439409159525" .
+	wgs:long "16.314566512618917" ;
+	wgs:lat "48.223439409159525" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503429> wgs:location _:node1bvvs7555x254 ;
 	rdfs:label "Park der Freiheit" ;
@@ -3568,8 +3568,8 @@ _:node1bvvs7555x254 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503430" .
 
 _:node1bvvs7555x255 a wgs:Point ;
-	wgs:lat "16.36309619196475" ;
-	wgs:long "48.23472464329601" .
+	wgs:long "16.36309619196475" ;
+	wgs:lat "48.23472464329601" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503430> wgs:location _:node1bvvs7555x255 ;
 	rdfs:label "Anton Kummerer Park" ;
@@ -3582,8 +3582,8 @@ _:node1bvvs7555x255 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503431" .
 
 _:node1bvvs7555x256 a wgs:Point ;
-	wgs:lat "16.396297475079663" ;
-	wgs:long "48.25169681094684" .
+	wgs:long "16.396297475079663" ;
+	wgs:lat "48.25169681094684" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503431> wgs:location _:node1bvvs7555x256 ;
 	rdfs:label "Wasserpark" ;
@@ -3596,8 +3596,8 @@ _:node1bvvs7555x256 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503432" .
 
 _:node1bvvs7555x257 a wgs:Point ;
-	wgs:lat "16.404268832166377" ;
-	wgs:long "48.25029482875479" .
+	wgs:long "16.404268832166377" ;
+	wgs:lat "48.25029482875479" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503432> wgs:location _:node1bvvs7555x257 ;
 	rdfs:label "An der oberen alten Donau # Birnersteig" ;
@@ -3610,8 +3610,8 @@ _:node1bvvs7555x257 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503433" .
 
 _:node1bvvs7555x258 a wgs:Point ;
-	wgs:lat "16.40022842091308" ;
-	wgs:long "48.25483013081348" .
+	wgs:long "16.40022842091308" ;
+	wgs:lat "48.25483013081348" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503433> wgs:location _:node1bvvs7555x258 ;
 	rdfs:label "Brossmannplatz" ;
@@ -3624,8 +3624,8 @@ _:node1bvvs7555x258 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503434" .
 
 _:node1bvvs7555x259 a wgs:Point ;
-	wgs:lat "16.492520135878138" ;
-	wgs:long "48.248724805160016" .
+	wgs:long "16.492520135878138" ;
+	wgs:lat "48.248724805160016" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503434> wgs:location _:node1bvvs7555x259 ;
 	rdfs:label "Feuerwehrspielplatz" ;
@@ -3638,8 +3638,8 @@ _:node1bvvs7555x259 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503435" .
 
 _:node1bvvs7555x260 a wgs:Point ;
-	wgs:lat "16.33413566782523" ;
-	wgs:long "48.22086483724162" .
+	wgs:long "16.33413566782523" ;
+	wgs:lat "48.22086483724162" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503435> wgs:location _:node1bvvs7555x260 ;
 	rdfs:label "Dornerplatz" ;
@@ -3652,8 +3652,8 @@ _:node1bvvs7555x260 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503436" .
 
 _:node1bvvs7555x261 a wgs:Point ;
-	wgs:lat "16.33656516077161" ;
-	wgs:long "48.223872738572666" .
+	wgs:long "16.33656516077161" ;
+	wgs:lat "48.223872738572666" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503436> wgs:location _:node1bvvs7555x261 ;
 	rdfs:label "Johann Nepomuk Vogl Platz" ;
@@ -3666,8 +3666,8 @@ _:node1bvvs7555x261 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503437" .
 
 _:node1bvvs7555x262 a wgs:Point ;
-	wgs:lat "16.280184081381204" ;
-	wgs:long "48.13614338935321" .
+	wgs:long "16.280184081381204" ;
+	wgs:lat "48.13614338935321" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503437> wgs:location _:node1bvvs7555x262 ;
 	rdfs:label "Liesingerplatz Riverside" ;
@@ -3680,8 +3680,8 @@ _:node1bvvs7555x262 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503438" .
 
 _:node1bvvs7555x263 a wgs:Point ;
-	wgs:lat "16.395091983968413" ;
-	wgs:long "48.210101727524034" .
+	wgs:long "16.395091983968413" ;
+	wgs:lat "48.210101727524034" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503438> wgs:location _:node1bvvs7555x263 ;
 	rdfs:label "Weissgerberlaende 14" ;
@@ -3694,8 +3694,8 @@ _:node1bvvs7555x263 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503439" .
 
 _:node1bvvs7555x264 a wgs:Point ;
-	wgs:lat "16.330410395091402" ;
-	wgs:long "48.17426876549552" .
+	wgs:long "16.330410395091402" ;
+	wgs:lat "48.17426876549552" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503439> wgs:location _:node1bvvs7555x264 ;
 	rdfs:label "Edelsinnstrasse 2 " ;
@@ -3708,8 +3708,8 @@ _:node1bvvs7555x264 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503440" .
 
 _:node1bvvs7555x265 a wgs:Point ;
-	wgs:lat "16.33152794559414" ;
-	wgs:long "48.174709213393136" .
+	wgs:long "16.33152794559414" ;
+	wgs:lat "48.174709213393136" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503440> wgs:location _:node1bvvs7555x265 ;
 	rdfs:label "Wilhelmstrasse 66 " ;
@@ -3722,8 +3722,8 @@ _:node1bvvs7555x265 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503441" .
 
 _:node1bvvs7555x266 a wgs:Point ;
-	wgs:lat "16.279096515183387" ;
-	wgs:long "48.169260940295395" .
+	wgs:long "16.279096515183387" ;
+	wgs:lat "48.169260940295395" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503441> wgs:location _:node1bvvs7555x266 ;
 	rdfs:label "Wolkersbergerstrasse 1 " ;
@@ -3736,8 +3736,8 @@ _:node1bvvs7555x266 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503442" .
 
 _:node1bvvs7555x267 a wgs:Point ;
-	wgs:lat "16.2714287202983" ;
-	wgs:long "48.19895112660781" .
+	wgs:long "16.2714287202983" ;
+	wgs:lat "48.19895112660781" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503442> wgs:location _:node1bvvs7555x267 ;
 	rdfs:label "Leon Askin Platz" ;
@@ -3750,8 +3750,8 @@ _:node1bvvs7555x267 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503443" .
 
 _:node1bvvs7555x268 a wgs:Point ;
-	wgs:lat "16.33589604367038" ;
-	wgs:long "48.211149842923284" .
+	wgs:long "16.33589604367038" ;
+	wgs:lat "48.211149842923284" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503443> wgs:location _:node1bvvs7555x268 ;
 	rdfs:label "Brunnengasse 55" ;
@@ -3764,8 +3764,8 @@ _:node1bvvs7555x268 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503444" .
 
 _:node1bvvs7555x269 a wgs:Point ;
-	wgs:lat "16.453768324344885" ;
-	wgs:long "48.158143189406196" .
+	wgs:long "16.453768324344885" ;
+	wgs:lat "48.158143189406196" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503444> wgs:location _:node1bvvs7555x269 ;
 	rdfs:label "Thuernlhofstrasse 30" ;
@@ -3778,8 +3778,8 @@ _:node1bvvs7555x269 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503445" .
 
 _:node1bvvs7555x270 a wgs:Point ;
-	wgs:lat "16.31934610781415" ;
-	wgs:long "48.18405340448846" .
+	wgs:long "16.31934610781415" ;
+	wgs:lat "48.18405340448846" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503445> wgs:location _:node1bvvs7555x270 ;
 	rdfs:label "Gruenbergstrasse Eingang Schloss Schoenbrunn" ;
@@ -3792,8 +3792,8 @@ _:node1bvvs7555x270 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503214" .
 
 _:node1bvvs7555x271 a wgs:Point ;
-	wgs:lat "16.371370924800157" ;
-	wgs:long "48.20800678900329" .
+	wgs:long "16.371370924800157" ;
+	wgs:lat "48.20800678900329" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503214> wgs:location _:node1bvvs7555x271 ;
 	rdfs:label "Stephansplatz1" ;
@@ -3806,8 +3806,8 @@ _:node1bvvs7555x271 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503215" .
 
 _:node1bvvs7555x272 a wgs:Point ;
-	wgs:lat "16.36116716946814" ;
-	wgs:long "48.202505553759686" .
+	wgs:long "16.36116716946814" ;
+	wgs:lat "48.202505553759686" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503215> wgs:location _:node1bvvs7555x272 ;
 	rdfs:label "Mariahilferstr 2" ;
@@ -3820,8 +3820,8 @@ _:node1bvvs7555x272 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503216" .
 
 _:node1bvvs7555x273 a wgs:Point ;
-	wgs:lat "16.359454849251204" ;
-	wgs:long "48.20124143701566" .
+	wgs:long "16.359454849251204" ;
+	wgs:lat "48.20124143701566" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503216> wgs:location _:node1bvvs7555x273 ;
 	rdfs:label "Mariahilferstr 12" ;
@@ -3834,8 +3834,8 @@ _:node1bvvs7555x273 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503217" .
 
 _:node1bvvs7555x274 a wgs:Point ;
-	wgs:lat "16.35742519399335" ;
-	wgs:long "48.20075155961123" .
+	wgs:long "16.35742519399335" ;
+	wgs:lat "48.20075155961123" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503217> wgs:location _:node1bvvs7555x274 ;
 	rdfs:label "Mariahilferstr 22" ;
@@ -3848,8 +3848,8 @@ _:node1bvvs7555x274 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503218" .
 
 _:node1bvvs7555x275 a wgs:Point ;
-	wgs:lat "16.355461712338535" ;
-	wgs:long "48.200128320136756" .
+	wgs:long "16.355461712338535" ;
+	wgs:lat "48.200128320136756" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503218> wgs:location _:node1bvvs7555x275 ;
 	rdfs:label "Mariahilferstr 41" ;
@@ -3862,8 +3862,8 @@ _:node1bvvs7555x275 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503219" .
 
 _:node1bvvs7555x276 a wgs:Point ;
-	wgs:lat "16.35327984830746" ;
-	wgs:long "48.199600497746594" .
+	wgs:long "16.35327984830746" ;
+	wgs:lat "48.199600497746594" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503219> wgs:location _:node1bvvs7555x276 ;
 	rdfs:label "Mariahilferstr 42" ;
@@ -3876,8 +3876,8 @@ _:node1bvvs7555x276 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503220" .
 
 _:node1bvvs7555x277 a wgs:Point ;
-	wgs:lat "16.351383789992664" ;
-	wgs:long "48.198758643819424" .
+	wgs:long "16.351383789992664" ;
+	wgs:lat "48.198758643819424" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503220> wgs:location _:node1bvvs7555x277 ;
 	rdfs:label "Mariahilferstr 67" ;
@@ -3890,8 +3890,8 @@ _:node1bvvs7555x277 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503221" .
 
 _:node1bvvs7555x278 a wgs:Point ;
-	wgs:lat "16.350027685085003" ;
-	wgs:long "48.19819413412909" .
+	wgs:long "16.350027685085003" ;
+	wgs:lat "48.19819413412909" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503221> wgs:location _:node1bvvs7555x278 ;
 	rdfs:label "Mariahilferstr 75" ;
@@ -3904,8 +3904,8 @@ _:node1bvvs7555x278 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503222" .
 
 _:node1bvvs7555x279 a wgs:Point ;
-	wgs:lat "16.347715996364492" ;
-	wgs:long "48.19757790851492" .
+	wgs:long "16.347715996364492" ;
+	wgs:lat "48.19757790851492" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503222> wgs:location _:node1bvvs7555x279 ;
 	rdfs:label "Mariahilferstr 84" ;
@@ -3918,8 +3918,8 @@ _:node1bvvs7555x279 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503223" .
 
 _:node1bvvs7555x280 a wgs:Point ;
-	wgs:lat "16.346187487187663" ;
-	wgs:long "48.19707479429132" .
+	wgs:long "16.346187487187663" ;
+	wgs:lat "48.19707479429132" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503223> wgs:location _:node1bvvs7555x280 ;
 	rdfs:label "Mariahilferstr 97" ;
@@ -3932,8 +3932,8 @@ _:node1bvvs7555x280 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503224" .
 
 _:node1bvvs7555x281 a wgs:Point ;
-	wgs:lat "16.344331720992756" ;
-	wgs:long "48.19680514708163" .
+	wgs:long "16.344331720992756" ;
+	wgs:lat "48.19680514708163" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503224> wgs:location _:node1bvvs7555x281 ;
 	rdfs:label "Mariahilferstr 102" ;
@@ -3946,8 +3946,8 @@ _:node1bvvs7555x281 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503225" .
 
 _:node1bvvs7555x282 a wgs:Point ;
-	wgs:lat "16.34198256246057" ;
-	wgs:long "48.19626711247864" .
+	wgs:long "16.34198256246057" ;
+	wgs:lat "48.19626711247864" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503225> wgs:location _:node1bvvs7555x282 ;
 	rdfs:label "Mariahilferstr 119" ;
@@ -3960,8 +3960,8 @@ _:node1bvvs7555x282 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503226" .
 
 _:node1bvvs7555x283 a wgs:Point ;
-	wgs:lat "16.34024763155712" ;
-	wgs:long "48.19574088006576" .
+	wgs:long "16.34024763155712" ;
+	wgs:lat "48.19574088006576" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503226> wgs:location _:node1bvvs7555x283 ;
 	rdfs:label "Mariahilferstr 125" ;
@@ -3974,8 +3974,8 @@ _:node1bvvs7555x283 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503227" .
 
 _:node1bvvs7555x284 a wgs:Point ;
-	wgs:lat "16.36231128679694" ;
-	wgs:long "48.226880467568044" .
+	wgs:long "16.36231128679694" ;
+	wgs:lat "48.226880467568044" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503227> wgs:location _:node1bvvs7555x284 ;
 	rdfs:label "Spittelauer Platz" ;
@@ -3988,8 +3988,8 @@ _:node1bvvs7555x284 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503228" .
 
 _:node1bvvs7555x285 a wgs:Point ;
-	wgs:lat "16.34401834426213" ;
-	wgs:long "48.21068747978136" .
+	wgs:long "16.34401834426213" ;
+	wgs:lat "48.21068747978136" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503228> wgs:location _:node1bvvs7555x285 ;
 	rdfs:label "Josef Matthias Hauer Platz" ;
@@ -4002,8 +4002,8 @@ _:node1bvvs7555x285 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503229" .
 
 _:node1bvvs7555x286 a wgs:Point ;
-	wgs:lat "16.328614972576837" ;
-	wgs:long "48.183260320057144" .
+	wgs:long "16.328614972576837" ;
+	wgs:lat "48.183260320057144" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503229> wgs:location _:node1bvvs7555x286 ;
 	rdfs:label "U4 Meidling" ;
@@ -4016,8 +4016,8 @@ _:node1bvvs7555x286 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503230" .
 
 _:node1bvvs7555x287 a wgs:Point ;
-	wgs:lat "16.36721865956564" ;
-	wgs:long "48.2233742668121" .
+	wgs:long "16.36721865956564" ;
+	wgs:lat "48.2233742668121" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503230> wgs:location _:node1bvvs7555x287 ;
 	rdfs:label "Siemens Nixdorf Steg" ;
@@ -4030,8 +4030,8 @@ _:node1bvvs7555x287 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503231" .
 
 _:node1bvvs7555x288 a wgs:Point ;
-	wgs:lat "16.353589182865672" ;
-	wgs:long "48.221873267142975" .
+	wgs:long "16.353589182865672" ;
+	wgs:lat "48.221873267142975" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503231> wgs:location _:node1bvvs7555x288 ;
 	rdfs:label "Arne Carlson Park" ;
@@ -4044,8 +4044,8 @@ _:node1bvvs7555x288 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503232" .
 
 _:node1bvvs7555x289 a wgs:Point ;
-	wgs:lat "16.36236408191651" ;
-	wgs:long "48.22604511611712" .
+	wgs:long "16.36236408191651" ;
+	wgs:lat "48.22604511611712" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503232> wgs:location _:node1bvvs7555x289 ;
 	rdfs:label "Julius Tandler Platz" ;
@@ -4058,8 +4058,8 @@ _:node1bvvs7555x289 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503233" .
 
 _:node1bvvs7555x290 a wgs:Point ;
-	wgs:lat "16.361247149459977" ;
-	wgs:long "48.22568088835715" .
+	wgs:long "16.361247149459977" ;
+	wgs:lat "48.22568088835715" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503233> wgs:location _:node1bvvs7555x290 ;
 	rdfs:label "Julius Tandler Platz" ;
@@ -4072,8 +4072,8 @@ _:node1bvvs7555x290 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503234" .
 
 _:node1bvvs7555x291 a wgs:Point ;
-	wgs:lat "16.35654113279018" ;
-	wgs:long "48.23286936522249" .
+	wgs:long "16.35654113279018" ;
+	wgs:lat "48.23286936522249" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503234> wgs:location _:node1bvvs7555x291 ;
 	rdfs:label "Liechtenwerder Platz" ;
@@ -4086,8 +4086,8 @@ _:node1bvvs7555x291 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503235" .
 
 _:node1bvvs7555x292 a wgs:Point ;
-	wgs:lat "16.35142522995471" ;
-	wgs:long "48.21514917466439" .
+	wgs:long "16.35142522995471" ;
+	wgs:lat "48.21514917466439" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503235> wgs:location _:node1bvvs7555x292 ;
 	rdfs:label "Altes AKH" ;
@@ -4100,8 +4100,8 @@ _:node1bvvs7555x292 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503236" .
 
 _:node1bvvs7555x293 a wgs:Point ;
-	wgs:lat "16.35356542747079" ;
-	wgs:long "48.216619952498135" .
+	wgs:long "16.35356542747079" ;
+	wgs:lat "48.216619952498135" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503236> wgs:location _:node1bvvs7555x293 ;
 	rdfs:label "Altes AKH" ;
@@ -4114,8 +4114,8 @@ _:node1bvvs7555x293 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503237" .
 
 _:node1bvvs7555x294 a wgs:Point ;
-	wgs:lat "16.355128258595595" ;
-	wgs:long "48.215418576715834" .
+	wgs:long "16.355128258595595" ;
+	wgs:lat "48.215418576715834" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503237> wgs:location _:node1bvvs7555x294 ;
 	rdfs:label "Ostarrichi Park" ;
@@ -4128,8 +4128,8 @@ _:node1bvvs7555x294 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503238" .
 
 _:node1bvvs7555x295 a wgs:Point ;
-	wgs:lat "16.358459491541005" ;
-	wgs:long "48.214430356957045" .
+	wgs:long "16.358459491541005" ;
+	wgs:lat "48.214430356957045" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503238> wgs:location _:node1bvvs7555x295 ;
 	rdfs:label "Votivpark" ;
@@ -4142,8 +4142,8 @@ _:node1bvvs7555x295 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503239" .
 
 _:node1bvvs7555x296 a wgs:Point ;
-	wgs:lat "16.360604601238723" ;
-	wgs:long "48.215501477122466" .
+	wgs:long "16.360604601238723" ;
+	wgs:lat "48.215501477122466" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503239> wgs:location _:node1bvvs7555x296 ;
 	rdfs:label "Votivpark" ;
@@ -4156,8 +4156,8 @@ _:node1bvvs7555x296 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503240" .
 
 _:node1bvvs7555x297 a wgs:Point ;
-	wgs:lat "16.401226937062397" ;
-	wgs:long "48.151929770573126" .
+	wgs:long "16.401226937062397" ;
+	wgs:lat "48.151929770573126" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503240> wgs:location _:node1bvvs7555x297 ;
 	rdfs:label "Filmteichstrasse" ;
@@ -4170,8 +4170,8 @@ _:node1bvvs7555x297 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503241" .
 
 _:node1bvvs7555x298 a wgs:Point ;
-	wgs:lat "16.392500671934986" ;
-	wgs:long "48.1395352503521" .
+	wgs:long "16.392500671934986" ;
+	wgs:lat "48.1395352503521" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503241> wgs:location _:node1bvvs7555x298 ;
 	rdfs:label "Hubert Blamauer Park" ;
@@ -4184,8 +4184,8 @@ _:node1bvvs7555x298 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503242" .
 
 _:node1bvvs7555x299 a wgs:Point ;
-	wgs:lat "16.37730283365219" ;
-	wgs:long "48.17372748483604" .
+	wgs:long "16.37730283365219" ;
+	wgs:lat "48.17372748483604" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503242> wgs:location _:node1bvvs7555x299 ;
 	rdfs:label "Reumannplatz" ;
@@ -4198,8 +4198,8 @@ _:node1bvvs7555x299 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503243" .
 
 _:node1bvvs7555x300 a wgs:Point ;
-	wgs:lat "16.365033889890437" ;
-	wgs:long "48.17986875001105" .
+	wgs:long "16.365033889890437" ;
+	wgs:lat "48.17986875001105" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503243> wgs:location _:node1bvvs7555x300 ;
 	rdfs:label "Waldmuellerpark" ;
@@ -4212,8 +4212,8 @@ _:node1bvvs7555x300 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503245" .
 
 _:node1bvvs7555x301 a wgs:Point ;
-	wgs:lat "16.37432544442216" ;
-	wgs:long "48.184599628483156" .
+	wgs:long "16.37432544442216" ;
+	wgs:lat "48.184599628483156" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503245> wgs:location _:node1bvvs7555x301 ;
 	rdfs:label "Favoritenstrasse 51" ;
@@ -4226,8 +4226,8 @@ _:node1bvvs7555x301 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503246" .
 
 _:node1bvvs7555x302 a wgs:Point ;
-	wgs:lat "16.374781657470148" ;
-	wgs:long "48.18222792144037" .
+	wgs:long "16.374781657470148" ;
+	wgs:lat "48.18222792144037" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503246> wgs:location _:node1bvvs7555x302 ;
 	rdfs:label "Favoritenstrasse" ;
@@ -4240,8 +4240,8 @@ _:node1bvvs7555x302 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503247" .
 
 _:node1bvvs7555x303 a wgs:Point ;
-	wgs:lat "16.37701363829187" ;
-	wgs:long "48.176733170333236" .
+	wgs:long "16.37701363829187" ;
+	wgs:lat "48.176733170333236" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503247> wgs:location _:node1bvvs7555x303 ;
 	rdfs:label "Favoritenstrasse 128" ;
@@ -4254,8 +4254,8 @@ _:node1bvvs7555x303 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503248" .
 
 _:node1bvvs7555x304 a wgs:Point ;
-	wgs:lat "16.3822951426318" ;
-	wgs:long "48.209631128538284" .
+	wgs:long "16.3822951426318" ;
+	wgs:lat "48.209631128538284" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503248> wgs:location _:node1bvvs7555x304 ;
 	rdfs:label "Stubenring 8-10" ;
@@ -4268,8 +4268,8 @@ _:node1bvvs7555x304 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503249" .
 
 _:node1bvvs7555x305 a wgs:Point ;
-	wgs:lat "16.3814081934653" ;
-	wgs:long "48.20794112445409" .
+	wgs:long "16.3814081934653" ;
+	wgs:lat "48.20794112445409" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503249> wgs:location _:node1bvvs7555x305 ;
 	rdfs:label "Stubenring 5" ;
@@ -4282,8 +4282,8 @@ _:node1bvvs7555x305 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503250" .
 
 _:node1bvvs7555x306 a wgs:Point ;
-	wgs:lat "16.379590295211337" ;
-	wgs:long "48.20644279566468" .
+	wgs:long "16.379590295211337" ;
+	wgs:lat "48.20644279566468" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503250> wgs:location _:node1bvvs7555x306 ;
 	rdfs:label "Parkring 4" ;
@@ -4296,8 +4296,8 @@ _:node1bvvs7555x306 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503251" .
 
 _:node1bvvs7555x307 a wgs:Point ;
-	wgs:lat "16.377865272499783" ;
-	wgs:long "48.20447097498804" .
+	wgs:long "16.377865272499783" ;
+	wgs:lat "48.20447097498804" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503251> wgs:location _:node1bvvs7555x307 ;
 	rdfs:label "Parkring 12" ;
@@ -4310,8 +4310,8 @@ _:node1bvvs7555x307 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503252" .
 
 _:node1bvvs7555x308 a wgs:Point ;
-	wgs:lat "16.376534551106552" ;
-	wgs:long "48.20345633575466" .
+	wgs:long "16.376534551106552" ;
+	wgs:lat "48.20345633575466" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503252> wgs:location _:node1bvvs7555x308 ;
 	rdfs:label "Parkring 20" ;
@@ -4324,8 +4324,8 @@ _:node1bvvs7555x308 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503253" .
 
 _:node1bvvs7555x309 a wgs:Point ;
-	wgs:lat "16.374870928587296" ;
-	wgs:long "48.20189590830071" .
+	wgs:long "16.374870928587296" ;
+	wgs:lat "48.20189590830071" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503253> wgs:location _:node1bvvs7555x309 ;
 	rdfs:label "Schubertring 10-12" ;
@@ -4338,8 +4338,8 @@ _:node1bvvs7555x309 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503254" .
 
 _:node1bvvs7555x310 a wgs:Point ;
-	wgs:lat "16.37308022465002" ;
-	wgs:long "48.201490486269286" .
+	wgs:long "16.37308022465002" ;
+	wgs:lat "48.201490486269286" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503254> wgs:location _:node1bvvs7555x310 ;
 	rdfs:label "Kaerntnerring 16" ;
@@ -4352,8 +4352,8 @@ _:node1bvvs7555x310 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503255" .
 
 _:node1bvvs7555x311 a wgs:Point ;
-	wgs:lat "16.3713395982137" ;
-	wgs:long "48.20202795487605" .
+	wgs:long "16.3713395982137" ;
+	wgs:lat "48.20202795487605" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503255> wgs:location _:node1bvvs7555x311 ;
 	rdfs:label "Kaerntnerring 5-7" ;
@@ -4366,8 +4366,8 @@ _:node1bvvs7555x311 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503256" .
 
 _:node1bvvs7555x312 a wgs:Point ;
-	wgs:lat "16.368492507924756" ;
-	wgs:long "48.2024853362216" .
+	wgs:long "16.368492507924756" ;
+	wgs:lat "48.2024853362216" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503256> wgs:location _:node1bvvs7555x312 ;
 	rdfs:label "Opernring 2" ;
@@ -4380,8 +4380,8 @@ _:node1bvvs7555x312 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503257" .
 
 _:node1bvvs7555x313 a wgs:Point ;
-	wgs:lat "16.366164357430865" ;
-	wgs:long "48.20302454450798" .
+	wgs:long "16.366164357430865" ;
+	wgs:lat "48.20302454450798" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503257> wgs:location _:node1bvvs7555x313 ;
 	rdfs:label "Opernring geg 19" ;
@@ -4394,8 +4394,8 @@ _:node1bvvs7555x313 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503258" .
 
 _:node1bvvs7555x314 a wgs:Point ;
-	wgs:lat "16.363688085646555" ;
-	wgs:long "48.20407094967834" .
+	wgs:long "16.363688085646555" ;
+	wgs:lat "48.20407094967834" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503258> wgs:location _:node1bvvs7555x314 ;
 	rdfs:label "Burgring 5" ;
@@ -4408,8 +4408,8 @@ _:node1bvvs7555x314 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503259" .
 
 _:node1bvvs7555x315 a wgs:Point ;
-	wgs:lat "16.362205073855126" ;
-	wgs:long "48.20520359226663" .
+	wgs:long "16.362205073855126" ;
+	wgs:lat "48.20520359226663" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503259> wgs:location _:node1bvvs7555x315 ;
 	rdfs:label "Heldenplatz 30" ;
@@ -4422,8 +4422,8 @@ _:node1bvvs7555x315 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503260" .
 
 _:node1bvvs7555x316 a wgs:Point ;
-	wgs:lat "16.360605527784365" ;
-	wgs:long "48.20639538859131" .
+	wgs:long "16.360605527784365" ;
+	wgs:lat "48.20639538859131" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503260> wgs:location _:node1bvvs7555x316 ;
 	rdfs:label "Burgring 7" ;
@@ -4436,8 +4436,8 @@ _:node1bvvs7555x316 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503261" .
 
 _:node1bvvs7555x317 a wgs:Point ;
-	wgs:lat "16.359542076203432" ;
-	wgs:long "48.20695077775168" .
+	wgs:long "16.359542076203432" ;
+	wgs:lat "48.20695077775168" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503261> wgs:location _:node1bvvs7555x317 ;
 	rdfs:label "Schmerlingplatz 7" ;
@@ -4450,8 +4450,8 @@ _:node1bvvs7555x317 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503262" .
 
 _:node1bvvs7555x318 a wgs:Point ;
-	wgs:lat "16.360021167333723" ;
-	wgs:long "48.20875144577083" .
+	wgs:long "16.360021167333723" ;
+	wgs:lat "48.20875144577083" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503262> wgs:location _:node1bvvs7555x318 ;
 	rdfs:label "Dr Karl Renner Ring 3" ;
@@ -4464,8 +4464,8 @@ _:node1bvvs7555x318 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503263" .
 
 _:node1bvvs7555x319 a wgs:Point ;
-	wgs:lat "16.360483165567366" ;
-	wgs:long "48.2103010794145" .
+	wgs:long "16.360483165567366" ;
+	wgs:lat "48.2103010794145" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503263> wgs:location _:node1bvvs7555x319 ;
 	rdfs:label "Universitaetsring geg 2" ;
@@ -4478,8 +4478,8 @@ _:node1bvvs7555x319 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503264" .
 
 _:node1bvvs7555x320 a wgs:Point ;
-	wgs:lat "16.360986684108042" ;
-	wgs:long "48.21120541472592" .
+	wgs:long "16.360986684108042" ;
+	wgs:lat "48.21120541472592" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503264> wgs:location _:node1bvvs7555x320 ;
 	rdfs:label "Universitaetsring 2-4" ;
@@ -4492,8 +4492,8 @@ _:node1bvvs7555x320 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503265" .
 
 _:node1bvvs7555x321 a wgs:Point ;
-	wgs:lat "16.361163794847407" ;
-	wgs:long "48.21260987570353" .
+	wgs:long "16.361163794847407" ;
+	wgs:lat "48.21260987570353" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503265> wgs:location _:node1bvvs7555x321 ;
 	rdfs:label "Universitaetsring 1" ;
@@ -4506,8 +4506,8 @@ _:node1bvvs7555x321 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503266" .
 
 _:node1bvvs7555x322 a wgs:Point ;
-	wgs:lat "16.36167706197243" ;
-	wgs:long "48.21345804315882" .
+	wgs:long "16.36167706197243" ;
+	wgs:lat "48.21345804315882" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503266> wgs:location _:node1bvvs7555x322 ;
 	rdfs:label "Universitaetsring  1A" ;
@@ -4520,8 +4520,8 @@ _:node1bvvs7555x322 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503267" .
 
 _:node1bvvs7555x323 a wgs:Point ;
-	wgs:lat "16.362696355085482" ;
-	wgs:long "48.21417124848252" .
+	wgs:long "16.362696355085482" ;
+	wgs:lat "48.21417124848252" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503267> wgs:location _:node1bvvs7555x323 ;
 	rdfs:label "Schottenring 1" ;
@@ -4534,8 +4534,8 @@ _:node1bvvs7555x323 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503268" .
 
 _:node1bvvs7555x324 a wgs:Point ;
-	wgs:lat "16.364727524175642" ;
-	wgs:long "48.21488643605005" .
+	wgs:long "16.364727524175642" ;
+	wgs:lat "48.21488643605005" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503268> wgs:location _:node1bvvs7555x324 ;
 	rdfs:label "Schottenring 12" ;
@@ -4548,8 +4548,8 @@ _:node1bvvs7555x324 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503269" .
 
 _:node1bvvs7555x325 a wgs:Point ;
-	wgs:lat "16.366728593797642" ;
-	wgs:long "48.21580358217428" .
+	wgs:long "16.366728593797642" ;
+	wgs:lat "48.21580358217428" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503269> wgs:location _:node1bvvs7555x325 ;
 	rdfs:label "Schottenring 16" ;
@@ -4562,8 +4562,8 @@ _:node1bvvs7555x325 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503270" .
 
 _:node1bvvs7555x326 a wgs:Point ;
-	wgs:lat "16.369236218044605" ;
-	wgs:long "48.21695519785588" .
+	wgs:long "16.369236218044605" ;
+	wgs:lat "48.21695519785588" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503270> wgs:location _:node1bvvs7555x326 ;
 	rdfs:label "Schottenring 28" ;
@@ -4576,8 +4576,8 @@ _:node1bvvs7555x326 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503271" .
 
 _:node1bvvs7555x327 a wgs:Point ;
-	wgs:lat "16.37182960895138" ;
-	wgs:long "48.21615697822532" .
+	wgs:long "16.37182960895138" ;
+	wgs:lat "48.21615697822532" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503271> wgs:location _:node1bvvs7555x327 ;
 	rdfs:label "Franz Josef Kai 51" ;
@@ -4590,8 +4590,8 @@ _:node1bvvs7555x327 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503272" .
 
 _:node1bvvs7555x328 a wgs:Point ;
-	wgs:lat "16.373489751489245" ;
-	wgs:long "48.21460760612158" .
+	wgs:long "16.373489751489245" ;
+	wgs:lat "48.21460760612158" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503272> wgs:location _:node1bvvs7555x328 ;
 	rdfs:label "Franz Josef Kai 39" ;
@@ -4604,8 +4604,8 @@ _:node1bvvs7555x328 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503273" .
 
 _:node1bvvs7555x329 a wgs:Point ;
-	wgs:lat "16.374726016212627" ;
-	wgs:long "48.21335093676069" .
+	wgs:long "16.374726016212627" ;
+	wgs:lat "48.21335093676069" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503273> wgs:location _:node1bvvs7555x329 ;
 	rdfs:label "Franz Josef Kai 31" ;
@@ -4618,8 +4618,8 @@ _:node1bvvs7555x329 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503274" .
 
 _:node1bvvs7555x330 a wgs:Point ;
-	wgs:lat "16.378255226629673" ;
-	wgs:long "48.21166890783459" .
+	wgs:long "16.378255226629673" ;
+	wgs:lat "48.21166890783459" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503274> wgs:location _:node1bvvs7555x330 ;
 	rdfs:label "Schwedenplatz 2" ;
@@ -4632,8 +4632,8 @@ _:node1bvvs7555x330 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503275" .
 
 _:node1bvvs7555x331 a wgs:Point ;
-	wgs:lat "16.37197230748479" ;
-	wgs:long "48.20816281417" .
+	wgs:long "16.37197230748479" ;
+	wgs:lat "48.20816281417" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503275> wgs:location _:node1bvvs7555x331 ;
 	rdfs:label "Stephansplatz 2" ;
@@ -4646,8 +4646,8 @@ _:node1bvvs7555x331 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503276" .
 
 _:node1bvvs7555x332 a wgs:Point ;
-	wgs:lat "16.365491984805857" ;
-	wgs:long "48.21182000387917" .
+	wgs:long "16.365491984805857" ;
+	wgs:lat "48.21182000387917" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503276> wgs:location _:node1bvvs7555x332 ;
 	rdfs:label "Freyung 8" ;
@@ -4660,8 +4660,8 @@ _:node1bvvs7555x332 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503277" .
 
 _:node1bvvs7555x333 a wgs:Point ;
-	wgs:lat "16.36626131569301" ;
-	wgs:long "48.21133985760846" .
+	wgs:long "16.36626131569301" ;
+	wgs:lat "48.21133985760846" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503277> wgs:location _:node1bvvs7555x333 ;
 	rdfs:label "Freyung 3A" ;
@@ -4674,8 +4674,8 @@ _:node1bvvs7555x333 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503278" .
 
 _:node1bvvs7555x334 a wgs:Point ;
-	wgs:lat "16.369020313397215" ;
-	wgs:long "48.20902916412729" .
+	wgs:long "16.369020313397215" ;
+	wgs:lat "48.20902916412729" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503278> wgs:location _:node1bvvs7555x334 ;
 	rdfs:label "Graben 16" ;
@@ -4688,8 +4688,8 @@ _:node1bvvs7555x334 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503279" .
 
 _:node1bvvs7555x335 a wgs:Point ;
-	wgs:lat "16.367350106421444" ;
-	wgs:long "48.21088585990486" .
+	wgs:long "16.367350106421444" ;
+	wgs:lat "48.21088585990486" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503279> wgs:location _:node1bvvs7555x335 ;
 	rdfs:label "Am Hof 4" ;
@@ -4702,8 +4702,8 @@ _:node1bvvs7555x335 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503280" .
 
 _:node1bvvs7555x336 a wgs:Point ;
-	wgs:lat "16.368271325786072" ;
-	wgs:long "48.20928823513677" .
+	wgs:long "16.368271325786072" ;
+	wgs:lat "48.20928823513677" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503280> wgs:location _:node1bvvs7555x336 ;
 	rdfs:label "Kohlmarkt 2" ;
@@ -4716,8 +4716,8 @@ _:node1bvvs7555x336 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503281" .
 
 _:node1bvvs7555x337 a wgs:Point ;
-	wgs:lat "16.369979757621945" ;
-	wgs:long "48.2084286282447" .
+	wgs:long "16.369979757621945" ;
+	wgs:lat "48.2084286282447" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503281> wgs:location _:node1bvvs7555x337 ;
 	rdfs:label "Graben 12" ;
@@ -4730,8 +4730,8 @@ _:node1bvvs7555x337 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503282" .
 
 _:node1bvvs7555x338 a wgs:Point ;
-	wgs:lat "16.366637566796886" ;
-	wgs:long "48.21423776126083" .
+	wgs:long "16.366637566796886" ;
+	wgs:lat "48.21423776126083" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503282> wgs:location _:node1bvvs7555x338 ;
 	rdfs:label "Boerseplatz 1" ;
@@ -4744,8 +4744,8 @@ _:node1bvvs7555x338 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503283" .
 
 _:node1bvvs7555x339 a wgs:Point ;
-	wgs:lat "16.374490390485022" ;
-	wgs:long "48.20092356679102" .
+	wgs:long "16.374490390485022" ;
+	wgs:lat "48.20092356679102" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503283> wgs:location _:node1bvvs7555x339 ;
 	rdfs:label "Schwarzenbergplatz 16" ;
@@ -4758,8 +4758,8 @@ _:node1bvvs7555x339 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503284" .
 
 _:node1bvvs7555x340 a wgs:Point ;
-	wgs:lat "16.375413775992683" ;
-	wgs:long "48.20023198387317" .
+	wgs:long "16.375413775992683" ;
+	wgs:lat "48.20023198387317" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503284> wgs:location _:node1bvvs7555x340 ;
 	rdfs:label "Schwarzenbergplatz 3-4" ;
@@ -4772,8 +4772,8 @@ _:node1bvvs7555x340 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503285" .
 
 _:node1bvvs7555x341 a wgs:Point ;
-	wgs:lat "16.376503057145484" ;
-	wgs:long "48.19913316847528" .
+	wgs:long "16.376503057145484" ;
+	wgs:lat "48.19913316847528" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503285> wgs:location _:node1bvvs7555x341 ;
 	rdfs:label "Schwarzenbergplatz 5" ;
@@ -4786,8 +4786,8 @@ _:node1bvvs7555x341 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503286" .
 
 _:node1bvvs7555x342 a wgs:Point ;
-	wgs:lat "16.335604707493214" ;
-	wgs:long "48.21331939063944" .
+	wgs:long "16.335604707493214" ;
+	wgs:lat "48.21331939063944" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503286> wgs:location _:node1bvvs7555x342 ;
 	rdfs:label "Yppenplatz" ;
@@ -4800,8 +4800,8 @@ _:node1bvvs7555x342 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503287" .
 
 _:node1bvvs7555x343 a wgs:Point ;
-	wgs:lat "16.359165197222495" ;
-	wgs:long "48.21076836743137" .
+	wgs:long "16.359165197222495" ;
+	wgs:lat "48.21076836743137" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503287> wgs:location _:node1bvvs7555x343 ;
 	rdfs:label "Rathauspl03" ;
@@ -4814,8 +4814,8 @@ _:node1bvvs7555x343 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503288" .
 
 _:node1bvvs7555x344 a wgs:Point ;
-	wgs:lat "16.358349108785774" ;
-	wgs:long "48.210056269255325" .
+	wgs:long "16.358349108785774" ;
+	wgs:lat "48.210056269255325" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503288> wgs:location _:node1bvvs7555x344 ;
 	rdfs:label "Rathauspl10" ;
@@ -4828,8 +4828,8 @@ _:node1bvvs7555x344 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503289" .
 
 _:node1bvvs7555x345 a wgs:Point ;
-	wgs:lat "16.359688012358742" ;
-	wgs:long "48.21034275812985" .
+	wgs:long "16.359688012358742" ;
+	wgs:lat "48.21034275812985" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503289> wgs:location _:node1bvvs7555x345 ;
 	rdfs:label "Rathauspl06" ;
@@ -4842,8 +4842,8 @@ _:node1bvvs7555x345 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503290" .
 
 _:node1bvvs7555x346 a wgs:Point ;
-	wgs:lat "16.42882980580514" ;
-	wgs:long "48.22872552904491" .
+	wgs:long "16.42882980580514" ;
+	wgs:lat "48.22872552904491" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503290> wgs:location _:node1bvvs7555x346 ;
 	rdfs:label "Kassa" ;
@@ -4856,8 +4856,8 @@ _:node1bvvs7555x346 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503291" .
 
 _:node1bvvs7555x347 a wgs:Point ;
-	wgs:lat "16.431568539107793" ;
-	wgs:long "48.22884391872462" .
+	wgs:long "16.431568539107793" ;
+	wgs:lat "48.22884391872462" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503291> wgs:location _:node1bvvs7555x347 ;
 	rdfs:label "Uhrturm1" ;
@@ -4870,8 +4870,8 @@ _:node1bvvs7555x347 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503292" .
 
 _:node1bvvs7555x348 a wgs:Point ;
-	wgs:lat "16.431547436158514" ;
-	wgs:long "48.228843541454815" .
+	wgs:long "16.431547436158514" ;
+	wgs:lat "48.228843541454815" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503292> wgs:location _:node1bvvs7555x348 ;
 	rdfs:label "Uhrturm2" ;
@@ -4884,8 +4884,8 @@ _:node1bvvs7555x348 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503293" .
 
 _:node1bvvs7555x349 a wgs:Point ;
-	wgs:lat "16.43112867409305" ;
-	wgs:long "48.22727908093611" .
+	wgs:long "16.43112867409305" ;
+	wgs:lat "48.22727908093611" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503293> wgs:location _:node1bvvs7555x349 ;
 	rdfs:label "Aquascope" ;
@@ -4898,8 +4898,8 @@ _:node1bvvs7555x349 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503294" .
 
 _:node1bvvs7555x350 a wgs:Point ;
-	wgs:lat "16.384905002666695" ;
-	wgs:long "48.25011198102811" .
+	wgs:long "16.384905002666695" ;
+	wgs:lat "48.25011198102811" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503294> wgs:location _:node1bvvs7555x350 ;
 	rdfs:label "FdB_WC" ;
@@ -4912,8 +4912,8 @@ _:node1bvvs7555x350 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503295" .
 
 _:node1bvvs7555x351 a wgs:Point ;
-	wgs:lat "16.386537098385382" ;
-	wgs:long "48.249558937966555" .
+	wgs:long "16.386537098385382" ;
+	wgs:lat "48.249558937966555" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503295> wgs:location _:node1bvvs7555x351 ;
 	rdfs:label "Fdb_Parkplatz" ;
@@ -4926,8 +4926,8 @@ _:node1bvvs7555x351 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503296" .
 
 _:node1bvvs7555x352 a wgs:Point ;
-	wgs:lat "16.387184286241656" ;
-	wgs:long "48.24809588610597" .
+	wgs:long "16.387184286241656" ;
+	wgs:lat "48.24809588610597" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503296> wgs:location _:node1bvvs7555x352 ;
 	rdfs:label "FdB_Halte" ;
@@ -4940,8 +4940,8 @@ _:node1bvvs7555x352 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503297" .
 
 _:node1bvvs7555x353 a wgs:Point ;
-	wgs:lat "16.38753820937517" ;
-	wgs:long "48.246687406247254" .
+	wgs:long "16.38753820937517" ;
+	wgs:lat "48.246687406247254" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503297> wgs:location _:node1bvvs7555x353 ;
 	rdfs:label "Schulschiff" ;
@@ -4954,8 +4954,8 @@ _:node1bvvs7555x353 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503298" .
 
 _:node1bvvs7555x354 a wgs:Point ;
-	wgs:lat "16.38865434567695" ;
-	wgs:long "48.24557103500108" .
+	wgs:long "16.38865434567695" ;
+	wgs:lat "48.24557103500108" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503298> wgs:location _:node1bvvs7555x354 ;
 	rdfs:label "Festbuehne1" ;
@@ -4968,8 +4968,8 @@ _:node1bvvs7555x354 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503299" .
 
 _:node1bvvs7555x355 a wgs:Point ;
-	wgs:lat "16.38903407146191" ;
-	wgs:long "48.245215002940206" .
+	wgs:long "16.38903407146191" ;
+	wgs:lat "48.245215002940206" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503299> wgs:location _:node1bvvs7555x355 ;
 	rdfs:label "Festbuehne2" ;
@@ -4982,8 +4982,8 @@ _:node1bvvs7555x355 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503300" .
 
 _:node1bvvs7555x356 a wgs:Point ;
-	wgs:lat "16.390514847227443" ;
-	wgs:long "48.24470458106283" .
+	wgs:long "16.390514847227443" ;
+	wgs:lat "48.24470458106283" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503300> wgs:location _:node1bvvs7555x356 ;
 	rdfs:label "U6-1" ;
@@ -4996,8 +4996,8 @@ _:node1bvvs7555x356 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503301" .
 
 _:node1bvvs7555x357 a wgs:Point ;
-	wgs:lat "16.391288113490894" ;
-	wgs:long "48.2441091374101" .
+	wgs:long "16.391288113490894" ;
+	wgs:lat "48.2441091374101" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503301> wgs:location _:node1bvvs7555x357 ;
 	rdfs:label "U6-2" ;
@@ -5010,8 +5010,8 @@ _:node1bvvs7555x357 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503302" .
 
 _:node1bvvs7555x358 a wgs:Point ;
-	wgs:lat "16.391324892630127" ;
-	wgs:long "48.24300584355169" .
+	wgs:long "16.391324892630127" ;
+	wgs:lat "48.24300584355169" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503302> wgs:location _:node1bvvs7555x358 ;
 	rdfs:label "Sport1" ;
@@ -5024,8 +5024,8 @@ _:node1bvvs7555x358 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503303" .
 
 _:node1bvvs7555x359 a wgs:Point ;
-	wgs:lat "16.39257120063774" ;
-	wgs:long "48.24214324680399" .
+	wgs:long "16.39257120063774" ;
+	wgs:lat "48.24214324680399" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503303> wgs:location _:node1bvvs7555x359 ;
 	rdfs:label "Sport2" ;
@@ -5038,8 +5038,8 @@ _:node1bvvs7555x359 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503304" .
 
 _:node1bvvs7555x360 a wgs:Point ;
-	wgs:lat "16.393400598328174" ;
-	wgs:long "48.24135404915262" .
+	wgs:long "16.393400598328174" ;
+	wgs:lat "48.24135404915262" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503304> wgs:location _:node1bvvs7555x360 ;
 	rdfs:label "Sport3" ;
@@ -5052,8 +5052,8 @@ _:node1bvvs7555x360 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503305" .
 
 _:node1bvvs7555x361 a wgs:Point ;
-	wgs:lat "16.393995987774968" ;
-	wgs:long "48.24068556139981" .
+	wgs:long "16.393995987774968" ;
+	wgs:lat "48.24068556139981" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503305> wgs:location _:node1bvvs7555x361 ;
 	rdfs:label "Nord-Brigitt1" ;
@@ -5066,8 +5066,8 @@ _:node1bvvs7555x361 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503306" .
 
 _:node1bvvs7555x362 a wgs:Point ;
-	wgs:lat "16.395043262516143" ;
-	wgs:long "48.23986305704862" .
+	wgs:long "16.395043262516143" ;
+	wgs:lat "48.23986305704862" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503306> wgs:location _:node1bvvs7555x362 ;
 	rdfs:label "Nord-Brigitt2" ;
@@ -5080,8 +5080,8 @@ _:node1bvvs7555x362 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503307" .
 
 _:node1bvvs7555x363 a wgs:Point ;
-	wgs:lat "16.39596810885953" ;
-	wgs:long "48.239598900320175" .
+	wgs:long "16.39596810885953" ;
+	wgs:lat "48.239598900320175" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503307> wgs:location _:node1bvvs7555x363 ;
 	rdfs:label "Brigitt1" ;
@@ -5094,8 +5094,8 @@ _:node1bvvs7555x363 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503308" .
 
 _:node1bvvs7555x364 a wgs:Point ;
-	wgs:lat "16.39708632884195" ;
-	wgs:long "48.238593959541184" .
+	wgs:long "16.39708632884195" ;
+	wgs:lat "48.238593959541184" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503308> wgs:location _:node1bvvs7555x364 ;
 	rdfs:label "Brigitt2" ;
@@ -5108,8 +5108,8 @@ _:node1bvvs7555x364 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503309" .
 
 _:node1bvvs7555x365 a wgs:Point ;
-	wgs:lat "16.402381631006563" ;
-	wgs:long "48.233719086514256" .
+	wgs:long "16.402381631006563" ;
+	wgs:lat "48.233719086514256" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503309> wgs:location _:node1bvvs7555x365 ;
 	rdfs:label "Spiel1" ;
@@ -5122,8 +5122,8 @@ _:node1bvvs7555x365 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503310" .
 
 _:node1bvvs7555x366 a wgs:Point ;
-	wgs:lat "16.403101577344618" ;
-	wgs:long "48.232932219006514" .
+	wgs:long "16.403101577344618" ;
+	wgs:lat "48.232932219006514" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503310> wgs:location _:node1bvvs7555x366 ;
 	rdfs:label "Spiel2" ;
@@ -5136,8 +5136,8 @@ _:node1bvvs7555x366 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503311" .
 
 _:node1bvvs7555x367 a wgs:Point ;
-	wgs:lat "16.404543952834498" ;
-	wgs:long "48.23236075415358" .
+	wgs:long "16.404543952834498" ;
+	wgs:lat "48.23236075415358" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503311> wgs:location _:node1bvvs7555x367 ;
 	rdfs:label "Wiese" ;
@@ -5150,8 +5150,8 @@ _:node1bvvs7555x367 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503312" .
 
 _:node1bvvs7555x368 a wgs:Point ;
-	wgs:lat "16.405332830291954" ;
-	wgs:long "48.231423016426014" .
+	wgs:long "16.405332830291954" ;
+	wgs:lat "48.231423016426014" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503312> wgs:location _:node1bvvs7555x368 ;
 	rdfs:label "Cafe" ;
@@ -5164,8 +5164,8 @@ _:node1bvvs7555x368 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503313" .
 
 _:node1bvvs7555x369 a wgs:Point ;
-	wgs:lat "16.4073920807435" ;
-	wgs:long "48.23021415804098" .
+	wgs:long "16.4073920807435" ;
+	wgs:lat "48.23021415804098" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503313> wgs:location _:node1bvvs7555x369 ;
 	rdfs:label "Copa" ;
@@ -5178,8 +5178,8 @@ _:node1bvvs7555x369 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503314" .
 
 _:node1bvvs7555x370 a wgs:Point ;
-	wgs:lat "16.408992948524634" ;
-	wgs:long "48.22958857977924" .
+	wgs:long "16.408992948524634" ;
+	wgs:lat "48.22958857977924" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503314> wgs:location _:node1bvvs7555x370 ;
 	rdfs:label "Leuchtturm" ;
@@ -5192,8 +5192,8 @@ _:node1bvvs7555x370 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503315" .
 
 _:node1bvvs7555x371 a wgs:Point ;
-	wgs:lat "16.410181435670903" ;
-	wgs:long "48.22826384884002" .
+	wgs:long "16.410181435670903" ;
+	wgs:lat "48.22826384884002" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503315> wgs:location _:node1bvvs7555x371 ;
 	rdfs:label "U1-Reichsb" ;
@@ -5206,8 +5206,8 @@ _:node1bvvs7555x371 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503316" .
 
 _:node1bvvs7555x372 a wgs:Point ;
-	wgs:lat "16.412629159801458" ;
-	wgs:long "48.22587677165049" .
+	wgs:long "16.412629159801458" ;
+	wgs:lat "48.22587677165049" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503316> wgs:location _:node1bvvs7555x372 ;
 	rdfs:label "Inselinfo" ;
@@ -5220,8 +5220,8 @@ _:node1bvvs7555x372 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503317" .
 
 _:node1bvvs7555x373 a wgs:Point ;
-	wgs:lat "16.437382392802434" ;
-	wgs:long "48.24134618362608" .
+	wgs:long "16.437382392802434" ;
+	wgs:lat "48.24134618362608" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503317> wgs:location _:node1bvvs7555x373 ;
 	rdfs:label "Schroedingerplatz" ;
@@ -5234,8 +5234,8 @@ _:node1bvvs7555x373 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503318" .
 
 _:node1bvvs7555x374 a wgs:Point ;
-	wgs:lat "16.504769614465328" ;
-	wgs:long "48.23344656649283" .
+	wgs:long "16.504769614465328" ;
+	wgs:lat "48.23344656649283" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503318> wgs:location _:node1bvvs7555x374 ;
 	rdfs:label "U2-15" ;
@@ -5248,8 +5248,8 @@ _:node1bvvs7555x374 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503319" .
 
 _:node1bvvs7555x375 a wgs:Point ;
-	wgs:lat "16.508109362234936" ;
-	wgs:long "48.22512916081133" .
+	wgs:long "16.508109362234936" ;
+	wgs:lat "48.22512916081133" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503319> wgs:location _:node1bvvs7555x375 ;
 	rdfs:label "U2-16" ;
@@ -5262,8 +5262,8 @@ _:node1bvvs7555x375 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503320" .
 
 _:node1bvvs7555x376 a wgs:Point ;
-	wgs:lat "16.50063754643707" ;
-	wgs:long "48.22394709082133" .
+	wgs:long "16.50063754643707" ;
+	wgs:lat "48.22394709082133" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503320> wgs:location _:node1bvvs7555x376 ;
 	rdfs:label "Seestadt Aspern" ;
@@ -5276,8 +5276,8 @@ _:node1bvvs7555x376 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503339" .
 
 _:node1bvvs7555x377 a wgs:Point ;
-	wgs:lat "16.39281680884233" ;
-	wgs:long "48.219285580538426" .
+	wgs:long "16.39281680884233" ;
+	wgs:lat "48.219285580538426" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503339> wgs:location _:node1bvvs7555x377 ;
 	rdfs:label "Praterstern" ;
@@ -5290,8 +5290,8 @@ _:node1bvvs7555x377 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503340" .
 
 _:node1bvvs7555x378 a wgs:Point ;
-	wgs:lat "16.391081014991236" ;
-	wgs:long "48.218839446393325" .
+	wgs:long "16.391081014991236" ;
+	wgs:lat "48.218839446393325" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503340> wgs:location _:node1bvvs7555x378 ;
 	rdfs:label "Praterstern" ;
@@ -5304,8 +5304,8 @@ _:node1bvvs7555x378 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503341" .
 
 _:node1bvvs7555x379 a wgs:Point ;
-	wgs:lat "16.39036363172558" ;
-	wgs:long "48.217749483599874" .
+	wgs:long "16.39036363172558" ;
+	wgs:lat "48.217749483599874" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503341> wgs:location _:node1bvvs7555x379 ;
 	rdfs:label "Praterstern" ;
@@ -5318,8 +5318,8 @@ _:node1bvvs7555x379 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503342" .
 
 _:node1bvvs7555x380 a wgs:Point ;
-	wgs:lat "16.396275243261172" ;
-	wgs:long "48.22002732145955" .
+	wgs:long "16.396275243261172" ;
+	wgs:lat "48.22002732145955" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503342> wgs:location _:node1bvvs7555x380 ;
 	rdfs:label "Venediger Au 11" ;
@@ -5332,8 +5332,8 @@ _:node1bvvs7555x380 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503343" .
 
 _:node1bvvs7555x381 a wgs:Point ;
-	wgs:lat "16.43844419268784" ;
-	wgs:long "48.192875594669886" .
+	wgs:long "16.43844419268784" ;
+	wgs:lat "48.192875594669886" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503343> wgs:location _:node1bvvs7555x381 ;
 	rdfs:label "Lusthaus" ;
@@ -5346,8 +5346,8 @@ _:node1bvvs7555x381 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503344" .
 
 _:node1bvvs7555x382 a wgs:Point ;
-	wgs:lat "16.386392518780553" ;
-	wgs:long "48.22291947911202" .
+	wgs:long "16.386392518780553" ;
+	wgs:lat "48.22291947911202" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503344> wgs:location _:node1bvvs7555x382 ;
 	rdfs:label "Volkert Platz" ;
@@ -5360,8 +5360,8 @@ _:node1bvvs7555x382 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503345" .
 
 _:node1bvvs7555x383 a wgs:Point ;
-	wgs:lat "16.405067329548917" ;
-	wgs:long "48.22382910463228" .
+	wgs:long "16.405067329548917" ;
+	wgs:lat "48.22382910463228" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503345> wgs:location _:node1bvvs7555x383 ;
 	rdfs:label "Mexikoplatz 27" ;
@@ -5374,8 +5374,8 @@ _:node1bvvs7555x383 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503346" .
 
 _:node1bvvs7555x384 a wgs:Point ;
-	wgs:lat "16.401669916049265" ;
-	wgs:long "48.225905622254125" .
+	wgs:long "16.401669916049265" ;
+	wgs:lat "48.225905622254125" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503346> wgs:location _:node1bvvs7555x384 ;
 	rdfs:label "Mexikoplatz 16" ;
@@ -5388,8 +5388,8 @@ _:node1bvvs7555x384 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503347" .
 
 _:node1bvvs7555x385 a wgs:Point ;
-	wgs:lat "16.376745290288078" ;
-	wgs:long "48.2174106838517" .
+	wgs:long "16.376745290288078" ;
+	wgs:lat "48.2174106838517" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503347> wgs:location _:node1bvvs7555x385 ;
 	rdfs:label "Karmelitermarkt" ;
@@ -5402,8 +5402,8 @@ _:node1bvvs7555x385 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503348" .
 
 _:node1bvvs7555x386 a wgs:Point ;
-	wgs:lat "16.397267185623544" ;
-	wgs:long "48.225178940009464" .
+	wgs:long "16.397267185623544" ;
+	wgs:lat "48.225178940009464" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503348> wgs:location _:node1bvvs7555x386 ;
 	rdfs:label "Jakov Lind Strasse 26" ;
@@ -5416,8 +5416,8 @@ _:node1bvvs7555x386 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503349" .
 
 _:node1bvvs7555x387 a wgs:Point ;
-	wgs:lat "16.395910379379472" ;
-	wgs:long "48.22678706295932" .
+	wgs:long "16.395910379379472" ;
+	wgs:lat "48.22678706295932" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503349> wgs:location _:node1bvvs7555x387 ;
 	rdfs:label "Rudolf Bednar Park" ;
@@ -5430,8 +5430,8 @@ _:node1bvvs7555x387 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503350" .
 
 _:node1bvvs7555x388 a wgs:Point ;
-	wgs:lat "16.362427735552895" ;
-	wgs:long "48.20309054798235" .
+	wgs:long "16.362427735552895" ;
+	wgs:lat "48.20309054798235" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503350> wgs:location _:node1bvvs7555x388 ;
 	rdfs:label "Babenbergerstrasse 5" ;
@@ -5444,8 +5444,8 @@ _:node1bvvs7555x388 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503351" .
 
 _:node1bvvs7555x389 a wgs:Point ;
-	wgs:lat "16.343505139423772" ;
-	wgs:long "48.18757251247274" .
+	wgs:long "16.343505139423772" ;
+	wgs:lat "48.18757251247274" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503351> wgs:location _:node1bvvs7555x389 ;
 	rdfs:label "Bruno Kreisky Park" ;
@@ -5458,8 +5458,8 @@ _:node1bvvs7555x389 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503321" .
 
 _:node1bvvs7555x390 a wgs:Point ;
-	wgs:lat "16.33156315852105" ;
-	wgs:long "48.218301229606595" .
+	wgs:long "16.33156315852105" ;
+	wgs:lat "48.218301229606595" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503321> wgs:location _:node1bvvs7555x390 ;
 	rdfs:label "Elterleinplatz01" ;
@@ -5472,8 +5472,8 @@ _:node1bvvs7555x390 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503322" .
 
 _:node1bvvs7555x391 a wgs:Point ;
-	wgs:lat "16.39695428155243" ;
-	wgs:long "48.25743406568252" .
+	wgs:long "16.39695428155243" ;
+	wgs:lat "48.25743406568252" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503322> wgs:location _:node1bvvs7555x391 ;
 	rdfs:label "Schwaigerg" ;
@@ -5486,8 +5486,8 @@ _:node1bvvs7555x391 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503323" .
 
 _:node1bvvs7555x392 a wgs:Point ;
-	wgs:lat "16.359685095157534" ;
-	wgs:long "48.21426642511226" .
+	wgs:long "16.359685095157534" ;
+	wgs:lat "48.21426642511226" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503323> wgs:location _:node1bvvs7555x392 ;
 	rdfs:label "Sigmund-Freud-Park" ;
@@ -5500,8 +5500,8 @@ _:node1bvvs7555x392 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503324" .
 
 _:node1bvvs7555x393 a wgs:Point ;
-	wgs:lat "16.396794280431177" ;
-	wgs:long "48.25822158610609" .
+	wgs:long "16.396794280431177" ;
+	wgs:lat "48.25822158610609" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503324> wgs:location _:node1bvvs7555x393 ;
 	rdfs:label "Am Spitz" ;
@@ -5514,8 +5514,8 @@ _:node1bvvs7555x393 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503325" .
 
 _:node1bvvs7555x394 a wgs:Point ;
-	wgs:lat "16.399123802757792" ;
-	wgs:long "48.258054481200524" .
+	wgs:long "16.399123802757792" ;
+	wgs:lat "48.258054481200524" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503325> wgs:location _:node1bvvs7555x394 ;
 	rdfs:label "PiusParschPl" ;
@@ -5528,8 +5528,8 @@ _:node1bvvs7555x394 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503326" .
 
 _:node1bvvs7555x395 a wgs:Point ;
-	wgs:lat "16.39915762359986" ;
-	wgs:long "48.25652583343031" .
+	wgs:long "16.39915762359986" ;
+	wgs:lat "48.25652583343031" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503326> wgs:location _:node1bvvs7555x395 ;
 	rdfs:label "FranzJonasPl" ;
@@ -5542,8 +5542,8 @@ _:node1bvvs7555x395 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503327" .
 
 _:node1bvvs7555x396 a wgs:Point ;
-	wgs:lat "16.429325456722204" ;
-	wgs:long "48.23224793821336" .
+	wgs:long "16.429325456722204" ;
+	wgs:lat "48.23224793821336" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503327> wgs:location _:node1bvvs7555x396 ;
 	rdfs:label "Weststrand" ;
@@ -5556,8 +5556,8 @@ _:node1bvvs7555x396 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503328" .
 
 _:node1bvvs7555x397 a wgs:Point ;
-	wgs:lat "16.331326730442886" ;
-	wgs:long "48.2657313471635" .
+	wgs:long "16.331326730442886" ;
+	wgs:lat "48.2657313471635" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503328> wgs:location _:node1bvvs7555x397 ;
 	rdfs:label "Krapfenwaldlbad" ;
@@ -5570,8 +5570,8 @@ _:node1bvvs7555x397 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503329" .
 
 _:node1bvvs7555x398 a wgs:Point ;
-	wgs:lat "16.311426378708436" ;
-	wgs:long "48.22140805229655" .
+	wgs:long "16.311426378708436" ;
+	wgs:lat "48.22140805229655" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503329> wgs:location _:node1bvvs7555x398 ;
 	rdfs:label "Kongressbad" ;
@@ -5584,8 +5584,8 @@ _:node1bvvs7555x398 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503330" .
 
 _:node1bvvs7555x399 a wgs:Point ;
-	wgs:lat "16.37528601394548" ;
-	wgs:long "48.198339464424286" .
+	wgs:long "16.37528601394548" ;
+	wgs:lat "48.198339464424286" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503330> wgs:location _:node1bvvs7555x399 ;
 	rdfs:label "Schwarzenbergplatz 11" ;
@@ -5598,8 +5598,8 @@ _:node1bvvs7555x399 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503331" .
 
 _:node1bvvs7555x400 a wgs:Point ;
-	wgs:lat "16.38052240419195" ;
-	wgs:long "48.18359528614171" .
+	wgs:long "16.38052240419195" ;
+	wgs:lat "48.18359528614171" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503331> wgs:location _:node1bvvs7555x400 ;
 	rdfs:label "HBF Karl-Popper-Strasse" ;
@@ -5612,8 +5612,8 @@ _:node1bvvs7555x400 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503332" .
 
 _:node1bvvs7555x401 a wgs:Point ;
-	wgs:lat "16.370029894679593" ;
-	wgs:long "48.2037795663397" .
+	wgs:long "16.370029894679593" ;
+	wgs:lat "48.2037795663397" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503332> wgs:location _:node1bvvs7555x401 ;
 	rdfs:label "Kaerntnerstrasse 38" ;
@@ -5626,8 +5626,8 @@ _:node1bvvs7555x401 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503333" .
 
 _:node1bvvs7555x402 a wgs:Point ;
-	wgs:lat "16.400593530253264" ;
-	wgs:long "48.22047702492735" .
+	wgs:long "16.400593530253264" ;
+	wgs:lat "48.22047702492735" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503333> wgs:location _:node1bvvs7555x402 ;
 	rdfs:label "Max Winter Platz " ;
@@ -5640,8 +5640,8 @@ _:node1bvvs7555x402 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503334" .
 
 _:node1bvvs7555x403 a wgs:Point ;
-	wgs:lat "16.368988871373585" ;
-	wgs:long "48.203863168666174" .
+	wgs:long "16.368988871373585" ;
+	wgs:lat "48.203863168666174" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503334> wgs:location _:node1bvvs7555x403 ;
 	rdfs:label "Albertina Platz " ;
@@ -5654,8 +5654,8 @@ _:node1bvvs7555x403 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503335" .
 
 _:node1bvvs7555x404 a wgs:Point ;
-	wgs:lat "16.42135925698665" ;
-	wgs:long "48.21055096730157" .
+	wgs:long "16.42135925698665" ;
+	wgs:lat "48.21055096730157" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503335> wgs:location _:node1bvvs7555x404 ;
 	rdfs:label "Olympiaplatz geg 2" ;
@@ -5668,8 +5668,8 @@ _:node1bvvs7555x404 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503336" .
 
 _:node1bvvs7555x405 a wgs:Point ;
-	wgs:lat "16.36154942186109" ;
-	wgs:long "48.18982268008993" .
+	wgs:long "16.36154942186109" ;
+	wgs:lat "48.18982268008993" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503336> wgs:location _:node1bvvs7555x405 ;
 	rdfs:label "Schuette Lihotzky Park" ;
@@ -5682,8 +5682,8 @@ _:node1bvvs7555x405 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503337" .
 
 _:node1bvvs7555x406 a wgs:Point ;
-	wgs:lat "16.37639627562831" ;
-	wgs:long "48.212233518084595" .
+	wgs:long "16.37639627562831" ;
+	wgs:lat "48.212233518084595" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503337> wgs:location _:node1bvvs7555x406 ;
 	rdfs:label "Schwedenplatz 25" ;
@@ -5696,8 +5696,8 @@ _:node1bvvs7555x406 a wgs:Point ;
 	lw:hasId "WLANWIENATOGD.1503338" .
 
 _:node1bvvs7555x407 a wgs:Point ;
-	wgs:lat "16.393657042206883" ;
-	wgs:long "48.21800338537507" .
+	wgs:long "16.393657042206883" ;
+	wgs:lat "48.21800338537507" .
 
 <http://linkedwidgets.org/ontology/resource/wien/WLANWIENATOGD.1503338> wgs:location _:node1bvvs7555x407 ;
 	rdfs:label "Praterstern" ;

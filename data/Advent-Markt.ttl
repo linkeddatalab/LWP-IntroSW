@@ -18,8 +18,8 @@
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438243" .
 
 _:node1bvvrku5tx1 a wgs:Point ;
-	wgs:lat "16.358637302993912" ;
-	wgs:long "48.21064814369224" .
+	wgs:long "16.358637302993912" ;
+	wgs:lat "48.21064814369224" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25443> wgs:location _:node1bvvrku5tx1 ;
 	dbo:codeDistrict "1010" .
@@ -32,8 +32,8 @@ _:node1bvvrku5tx1 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438253" .
 
 _:node1bvvrku5tx2 a wgs:Point ;
-	wgs:lat "16.385362994919426" ;
-	wgs:long "48.21078943350504" .
+	wgs:long "16.385362994919426" ;
+	wgs:lat "48.21078943350504" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25444> wgs:location _:node1bvvrku5tx2 ;
 	dbo:codeDistrict "1030" .
@@ -47,8 +47,8 @@ _:node1bvvrku5tx2 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437336" .
 
 _:node1bvvrku5tx3 a wgs:Point ;
-	wgs:lat "16.3645541662106" ;
-	wgs:long "48.21189939809723" .
+	wgs:long "16.3645541662106" ;
+	wgs:lat "48.21189939809723" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25445> wgs:location _:node1bvvrku5tx3 ;
 	dbo:codeDistrict "1010" .
@@ -62,8 +62,8 @@ _:node1bvvrku5tx3 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437324" .
 
 _:node1bvvrku5tx4 a wgs:Point ;
-	wgs:lat "16.358637302993912" ;
-	wgs:long "48.21064814369224" .
+	wgs:long "16.358637302993912" ;
+	wgs:lat "48.21064814369224" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25145> wgs:location _:node1bvvrku5tx4 ;
 	dbo:codeDistrict "1010" .
@@ -77,8 +77,8 @@ _:node1bvvrku5tx4 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437325" .
 
 _:node1bvvrku5tx5 a wgs:Point ;
-	wgs:lat "16.35146485279869" ;
-	wgs:long "48.21696846859229" .
+	wgs:long "16.35146485279869" ;
+	wgs:lat "48.21696846859229" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25146> wgs:location _:node1bvvrku5tx5 ;
 	dbo:codeDistrict "1090" .
@@ -92,8 +92,8 @@ _:node1bvvrku5tx5 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439257" .
 
 _:node1bvvrku5tx6 a wgs:Point ;
-	wgs:lat "16.33142338499572" ;
-	wgs:long "48.20555851197912" .
+	wgs:long "16.33142338499572" ;
+	wgs:lat "48.20555851197912" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25446> wgs:location _:node1bvvrku5tx6 ;
 	dbo:codeDistrict "1160" .
@@ -107,8 +107,8 @@ _:node1bvvrku5tx6 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437907" .
 
 _:node1bvvrku5tx7 a wgs:Point ;
-	wgs:lat "16.3645541662106" ;
-	wgs:long "48.21189939809723" .
+	wgs:long "16.3645541662106" ;
+	wgs:lat "48.21189939809723" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25147> wgs:location _:node1bvvrku5tx7 ;
 	dbo:codeDistrict "1010" .
@@ -122,8 +122,8 @@ _:node1bvvrku5tx7 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=419157" .
 
 _:node1bvvrku5tx8 a wgs:Point ;
-	wgs:lat "16.329421353175853" ;
-	wgs:long "48.181501963325694" .
+	wgs:long "16.329421353175853" ;
+	wgs:lat "48.181501963325694" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25148> wgs:location _:node1bvvrku5tx8 ;
 	dbo:codeDistrict "1120" .
@@ -137,8 +137,8 @@ _:node1bvvrku5tx8 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437319" .
 
 _:node1bvvrku5tx9 a wgs:Point ;
-	wgs:lat "16.367618675134565" ;
-	wgs:long "48.210894689718764" .
+	wgs:long "16.367618675134565" ;
+	wgs:lat "48.210894689718764" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25149> wgs:location _:node1bvvrku5tx9 ;
 	dbo:codeDistrict "1010" .
@@ -152,8 +152,8 @@ _:node1bvvrku5tx9 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=419520" .
 
 _:node1bvvrku5tx10 a wgs:Point ;
-	wgs:lat "16.386441054992083" ;
-	wgs:long "48.25675810587898" .
+	wgs:long "16.386441054992083" ;
+	wgs:lat "48.25675810587898" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25150> wgs:location _:node1bvvrku5tx10 ;
 	dbo:codeDistrict "1210" .
@@ -167,8 +167,8 @@ _:node1bvvrku5tx10 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437323" .
 
 _:node1bvvrku5tx11 a wgs:Point ;
-	wgs:lat "16.371200975604864" ;
-	wgs:long "48.202273687603125" .
+	wgs:long "16.371200975604864" ;
+	wgs:lat "48.202273687603125" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25151> wgs:location _:node1bvvrku5tx11 ;
 	dbo:codeDistrict "1010" .
@@ -182,8 +182,8 @@ _:node1bvvrku5tx11 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438069" .
 
 _:node1bvvrku5tx12 a wgs:Point ;
-	wgs:lat "16.40795712053567" ;
-	wgs:long "48.25239202294901" .
+	wgs:long "16.40795712053567" ;
+	wgs:lat "48.25239202294901" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25152> wgs:location _:node1bvvrku5tx12 ;
 	dbo:codeDistrict "1210" .
@@ -197,8 +197,8 @@ _:node1bvvrku5tx12 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437326" .
 
 _:node1bvvrku5tx13 a wgs:Point ;
-	wgs:lat "16.361115489956454" ;
-	wgs:long "48.204669684912076" .
+	wgs:long "16.361115489956454" ;
+	wgs:lat "48.204669684912076" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25441> wgs:location _:node1bvvrku5tx13 ;
 	dbo:codeDistrict "1010" .
@@ -212,8 +212,8 @@ _:node1bvvrku5tx13 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437327" .
 
 _:node1bvvrku5tx14 a wgs:Point ;
-	wgs:lat "16.37980086456676" ;
-	wgs:long "48.1912606376118" .
+	wgs:long "16.37980086456676" ;
+	wgs:lat "48.1912606376118" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25442> wgs:location _:node1bvvrku5tx14 ;
 	dbo:codeDistrict "1030" .
@@ -227,8 +227,8 @@ _:node1bvvrku5tx14 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=416875" .
 
 _:node1bvvrku5tx15 a wgs:Point ;
-	wgs:lat "16.368526097098865" ;
-	wgs:long "48.20559268932395" .
+	wgs:long "16.368526097098865" ;
+	wgs:lat "48.20559268932395" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25447> wgs:location _:node1bvvrku5tx15 ;
 	dbo:codeDistrict "1010" .
@@ -241,8 +241,8 @@ _:node1bvvrku5tx15 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=389892" .
 
 _:node1bvvrku5tx16 a wgs:Point ;
-	wgs:lat "16.38731597156753" ;
-	wgs:long "48.19175503610096" .
+	wgs:long "16.38731597156753" ;
+	wgs:lat "48.19175503610096" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25448> wgs:location _:node1bvvrku5tx16 ;
 	dbo:codeDistrict "1030" .
@@ -256,8 +256,8 @@ _:node1bvvrku5tx16 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=286955" .
 
 _:node1bvvrku5tx17 a wgs:Point ;
-	wgs:lat "16.313087276662937" ;
-	wgs:long "48.18649379306993" .
+	wgs:long "16.313087276662937" ;
+	wgs:lat "48.18649379306993" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25449> wgs:location _:node1bvvrku5tx17 ;
 	dbo:codeDistrict "1130" .
@@ -271,8 +271,8 @@ _:node1bvvrku5tx17 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438934" .
 
 _:node1bvvrku5tx18 a wgs:Point ;
-	wgs:lat "16.353268603044167" ;
-	wgs:long "48.19936173021695" .
+	wgs:long "16.353268603044167" ;
+	wgs:lat "48.19936173021695" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25450> wgs:location _:node1bvvrku5tx18 ;
 	dbo:codeDistrict "1060" .
@@ -286,8 +286,8 @@ _:node1bvvrku5tx18 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437424" .
 
 _:node1bvvrku5tx19 a wgs:Point ;
-	wgs:lat "16.28546771155556" ;
-	wgs:long "48.21968824875009" .
+	wgs:long "16.28546771155556" ;
+	wgs:lat "48.21968824875009" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25451> wgs:location _:node1bvvrku5tx19 ;
 	dbo:codeDistrict "1160" .
@@ -301,8 +301,8 @@ _:node1bvvrku5tx19 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437328" .
 
 _:node1bvvrku5tx20 a wgs:Point ;
-	wgs:lat "16.472599668311062" ;
-	wgs:long "48.23615669008921" .
+	wgs:long "16.472599668311062" ;
+	wgs:lat "48.23615669008921" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25452> wgs:location _:node1bvvrku5tx20 ;
 	dbo:codeDistrict "1220" .
@@ -316,8 +316,8 @@ _:node1bvvrku5tx20 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=305301" .
 
 _:node1bvvrku5tx21 a wgs:Point ;
-	wgs:lat "16.442351704989804" ;
-	wgs:long "48.16063537330406" .
+	wgs:long "16.442351704989804" ;
+	wgs:lat "48.16063537330406" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25453> wgs:location _:node1bvvrku5tx21 ;
 	dbo:codeDistrict "1110" .
@@ -331,8 +331,8 @@ _:node1bvvrku5tx21 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=450923" .
 
 _:node1bvvrku5tx22 a wgs:Point ;
-	wgs:lat "16.359112971682215" ;
-	wgs:long "48.20353147707585" .
+	wgs:long "16.359112971682215" ;
+	wgs:lat "48.20353147707585" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25454> wgs:location _:node1bvvrku5tx22 ;
 	dbo:codeDistrict "1070" .
@@ -346,8 +346,8 @@ _:node1bvvrku5tx22 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439384" .
 
 _:node1bvvrku5tx23 a wgs:Point ;
-	wgs:lat "16.36084633424987" ;
-	wgs:long "48.20448987962025" .
+	wgs:long "16.36084633424987" ;
+	wgs:lat "48.20448987962025" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25455> wgs:location _:node1bvvrku5tx23 ;
 	dbo:codeDistrict "1010" .
@@ -361,8 +361,8 @@ _:node1bvvrku5tx23 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=451785" .
 
 _:node1bvvrku5tx24 a wgs:Point ;
-	wgs:lat "16.317965041096137" ;
-	wgs:long "48.224537440052515" .
+	wgs:long "16.317965041096137" ;
+	wgs:lat "48.224537440052515" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25456> wgs:location _:node1bvvrku5tx24 ;
 	dbo:codeDistrict "1170" .
@@ -376,8 +376,8 @@ _:node1bvvrku5tx24 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437320" .
 
 _:node1bvvrku5tx25 a wgs:Point ;
-	wgs:lat "16.35530381909226" ;
-	wgs:long "48.202738169751164" .
+	wgs:long "16.35530381909226" ;
+	wgs:lat "48.202738169751164" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25457> wgs:location _:node1bvvrku5tx25 ;
 	dbo:codeDistrict "1070" .
@@ -391,8 +391,8 @@ _:node1bvvrku5tx25 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=436918" .
 
 _:node1bvvrku5tx26 a wgs:Point ;
-	wgs:lat "16.37021452839534" ;
-	wgs:long "48.19991803942954" .
+	wgs:long "16.37021452839534" ;
+	wgs:lat "48.19991803942954" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25458> wgs:location _:node1bvvrku5tx26 ;
 	dbo:codeDistrict "1040" .
@@ -406,8 +406,8 @@ _:node1bvvrku5tx26 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439456" .
 
 _:node1bvvrku5tx27 a wgs:Point ;
-	wgs:lat "16.39824949750289" ;
-	wgs:long "48.25615716140113" .
+	wgs:long "16.39824949750289" ;
+	wgs:lat "48.25615716140113" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25459> wgs:location _:node1bvvrku5tx27 ;
 	dbo:codeDistrict "1210" .
@@ -421,8 +421,8 @@ _:node1bvvrku5tx27 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437322" .
 
 _:node1bvvrku5tx28 a wgs:Point ;
-	wgs:lat "16.333588142556735" ;
-	wgs:long "48.23515668041274" .
+	wgs:long "16.333588142556735" ;
+	wgs:lat "48.23515668041274" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25460> wgs:location _:node1bvvrku5tx28 ;
 	dbo:codeDistrict "1180" .
@@ -436,8 +436,8 @@ _:node1bvvrku5tx28 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=438614" .
 
 _:node1bvvrku5tx29 a wgs:Point ;
-	wgs:lat "16.363448825305504" ;
-	wgs:long "48.21873798023485" .
+	wgs:long "16.363448825305504" ;
+	wgs:lat "48.21873798023485" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25461> wgs:location _:node1bvvrku5tx29 ;
 	dbo:codeDistrict "1090" .
@@ -451,8 +451,8 @@ _:node1bvvrku5tx29 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437318" .
 
 _:node1bvvrku5tx30 a wgs:Point ;
-	wgs:lat "16.359112971682215" ;
-	wgs:long "48.20353147707585" .
+	wgs:long "16.359112971682215" ;
+	wgs:lat "48.20353147707585" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25462> wgs:location _:node1bvvrku5tx30 ;
 	dbo:codeDistrict "1070" .
@@ -466,8 +466,8 @@ _:node1bvvrku5tx30 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439386" .
 
 _:node1bvvrku5tx31 a wgs:Point ;
-	wgs:lat "16.37742686852959" ;
-	wgs:long "48.17561790710544" .
+	wgs:long "16.37742686852959" ;
+	wgs:lat "48.17561790710544" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25463> wgs:location _:node1bvvrku5tx31 ;
 	dbo:codeDistrict "1100" .
@@ -481,8 +481,8 @@ _:node1bvvrku5tx31 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439082" .
 
 _:node1bvvrku5tx32 a wgs:Point ;
-	wgs:lat "16.366156535645462" ;
-	wgs:long "48.20772130036573" .
+	wgs:long "16.366156535645462" ;
+	wgs:lat "48.20772130036573" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25464> wgs:location _:node1bvvrku5tx32 ;
 	dbo:codeDistrict "1010" .
@@ -496,8 +496,8 @@ _:node1bvvrku5tx32 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=439455" .
 
 _:node1bvvrku5tx33 a wgs:Point ;
-	wgs:lat "16.37518095616" ;
-	wgs:long "48.18208643981428" .
+	wgs:long "16.37518095616" ;
+	wgs:lat "48.18208643981428" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25465> wgs:location _:node1bvvrku5tx33 ;
 	dbo:codeDistrict "1100" .
@@ -511,8 +511,8 @@ _:node1bvvrku5tx33 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=452378" .
 
 _:node1bvvrku5tx34 a wgs:Point ;
-	wgs:lat "16.353243226194714" ;
-	wgs:long "48.18060370564281" .
+	wgs:long "16.353243226194714" ;
+	wgs:lat "48.18060370564281" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25466> wgs:location _:node1bvvrku5tx34 ;
 	dbo:codeDistrict "1050" .
@@ -526,8 +526,8 @@ _:node1bvvrku5tx34 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437321" .
 
 _:node1bvvrku5tx35 a wgs:Point ;
-	wgs:lat "16.372518009528143" ;
-	wgs:long "48.208342685780394" .
+	wgs:long "16.372518009528143" ;
+	wgs:lat "48.208342685780394" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25467> wgs:location _:node1bvvrku5tx35 ;
 	dbo:codeDistrict "1010" .
@@ -541,8 +541,8 @@ _:node1bvvrku5tx35 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=437760" .
 
 _:node1bvvrku5tx36 a wgs:Point ;
-	wgs:lat "16.38898117429548" ;
-	wgs:long "48.1842615893926" .
+	wgs:long "16.38898117429548" ;
+	wgs:lat "48.1842615893926" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25468> wgs:location _:node1bvvrku5tx36 ;
 	dbo:codeDistrict "1030" .
@@ -556,8 +556,8 @@ _:node1bvvrku5tx36 a wgs:Point ;
 	rdfs:seeAlso "http://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&Type=K&ID=419620" .
 
 _:node1bvvrku5tx37 a wgs:Point ;
-	wgs:lat "16.409207276743206" ;
-	wgs:long "48.196180614692025" .
+	wgs:long "16.409207276743206" ;
+	wgs:lat "48.196180614692025" .
 
 <http://linkedwidgets.org/ontology/resource/wien/ADVENTMARKTOGD.25469> wgs:location _:node1bvvrku5tx37 ;
 	dbo:codeDistrict "1030" .

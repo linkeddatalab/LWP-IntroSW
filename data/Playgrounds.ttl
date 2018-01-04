@@ -12,8 +12,8 @@
 	lw:hasId "JGDANGEBOTOGD.247980" .
 
 _:node1bvvrptg3x1 a wgs:Point ;
-	wgs:lat "16.363083051998867" ;
-	wgs:long "48.1606954442122" .
+	wgs:long "16.363083051998867" ;
+	wgs:lat "48.1606954442122" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247980> wgs:location _:node1bvvrptg3x1 ;
 	rdfs:name "just Wienerberg" ;
@@ -30,8 +30,8 @@ _:node1bvvrptg3x1 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247981" .
 
 _:node1bvvrptg3x2 a wgs:Point ;
-	wgs:lat "16.349337999902154" ;
-	wgs:long "48.18565274520381" .
+	wgs:long "16.349337999902154" ;
+	wgs:lat "48.18565274520381" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247981> wgs:location _:node1bvvrptg3x2 ;
 	rdfs:name "Kinder- und Jugendraum Einsiedlerbad" ;
@@ -48,8 +48,8 @@ _:node1bvvrptg3x2 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247982" .
 
 _:node1bvvrptg3x3 a wgs:Point ;
-	wgs:lat "16.524231438885597" ;
-	wgs:long "48.21203079226819" .
+	wgs:long "16.524231438885597" ;
+	wgs:lat "48.21203079226819" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247982> wgs:location _:node1bvvrptg3x3 ;
 	rdfs:name "Junge Box Essling" ;
@@ -65,8 +65,8 @@ _:node1bvvrptg3x3 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247983" .
 
 _:node1bvvrptg3x4 a wgs:Point ;
-	wgs:lat "16.334325957658276" ;
-	wgs:long "48.179269754430955" .
+	wgs:long "16.334325957658276" ;
+	wgs:lat "48.179269754430955" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247983> wgs:location _:node1bvvrptg3x4 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -83,8 +83,8 @@ _:node1bvvrptg3x4 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247984" .
 
 _:node1bvvrptg3x5 a wgs:Point ;
-	wgs:lat "16.350008200448972" ;
-	wgs:long "48.20788648153583" .
+	wgs:long "16.350008200448972" ;
+	wgs:lat "48.20788648153583" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247984> wgs:location _:node1bvvrptg3x5 ;
 	rdfs:name "Musisches Zentrum" ;
@@ -101,8 +101,8 @@ _:node1bvvrptg3x5 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247985" .
 
 _:node1bvvrptg3x6 a wgs:Point ;
-	wgs:lat "16.483598621892522" ;
-	wgs:long "48.218614822628176" .
+	wgs:long "16.483598621892522" ;
+	wgs:lat "48.218614822628176" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247985> wgs:location _:node1bvvrptg3x6 ;
 	rdfs:name "Junge Box Aspern" ;
@@ -119,8 +119,8 @@ _:node1bvvrptg3x6 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247986" .
 
 _:node1bvvrptg3x7 a wgs:Point ;
-	wgs:lat "16.358111714665977" ;
-	wgs:long "48.16720513319011" .
+	wgs:long "16.358111714665977" ;
+	wgs:lat "48.16720513319011" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247986> wgs:location _:node1bvvrptg3x7 ;
 	rdfs:name "Treffpunkt Wasserturm" ;
@@ -137,8 +137,8 @@ _:node1bvvrptg3x7 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247987" .
 
 _:node1bvvrptg3x8 a wgs:Point ;
-	wgs:lat "16.360147364031036" ;
-	wgs:long "48.20190214484946" .
+	wgs:long "16.360147364031036" ;
+	wgs:lat "48.20190214484946" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247987> wgs:location _:node1bvvrptg3x8 ;
 	rdfs:name "kinderinfo" ;
@@ -155,8 +155,8 @@ _:node1bvvrptg3x8 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247988" .
 
 _:node1bvvrptg3x9 a wgs:Point ;
-	wgs:lat "16.41294473857735" ;
-	wgs:long "48.2874423436002" .
+	wgs:long "16.41294473857735" ;
+	wgs:lat "48.2874423436002" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247988> wgs:location _:node1bvvrptg3x9 ;
 	rdfs:name "Mobile Jugendarbeit" ;
@@ -173,8 +173,8 @@ _:node1bvvrptg3x9 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247989" .
 
 _:node1bvvrptg3x10 a wgs:Point ;
-	wgs:lat "16.3746238725259" ;
-	wgs:long "48.28400867834121" .
+	wgs:long "16.3746238725259" ;
+	wgs:lat "48.28400867834121" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247989> wgs:location _:node1bvvrptg3x10 ;
 	rdfs:name "Kommunikationszentrum freeway 5" ;
@@ -191,8 +191,8 @@ _:node1bvvrptg3x10 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247990" .
 
 _:node1bvvrptg3x11 a wgs:Point ;
-	wgs:lat "16.415596165684885" ;
-	wgs:long "48.25331799917387" .
+	wgs:long "16.415596165684885" ;
+	wgs:lat "48.25331799917387" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247990> wgs:location _:node1bvvrptg3x11 ;
 	rdfs:name "Mobile Jugendarbeit Donaufeld" ;
@@ -209,8 +209,8 @@ _:node1bvvrptg3x11 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247991" .
 
 _:node1bvvrptg3x12 a wgs:Point ;
-	wgs:lat "16.42989883087939" ;
-	wgs:long "48.242639955857456" .
+	wgs:long "16.42989883087939" ;
+	wgs:lat "48.242639955857456" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247991> wgs:location _:node1bvvrptg3x12 ;
 	rdfs:name "Kommunikationszentrum Kagran 1" ;
@@ -227,8 +227,8 @@ _:node1bvvrptg3x12 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247969" .
 
 _:node1bvvrptg3x13 a wgs:Point ;
-	wgs:lat "16.457689743596987" ;
-	wgs:long "48.25869318501949" .
+	wgs:long "16.457689743596987" ;
+	wgs:lat "48.25869318501949" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247969> wgs:location _:node1bvvrptg3x13 ;
 	rdfs:name "Jugendzentrum Rennbahnweg" ;
@@ -245,8 +245,8 @@ _:node1bvvrptg3x13 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247970" .
 
 _:node1bvvrptg3x14 a wgs:Point ;
-	wgs:lat "16.481816571468286" ;
-	wgs:long "48.24019220370238" .
+	wgs:long "16.481816571468286" ;
+	wgs:lat "48.24019220370238" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247970> wgs:location _:node1bvvrptg3x14 ;
 	rdfs:name "Jugendzentrum Hirschstetten" ;
@@ -263,8 +263,8 @@ _:node1bvvrptg3x14 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247971" .
 
 _:node1bvvrptg3x15 a wgs:Point ;
-	wgs:lat "16.329764806558682" ;
-	wgs:long "48.14845054825096" .
+	wgs:long "16.329764806558682" ;
+	wgs:lat "48.14845054825096" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247971> wgs:location _:node1bvvrptg3x15 ;
 	rdfs:name "Jugendzentrum Come In" ;
@@ -281,8 +281,8 @@ _:node1bvvrptg3x15 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247972" .
 
 _:node1bvvrptg3x16 a wgs:Point ;
-	wgs:lat "16.31467685506986" ;
-	wgs:long "48.1510444596553" .
+	wgs:long "16.31467685506986" ;
+	wgs:lat "48.1510444596553" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247972> wgs:location _:node1bvvrptg3x16 ;
 	rdfs:name "Jugendzentrum Alt Erlaa" ;
@@ -299,8 +299,8 @@ _:node1bvvrptg3x16 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247973" .
 
 _:node1bvvrptg3x17 a wgs:Point ;
-	wgs:lat "16.34502519227415" ;
-	wgs:long "48.14546595248546" .
+	wgs:long "16.34502519227415" ;
+	wgs:lat "48.14546595248546" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247973> wgs:location _:node1bvvrptg3x17 ;
 	rdfs:name "Jugendtreff Pfarrgasse" ;
@@ -317,8 +317,8 @@ _:node1bvvrptg3x17 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247974" .
 
 _:node1bvvrptg3x18 a wgs:Point ;
-	wgs:lat "16.277901761667135" ;
-	wgs:long "48.1353329779227" .
+	wgs:long "16.277901761667135" ;
+	wgs:lat "48.1353329779227" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247974> wgs:location _:node1bvvrptg3x18 ;
 	rdfs:name "Streetwork Liesing" ;
@@ -335,8 +335,8 @@ _:node1bvvrptg3x18 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247975" .
 
 _:node1bvvrptg3x19 a wgs:Point ;
-	wgs:lat "16.31236983310474" ;
-	wgs:long "48.12945122256466" .
+	wgs:long "16.31236983310474" ;
+	wgs:lat "48.12945122256466" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247975> wgs:location _:node1bvvrptg3x19 ;
 	rdfs:name "Jugendtreff Wiener Flur" ;
@@ -353,8 +353,8 @@ _:node1bvvrptg3x19 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247976" .
 
 _:node1bvvrptg3x20 a wgs:Point ;
-	wgs:lat "16.389509510036486" ;
-	wgs:long "48.23399468659845" .
+	wgs:long "16.389509510036486" ;
+	wgs:lat "48.23399468659845" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247976> wgs:location _:node1bvvrptg3x20 ;
 	rdfs:name "Mobile Jugendarbeit Backbone 20" ;
@@ -371,8 +371,8 @@ _:node1bvvrptg3x20 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247977" .
 
 _:node1bvvrptg3x21 a wgs:Point ;
-	wgs:lat "16.357372705339213" ;
-	wgs:long "48.22759383665455" .
+	wgs:long "16.357372705339213" ;
+	wgs:lat "48.22759383665455" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247977> wgs:location _:node1bvvrptg3x21 ;
 	rdfs:name "Jugendzentrum Zentrum 9" ;
@@ -389,8 +389,8 @@ _:node1bvvrptg3x21 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247978" .
 
 _:node1bvvrptg3x22 a wgs:Point ;
-	wgs:lat "16.461158123787683" ;
-	wgs:long "48.153727936970505" .
+	wgs:long "16.461158123787683" ;
+	wgs:lat "48.153727936970505" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247978> wgs:location _:node1bvvrptg3x22 ;
 	rdfs:name "Siedlungstreff Leberberg" ;
@@ -407,8 +407,8 @@ _:node1bvvrptg3x22 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247979" .
 
 _:node1bvvrptg3x23 a wgs:Point ;
-	wgs:lat "16.319342423795" ;
-	wgs:long "48.211229117749646" .
+	wgs:long "16.319342423795" ;
+	wgs:lat "48.211229117749646" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247979> wgs:location _:node1bvvrptg3x23 ;
 	rdfs:name "Indoorspielplatz Seversaal" ;
@@ -425,8 +425,8 @@ _:node1bvvrptg3x23 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247992" .
 
 _:node1bvvrptg3x24 a wgs:Point ;
-	wgs:lat "16.452284213053442" ;
-	wgs:long "48.22312934844361" .
+	wgs:long "16.452284213053442" ;
+	wgs:lat "48.22312934844361" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247992> wgs:location _:node1bvvrptg3x24 ;
 	rdfs:name "JuZeS - Jugendzentrum Stadtlau" ;
@@ -443,8 +443,8 @@ _:node1bvvrptg3x24 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247993" .
 
 _:node1bvvrptg3x25 a wgs:Point ;
-	wgs:lat "16.34513486281829" ;
-	wgs:long "48.20107346380363" .
+	wgs:long "16.34513486281829" ;
+	wgs:lat "48.20107346380363" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247993> wgs:location _:node1bvvrptg3x25 ;
 	rdfs:name "flash mädchencafé" ;
@@ -461,8 +461,8 @@ _:node1bvvrptg3x25 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247994" .
 
 _:node1bvvrptg3x26 a wgs:Point ;
-	wgs:lat "16.363504070758662" ;
-	wgs:long "48.203515583714754" .
+	wgs:long "16.363504070758662" ;
+	wgs:lat "48.203515583714754" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247994> wgs:location _:node1bvvrptg3x26 ;
 	rdfs:name "jugendinfo" ;
@@ -479,8 +479,8 @@ _:node1bvvrptg3x26 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247995" .
 
 _:node1bvvrptg3x27 a wgs:Point ;
-	wgs:lat "16.344941139118706" ;
-	wgs:long "48.19838564187855" .
+	wgs:long "16.344941139118706" ;
+	wgs:lat "48.19838564187855" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247995> wgs:location _:node1bvvrptg3x27 ;
 	rdfs:name "Kommunikationszentrum Apollo-Tempel" ;
@@ -497,8 +497,8 @@ _:node1bvvrptg3x27 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247996" .
 
 _:node1bvvrptg3x28 a wgs:Point ;
-	wgs:lat "16.34376329365876" ;
-	wgs:long "48.21186210528812" .
+	wgs:long "16.34376329365876" ;
+	wgs:lat "48.21186210528812" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247996> wgs:location _:node1bvvrptg3x28 ;
 	rdfs:name "spielebox" ;
@@ -515,8 +515,8 @@ _:node1bvvrptg3x28 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247997" .
 
 _:node1bvvrptg3x29 a wgs:Point ;
-	wgs:lat "16.383724855086328" ;
-	wgs:long "48.21143775069017" .
+	wgs:long "16.383724855086328" ;
+	wgs:lat "48.21143775069017" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247997> wgs:location _:node1bvvrptg3x29 ;
 	rdfs:name "cinemagic" ;
@@ -533,8 +533,8 @@ _:node1bvvrptg3x29 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247998" .
 
 _:node1bvvrptg3x30 a wgs:Point ;
-	wgs:lat "16.34483984058024" ;
-	wgs:long "48.20345215575052" .
+	wgs:long "16.34483984058024" ;
+	wgs:lat "48.20345215575052" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247998> wgs:location _:node1bvvrptg3x30 ;
 	rdfs:name "medienzentrum" ;
@@ -551,8 +551,8 @@ _:node1bvvrptg3x30 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.247999" .
 
 _:node1bvvrptg3x31 a wgs:Point ;
-	wgs:lat "16.308474495743834" ;
-	wgs:long "48.13686847331676" .
+	wgs:long "16.308474495743834" ;
+	wgs:lat "48.13686847331676" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.247999> wgs:location _:node1bvvrptg3x31 ;
 	rdfs:name "SkateArea 23" ;
@@ -569,8 +569,8 @@ _:node1bvvrptg3x31 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248000" .
 
 _:node1bvvrptg3x32 a wgs:Point ;
-	wgs:lat "16.40055846966018" ;
-	wgs:long "48.2537455575184" .
+	wgs:long "16.40055846966018" ;
+	wgs:lat "48.2537455575184" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248000> wgs:location _:node1bvvrptg3x32 ;
 	rdfs:name "AREA 52 - Austrian Players League" ;
@@ -587,8 +587,8 @@ _:node1bvvrptg3x32 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248001" .
 
 _:node1bvvrptg3x33 a wgs:Point ;
-	wgs:lat "16.408539001097118" ;
-	wgs:long "48.18100320017005" .
+	wgs:long "16.408539001097118" ;
+	wgs:lat "48.18100320017005" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248001> wgs:location _:node1bvvrptg3x33 ;
 	rdfs:name "Jugendtreff Eleven" ;
@@ -605,8 +605,8 @@ _:node1bvvrptg3x33 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248002" .
 
 _:node1bvvrptg3x34 a wgs:Point ;
-	wgs:lat "16.330070842720392" ;
-	wgs:long "48.15970275427061" .
+	wgs:long "16.330070842720392" ;
+	wgs:lat "48.15970275427061" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248002> wgs:location _:node1bvvrptg3x34 ;
 	rdfs:name "Jugendzentrum Meidling" ;
@@ -623,8 +623,8 @@ _:node1bvvrptg3x34 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248003" .
 
 _:node1bvvrptg3x35 a wgs:Point ;
-	wgs:lat "16.33715811648557" ;
-	wgs:long "48.1852439566745" .
+	wgs:long "16.33715811648557" ;
+	wgs:lat "48.1852439566745" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248003> wgs:location _:node1bvvrptg3x35 ;
 	rdfs:name "Streetwork Meidling" ;
@@ -641,8 +641,8 @@ _:node1bvvrptg3x35 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248004" .
 
 _:node1bvvrptg3x36 a wgs:Point ;
-	wgs:lat "16.323597249431252" ;
-	wgs:long "48.17723509511532" .
+	wgs:long "16.323597249431252" ;
+	wgs:lat "48.17723509511532" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248004> wgs:location _:node1bvvrptg3x36 ;
 	rdfs:name "Jugendzentrum Zentrum Aichholzgasse" ;
@@ -659,8 +659,8 @@ _:node1bvvrptg3x36 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248005" .
 
 _:node1bvvrptg3x37 a wgs:Point ;
-	wgs:lat "16.285308444465574" ;
-	wgs:long "48.171805159227546" .
+	wgs:long "16.285308444465574" ;
+	wgs:lat "48.171805159227546" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248005> wgs:location _:node1bvvrptg3x37 ;
 	rdfs:name "Streetwork Hietzing" ;
@@ -677,8 +677,8 @@ _:node1bvvrptg3x37 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248006" .
 
 _:node1bvvrptg3x38 a wgs:Point ;
-	wgs:lat "16.30945846895064" ;
-	wgs:long "48.19601114806411" .
+	wgs:long "16.30945846895064" ;
+	wgs:lat "48.19601114806411" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248006> wgs:location _:node1bvvrptg3x38 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -695,8 +695,8 @@ _:node1bvvrptg3x38 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248007" .
 
 _:node1bvvrptg3x39 a wgs:Point ;
-	wgs:lat "16.273956940553703" ;
-	wgs:long "48.19342063288303" .
+	wgs:long "16.273956940553703" ;
+	wgs:lat "48.19342063288303" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248007> wgs:location _:node1bvvrptg3x39 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -713,8 +713,8 @@ _:node1bvvrptg3x39 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248008" .
 
 _:node1bvvrptg3x40 a wgs:Point ;
-	wgs:lat "16.502667221422108" ;
-	wgs:long "48.22822550344736" .
+	wgs:long "16.502667221422108" ;
+	wgs:lat "48.22822550344736" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248008> wgs:location _:node1bvvrptg3x40 ;
 	rdfs:name "Mobile Jugendarbeit SEA - Stadtlau-Essling-Aspern" ;
@@ -731,8 +731,8 @@ _:node1bvvrptg3x40 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248009" .
 
 _:node1bvvrptg3x41 a wgs:Point ;
-	wgs:lat "16.315224650610016" ;
-	wgs:long "48.1925329585125" .
+	wgs:long "16.315224650610016" ;
+	wgs:lat "48.1925329585125" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248009> wgs:location _:node1bvvrptg3x41 ;
 	rdfs:name "Jugendtreff Penzing" ;
@@ -749,8 +749,8 @@ _:node1bvvrptg3x41 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248010" .
 
 _:node1bvvrptg3x42 a wgs:Point ;
-	wgs:lat "16.326069730462343" ;
-	wgs:long "48.196721824812485" .
+	wgs:long "16.326069730462343" ;
+	wgs:lat "48.196721824812485" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248010> wgs:location _:node1bvvrptg3x42 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -767,8 +767,8 @@ _:node1bvvrptg3x42 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248011" .
 
 _:node1bvvrptg3x43 a wgs:Point ;
-	wgs:lat "16.383278973759083" ;
-	wgs:long "48.1780063455548" .
+	wgs:long "16.383278973759083" ;
+	wgs:lat "48.1780063455548" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248011> wgs:location _:node1bvvrptg3x43 ;
 	rdfs:name "Jugendtreff SOVIE" ;
@@ -785,8 +785,8 @@ _:node1bvvrptg3x43 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248012" .
 
 _:node1bvvrptg3x44 a wgs:Point ;
-	wgs:lat "16.32892961849504" ;
-	wgs:long "48.18706504656484" .
+	wgs:long "16.32892961849504" ;
+	wgs:lat "48.18706504656484" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248012> wgs:location _:node1bvvrptg3x44 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -803,8 +803,8 @@ _:node1bvvrptg3x44 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248013" .
 
 _:node1bvvrptg3x45 a wgs:Point ;
-	wgs:lat "16.33545097549986" ;
-	wgs:long "48.20081659607488" .
+	wgs:long "16.33545097549986" ;
+	wgs:lat "48.20081659607488" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248013> wgs:location _:node1bvvrptg3x45 ;
 	rdfs:name "Kommunikationszentrum Lehrlingszentrum" ;
@@ -821,8 +821,8 @@ _:node1bvvrptg3x45 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248014" .
 
 _:node1bvvrptg3x46 a wgs:Point ;
-	wgs:lat "16.31931141493318" ;
-	wgs:long "48.198810509838324" .
+	wgs:long "16.31931141493318" ;
+	wgs:lat "48.198810509838324" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248014> wgs:location _:node1bvvrptg3x46 ;
 	rdfs:name "spacelab_girls" ;
@@ -839,8 +839,8 @@ _:node1bvvrptg3x46 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248015" .
 
 _:node1bvvrptg3x47 a wgs:Point ;
-	wgs:lat "16.375824262814294" ;
-	wgs:long "48.23210419459225" .
+	wgs:long "16.375824262814294" ;
+	wgs:lat "48.23210419459225" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248015> wgs:location _:node1bvvrptg3x47 ;
 	rdfs:name "spacelab_gestaltung" ;
@@ -857,8 +857,8 @@ _:node1bvvrptg3x47 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248016" .
 
 _:node1bvvrptg3x48 a wgs:Point ;
-	wgs:lat "16.328138675690273" ;
-	wgs:long "48.21234669137215" .
+	wgs:long "16.328138675690273" ;
+	wgs:lat "48.21234669137215" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248016> wgs:location _:node1bvvrptg3x48 ;
 	rdfs:name "Treffpunkt Kinderfreunde" ;
@@ -875,8 +875,8 @@ _:node1bvvrptg3x48 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248017" .
 
 _:node1bvvrptg3x49 a wgs:Point ;
-	wgs:lat "16.309700940798354" ;
-	wgs:long "48.21394972479173" .
+	wgs:long "16.309700940798354" ;
+	wgs:lat "48.21394972479173" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248017> wgs:location _:node1bvvrptg3x49 ;
 	rdfs:name "Jugendzentrum Ottakring" ;
@@ -893,8 +893,8 @@ _:node1bvvrptg3x49 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248018" .
 
 _:node1bvvrptg3x50 a wgs:Point ;
-	wgs:lat "16.318415059573745" ;
-	wgs:long "48.221516259913024" .
+	wgs:long "16.318415059573745" ;
+	wgs:lat "48.221516259913024" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248018> wgs:location _:node1bvvrptg3x50 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -911,8 +911,8 @@ _:node1bvvrptg3x50 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248019" .
 
 _:node1bvvrptg3x51 a wgs:Point ;
-	wgs:lat "16.33924741147425" ;
-	wgs:long "48.21700372133429" .
+	wgs:long "16.33924741147425" ;
+	wgs:lat "48.21700372133429" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248019> wgs:location _:node1bvvrptg3x51 ;
 	rdfs:name "Mobile Jugendarbeit Back on Stage 16/17" ;
@@ -929,8 +929,8 @@ _:node1bvvrptg3x51 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248020" .
 
 _:node1bvvrptg3x52 a wgs:Point ;
-	wgs:lat "16.357863214827987" ;
-	wgs:long "48.17728235329665" .
+	wgs:long "16.357863214827987" ;
+	wgs:lat "48.17728235329665" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248020> wgs:location _:node1bvvrptg3x52 ;
 	rdfs:name "spacelab_kreativ" ;
@@ -946,8 +946,8 @@ _:node1bvvrptg3x52 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248021" .
 
 _:node1bvvrptg3x53 a wgs:Point ;
-	wgs:lat "16.33865130608472" ;
-	wgs:long "48.18264695737929" .
+	wgs:long "16.33865130608472" ;
+	wgs:lat "48.18264695737929" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248021> wgs:location _:node1bvvrptg3x53 ;
 	rdfs:name "Kommunikationszentrum kus4you" ;
@@ -964,8 +964,8 @@ _:node1bvvrptg3x53 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248022" .
 
 _:node1bvvrptg3x54 a wgs:Point ;
-	wgs:lat "16.330746771106462" ;
-	wgs:long "48.24491259851886" .
+	wgs:long "16.330746771106462" ;
+	wgs:lat "48.24491259851886" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248022> wgs:location _:node1bvvrptg3x54 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -982,8 +982,8 @@ _:node1bvvrptg3x54 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248023" .
 
 _:node1bvvrptg3x55 a wgs:Point ;
-	wgs:lat "16.365881378454862" ;
-	wgs:long "48.2519251886854" .
+	wgs:long "16.365881378454862" ;
+	wgs:lat "48.2519251886854" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248023> wgs:location _:node1bvvrptg3x55 ;
 	rdfs:name "Mobile Jugendarbeit 19KMH" ;
@@ -1000,8 +1000,8 @@ _:node1bvvrptg3x55 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248024" .
 
 _:node1bvvrptg3x56 a wgs:Point ;
-	wgs:lat "16.383204158860966" ;
-	wgs:long "48.24144177920119" .
+	wgs:long "16.383204158860966" ;
+	wgs:lat "48.24144177920119" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248024> wgs:location _:node1bvvrptg3x56 ;
 	rdfs:name "Jugendtreff BasE 20" ;
@@ -1018,8 +1018,8 @@ _:node1bvvrptg3x56 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248025" .
 
 _:node1bvvrptg3x57 a wgs:Point ;
-	wgs:lat "16.266174025387304" ;
-	wgs:long "48.221396259384264" .
+	wgs:long "16.266174025387304" ;
+	wgs:lat "48.221396259384264" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248025> wgs:location _:node1bvvrptg3x57 ;
 	rdfs:name "WALDSCHULE OTTAKRING" ;
@@ -1036,8 +1036,8 @@ _:node1bvvrptg3x57 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248026" .
 
 _:node1bvvrptg3x58 a wgs:Point ;
-	wgs:lat "16.389686573168802" ;
-	wgs:long "48.2624993594931" .
+	wgs:long "16.389686573168802" ;
+	wgs:lat "48.2624993594931" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248026> wgs:location _:node1bvvrptg3x58 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -1054,8 +1054,8 @@ _:node1bvvrptg3x58 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248027" .
 
 _:node1bvvrptg3x59 a wgs:Point ;
-	wgs:lat "16.40316791807854" ;
-	wgs:long "48.27746791845178" .
+	wgs:long "16.40316791807854" ;
+	wgs:lat "48.27746791845178" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248027> wgs:location _:node1bvvrptg3x59 ;
 	rdfs:name "Jugendtreff Mitterhofergasse" ;
@@ -1072,8 +1072,8 @@ _:node1bvvrptg3x59 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248028" .
 
 _:node1bvvrptg3x60 a wgs:Point ;
-	wgs:lat "16.386485041764114" ;
-	wgs:long "48.29421153197188" .
+	wgs:long "16.386485041764114" ;
+	wgs:lat "48.29421153197188" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248028> wgs:location _:node1bvvrptg3x60 ;
 	rdfs:name "spacelab_umwelt" ;
@@ -1090,8 +1090,8 @@ _:node1bvvrptg3x60 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248029" .
 
 _:node1bvvrptg3x61 a wgs:Point ;
-	wgs:lat "16.453589000049927" ;
-	wgs:long "48.267745040249636" .
+	wgs:long "16.453589000049927" ;
+	wgs:lat "48.267745040249636" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248029> wgs:location _:node1bvvrptg3x61 ;
 	rdfs:name "Jugendzentrum Nautilus" ;
@@ -1108,8 +1108,8 @@ _:node1bvvrptg3x61 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248030" .
 
 _:node1bvvrptg3x62 a wgs:Point ;
-	wgs:lat "16.419838188429086" ;
-	wgs:long "48.27805151253032" .
+	wgs:long "16.419838188429086" ;
+	wgs:lat "48.27805151253032" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248030> wgs:location _:node1bvvrptg3x62 ;
 	rdfs:name "Jugendzentrum Marco Polo" ;
@@ -1126,8 +1126,8 @@ _:node1bvvrptg3x62 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248031" .
 
 _:node1bvvrptg3x63 a wgs:Point ;
-	wgs:lat "16.414585882603593" ;
-	wgs:long "48.289583241874944" .
+	wgs:long "16.414585882603593" ;
+	wgs:lat "48.289583241874944" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248031> wgs:location _:node1bvvrptg3x63 ;
 	rdfs:name "Jugendtreff Waggon" ;
@@ -1144,8 +1144,8 @@ _:node1bvvrptg3x63 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248032" .
 
 _:node1bvvrptg3x64 a wgs:Point ;
-	wgs:lat "16.486616502882956" ;
-	wgs:long "48.23697258353497" .
+	wgs:long "16.486616502882956" ;
+	wgs:lat "48.23697258353497" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248032> wgs:location _:node1bvvrptg3x64 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1162,8 +1162,8 @@ _:node1bvvrptg3x64 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248033" .
 
 _:node1bvvrptg3x65 a wgs:Point ;
-	wgs:lat "16.44094649802958" ;
-	wgs:long "48.26058536768945" .
+	wgs:long "16.44094649802958" ;
+	wgs:lat "48.26058536768945" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248033> wgs:location _:node1bvvrptg3x65 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1180,8 +1180,8 @@ _:node1bvvrptg3x65 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248034" .
 
 _:node1bvvrptg3x66 a wgs:Point ;
-	wgs:lat "16.410273075754365" ;
-	wgs:long "48.23485854991838" .
+	wgs:long "16.410273075754365" ;
+	wgs:lat "48.23485854991838" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248034> wgs:location _:node1bvvrptg3x66 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1198,8 +1198,8 @@ _:node1bvvrptg3x66 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248035" .
 
 _:node1bvvrptg3x67 a wgs:Point ;
-	wgs:lat "16.45494687346149" ;
-	wgs:long "48.235871857120486" .
+	wgs:long "16.45494687346149" ;
+	wgs:lat "48.235871857120486" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248035> wgs:location _:node1bvvrptg3x67 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1216,8 +1216,8 @@ _:node1bvvrptg3x67 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248036" .
 
 _:node1bvvrptg3x68 a wgs:Point ;
-	wgs:lat "16.455303671127737" ;
-	wgs:long "48.25555987954689" .
+	wgs:long "16.455303671127737" ;
+	wgs:lat "48.25555987954689" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248036> wgs:location _:node1bvvrptg3x68 ;
 	rdfs:name "Aktivspielplatz" ;
@@ -1234,8 +1234,8 @@ _:node1bvvrptg3x68 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248037" .
 
 _:node1bvvrptg3x69 a wgs:Point ;
-	wgs:lat "16.438573696732533" ;
-	wgs:long "48.24078593497293" .
+	wgs:long "16.438573696732533" ;
+	wgs:lat "48.24078593497293" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248037> wgs:location _:node1bvvrptg3x69 ;
 	rdfs:name "Jugendtreff Donaustadt" ;
@@ -1252,8 +1252,8 @@ _:node1bvvrptg3x69 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248038" .
 
 _:node1bvvrptg3x70 a wgs:Point ;
-	wgs:lat "16.468570566089905" ;
-	wgs:long "48.194309161730175" .
+	wgs:long "16.468570566089905" ;
+	wgs:lat "48.194309161730175" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248038> wgs:location _:node1bvvrptg3x70 ;
 	rdfs:name "NATIONALPARKHAUS WIEN lobAU" ;
@@ -1270,8 +1270,8 @@ _:node1bvvrptg3x70 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248039" .
 
 _:node1bvvrptg3x71 a wgs:Point ;
-	wgs:lat "16.34475539409825" ;
-	wgs:long "48.222816982745115" .
+	wgs:long "16.34475539409825" ;
+	wgs:lat "48.222816982745115" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248039> wgs:location _:node1bvvrptg3x71 ;
 	rdfs:name "Jugendraum Molly's" ;
@@ -1288,8 +1288,8 @@ _:node1bvvrptg3x71 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248040" .
 
 _:node1bvvrptg3x72 a wgs:Point ;
-	wgs:lat "16.372946837320175" ;
-	wgs:long "48.23357896925937" .
+	wgs:long "16.372946837320175" ;
+	wgs:lat "48.23357896925937" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248040> wgs:location _:node1bvvrptg3x72 ;
 	rdfs:name "KIB Jugendraum" ;
@@ -1306,8 +1306,8 @@ _:node1bvvrptg3x72 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248041" .
 
 _:node1bvvrptg3x73 a wgs:Point ;
-	wgs:lat "16.389091948650282" ;
-	wgs:long "48.26296672030405" .
+	wgs:long "16.389091948650282" ;
+	wgs:lat "48.26296672030405" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248041> wgs:location _:node1bvvrptg3x73 ;
 	rdfs:name "Parkbetreuung" ;
@@ -1324,8 +1324,8 @@ _:node1bvvrptg3x73 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248042" .
 
 _:node1bvvrptg3x74 a wgs:Point ;
-	wgs:lat "16.486227228785634" ;
-	wgs:long "48.23403188982512" .
+	wgs:long "16.486227228785634" ;
+	wgs:lat "48.23403188982512" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248042> wgs:location _:node1bvvrptg3x74 ;
 	rdfs:name "Parkbetreuung" ;
@@ -1342,8 +1342,8 @@ _:node1bvvrptg3x74 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248043" .
 
 _:node1bvvrptg3x75 a wgs:Point ;
-	wgs:lat "16.440970553752827" ;
-	wgs:long "48.26137858353128" .
+	wgs:long "16.440970553752827" ;
+	wgs:lat "48.26137858353128" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248043> wgs:location _:node1bvvrptg3x75 ;
 	rdfs:name "Parkbetreuung" ;
@@ -1360,8 +1360,8 @@ _:node1bvvrptg3x75 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248044" .
 
 _:node1bvvrptg3x76 a wgs:Point ;
-	wgs:lat "16.255291247131137" ;
-	wgs:long "48.20102969499026" .
+	wgs:long "16.255291247131137" ;
+	wgs:lat "48.20102969499026" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248044> wgs:location _:node1bvvrptg3x76 ;
 	rdfs:name "Skatepark Penzing" ;
@@ -1378,8 +1378,8 @@ _:node1bvvrptg3x76 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248045" .
 
 _:node1bvvrptg3x77 a wgs:Point ;
-	wgs:lat "16.288876328864283" ;
-	wgs:long "48.141552809650236" .
+	wgs:long "16.288876328864283" ;
+	wgs:lat "48.141552809650236" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248045> wgs:location _:node1bvvrptg3x77 ;
 	rdfs:name "Parkbetreuung" ;
@@ -1396,8 +1396,8 @@ _:node1bvvrptg3x77 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248046" .
 
 _:node1bvvrptg3x78 a wgs:Point ;
-	wgs:lat "16.405041507776165" ;
-	wgs:long "48.219777691575615" .
+	wgs:long "16.405041507776165" ;
+	wgs:lat "48.219777691575615" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248046> wgs:location _:node1bvvrptg3x78 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1414,8 +1414,8 @@ _:node1bvvrptg3x78 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248047" .
 
 _:node1bvvrptg3x79 a wgs:Point ;
-	wgs:lat "16.39827007020403" ;
-	wgs:long "48.22049309410812" .
+	wgs:long "16.39827007020403" ;
+	wgs:lat "48.22049309410812" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248047> wgs:location _:node1bvvrptg3x79 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -1432,8 +1432,8 @@ _:node1bvvrptg3x79 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248048" .
 
 _:node1bvvrptg3x80 a wgs:Point ;
-	wgs:lat "16.3869240236291" ;
-	wgs:long "48.22301494311721" .
+	wgs:long "16.3869240236291" ;
+	wgs:lat "48.22301494311721" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248048> wgs:location _:node1bvvrptg3x80 ;
 	rdfs:name "Jugendtreff J.aT" ;
@@ -1450,8 +1450,8 @@ _:node1bvvrptg3x80 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248049" .
 
 _:node1bvvrptg3x81 a wgs:Point ;
-	wgs:lat "16.406384163423553" ;
-	wgs:long "48.22302718481754" .
+	wgs:long "16.406384163423553" ;
+	wgs:lat "48.22302718481754" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248049> wgs:location _:node1bvvrptg3x81 ;
 	rdfs:name "Jugendräume Wehlistraße" ;
@@ -1468,8 +1468,8 @@ _:node1bvvrptg3x81 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248050" .
 
 _:node1bvvrptg3x82 a wgs:Point ;
-	wgs:lat "16.375119016172984" ;
-	wgs:long "48.217364408873436" .
+	wgs:long "16.375119016172984" ;
+	wgs:lat "48.217364408873436" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248050> wgs:location _:node1bvvrptg3x82 ;
 	rdfs:name "Kinder- und Jugendraum friends" ;
@@ -1486,8 +1486,8 @@ _:node1bvvrptg3x82 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248051" .
 
 _:node1bvvrptg3x83 a wgs:Point ;
-	wgs:lat "16.40482412477592" ;
-	wgs:long "48.19673100593169" .
+	wgs:long "16.40482412477592" ;
+	wgs:lat "48.19673100593169" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248051> wgs:location _:node1bvvrptg3x83 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -1504,8 +1504,8 @@ _:node1bvvrptg3x83 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248052" .
 
 _:node1bvvrptg3x84 a wgs:Point ;
-	wgs:lat "16.404598782431872" ;
-	wgs:long "48.19348009939706" .
+	wgs:long "16.404598782431872" ;
+	wgs:lat "48.19348009939706" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248052> wgs:location _:node1bvvrptg3x84 ;
 	rdfs:name "Jugendzentrum come2gether" ;
@@ -1522,8 +1522,8 @@ _:node1bvvrptg3x84 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248053" .
 
 _:node1bvvrptg3x85 a wgs:Point ;
-	wgs:lat "16.38982125808843" ;
-	wgs:long "48.20147049980357" .
+	wgs:long "16.38982125808843" ;
+	wgs:lat "48.20147049980357" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248053> wgs:location _:node1bvvrptg3x85 ;
 	rdfs:name "Streetwork Wien" ;
@@ -1540,8 +1540,8 @@ _:node1bvvrptg3x85 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248054" .
 
 _:node1bvvrptg3x86 a wgs:Point ;
-	wgs:lat "16.369535468850508" ;
-	wgs:long "48.194768826161635" .
+	wgs:long "16.369535468850508" ;
+	wgs:lat "48.194768826161635" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248054> wgs:location _:node1bvvrptg3x86 ;
 	rdfs:name "Streetwork Wieden" ;
@@ -1558,8 +1558,8 @@ _:node1bvvrptg3x86 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248055" .
 
 _:node1bvvrptg3x87 a wgs:Point ;
-	wgs:lat "16.350678430277476" ;
-	wgs:long "48.182419431752564" .
+	wgs:long "16.350678430277476" ;
+	wgs:lat "48.182419431752564" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248055> wgs:location _:node1bvvrptg3x87 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1576,8 +1576,8 @@ _:node1bvvrptg3x87 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248056" .
 
 _:node1bvvrptg3x88 a wgs:Point ;
-	wgs:lat "16.357290575160523" ;
-	wgs:long "48.18131861965367" .
+	wgs:long "16.357290575160523" ;
+	wgs:lat "48.18131861965367" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248056> wgs:location _:node1bvvrptg3x88 ;
 	rdfs:name "Jugendzentrum 5er Haus" ;
@@ -1594,8 +1594,8 @@ _:node1bvvrptg3x88 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248057" .
 
 _:node1bvvrptg3x89 a wgs:Point ;
-	wgs:lat "16.358814365057242" ;
-	wgs:long "48.192416129746334" .
+	wgs:long "16.358814365057242" ;
+	wgs:lat "48.192416129746334" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248057> wgs:location _:node1bvvrptg3x89 ;
 	rdfs:name "Mobile Jugendarbeit Back on Stage 5" ;
@@ -1612,8 +1612,8 @@ _:node1bvvrptg3x89 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248058" .
 
 _:node1bvvrptg3x90 a wgs:Point ;
-	wgs:lat "16.35125986079865" ;
-	wgs:long "48.19590583924274" .
+	wgs:long "16.35125986079865" ;
+	wgs:lat "48.19590583924274" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248058> wgs:location _:node1bvvrptg3x90 ;
 	rdfs:name "Jugendcafe" ;
@@ -1630,8 +1630,8 @@ _:node1bvvrptg3x90 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248059" .
 
 _:node1bvvrptg3x91 a wgs:Point ;
-	wgs:lat "16.34627621324387" ;
-	wgs:long "48.20539087729781" .
+	wgs:long "16.34627621324387" ;
+	wgs:lat "48.20539087729781" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248059> wgs:location _:node1bvvrptg3x91 ;
 	rdfs:name "Kinder- und Jugendclub Tangram" ;
@@ -1648,8 +1648,8 @@ _:node1bvvrptg3x91 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248060" .
 
 _:node1bvvrptg3x92 a wgs:Point ;
-	wgs:lat "16.34627621324387" ;
-	wgs:long "48.20539087729781" .
+	wgs:long "16.34627621324387" ;
+	wgs:lat "48.20539087729781" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248060> wgs:location _:node1bvvrptg3x92 ;
 	rdfs:name "cult.café" ;
@@ -1666,8 +1666,8 @@ _:node1bvvrptg3x92 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248061" .
 
 _:node1bvvrptg3x93 a wgs:Point ;
-	wgs:lat "16.349408844277622" ;
-	wgs:long "48.21245010917779" .
+	wgs:long "16.349408844277622" ;
+	wgs:lat "48.21245010917779" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248061> wgs:location _:node1bvvrptg3x93 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1684,8 +1684,8 @@ _:node1bvvrptg3x93 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248062" .
 
 _:node1bvvrptg3x94 a wgs:Point ;
-	wgs:lat "16.342043194523743" ;
-	wgs:long "48.189499012342004" .
+	wgs:long "16.342043194523743" ;
+	wgs:lat "48.189499012342004" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248062> wgs:location _:node1bvvrptg3x94 ;
 	rdfs:name "Kommunikationszentrum Lehrlingsinsel" ;
@@ -1702,8 +1702,8 @@ _:node1bvvrptg3x94 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248063" .
 
 _:node1bvvrptg3x95 a wgs:Point ;
-	wgs:lat "16.332991053280544" ;
-	wgs:long "48.20874491237095" .
+	wgs:long "16.332991053280544" ;
+	wgs:lat "48.20874491237095" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248063> wgs:location _:node1bvvrptg3x95 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1720,8 +1720,8 @@ _:node1bvvrptg3x95 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248064" .
 
 _:node1bvvrptg3x96 a wgs:Point ;
-	wgs:lat "16.396051139741733" ;
-	wgs:long "48.228650929870405" .
+	wgs:long "16.396051139741733" ;
+	wgs:lat "48.228650929870405" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248064> wgs:location _:node1bvvrptg3x96 ;
 	rdfs:name "Jugendtreff Nordbahnhof" ;
@@ -1738,8 +1738,8 @@ _:node1bvvrptg3x96 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248065" .
 
 _:node1bvvrptg3x97 a wgs:Point ;
-	wgs:lat "16.366578265109393" ;
-	wgs:long "48.22482187117516" .
+	wgs:long "16.366578265109393" ;
+	wgs:lat "48.22482187117516" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248065> wgs:location _:node1bvvrptg3x97 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -1756,8 +1756,8 @@ _:node1bvvrptg3x97 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248066" .
 
 _:node1bvvrptg3x98 a wgs:Point ;
-	wgs:lat "16.470699848934743" ;
-	wgs:long "48.15531304004239" .
+	wgs:long "16.470699848934743" ;
+	wgs:lat "48.15531304004239" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248066> wgs:location _:node1bvvrptg3x98 ;
 	rdfs:name "Jugendzentrum JAM" ;
@@ -1774,8 +1774,8 @@ _:node1bvvrptg3x98 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248067" .
 
 _:node1bvvrptg3x99 a wgs:Point ;
-	wgs:lat "16.371992606944666" ;
-	wgs:long "48.17315154250894" .
+	wgs:long "16.371992606944666" ;
+	wgs:lat "48.17315154250894" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248067> wgs:location _:node1bvvrptg3x99 ;
 	rdfs:name "Jugendtreff Arthaberbad" ;
@@ -1792,8 +1792,8 @@ _:node1bvvrptg3x99 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248068" .
 
 _:node1bvvrptg3x100 a wgs:Point ;
-	wgs:lat "16.35494810723573" ;
-	wgs:long "48.155856739994654" .
+	wgs:long "16.35494810723573" ;
+	wgs:lat "48.155856739994654" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248068> wgs:location _:node1bvvrptg3x100 ;
 	rdfs:name "Jugendtreff Otto-Probst-Siedlung" ;
@@ -1810,8 +1810,8 @@ _:node1bvvrptg3x100 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248069" .
 
 _:node1bvvrptg3x101 a wgs:Point ;
-	wgs:lat "16.39436768794353" ;
-	wgs:long "48.14738776218412" .
+	wgs:long "16.39436768794353" ;
+	wgs:lat "48.14738776218412" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248069> wgs:location _:node1bvvrptg3x101 ;
 	rdfs:name "Jugendzentrum Per-Albin-Hansson-Siedlung" ;
@@ -1828,8 +1828,8 @@ _:node1bvvrptg3x101 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248070" .
 
 _:node1bvvrptg3x102 a wgs:Point ;
-	wgs:lat "16.381221908063953" ;
-	wgs:long "48.17105093213859" .
+	wgs:long "16.381221908063953" ;
+	wgs:lat "48.17105093213859" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248070> wgs:location _:node1bvvrptg3x102 ;
 	rdfs:name "Mobile Jugendarbeit Back on Stage 10" ;
@@ -1846,8 +1846,8 @@ _:node1bvvrptg3x102 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248071" .
 
 _:node1bvvrptg3x103 a wgs:Point ;
-	wgs:lat "16.38733056224874" ;
-	wgs:long "48.1742920011533" .
+	wgs:long "16.38733056224874" ;
+	wgs:lat "48.1742920011533" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248071> wgs:location _:node1bvvrptg3x103 ;
 	rdfs:name "Treffpunkt Hauptbahnhof" ;
@@ -1864,8 +1864,8 @@ _:node1bvvrptg3x103 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248072" .
 
 _:node1bvvrptg3x104 a wgs:Point ;
-	wgs:lat "16.4109648662207" ;
-	wgs:long "48.18191283794429" .
+	wgs:long "16.4109648662207" ;
+	wgs:lat "48.18191283794429" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248072> wgs:location _:node1bvvrptg3x104 ;
 	rdfs:name "Kinder- und Jugendraum" ;
@@ -1882,8 +1882,8 @@ _:node1bvvrptg3x104 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248073" .
 
 _:node1bvvrptg3x105 a wgs:Point ;
-	wgs:lat "16.418217037820085" ;
-	wgs:long "48.16613744246618" .
+	wgs:long "16.418217037820085" ;
+	wgs:lat "48.16613744246618" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248073> wgs:location _:node1bvvrptg3x105 ;
 	rdfs:name "Kinder- und Jugendclub" ;
@@ -1900,8 +1900,8 @@ _:node1bvvrptg3x105 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248074" .
 
 _:node1bvvrptg3x106 a wgs:Point ;
-	wgs:lat "16.454605192289748" ;
-	wgs:long "48.15402431529298" .
+	wgs:long "16.454605192289748" ;
+	wgs:lat "48.15402431529298" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248074> wgs:location _:node1bvvrptg3x106 ;
 	rdfs:name "Jugendzentrum Simmering" ;
@@ -1918,8 +1918,8 @@ _:node1bvvrptg3x106 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248075" .
 
 _:node1bvvrptg3x107 a wgs:Point ;
-	wgs:lat "16.43131601786572" ;
-	wgs:long "48.167984664450074" .
+	wgs:long "16.43131601786572" ;
+	wgs:lat "48.167984664450074" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248075> wgs:location _:node1bvvrptg3x107 ;
 	rdfs:name "Parkbetreuung" ;
@@ -1936,8 +1936,8 @@ _:node1bvvrptg3x107 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248076" .
 
 _:node1bvvrptg3x108 a wgs:Point ;
-	wgs:lat "16.40422208284245" ;
-	wgs:long "48.22413331396444" .
+	wgs:long "16.40422208284245" ;
+	wgs:lat "48.22413331396444" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248076> wgs:location _:node1bvvrptg3x108 ;
 	rdfs:name "Parkbetreuung" ;
@@ -1954,8 +1954,8 @@ _:node1bvvrptg3x108 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248077" .
 
 _:node1bvvrptg3x109 a wgs:Point ;
-	wgs:lat "16.340901042165424" ;
-	wgs:long "48.18299632044664" .
+	wgs:long "16.340901042165424" ;
+	wgs:lat "48.18299632044664" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248077> wgs:location _:node1bvvrptg3x109 ;
 	rdfs:name "Fair-Play-Team 12" ;
@@ -1971,8 +1971,8 @@ _:node1bvvrptg3x109 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248078" .
 
 _:node1bvvrptg3x110 a wgs:Point ;
-	wgs:lat "16.343293010414293" ;
-	wgs:long "48.21169548521096" .
+	wgs:long "16.343293010414293" ;
+	wgs:lat "48.21169548521096" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248078> wgs:location _:node1bvvrptg3x110 ;
 	rdfs:name "ifp - Institut für Freizeitpädagogik" ;
@@ -1988,8 +1988,8 @@ _:node1bvvrptg3x110 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248079" .
 
 _:node1bvvrptg3x111 a wgs:Point ;
-	wgs:lat "16.40664620807407" ;
-	wgs:long "48.19870490584196" .
+	wgs:long "16.40664620807407" ;
+	wgs:lat "48.19870490584196" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248079> wgs:location _:node1bvvrptg3x111 ;
 	rdfs:name "Computer Clubhaus Erdberg (CCV 3)" ;
@@ -2006,8 +2006,8 @@ _:node1bvvrptg3x111 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248080" .
 
 _:node1bvvrptg3x112 a wgs:Point ;
-	wgs:lat "16.323519072873165" ;
-	wgs:long "48.191135701857554" .
+	wgs:long "16.323519072873165" ;
+	wgs:lat "48.191135701857554" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248080> wgs:location _:node1bvvrptg3x112 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2024,8 +2024,8 @@ _:node1bvvrptg3x112 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248081" .
 
 _:node1bvvrptg3x113 a wgs:Point ;
-	wgs:lat "16.410199923271605" ;
-	wgs:long "48.23433536566109" .
+	wgs:long "16.410199923271605" ;
+	wgs:lat "48.23433536566109" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248081> wgs:location _:node1bvvrptg3x113 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2042,8 +2042,8 @@ _:node1bvvrptg3x113 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248082" .
 
 _:node1bvvrptg3x114 a wgs:Point ;
-	wgs:lat "16.44619192722928" ;
-	wgs:long "48.229707082178535" .
+	wgs:long "16.44619192722928" ;
+	wgs:lat "48.229707082178535" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248082> wgs:location _:node1bvvrptg3x114 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2060,8 +2060,8 @@ _:node1bvvrptg3x114 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248083" .
 
 _:node1bvvrptg3x115 a wgs:Point ;
-	wgs:lat "16.404846095087404" ;
-	wgs:long "48.19758319422966" .
+	wgs:long "16.404846095087404" ;
+	wgs:lat "48.19758319422966" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248083> wgs:location _:node1bvvrptg3x115 ;
 	rdfs:name "Sale für Alle" ;
@@ -2078,8 +2078,8 @@ _:node1bvvrptg3x115 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248084" .
 
 _:node1bvvrptg3x116 a wgs:Point ;
-	wgs:lat "16.43955197662512" ;
-	wgs:long "48.236838189501086" .
+	wgs:long "16.43955197662512" ;
+	wgs:lat "48.236838189501086" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248084> wgs:location _:node1bvvrptg3x116 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2096,8 +2096,8 @@ _:node1bvvrptg3x116 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248085" .
 
 _:node1bvvrptg3x117 a wgs:Point ;
-	wgs:lat "16.410829677206042" ;
-	wgs:long "48.22019871705535" .
+	wgs:long "16.410829677206042" ;
+	wgs:lat "48.22019871705535" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248085> wgs:location _:node1bvvrptg3x117 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2114,8 +2114,8 @@ _:node1bvvrptg3x117 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248086" .
 
 _:node1bvvrptg3x118 a wgs:Point ;
-	wgs:lat "16.47523613747479" ;
-	wgs:long "48.16850672178734" .
+	wgs:long "16.47523613747479" ;
+	wgs:lat "48.16850672178734" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248086> wgs:location _:node1bvvrptg3x118 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2132,8 +2132,8 @@ _:node1bvvrptg3x118 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248087" .
 
 _:node1bvvrptg3x119 a wgs:Point ;
-	wgs:lat "16.415902350583938" ;
-	wgs:long "48.17373414181387" .
+	wgs:long "16.415902350583938" ;
+	wgs:lat "48.17373414181387" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248087> wgs:location _:node1bvvrptg3x119 ;
 	rdfs:name "Fair-Play-Team 11" ;
@@ -2149,8 +2149,8 @@ _:node1bvvrptg3x119 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248088" .
 
 _:node1bvvrptg3x120 a wgs:Point ;
-	wgs:lat "16.332241479215714" ;
-	wgs:long "48.218271057745525" .
+	wgs:long "16.332241479215714" ;
+	wgs:lat "48.218271057745525" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248088> wgs:location _:node1bvvrptg3x120 ;
 	rdfs:name "Fair-Play-Team 17" ;
@@ -2166,8 +2166,8 @@ _:node1bvvrptg3x120 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248089" .
 
 _:node1bvvrptg3x121 a wgs:Point ;
-	wgs:lat "16.38081093444361" ;
-	wgs:long "48.171940577778656" .
+	wgs:long "16.38081093444361" ;
+	wgs:lat "48.171940577778656" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248089> wgs:location _:node1bvvrptg3x121 ;
 	rdfs:name "Treffpunkt Reumannplatz" ;
@@ -2184,8 +2184,8 @@ _:node1bvvrptg3x121 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248090" .
 
 _:node1bvvrptg3x122 a wgs:Point ;
-	wgs:lat "16.3332839826944" ;
-	wgs:long "48.20883672843257" .
+	wgs:long "16.3332839826944" ;
+	wgs:lat "48.20883672843257" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248090> wgs:location _:node1bvvrptg3x122 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2202,8 +2202,8 @@ _:node1bvvrptg3x122 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248091" .
 
 _:node1bvvrptg3x123 a wgs:Point ;
-	wgs:lat "16.371017197755034" ;
-	wgs:long "48.19141820009695" .
+	wgs:long "16.371017197755034" ;
+	wgs:lat "48.19141820009695" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248091> wgs:location _:node1bvvrptg3x123 ;
 	rdfs:name "fux4 Teenietreff Wieden" ;
@@ -2220,8 +2220,8 @@ _:node1bvvrptg3x123 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248092" .
 
 _:node1bvvrptg3x124 a wgs:Point ;
-	wgs:lat "16.369885338496527" ;
-	wgs:long "48.19426542656211" .
+	wgs:long "16.369885338496527" ;
+	wgs:lat "48.19426542656211" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248092> wgs:location _:node1bvvrptg3x124 ;
 	rdfs:name "WiWi Wiedner Winter Indoorspielplatz" ;
@@ -2238,8 +2238,8 @@ _:node1bvvrptg3x124 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248093" .
 
 _:node1bvvrptg3x125 a wgs:Point ;
-	wgs:lat "16.327134833716215" ;
-	wgs:long "48.18877637937803" .
+	wgs:long "16.327134833716215" ;
+	wgs:lat "48.18877637937803" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248093> wgs:location _:node1bvvrptg3x125 ;
 	rdfs:name "Kinder- und Jugendraum Ölweingasse" ;
@@ -2256,8 +2256,8 @@ _:node1bvvrptg3x125 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248094" .
 
 _:node1bvvrptg3x126 a wgs:Point ;
-	wgs:lat "16.340690046033796" ;
-	wgs:long "48.18172286885016" .
+	wgs:long "16.340690046033796" ;
+	wgs:lat "48.18172286885016" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248094> wgs:location _:node1bvvrptg3x126 ;
 	rdfs:name "Jugendtreff Steinbauerpark" ;
@@ -2274,8 +2274,8 @@ _:node1bvvrptg3x126 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248095" .
 
 _:node1bvvrptg3x127 a wgs:Point ;
-	wgs:lat "16.41797474520403" ;
-	wgs:long "48.175461431618764" .
+	wgs:long "16.41797474520403" ;
+	wgs:lat "48.175461431618764" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248095> wgs:location _:node1bvvrptg3x127 ;
 	rdfs:name "Anlaufstelle Senffabrik" ;
@@ -2292,8 +2292,8 @@ _:node1bvvrptg3x127 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248096" .
 
 _:node1bvvrptg3x128 a wgs:Point ;
-	wgs:lat "16.416757157493" ;
-	wgs:long "48.21593860507405" .
+	wgs:long "16.416757157493" ;
+	wgs:lat "48.21593860507405" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248096> wgs:location _:node1bvvrptg3x128 ;
 	rdfs:name "Parkbetreuung" ;
@@ -2310,8 +2310,8 @@ _:node1bvvrptg3x128 a wgs:Point ;
 	lw:hasId "JGDANGEBOTOGD.248097" .
 
 _:node1bvvrptg3x129 a wgs:Point ;
-	wgs:lat "16.338582564939983" ;
-	wgs:long "48.24613133060938" .
+	wgs:long "16.338582564939983" ;
+	wgs:lat "48.24613133060938" .
 
 <http://linkedwidgets.org/ontology/resource/wien/JGDANGEBOTOGD.248097> wgs:location _:node1bvvrptg3x129 ;
 	rdfs:name "Kinder- und Jugendraum" ;

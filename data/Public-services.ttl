@@ -14,8 +14,8 @@
 	rdfs:label "Bezirksvorstehung des 6. Bezirks" ;
 	dbo:address "Amerlingstraße 11" .
 
-_:node1bvvrohs1x1 wgs:lat "16.350971387899424" ;
-	wgs:long "48.197019504437876" .
+_:node1bvvrohs1x1 wgs:long "16.350971387899424" ;
+	wgs:lat "48.197019504437876" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874331> wgs:location _:node1bvvrohs1x1 ;
 	dbo:codeDistrict "1060" .
@@ -25,8 +25,8 @@ _:node1bvvrohs1x1 wgs:lat "16.350971387899424" ;
 	rdfs:label "Magistratsabteilung 63 - Gewerbewesen u. rechtl. Angelegenheiten d. Ernährungswesens" ;
 	dbo:address "Wipplingerstraße 6-8" .
 
-_:node1bvvrohs1x2 wgs:lat "16.37109446846576" ;
-	wgs:long "48.2117976764978" .
+_:node1bvvrohs1x2 wgs:long "16.37109446846576" ;
+	wgs:lat "48.2117976764978" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874332> wgs:location _:node1bvvrohs1x2 ;
 	dbo:codeDistrict "1010" .
@@ -36,8 +36,8 @@ _:node1bvvrohs1x2 wgs:lat "16.37109446846576" ;
 	rdfs:label "Bezirksvorstehung des 10. Bezirks" ;
 	dbo:address "Keplerplatz 5" .
 
-_:node1bvvrohs1x3 wgs:lat "16.374864095139376" ;
-	wgs:long "48.178474420009714" .
+_:node1bvvrohs1x3 wgs:long "16.374864095139376" ;
+	wgs:lat "48.178474420009714" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874333> wgs:location _:node1bvvrohs1x3 ;
 	dbo:codeDistrict "1100" .
@@ -47,8 +47,8 @@ _:node1bvvrohs1x3 wgs:lat "16.374864095139376" ;
 	rdfs:label "Magistratsabteilung 38 - Lebensmitteluntersuchungsanstalt d. Stadt Wien" ;
 	dbo:address "Henneberggasse 3" .
 
-_:node1bvvrohs1x4 wgs:lat "16.40409731750954" ;
-	wgs:long "48.18959722187907" .
+_:node1bvvrohs1x4 wgs:long "16.40409731750954" ;
+	wgs:lat "48.18959722187907" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874335> wgs:location _:node1bvvrohs1x4 ;
 	dbo:codeDistrict "1030" .
@@ -58,8 +58,8 @@ _:node1bvvrohs1x4 wgs:lat "16.40409731750954" ;
 	rdfs:label "Magistratisches Bezirksamt für den 1. u. 8. Bezirk" ;
 	dbo:address "Wipplingerstraße 6-8" .
 
-_:node1bvvrohs1x5 wgs:lat "16.37098914128037" ;
-	wgs:long "48.21183871741526" .
+_:node1bvvrohs1x5 wgs:long "16.37098914128037" ;
+	wgs:lat "48.21183871741526" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874337> wgs:location _:node1bvvrohs1x5 ;
 	dbo:codeDistrict "1010" .
@@ -69,8 +69,8 @@ _:node1bvvrohs1x5 wgs:lat "16.37098914128037" ;
 	rdfs:label "Magistratsabteilung 39 - Prüf-, Überwachungs- und Zertifizierungsstelle der Stadt Wien" ;
 	dbo:address "Rinnböckstraße 13-15" .
 
-_:node1bvvrohs1x6 wgs:lat "16.40666244754924" ;
-	wgs:long "48.18414426019803" .
+_:node1bvvrohs1x6 wgs:long "16.40666244754924" ;
+	wgs:lat "48.18414426019803" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873385> wgs:location _:node1bvvrohs1x6 ;
 	dbo:codeDistrict "1110" .
@@ -80,8 +80,8 @@ _:node1bvvrohs1x6 wgs:lat "16.40666244754924" ;
 	rdfs:label "Magistratisches Bezirksamt für den 20. Bezirk" ;
 	dbo:address "Brigittaplatz 10" .
 
-_:node1bvvrohs1x7 wgs:lat "16.371276137185788" ;
-	wgs:long "48.23301406499179" .
+_:node1bvvrohs1x7 wgs:long "16.371276137185788" ;
+	wgs:lat "48.23301406499179" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873386> wgs:location _:node1bvvrohs1x7 ;
 	dbo:codeDistrict "1200" .
@@ -91,8 +91,8 @@ _:node1bvvrohs1x7 wgs:lat "16.371276137185788" ;
 	rdfs:label "Bezirksvorstehung des 8. Bezirks" ;
 	dbo:address "Schlesingerplatz 4" .
 
-_:node1bvvrohs1x8 wgs:lat "16.346767573381488" ;
-	wgs:long "48.2126449079792" .
+_:node1bvvrohs1x8 wgs:long "16.346767573381488" ;
+	wgs:lat "48.2126449079792" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873387> wgs:location _:node1bvvrohs1x8 ;
 	dbo:codeDistrict "1080" .
@@ -102,8 +102,8 @@ _:node1bvvrohs1x8 wgs:lat "16.346767573381488" ;
 	rdfs:label "Magistratisches Bezirksamt für den 19. Bezirk" ;
 	dbo:address "Gatterburggasse 14" .
 
-_:node1bvvrohs1x9 wgs:lat "16.35377512463152" ;
-	wgs:long "48.238886806810775" .
+_:node1bvvrohs1x9 wgs:long "16.35377512463152" ;
+	wgs:lat "48.238886806810775" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873388> wgs:location _:node1bvvrohs1x9 ;
 	dbo:codeDistrict "1190" .
@@ -113,8 +113,8 @@ _:node1bvvrohs1x9 wgs:lat "16.35377512463152" ;
 	rdfs:label "Magistratisches Bezirksamt für den 2. Bezirk" ;
 	dbo:address "Karmelitergasse 9" .
 
-_:node1bvvrohs1x10 wgs:lat "16.37952921464093" ;
-	wgs:long "48.216534546351134" .
+_:node1bvvrohs1x10 wgs:long "16.37952921464093" ;
+	wgs:lat "48.216534546351134" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873389> wgs:location _:node1bvvrohs1x10 ;
 	dbo:codeDistrict "1020" .
@@ -124,8 +124,8 @@ _:node1bvvrohs1x10 wgs:lat "16.37952921464093" ;
 	rdfs:label "Magistratisches Bezirksamt für den 3. Bezirk" ;
 	dbo:address "Karl-Borromäus-Platz 3" .
 
-_:node1bvvrohs1x11 wgs:lat "16.38869079118242" ;
-	wgs:long "48.20125667932199" .
+_:node1bvvrohs1x11 wgs:long "16.38869079118242" ;
+	wgs:lat "48.20125667932199" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873390> wgs:location _:node1bvvrohs1x11 ;
 	dbo:codeDistrict "1030" .
@@ -135,8 +135,8 @@ _:node1bvvrohs1x11 wgs:lat "16.38869079118242" ;
 	rdfs:label "Bezirksvorstehung des 13. Bezirks" ;
 	dbo:address "Hietzinger Kai 1" .
 
-_:node1bvvrohs1x12 wgs:lat "16.300462066401067" ;
-	wgs:long "48.18821952232483" .
+_:node1bvvrohs1x12 wgs:long "16.300462066401067" ;
+	wgs:lat "48.18821952232483" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873391> wgs:location _:node1bvvrohs1x12 ;
 	dbo:codeDistrict "1130" .
@@ -146,8 +146,8 @@ _:node1bvvrohs1x12 wgs:lat "16.300462066401067" ;
 	rdfs:label "Magistratisches Bezirksamt für den 10. Bezirk" ;
 	dbo:address "Laxenburger Straße 43-45" .
 
-_:node1bvvrohs1x13 wgs:lat "16.37399259736021" ;
-	wgs:long "48.178806111232156" .
+_:node1bvvrohs1x13 wgs:long "16.37399259736021" ;
+	wgs:lat "48.178806111232156" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1873392> wgs:location _:node1bvvrohs1x13 ;
 	dbo:codeDistrict "1100" .
@@ -157,8 +157,8 @@ _:node1bvvrohs1x13 wgs:lat "16.37399259736021" ;
 	rdfs:label "Bezirksvorstehung des 17. Bezirks" ;
 	dbo:address "Elterleinplatz 14" .
 
-_:node1bvvrohs1x14 wgs:lat "16.331802261224208" ;
-	wgs:long "48.218320349158574" .
+_:node1bvvrohs1x14 wgs:long "16.331802261224208" ;
+	wgs:lat "48.218320349158574" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874097> wgs:location _:node1bvvrohs1x14 ;
 	dbo:codeDistrict "1170" .
@@ -168,8 +168,8 @@ _:node1bvvrohs1x14 wgs:lat "16.331802261224208" ;
 	rdfs:label "Magistratsabteilung 70 - Rettungs- u. Krankenbeförderungsdienst d. Stadt Wien" ;
 	dbo:address "Radetzkystraße 1" .
 
-_:node1bvvrohs1x15 wgs:lat "16.386188491991433" ;
-	wgs:long "48.21137129448222" .
+_:node1bvvrohs1x15 wgs:long "16.386188491991433" ;
+	wgs:lat "48.21137129448222" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874098> wgs:location _:node1bvvrohs1x15 ;
 	dbo:codeDistrict "1030" .
@@ -179,8 +179,8 @@ _:node1bvvrohs1x15 wgs:lat "16.386188491991433" ;
 	rdfs:label "Magistratsabteilung 59 - Marktamt" ;
 	dbo:address "Am Modenapark 1-2" .
 
-_:node1bvvrohs1x16 wgs:lat "16.382975211561515" ;
-	wgs:long "48.20071878949797" .
+_:node1bvvrohs1x16 wgs:long "16.382975211561515" ;
+	wgs:lat "48.20071878949797" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874099> wgs:location _:node1bvvrohs1x16 ;
 	dbo:codeDistrict "1030" .
@@ -190,8 +190,8 @@ _:node1bvvrohs1x16 wgs:lat "16.382975211561515" ;
 	rdfs:label "Magistratsabteilung 57 - Frauenförderung und Koordinierung von Frauenangelegenheiten" ;
 	dbo:address "Friedrich-Schmidt-Platz 3" .
 
-_:node1bvvrohs1x17 wgs:lat "16.354982184485515" ;
-	wgs:long "48.210254201174706" .
+_:node1bvvrohs1x17 wgs:long "16.354982184485515" ;
+	wgs:lat "48.210254201174706" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874100> wgs:location _:node1bvvrohs1x17 ;
 	dbo:codeDistrict "1080" .
@@ -201,8 +201,8 @@ _:node1bvvrohs1x17 wgs:lat "16.354982184485515" ;
 	rdfs:label "Magistratisches Bezirksamt für den 15. Bezirk" ;
 	dbo:address "Gasgasse 8-10" .
 
-_:node1bvvrohs1x18 wgs:lat "16.334106211171026" ;
-	wgs:long "48.19416025972892" .
+_:node1bvvrohs1x18 wgs:long "16.334106211171026" ;
+	wgs:lat "48.19416025972892" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874101> wgs:location _:node1bvvrohs1x18 ;
 	dbo:codeDistrict "1150" .
@@ -212,8 +212,8 @@ _:node1bvvrohs1x18 wgs:lat "16.334106211171026" ;
 	rdfs:label "Magistratsabteilung 51 - Sportamt" ;
 	dbo:address "Meiereistraße 7" .
 
-_:node1bvvrohs1x19 wgs:lat "16.419688539332373" ;
-	wgs:long "48.207378979442325" .
+_:node1bvvrohs1x19 wgs:long "16.419688539332373" ;
+	wgs:lat "48.207378979442325" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874103> wgs:location _:node1bvvrohs1x19 ;
 	dbo:codeDistrict "1020" .
@@ -223,8 +223,8 @@ _:node1bvvrohs1x19 wgs:lat "16.419688539332373" ;
 	rdfs:label "Magistratisches Bezirksamt für den 22. Bezirk" ;
 	dbo:address "Schrödingerplatz 1" .
 
-_:node1bvvrohs1x20 wgs:lat "16.43792597139567" ;
-	wgs:long "48.24127535007339" .
+_:node1bvvrohs1x20 wgs:long "16.43792597139567" ;
+	wgs:lat "48.24127535007339" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874104> wgs:location _:node1bvvrohs1x20 ;
 	dbo:codeDistrict "1220" .
@@ -234,8 +234,8 @@ _:node1bvvrohs1x20 wgs:lat "16.43792597139567" ;
 	rdfs:label "Magistratsabteilung 33 - Wien leuchtet" ;
 	dbo:address "Senngasse 2" .
 
-_:node1bvvrohs1x21 wgs:lat "16.398933888382622" ;
-	wgs:long "48.178137229615" .
+_:node1bvvrohs1x21 wgs:long "16.398933888382622" ;
+	wgs:lat "48.178137229615" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874105> wgs:location _:node1bvvrohs1x21 ;
 	dbo:codeDistrict "1110" .
@@ -245,8 +245,8 @@ _:node1bvvrohs1x21 wgs:lat "16.398933888382622" ;
 	rdfs:label "Magistratisches Bezirksamt für den 9. Bezirk" ;
 	dbo:address "Wilhelm-Exner-Gasse 5" .
 
-_:node1bvvrohs1x22 wgs:lat "16.350961752420936" ;
-	wgs:long "48.22180196245985" .
+_:node1bvvrohs1x22 wgs:long "16.350961752420936" ;
+	wgs:lat "48.22180196245985" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874106> wgs:location _:node1bvvrohs1x22 ;
 	dbo:codeDistrict "1090" .
@@ -256,8 +256,8 @@ _:node1bvvrohs1x22 wgs:lat "16.350961752420936" ;
 	rdfs:label "Magistratsabteilung 8 - Wiener Stadt- und Landesarchiv" ;
 	dbo:address "Guglgasse 14" .
 
-_:node1bvvrohs1x23 wgs:lat "16.421707677661367" ;
-	wgs:long "48.18471397996212" .
+_:node1bvvrohs1x23 wgs:long "16.421707677661367" ;
+	wgs:lat "48.18471397996212" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874107> wgs:location _:node1bvvrohs1x23 ;
 	dbo:codeDistrict "1110" .
@@ -267,8 +267,8 @@ _:node1bvvrohs1x23 wgs:lat "16.421707677661367" ;
 	rdfs:label "Bezirksvorstehung des 7. Bezirks" ;
 	dbo:address "Hermanngasse 24-26" .
 
-_:node1bvvrohs1x24 wgs:lat "16.347040888205996" ;
-	wgs:long "48.20267362424499" .
+_:node1bvvrohs1x24 wgs:long "16.347040888205996" ;
+	wgs:lat "48.20267362424499" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874108> wgs:location _:node1bvvrohs1x24 ;
 	dbo:codeDistrict "1070" .
@@ -278,8 +278,8 @@ _:node1bvvrohs1x24 wgs:lat "16.347040888205996" ;
 	rdfs:label "Magistratsabteilung 34 - Bau- und Gebäudemanagement" ;
 	dbo:address "Muthgasse 62" .
 
-_:node1bvvrohs1x25 wgs:lat "16.3699914407469" ;
-	wgs:long "48.25195444566032" .
+_:node1bvvrohs1x25 wgs:long "16.3699914407469" ;
+	wgs:lat "48.25195444566032" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874109> wgs:location _:node1bvvrohs1x25 ;
 	dbo:codeDistrict "1190" .
@@ -289,8 +289,8 @@ _:node1bvvrohs1x25 wgs:lat "16.3699914407469" ;
 	rdfs:label "Bezirksvorstehung des 22. Bezirks" ;
 	dbo:address "Schrödingerplatz 1" .
 
-_:node1bvvrohs1x26 wgs:lat "16.437731361815537" ;
-	wgs:long "48.24079238458527" .
+_:node1bvvrohs1x26 wgs:long "16.437731361815537" ;
+	wgs:lat "48.24079238458527" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874110> wgs:location _:node1bvvrohs1x26 ;
 	dbo:codeDistrict "1220" .
@@ -300,8 +300,8 @@ _:node1bvvrohs1x26 wgs:lat "16.437731361815537" ;
 	rdfs:label "Bezirksvorstehung des 9. Bezirks" ;
 	dbo:address "Währinger Straße 43" .
 
-_:node1bvvrohs1x27 wgs:lat "16.35477237912968" ;
-	wgs:long "48.221061034536454" .
+_:node1bvvrohs1x27 wgs:long "16.35477237912968" ;
+	wgs:lat "48.221061034536454" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874111> wgs:location _:node1bvvrohs1x27 ;
 	dbo:codeDistrict "1090" .
@@ -311,8 +311,8 @@ _:node1bvvrohs1x27 wgs:lat "16.35477237912968" ;
 	rdfs:label "Magistratsabteilung 60 - Veterinäramt und Tierschutz" ;
 	dbo:address "Karl-Farkas-Gasse 16" .
 
-_:node1bvvrohs1x28 wgs:lat "16.40587373841523" ;
-	wgs:long "48.18940711947826" .
+_:node1bvvrohs1x28 wgs:long "16.40587373841523" ;
+	wgs:lat "48.18940711947826" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874112> wgs:location _:node1bvvrohs1x28 ;
 	dbo:codeDistrict "1030" .
@@ -322,8 +322,8 @@ _:node1bvvrohs1x28 wgs:lat "16.40587373841523" ;
 	rdfs:label "Magistratsabteilung 36 - Technische Gewerbeangelegenheiten, ..." ;
 	dbo:address "Dresdner Straße 73-75" .
 
-_:node1bvvrohs1x29 wgs:lat "16.38203095602117" ;
-	wgs:long "48.23500897377302" .
+_:node1bvvrohs1x29 wgs:long "16.38203095602117" ;
+	wgs:lat "48.23500897377302" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874113> wgs:location _:node1bvvrohs1x29 ;
 	dbo:codeDistrict "1200" .
@@ -333,8 +333,8 @@ _:node1bvvrohs1x29 wgs:lat "16.38203095602117" ;
 	rdfs:label "Magistratisches Bezirksamt für den 6. u. 7. Bezirk" ;
 	dbo:address "Hermanngasse 24-26" .
 
-_:node1bvvrohs1x30 wgs:lat "16.347036463921256" ;
-	wgs:long "48.202807542194826" .
+_:node1bvvrohs1x30 wgs:long "16.347036463921256" ;
+	wgs:lat "48.202807542194826" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874114> wgs:location _:node1bvvrohs1x30 ;
 	dbo:codeDistrict "1070" .
@@ -344,8 +344,8 @@ _:node1bvvrohs1x30 wgs:lat "16.347036463921256" ;
 	rdfs:label "Magistratsabteilung 68 - Feuerwehr und Katastrophenschutz" ;
 	dbo:address "Am Hof 9-10" .
 
-_:node1bvvrohs1x31 wgs:lat "16.3678912437362" ;
-	wgs:long "48.211712453639414" .
+_:node1bvvrohs1x31 wgs:long "16.3678912437362" ;
+	wgs:lat "48.211712453639414" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874130> wgs:location _:node1bvvrohs1x31 ;
 	dbo:codeDistrict "1010" .
@@ -355,8 +355,8 @@ _:node1bvvrohs1x31 wgs:lat "16.3678912437362" ;
 	rdfs:label "Magistratsabteilung 6 - Rechnungs- und Abgabenwesen" ;
 	dbo:address "Friedrich-Schmidt-Platz 3" .
 
-_:node1bvvrohs1x32 wgs:lat "16.354994108504535" ;
-	wgs:long "48.21033521871311" .
+_:node1bvvrohs1x32 wgs:long "16.354994108504535" ;
+	wgs:lat "48.21033521871311" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874131> wgs:location _:node1bvvrohs1x32 ;
 	dbo:codeDistrict "1080" .
@@ -366,8 +366,8 @@ _:node1bvvrohs1x32 wgs:lat "16.354994108504535" ;
 	rdfs:label "Magistratsabteilung 24 - Gesundheits- und Sozialplanung" ;
 	dbo:address "Buchfeldgasse 6" .
 
-_:node1bvvrohs1x33 wgs:lat "16.353564671020322" ;
-	wgs:long "48.21014037441115" .
+_:node1bvvrohs1x33 wgs:long "16.353564671020322" ;
+	wgs:lat "48.21014037441115" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874132> wgs:location _:node1bvvrohs1x33 ;
 	dbo:codeDistrict "1010" .
@@ -377,8 +377,8 @@ _:node1bvvrohs1x33 wgs:lat "16.353564671020322" ;
 	rdfs:label "Magistratsabteilung 56 - Wiener Schulen" ;
 	dbo:address "Mollardgasse 87" .
 
-_:node1bvvrohs1x34 wgs:lat "16.341845253086074" ;
-	wgs:long "48.18947395212534" .
+_:node1bvvrohs1x34 wgs:long "16.341845253086074" ;
+	wgs:lat "48.18947395212534" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874133> wgs:location _:node1bvvrohs1x34 ;
 	dbo:codeDistrict "1060" .
@@ -388,8 +388,8 @@ _:node1bvvrohs1x34 wgs:lat "16.341845253086074" ;
 	rdfs:label "Magistratsabteilung 54 - Zentraler Einkauf" ;
 	dbo:address "Simone-de-Beauvoir-Platz 6" .
 
-_:node1bvvrohs1x35 wgs:lat "16.506220725662956" ;
-	wgs:long "48.22470556925398" .
+_:node1bvvrohs1x35 wgs:long "16.506220725662956" ;
+	wgs:lat "48.22470556925398" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874134> wgs:location _:node1bvvrohs1x35 ;
 	dbo:codeDistrict "1220" .
@@ -399,8 +399,8 @@ _:node1bvvrohs1x35 wgs:lat "16.506220725662956" ;
 	rdfs:label "Magistratsabteilung 17 - Integration und Diversität" ;
 	dbo:address "Friedrich-Schmidt-Platz 3" .
 
-_:node1bvvrohs1x36 wgs:lat "16.354995265681904" ;
-	wgs:long "48.21040832403098" .
+_:node1bvvrohs1x36 wgs:long "16.354995265681904" ;
+	wgs:lat "48.21040832403098" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874135> wgs:location _:node1bvvrohs1x36 ;
 	dbo:codeDistrict "1010" .
@@ -410,8 +410,8 @@ _:node1bvvrohs1x36 wgs:lat "16.354995265681904" ;
 	rdfs:label "Magistratsabteilung 11 - Amt für Jugend und Familie" ;
 	dbo:address "Rüdengasse 11" .
 
-_:node1bvvrohs1x37 wgs:lat "16.40174407308634" ;
-	wgs:long "48.19844789924464" .
+_:node1bvvrohs1x37 wgs:long "16.40174407308634" ;
+	wgs:lat "48.19844789924464" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874136> wgs:location _:node1bvvrohs1x37 ;
 	dbo:codeDistrict "1030" .
@@ -421,8 +421,8 @@ _:node1bvvrohs1x37 wgs:lat "16.40174407308634" ;
 	rdfs:label "Magistratsabteilung 65 - Rechtliche Verkehrsangelegenheiten" ;
 	dbo:address "Ungargasse 33" .
 
-_:node1bvvrohs1x38 wgs:lat "16.387574650360843" ;
-	wgs:long "48.20111314105196" .
+_:node1bvvrohs1x38 wgs:long "16.387574650360843" ;
+	wgs:lat "48.20111314105196" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874137> wgs:location _:node1bvvrohs1x38 ;
 	dbo:codeDistrict "1030" .
@@ -432,8 +432,8 @@ _:node1bvvrohs1x38 wgs:lat "16.387574650360843" ;
 	rdfs:label "Magistratsabteilung 27 - Europäische Angelegenheiten" ;
 	dbo:address "Schlesingerplatz 2" .
 
-_:node1bvvrohs1x39 wgs:lat "16.34636789181396" ;
-	wgs:long "48.21258613819906" .
+_:node1bvvrohs1x39 wgs:long "16.34636789181396" ;
+	wgs:lat "48.21258613819906" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874138> wgs:location _:node1bvvrohs1x39 ;
 	dbo:codeDistrict "1080" .
@@ -443,8 +443,8 @@ _:node1bvvrohs1x39 wgs:lat "16.34636789181396" ;
 	rdfs:label "Magistratsabteilung 42 - Wiener Stadtgärten" ;
 	dbo:address "Johannesgasse 35" .
 
-_:node1bvvrohs1x40 wgs:lat "16.38002766083616" ;
-	wgs:long "48.2022518273863" .
+_:node1bvvrohs1x40 wgs:long "16.38002766083616" ;
+	wgs:lat "48.2022518273863" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874139> wgs:location _:node1bvvrohs1x40 ;
 	dbo:codeDistrict "1030" .
@@ -454,8 +454,8 @@ _:node1bvvrohs1x40 wgs:lat "16.38002766083616" ;
 	rdfs:label "Magistratsabteilung 26 - Datenschutz und E-Government" ;
 	dbo:address "Volksgartenstraße 3" .
 
-_:node1bvvrohs1x41 wgs:lat "16.358034221305736" ;
-	wgs:long "48.20586685818638" .
+_:node1bvvrohs1x41 wgs:long "16.358034221305736" ;
+	wgs:lat "48.20586685818638" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874140> wgs:location _:node1bvvrohs1x41 ;
 	dbo:codeDistrict "1010" .
@@ -465,8 +465,8 @@ _:node1bvvrohs1x41 wgs:lat "16.358034221305736" ;
 	rdfs:label "Magistratsabteilung 50 - Wohnbauförderung und Schlichtungsstelle für wohnrechtliche Angelegenheiten" ;
 	dbo:address "Muthgasse 62" .
 
-_:node1bvvrohs1x42 wgs:lat "16.37001455667303" ;
-	wgs:long "48.25208933545934" .
+_:node1bvvrohs1x42 wgs:long "16.37001455667303" ;
+	wgs:lat "48.25208933545934" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874141> wgs:location _:node1bvvrohs1x42 ;
 	dbo:codeDistrict "1190" .
@@ -476,8 +476,8 @@ _:node1bvvrohs1x42 wgs:lat "16.37001455667303" ;
 	rdfs:label "Magistratsabteilung 53 - Presse- und Informationsdienst" ;
 	dbo:address "Lichtenfelsgasse 2" .
 
-_:node1bvvrohs1x43 wgs:lat "16.357317474651815" ;
-	wgs:long "48.21025989030216" .
+_:node1bvvrohs1x43 wgs:long "16.357317474651815" ;
+	wgs:lat "48.21025989030216" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874142> wgs:location _:node1bvvrohs1x43 ;
 	dbo:codeDistrict "1010" .
@@ -487,8 +487,8 @@ _:node1bvvrohs1x43 wgs:lat "16.357317474651815" ;
 	rdfs:label "Magistratsdirektion Präsidialabteilung" ;
 	dbo:address "Lichtenfelsgasse 2, Rathaus, Stiege 5" .
 
-_:node1bvvrohs1x44 wgs:lat "16.35700762687495" ;
-	wgs:long "48.21030599224741" .
+_:node1bvvrohs1x44 wgs:long "16.35700762687495" ;
+	wgs:lat "48.21030599224741" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874143> wgs:location _:node1bvvrohs1x44 ;
 	dbo:codeDistrict "1010" .
@@ -498,8 +498,8 @@ _:node1bvvrohs1x44 wgs:lat "16.35700762687495" ;
 	rdfs:label "Magistratsabteilung 35 - Einwanderung, Staatsbürgerschaft, Standesamt" ;
 	dbo:address "Dresdner Straße 93" .
 
-_:node1bvvrohs1x45 wgs:lat "16.38517174925585" ;
-	wgs:long "48.232273563292324" .
+_:node1bvvrohs1x45 wgs:long "16.38517174925585" ;
+	wgs:lat "48.232273563292324" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874144> wgs:location _:node1bvvrohs1x45 ;
 	dbo:codeDistrict "1200" .
@@ -509,8 +509,8 @@ _:node1bvvrohs1x45 wgs:lat "16.38517174925585" ;
 	rdfs:label "Magistratsabteilung 55 - Bürgerdienst" ;
 	dbo:address "Friedrich-Schmidt-Platz 3" .
 
-_:node1bvvrohs1x46 wgs:lat "16.35492088995423" ;
-	wgs:long "48.21034387319342" .
+_:node1bvvrohs1x46 wgs:long "16.35492088995423" ;
+	wgs:lat "48.21034387319342" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874145> wgs:location _:node1bvvrohs1x46 ;
 	dbo:codeDistrict "1080" .
@@ -520,8 +520,8 @@ _:node1bvvrohs1x46 wgs:lat "16.35492088995423" ;
 	rdfs:label "Magistratsabteilung 1 - Allgemeine Personalangelegenheiten" ;
 	dbo:address "Felderstraße 1, Rathaus, Stiege 4, 2. Stock, Tür 452" .
 
-_:node1bvvrohs1x47 wgs:lat "16.357679734290475" ;
-	wgs:long "48.21134538863328" .
+_:node1bvvrohs1x47 wgs:long "16.357679734290475" ;
+	wgs:lat "48.21134538863328" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874146> wgs:location _:node1bvvrohs1x47 ;
 	dbo:codeDistrict "1010" .
@@ -531,8 +531,8 @@ _:node1bvvrohs1x47 wgs:lat "16.357679734290475" ;
 	rdfs:label "Magistratsabteilung 6 - Stadthauptkasse" ;
 	dbo:address "Friedrich-Schmidt-Platz 1, Rathaus, Stiege 7, Hochparterre" .
 
-_:node1bvvrohs1x48 wgs:lat "16.356679866242633" ;
-	wgs:long "48.21077819312561" .
+_:node1bvvrohs1x48 wgs:long "16.356679866242633" ;
+	wgs:lat "48.21077819312561" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874147> wgs:location _:node1bvvrohs1x48 ;
 	dbo:codeDistrict "1010" .
@@ -542,8 +542,8 @@ _:node1bvvrohs1x48 wgs:lat "16.356679866242633" ;
 	rdfs:label "Magistratsabteilung 2 - Personalservice" ;
 	dbo:address "Rathausstraße 4" .
 
-_:node1bvvrohs1x49 wgs:lat "16.355949463206695" ;
-	wgs:long "48.20894813891376" .
+_:node1bvvrohs1x49 wgs:long "16.355949463206695" ;
+	wgs:lat "48.20894813891376" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874148> wgs:location _:node1bvvrohs1x49 ;
 	dbo:codeDistrict "1010" .
@@ -553,8 +553,8 @@ _:node1bvvrohs1x49 wgs:lat "16.355949463206695" ;
 	rdfs:label "Magistratsabteilung 18 - Wiener Planungswerkstatt" ;
 	dbo:address "Friedrich-Schmidt-Platz 9, (Indoor)" .
 
-_:node1bvvrohs1x50 wgs:lat "16.356413434210367" ;
-	wgs:long "48.21194420538316" .
+_:node1bvvrohs1x50 wgs:long "16.356413434210367" ;
+	wgs:lat "48.21194420538316" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874149> wgs:location _:node1bvvrohs1x50 ;
 	dbo:codeDistrict "1010" .
@@ -564,8 +564,8 @@ _:node1bvvrohs1x50 wgs:lat "16.356413434210367" ;
 	rdfs:label "Magistratsabteilung 67 - Parkraumüberwachung" ;
 	dbo:address "Modecenterstraße 22" .
 
-_:node1bvvrohs1x51 wgs:lat "16.41300112981271" ;
-	wgs:long "48.183919228750064" .
+_:node1bvvrohs1x51 wgs:long "16.41300112981271" ;
+	wgs:lat "48.183919228750064" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874150> wgs:location _:node1bvvrohs1x51 ;
 	dbo:codeDistrict "1030" .
@@ -575,8 +575,8 @@ _:node1bvvrohs1x51 wgs:lat "16.41300112981271" ;
 	rdfs:label "Magistratsabteilung 5 - Finanzwesen" ;
 	dbo:address "Ebendorferstraße 2" .
 
-_:node1bvvrohs1x52 wgs:lat "16.357822072082346" ;
-	wgs:long "48.21193738225842" .
+_:node1bvvrohs1x52 wgs:long "16.357822072082346" ;
+	wgs:lat "48.21193738225842" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874151> wgs:location _:node1bvvrohs1x52 ;
 	dbo:codeDistrict "1010" .
@@ -586,8 +586,8 @@ _:node1bvvrohs1x52 wgs:lat "16.357822072082346" ;
 	rdfs:label "Magistratsabteilung 3 - Bedienstetenschutz und berufliche Gesundheitsförderung" ;
 	dbo:address "Hermanngasse 24-26" .
 
-_:node1bvvrohs1x53 wgs:lat "16.34704310154915" ;
-	wgs:long "48.202580877308264" .
+_:node1bvvrohs1x53 wgs:long "16.34704310154915" ;
+	wgs:lat "48.202580877308264" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874152> wgs:location _:node1bvvrohs1x53 ;
 	dbo:codeDistrict "1070" .
@@ -597,8 +597,8 @@ _:node1bvvrohs1x53 wgs:lat "16.34704310154915" ;
 	rdfs:label "Wien Kanal (WKN)" ;
 	dbo:address "Modecenterstraße 14" .
 
-_:node1bvvrohs1x54 wgs:lat "16.415065064101857" ;
-	wgs:long "48.185887972157595" .
+_:node1bvvrohs1x54 wgs:long "16.415065064101857" ;
+	wgs:lat "48.185887972157595" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874153> wgs:location _:node1bvvrohs1x54 ;
 	dbo:codeDistrict "1030" .
@@ -608,8 +608,8 @@ _:node1bvvrohs1x54 wgs:lat "16.415065064101857" ;
 	rdfs:label "Magistratsabteilung 20 - Energieplanung" ;
 	dbo:address "Amerlingstraße 11" .
 
-_:node1bvvrohs1x55 wgs:lat "16.350923768948388" ;
-	wgs:long "48.19706307364231" .
+_:node1bvvrohs1x55 wgs:long "16.350923768948388" ;
+	wgs:lat "48.19706307364231" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874154> wgs:location _:node1bvvrohs1x55 ;
 	dbo:codeDistrict "1060" .
@@ -619,8 +619,8 @@ _:node1bvvrohs1x55 wgs:lat "16.350923768948388" ;
 	rdfs:label "Magistratsabteilung 23 - Wirtschaft, Arbeit und Statistik" ;
 	dbo:address "Meiereistraße 7" .
 
-_:node1bvvrohs1x56 wgs:lat "16.419778806199563" ;
-	wgs:long "48.20748808194004" .
+_:node1bvvrohs1x56 wgs:long "16.419778806199563" ;
+	wgs:lat "48.20748808194004" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874155> wgs:location _:node1bvvrohs1x56 ;
 	dbo:codeDistrict "1020" .
@@ -630,8 +630,8 @@ _:node1bvvrohs1x56 wgs:lat "16.419778806199563" ;
 	rdfs:label "Magistratisches Bezirksamt für den 11. Bezirk" ;
 	dbo:address "Enkplatz 2" .
 
-_:node1bvvrohs1x57 wgs:lat "16.413910272454242" ;
-	wgs:long "48.1756978581374" .
+_:node1bvvrohs1x57 wgs:long "16.413910272454242" ;
+	wgs:lat "48.1756978581374" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874156> wgs:location _:node1bvvrohs1x57 ;
 	dbo:codeDistrict "1110" .
@@ -641,8 +641,8 @@ _:node1bvvrohs1x57 wgs:lat "16.413910272454242" ;
 	rdfs:label "Magistratsabteilung 29 - Brückenbau und Grundbau" ;
 	dbo:address "Wilhelminenstraße 93" .
 
-_:node1bvvrohs1x58 wgs:lat "16.30545720893156" ;
-	wgs:long "48.21781843285444" .
+_:node1bvvrohs1x58 wgs:long "16.30545720893156" ;
+	wgs:lat "48.21781843285444" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874157> wgs:location _:node1bvvrohs1x58 ;
 	dbo:codeDistrict "1160" .
@@ -652,8 +652,8 @@ _:node1bvvrohs1x58 wgs:lat "16.30545720893156" ;
 	rdfs:label "Magistratisches Bezirksamt für den 18. Bezirk" ;
 	dbo:address "Martinstraße 100" .
 
-_:node1bvvrohs1x59 wgs:lat "16.34244163295001" ;
-	wgs:long "48.22703068657625" .
+_:node1bvvrohs1x59 wgs:long "16.34244163295001" ;
+	wgs:lat "48.22703068657625" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874159> wgs:location _:node1bvvrohs1x59 ;
 	dbo:codeDistrict "1180" .
@@ -663,8 +663,8 @@ _:node1bvvrohs1x59 wgs:lat "16.34244163295001" ;
 	rdfs:label "Magistratsabteilung 18 - Stadtentwicklung und Stadtplanung" ;
 	dbo:address "Rathausstraße 14-16" .
 
-_:node1bvvrohs1x60 wgs:lat "16.356895591034117" ;
-	wgs:long "48.21207128241757" .
+_:node1bvvrohs1x60 wgs:long "16.356895591034117" ;
+	wgs:lat "48.21207128241757" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874160> wgs:location _:node1bvvrohs1x60 ;
 	dbo:codeDistrict "1010" .
@@ -674,8 +674,8 @@ _:node1bvvrohs1x60 wgs:lat "16.356895591034117" ;
 	rdfs:label "Magistratsabteilung 19 - Architektur und Stadtgestaltung" ;
 	dbo:address "Niederhofstraße 21-23" .
 
-_:node1bvvrohs1x61 wgs:lat "16.332085846154303" ;
-	wgs:long "48.1811323749016" .
+_:node1bvvrohs1x61 wgs:long "16.332085846154303" ;
+	wgs:lat "48.1811323749016" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874161> wgs:location _:node1bvvrohs1x61 ;
 	dbo:codeDistrict "1120" .
@@ -685,8 +685,8 @@ _:node1bvvrohs1x61 wgs:lat "16.332085846154303" ;
 	rdfs:label "Magistratsabteilung 45 - Wiener Gewässer" ;
 	dbo:address "Wilhelminenstraße 93" .
 
-_:node1bvvrohs1x62 wgs:lat "16.305556137948948" ;
-	wgs:long "48.21778329587209" .
+_:node1bvvrohs1x62 wgs:long "16.305556137948948" ;
+	wgs:lat "48.21778329587209" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874162> wgs:location _:node1bvvrohs1x62 ;
 	dbo:codeDistrict "1160" .
@@ -696,8 +696,8 @@ _:node1bvvrohs1x62 wgs:lat "16.305556137948948" ;
 	rdfs:label "Magistratisches Bezirksamt für den 12. Bezirk" ;
 	dbo:address "Schönbrunner Straße 259" .
 
-_:node1bvvrohs1x63 wgs:lat "16.329376375102097" ;
-	wgs:long "48.183132565997944" .
+_:node1bvvrohs1x63 wgs:long "16.329376375102097" ;
+	wgs:lat "48.183132565997944" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874163> wgs:location _:node1bvvrohs1x63 ;
 	dbo:codeDistrict "1120" .
@@ -707,8 +707,8 @@ _:node1bvvrohs1x63 wgs:lat "16.329376375102097" ;
 	rdfs:label "Magistratsabteilung 44 - Bäder" ;
 	dbo:address "Reumannplatz 23" .
 
-_:node1bvvrohs1x64 wgs:lat "16.378801967936365" ;
-	wgs:long "48.1743153642049" .
+_:node1bvvrohs1x64 wgs:long "16.378801967936365" ;
+	wgs:lat "48.1743153642049" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874164> wgs:location _:node1bvvrohs1x64 ;
 	dbo:codeDistrict "1100" .
@@ -718,8 +718,8 @@ _:node1bvvrohs1x64 wgs:lat "16.378801967936365" ;
 	rdfs:label "Magistratsabteilung 22 - Umweltschutz" ;
 	dbo:address "Dresdner Straße 45" .
 
-_:node1bvvrohs1x65 wgs:lat "16.378960203796083" ;
-	wgs:long "48.23775544947837" .
+_:node1bvvrohs1x65 wgs:long "16.378960203796083" ;
+	wgs:lat "48.23775544947837" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874165> wgs:location _:node1bvvrohs1x65 ;
 	dbo:codeDistrict "1200" .
@@ -729,8 +729,8 @@ _:node1bvvrohs1x65 wgs:lat "16.378960203796083" ;
 	rdfs:label "Magistratsabteilung 41 - Stadtvermessung" ;
 	dbo:address "Muthgasse 62" .
 
-_:node1bvvrohs1x66 wgs:lat "16.370003610493153" ;
-	wgs:long "48.252030703626296" .
+_:node1bvvrohs1x66 wgs:long "16.370003610493153" ;
+	wgs:lat "48.252030703626296" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874167> wgs:location _:node1bvvrohs1x66 ;
 	dbo:codeDistrict "1190" .
@@ -740,8 +740,8 @@ _:node1bvvrohs1x66 wgs:lat "16.370003610493153" ;
 	rdfs:label "Bezirksvorstehung des 3. Bezirks" ;
 	dbo:address "Karl-Borromäus-Platz 3" .
 
-_:node1bvvrohs1x67 wgs:lat "16.388450703284995" ;
-	wgs:long "48.2012828782388" .
+_:node1bvvrohs1x67 wgs:long "16.388450703284995" ;
+	wgs:lat "48.2012828782388" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874168> wgs:location _:node1bvvrohs1x67 ;
 	dbo:codeDistrict "1030" .
@@ -751,8 +751,8 @@ _:node1bvvrohs1x67 wgs:lat "16.388450703284995" ;
 	rdfs:label "Magistratisches Bezirksamt für den 4. u. 5. Bezirk" ;
 	dbo:address "Rechte Wienzeile 105" .
 
-_:node1bvvrohs1x68 wgs:lat "16.354126822905126" ;
-	wgs:long "48.19107871076445" .
+_:node1bvvrohs1x68 wgs:long "16.354126822905126" ;
+	wgs:lat "48.19107871076445" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874169> wgs:location _:node1bvvrohs1x68 ;
 	dbo:codeDistrict "1050" .
@@ -762,8 +762,8 @@ _:node1bvvrohs1x68 wgs:lat "16.354126822905126" ;
 	rdfs:label "Magistratisches Bezirksamt für den 13. u. 14. Bezirk" ;
 	dbo:address "Hietzinger Kai 1" .
 
-_:node1bvvrohs1x69 wgs:lat "16.300394265902348" ;
-	wgs:long "48.188243782978105" .
+_:node1bvvrohs1x69 wgs:long "16.300394265902348" ;
+	wgs:lat "48.188243782978105" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874170> wgs:location _:node1bvvrohs1x69 ;
 	dbo:codeDistrict "1130" .
@@ -773,8 +773,8 @@ _:node1bvvrohs1x69 wgs:lat "16.300394265902348" ;
 	rdfs:label "Magistratisches Bezirksamt für den 16. Bezirk" ;
 	dbo:address "Richard-Wagner-Platz 19" .
 
-_:node1bvvrohs1x70 wgs:lat "16.327367902501223" ;
-	wgs:long "48.20933158997204" .
+_:node1bvvrohs1x70 wgs:long "16.327367902501223" ;
+	wgs:lat "48.20933158997204" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874172> wgs:location _:node1bvvrohs1x70 ;
 	dbo:codeDistrict "1160" .
@@ -784,8 +784,8 @@ _:node1bvvrohs1x70 wgs:lat "16.327367902501223" ;
 	rdfs:label "Magistratsabteilung 69 - Liegenschaftsmanagement" ;
 	dbo:address "Lerchenfelder Straße 4" .
 
-_:node1bvvrohs1x71 wgs:lat "16.35433059740756" ;
-	wgs:long "48.20679623238844" .
+_:node1bvvrohs1x71 wgs:long "16.35433059740756" ;
+	wgs:lat "48.20679623238844" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874173> wgs:location _:node1bvvrohs1x71 ;
 	dbo:codeDistrict "1080" .
@@ -795,8 +795,8 @@ _:node1bvvrohs1x71 wgs:lat "16.35433059740756" ;
 	rdfs:label "Bezirksvorstehung des 20. Bezirks" ;
 	dbo:address "Brigittaplatz 10" .
 
-_:node1bvvrohs1x72 wgs:lat "16.37078221519143" ;
-	wgs:long "48.23295127227614" .
+_:node1bvvrohs1x72 wgs:long "16.37078221519143" ;
+	wgs:lat "48.23295127227614" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874174> wgs:location _:node1bvvrohs1x72 ;
 	dbo:codeDistrict "1200" .
@@ -806,8 +806,8 @@ _:node1bvvrohs1x72 wgs:lat "16.37078221519143" ;
 	rdfs:label "Magistratsabteilung 37 - Baupolizei" ;
 	dbo:address "Dresdner Straße 73-75" .
 
-_:node1bvvrohs1x73 wgs:lat "16.38248698880463" ;
-	wgs:long "48.234608407119495" .
+_:node1bvvrohs1x73 wgs:long "16.38248698880463" ;
+	wgs:lat "48.234608407119495" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874175> wgs:location _:node1bvvrohs1x73 ;
 	dbo:codeDistrict "1200" .
@@ -817,8 +817,8 @@ _:node1bvvrohs1x73 wgs:lat "16.38248698880463" ;
 	rdfs:label "Magistratsabteilung 49 - Forst- und Landwirtschaftsbetrieb der Stadt Wien" ;
 	dbo:address "Volksgartenstraße 3" .
 
-_:node1bvvrohs1x74 wgs:lat "16.35792817585317" ;
-	wgs:long "48.20579682153583" .
+_:node1bvvrohs1x74 wgs:long "16.35792817585317" ;
+	wgs:lat "48.20579682153583" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874176> wgs:location _:node1bvvrohs1x74 ;
 	dbo:codeDistrict "1010" .
@@ -828,8 +828,8 @@ _:node1bvvrohs1x74 wgs:lat "16.35792817585317" ;
 	rdfs:label "Magistratisches Bezirksamt für den 21. Bezirk" ;
 	dbo:address "Am Spitz 1" .
 
-_:node1bvvrohs1x75 wgs:lat "16.397492745227215" ;
-	wgs:long "48.257839700772244" .
+_:node1bvvrohs1x75 wgs:long "16.397492745227215" ;
+	wgs:lat "48.257839700772244" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874177> wgs:location _:node1bvvrohs1x75 ;
 	dbo:codeDistrict "1210" .
@@ -839,8 +839,8 @@ _:node1bvvrohs1x75 wgs:lat "16.397492745227215" ;
 	rdfs:label "Bezirksvorstehung des 12. Bezirks" ;
 	dbo:address "Schönbrunner Straße 259" .
 
-_:node1bvvrohs1x76 wgs:lat "16.329056954096195" ;
-	wgs:long "48.18309719466974" .
+_:node1bvvrohs1x76 wgs:long "16.329056954096195" ;
+	wgs:lat "48.18309719466974" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874178> wgs:location _:node1bvvrohs1x76 ;
 	dbo:codeDistrict "1120" .
@@ -850,8 +850,8 @@ _:node1bvvrohs1x76 wgs:lat "16.329056954096195" ;
 	rdfs:label "Bezirksvorstehung des 11. Bezirks" ;
 	dbo:address "Enkplatz 2" .
 
-_:node1bvvrohs1x77 wgs:lat "16.41343292376274" ;
-	wgs:long "48.175478745665835" .
+_:node1bvvrohs1x77 wgs:long "16.41343292376274" ;
+	wgs:lat "48.175478745665835" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874179> wgs:location _:node1bvvrohs1x77 ;
 	dbo:codeDistrict "1110" .
@@ -861,8 +861,8 @@ _:node1bvvrohs1x77 wgs:lat "16.41343292376274" ;
 	rdfs:label "Magistratsabteilung 9 - Wienbibliothek im Rathaus" ;
 	dbo:address "Felderstraße 1" .
 
-_:node1bvvrohs1x78 wgs:lat "16.357985285186157" ;
-	wgs:long "48.21130657017448" .
+_:node1bvvrohs1x78 wgs:long "16.357985285186157" ;
+	wgs:lat "48.21130657017448" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874180> wgs:location _:node1bvvrohs1x78 ;
 	dbo:codeDistrict "1010" .
@@ -872,8 +872,8 @@ _:node1bvvrohs1x78 wgs:lat "16.357985285186157" ;
 	rdfs:label "Bezirksvorstehung des 18. Bezirks" ;
 	dbo:address "Martinstraße 100" .
 
-_:node1bvvrohs1x79 wgs:lat "16.342426683486458" ;
-	wgs:long "48.226736404634" .
+_:node1bvvrohs1x79 wgs:long "16.342426683486458" ;
+	wgs:lat "48.226736404634" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874181> wgs:location _:node1bvvrohs1x79 ;
 	dbo:codeDistrict "1180" .
@@ -883,8 +883,8 @@ _:node1bvvrohs1x79 wgs:lat "16.342426683486458" ;
 	rdfs:label "Magistratsabteilung 64 - Rechtl. Bau-, Energie-, Eisenbahn- und Luftfahrtangelegenheiten" ;
 	dbo:address "Lerchenfelder Straße 4" .
 
-_:node1bvvrohs1x80 wgs:lat "16.354024986281637" ;
-	wgs:long "48.20678638807496" .
+_:node1bvvrohs1x80 wgs:long "16.354024986281637" ;
+	wgs:lat "48.20678638807496" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874182> wgs:location _:node1bvvrohs1x80 ;
 	dbo:codeDistrict "1080" .
@@ -894,8 +894,8 @@ _:node1bvvrohs1x80 wgs:lat "16.354024986281637" ;
 	rdfs:label "Magistratsabteilung 31 - Wasserwerke" ;
 	dbo:address "Grabnergasse 4-6" .
 
-_:node1bvvrohs1x81 wgs:lat "16.350049704446555" ;
-	wgs:long "48.19112808560601" .
+_:node1bvvrohs1x81 wgs:long "16.350049704446555" ;
+	wgs:lat "48.19112808560601" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874183> wgs:location _:node1bvvrohs1x81 ;
 	dbo:codeDistrict "1060" .
@@ -905,8 +905,8 @@ _:node1bvvrohs1x81 wgs:lat "16.350049704446555" ;
 	rdfs:label "Bezirksvorstehung des 23. Bezirks" ;
 	dbo:address "Perchtoldsdorfer Straße 2" .
 
-_:node1bvvrohs1x82 wgs:lat "16.28200735343394" ;
-	wgs:long "48.134770985507465" .
+_:node1bvvrohs1x82 wgs:long "16.28200735343394" ;
+	wgs:lat "48.134770985507465" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874184> wgs:location _:node1bvvrohs1x82 ;
 	dbo:codeDistrict "1230" .
@@ -916,8 +916,8 @@ _:node1bvvrohs1x82 wgs:lat "16.28200735343394" ;
 	rdfs:label "Magistratsabteilung 25 - Stadterneuerung und Prüfstelle f. Wohnhäuser" ;
 	dbo:address "Maria-Restituta-Platz 1" .
 
-_:node1bvvrohs1x83 wgs:lat "16.384003434083013" ;
-	wgs:long "48.241872552066035" .
+_:node1bvvrohs1x83 wgs:long "16.384003434083013" ;
+	wgs:lat "48.241872552066035" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874185> wgs:location _:node1bvvrohs1x83 ;
 	dbo:codeDistrict "1200" .
@@ -927,8 +927,8 @@ _:node1bvvrohs1x83 wgs:lat "16.384003434083013" ;
 	rdfs:label "Magistratsabteilung 13 - Bildung und außerschulische Jugendbetreuung" ;
 	dbo:address "Friedrich-Schmidt-Platz 5" .
 
-_:node1bvvrohs1x84 wgs:lat "16.35510385235676" ;
-	wgs:long "48.21129296450473" .
+_:node1bvvrohs1x84 wgs:long "16.35510385235676" ;
+	wgs:lat "48.21129296450473" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874186> wgs:location _:node1bvvrohs1x84 ;
 	dbo:codeDistrict "1080" .
@@ -938,8 +938,8 @@ _:node1bvvrohs1x84 wgs:lat "16.35510385235676" ;
 	rdfs:label "Magistratisches Bezirksamt für den 23. Bezirk" ;
 	dbo:address "Perchtoldsdorfer Straße 2" .
 
-_:node1bvvrohs1x85 wgs:lat "16.282219403263262" ;
-	wgs:long "48.13496144605671" .
+_:node1bvvrohs1x85 wgs:long "16.282219403263262" ;
+	wgs:lat "48.13496144605671" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874188> wgs:location _:node1bvvrohs1x85 ;
 	dbo:codeDistrict "1230" .
@@ -949,8 +949,8 @@ _:node1bvvrohs1x85 wgs:lat "16.282219403263262" ;
 	rdfs:label "Bezirksvorstehung des 15. Bezirks" ;
 	dbo:address "Gasgasse 8-10" .
 
-_:node1bvvrohs1x86 wgs:lat "16.334073796630445" ;
-	wgs:long "48.194117811275696" .
+_:node1bvvrohs1x86 wgs:long "16.334073796630445" ;
+	wgs:lat "48.194117811275696" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874189> wgs:location _:node1bvvrohs1x86 ;
 	dbo:codeDistrict "1150" .
@@ -960,8 +960,8 @@ _:node1bvvrohs1x86 wgs:lat "16.334073796630445" ;
 	rdfs:label "Bezirksvorstehung des 1. Bezirks" ;
 	dbo:address "Wipplingerstraße 6-8" .
 
-_:node1bvvrohs1x87 wgs:lat "16.370876415628235" ;
-	wgs:long "48.211882908087155" .
+_:node1bvvrohs1x87 wgs:long "16.370876415628235" ;
+	wgs:lat "48.211882908087155" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874190> wgs:location _:node1bvvrohs1x87 ;
 	dbo:codeDistrict "1010" .
@@ -971,8 +971,8 @@ _:node1bvvrohs1x87 wgs:lat "16.370876415628235" ;
 	rdfs:label "Magistratsabteilung 62 - Wahlen und verschiedene Rechtsangelegenheiten" ;
 	dbo:address "Lerchenfelder Straße 4" .
 
-_:node1bvvrohs1x88 wgs:lat "16.35475499490921" ;
-	wgs:long "48.206882291806146" .
+_:node1bvvrohs1x88 wgs:long "16.35475499490921" ;
+	wgs:lat "48.206882291806146" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874221> wgs:location _:node1bvvrohs1x88 ;
 	dbo:codeDistrict "1080" .
@@ -982,8 +982,8 @@ _:node1bvvrohs1x88 wgs:lat "16.35475499490921" ;
 	rdfs:label "Bezirksvorstehung des 5. Bezirks" ;
 	dbo:address "Schönbrunner Straße 54" .
 
-_:node1bvvrohs1x89 wgs:lat "16.35426605123759" ;
-	wgs:long "48.19057144508558" .
+_:node1bvvrohs1x89 wgs:long "16.35426605123759" ;
+	wgs:lat "48.19057144508558" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874222> wgs:location _:node1bvvrohs1x89 ;
 	dbo:codeDistrict "1050" .
@@ -993,8 +993,8 @@ _:node1bvvrohs1x89 wgs:lat "16.35426605123759" ;
 	rdfs:label "Magistratsabteilung 58 - Wasserrecht" ;
 	dbo:address "Volksgartenstraße 3" .
 
-_:node1bvvrohs1x90 wgs:lat "16.35795994593391" ;
-	wgs:long "48.20584196125372" .
+_:node1bvvrohs1x90 wgs:long "16.35795994593391" ;
+	wgs:lat "48.20584196125372" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874223> wgs:location _:node1bvvrohs1x90 ;
 	dbo:codeDistrict "1010" .
@@ -1004,8 +1004,8 @@ _:node1bvvrohs1x90 wgs:lat "16.35795994593391" ;
 	rdfs:label "Bezirksvorstehung des 21. Bezirks" ;
 	dbo:address "Am Spitz 1" .
 
-_:node1bvvrohs1x91 wgs:lat "16.39709124575712" ;
-	wgs:long "48.2578429452782" .
+_:node1bvvrohs1x91 wgs:long "16.39709124575712" ;
+	wgs:lat "48.2578429452782" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874224> wgs:location _:node1bvvrohs1x91 ;
 	dbo:codeDistrict "1210" .
@@ -1015,8 +1015,8 @@ _:node1bvvrohs1x91 wgs:lat "16.39709124575712" ;
 	rdfs:label "Magistratsabteilung 28 - Straßenverwaltung u. Straßenbau" ;
 	dbo:address "Lienfeldergasse 96" .
 
-_:node1bvvrohs1x92 wgs:lat "16.318108030138816" ;
-	wgs:long "48.2220605681307" .
+_:node1bvvrohs1x92 wgs:long "16.318108030138816" ;
+	wgs:lat "48.2220605681307" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874225> wgs:location _:node1bvvrohs1x92 ;
 	dbo:codeDistrict "1170" .
@@ -1026,8 +1026,8 @@ _:node1bvvrohs1x92 wgs:lat "16.318108030138816" ;
 	rdfs:label "Magistratisches Bezirksamt für den 17. Bezirk" ;
 	dbo:address "Elterleinplatz 14" .
 
-_:node1bvvrohs1x93 wgs:lat "16.332245446222313" ;
-	wgs:long "48.21825451675541" .
+_:node1bvvrohs1x93 wgs:long "16.332245446222313" ;
+	wgs:lat "48.21825451675541" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874226> wgs:location _:node1bvvrohs1x93 ;
 	dbo:codeDistrict "1170" .
@@ -1037,8 +1037,8 @@ _:node1bvvrohs1x93 wgs:lat "16.332245446222313" ;
 	rdfs:label "Magistratsabteilung 7 - Kultur" ;
 	dbo:address "Friedrich-Schmidt-Platz 5" .
 
-_:node1bvvrohs1x94 wgs:lat "16.355093326007974" ;
-	wgs:long "48.21120852036111" .
+_:node1bvvrohs1x94 wgs:long "16.355093326007974" ;
+	wgs:lat "48.21120852036111" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874227> wgs:location _:node1bvvrohs1x94 ;
 	dbo:codeDistrict "1080" .
@@ -1048,8 +1048,8 @@ _:node1bvvrohs1x94 wgs:lat "16.355093326007974" ;
 	rdfs:label "Bezirksvorstehung des 19. Bezirks" ;
 	dbo:address "Gatterburggasse 14" .
 
-_:node1bvvrohs1x95 wgs:lat "16.35355053779951" ;
-	wgs:long "48.23890628435672" .
+_:node1bvvrohs1x95 wgs:long "16.35355053779951" ;
+	wgs:lat "48.23890628435672" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874228> wgs:location _:node1bvvrohs1x95 ;
 	dbo:codeDistrict "1190" .
@@ -1059,8 +1059,8 @@ _:node1bvvrohs1x95 wgs:lat "16.35355053779951" ;
 	rdfs:label "Bezirksvorstehung des 16. Bezirks" ;
 	dbo:address "Richard-Wagner-Platz 19" .
 
-_:node1bvvrohs1x96 wgs:lat "16.3275998795343" ;
-	wgs:long "48.20930050885859" .
+_:node1bvvrohs1x96 wgs:long "16.3275998795343" ;
+	wgs:lat "48.20930050885859" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874229> wgs:location _:node1bvvrohs1x96 ;
 	dbo:codeDistrict "1160" .
@@ -1070,8 +1070,8 @@ _:node1bvvrohs1x96 wgs:lat "16.3275998795343" ;
 	rdfs:label "Magistratsabteilung 48 - Abfallwirtschaft, Strassenreinigung und Fuhrpark" ;
 	dbo:address "Einsiedlergasse 2" .
 
-_:node1bvvrohs1x97 wgs:lat "16.35327361518136" ;
-	wgs:long "48.18059902461981" .
+_:node1bvvrohs1x97 wgs:long "16.35327361518136" ;
+	wgs:lat "48.18059902461981" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874233> wgs:location _:node1bvvrohs1x97 ;
 	dbo:codeDistrict "1050" .
@@ -1081,8 +1081,8 @@ _:node1bvvrohs1x97 wgs:lat "16.35327361518136" ;
 	rdfs:label "Bezirksvorstehung des 4. Bezirks" ;
 	dbo:address "Favoritenstraße 18" .
 
-_:node1bvvrohs1x98 wgs:lat "16.3698608229998" ;
-	wgs:long "48.19432644543477" .
+_:node1bvvrohs1x98 wgs:long "16.3698608229998" ;
+	wgs:lat "48.19432644543477" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874234> wgs:location _:node1bvvrohs1x98 ;
 	dbo:codeDistrict "1040" .
@@ -1092,8 +1092,8 @@ _:node1bvvrohs1x98 wgs:lat "16.3698608229998" ;
 	rdfs:label "Bezirksvorstehung des 2. Bezirks" ;
 	dbo:address "Karmelitergasse 9" .
 
-_:node1bvvrohs1x99 wgs:lat "16.37990784561242" ;
-	wgs:long "48.216491837898474" .
+_:node1bvvrohs1x99 wgs:long "16.37990784561242" ;
+	wgs:lat "48.216491837898474" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874235> wgs:location _:node1bvvrohs1x99 ;
 	dbo:codeDistrict "1020" .
@@ -1103,8 +1103,8 @@ _:node1bvvrohs1x99 wgs:lat "16.37990784561242" ;
 	rdfs:label "Magistratsabteilung 21 - Stadtteilplanung u. Flächennutzung" ;
 	dbo:address "Rathausstraße 14-16" .
 
-_:node1bvvrohs1x100 wgs:lat "16.35693251491127" ;
-	wgs:long "48.212209320890175" .
+_:node1bvvrohs1x100 wgs:long "16.35693251491127" ;
+	wgs:lat "48.212209320890175" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874236> wgs:location _:node1bvvrohs1x100 ;
 	dbo:codeDistrict "1010" .
@@ -1114,8 +1114,8 @@ _:node1bvvrohs1x100 wgs:lat "16.35693251491127" ;
 	rdfs:label "Magistratsabteilung 46 - Verkehrsorganisation und technische Verkehrsangelegenheiten" ;
 	dbo:address "Niederhofstraße 21-23" .
 
-_:node1bvvrohs1x101 wgs:lat "16.332150129800446" ;
-	wgs:long "48.18105836290412" .
+_:node1bvvrohs1x101 wgs:long "16.332150129800446" ;
+	wgs:lat "48.18105836290412" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874256> wgs:location _:node1bvvrohs1x101 ;
 	dbo:codeDistrict "1120" .
@@ -1125,8 +1125,8 @@ _:node1bvvrohs1x101 wgs:lat "16.332150129800446" ;
 	rdfs:label "Magistratsabteilung 10 - Wiener Kindergärten" ;
 	dbo:address "Thomas-Klestil-Platz 11" .
 
-_:node1bvvrohs1x102 wgs:lat "16.412152109239734" ;
-	wgs:long "48.193062469681664" .
+_:node1bvvrohs1x102 wgs:long "16.412152109239734" ;
+	wgs:lat "48.193062469681664" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874257> wgs:location _:node1bvvrohs1x102 ;
 	dbo:codeDistrict "1030" .
@@ -1136,8 +1136,8 @@ _:node1bvvrohs1x102 wgs:lat "16.412152109239734" ;
 	rdfs:label "Magistratsabteilung 14 - Informations- und Kommunikationstechnologie" ;
 	dbo:address "Stadlauer Straße 56" .
 
-_:node1bvvrohs1x103 wgs:lat "16.456467682825156" ;
-	wgs:long "48.22944735287478" .
+_:node1bvvrohs1x103 wgs:long "16.456467682825156" ;
+	wgs:lat "48.22944735287478" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874258> wgs:location _:node1bvvrohs1x103 ;
 	dbo:codeDistrict "1220" .
@@ -1147,8 +1147,8 @@ _:node1bvvrohs1x103 wgs:lat "16.456467682825156" ;
 	rdfs:label "Magistratsabteilung 40 - Soziales, Sozial- und Gesundheitsrecht" ;
 	dbo:address "Thomas-Klestil-Platz 8" .
 
-_:node1bvvrohs1x104 wgs:lat "16.41089241416344" ;
-	wgs:long "48.19403431050959" .
+_:node1bvvrohs1x104 wgs:long "16.41089241416344" ;
+	wgs:lat "48.19403431050959" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874692> wgs:location _:node1bvvrohs1x104 ;
 	dbo:codeDistrict "1030" .
@@ -1158,8 +1158,8 @@ _:node1bvvrohs1x104 wgs:lat "16.41089241416344" ;
 	rdfs:label "Magistratsabteilung 15 - Gesundheitsdienst der Stadt Wien" ;
 	dbo:address "Thomas-Klestil-Platz 8" .
 
-_:node1bvvrohs1x105 wgs:lat "16.411006498777336" ;
-	wgs:long "48.193948629913365" .
+_:node1bvvrohs1x105 wgs:long "16.411006498777336" ;
+	wgs:lat "48.193948629913365" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874693> wgs:location _:node1bvvrohs1x105 ;
 	dbo:codeDistrict "1030" .
@@ -1169,8 +1169,8 @@ _:node1bvvrohs1x105 wgs:lat "16.411006498777336" ;
 	rdfs:label "Bezirksvorstehung für den 14. Bezirk" ;
 	dbo:address "Hütteldorfer Straße 188, Pavillon 1" .
 
-_:node1bvvrohs1x106 wgs:lat "16.286126474048597" ;
-	wgs:long "48.19733552731979" .
+_:node1bvvrohs1x106 wgs:long "16.286126474048597" ;
+	wgs:lat "48.19733552731979" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874575> wgs:location _:node1bvvrohs1x106 ;
 	dbo:codeDistrict "1140" .
@@ -1180,8 +1180,8 @@ _:node1bvvrohs1x106 wgs:lat "16.286126474048597" ;
 	rdfs:label "Wiener Wohnen Direktion" ;
 	dbo:address "Doblhoffgasse 6" .
 
-_:node1bvvrohs1x107 wgs:lat "16.35635581965582" ;
-	wgs:long "48.208475728263224" .
+_:node1bvvrohs1x107 wgs:long "16.35635581965582" ;
+	wgs:lat "48.208475728263224" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874334> wgs:location _:node1bvvrohs1x107 ;
 	dbo:codeDistrict "1010" .
@@ -1191,8 +1191,8 @@ _:node1bvvrohs1x107 wgs:lat "16.35635581965582" ;
 	rdfs:label "WIEN ENERGIE Wienstrom" ;
 	dbo:address "Mariannengasse 4-6" .
 
-_:node1bvvrohs1x108 wgs:lat "16.35021204426256" ;
-	wgs:long "48.216018861671785" .
+_:node1bvvrohs1x108 wgs:long "16.35021204426256" ;
+	wgs:lat "48.216018861671785" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874336> wgs:location _:node1bvvrohs1x108 ;
 	dbo:codeDistrict "1090" .
@@ -1202,8 +1202,8 @@ _:node1bvvrohs1x108 wgs:lat "16.35021204426256" ;
 	rdfs:label "WIEN ENERGIE Haus" ;
 	dbo:address "Mariahilfer Straße 63" .
 
-_:node1bvvrohs1x109 wgs:lat "16.35198364430666" ;
-	wgs:long "48.19886881878778" .
+_:node1bvvrohs1x109 wgs:long "16.35198364430666" ;
+	wgs:lat "48.19886881878778" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874102> wgs:location _:node1bvvrohs1x109 ;
 	dbo:codeDistrict "1060" .
@@ -1213,8 +1213,8 @@ _:node1bvvrohs1x109 wgs:lat "16.35198364430666" ;
 	rdfs:label "WIEN ENERGIE Gasnetz" ;
 	dbo:address "Erdbergstraße 236" .
 
-_:node1bvvrohs1x110 wgs:lat "16.425218791128025" ;
-	wgs:long "48.18454181508556" .
+_:node1bvvrohs1x110 wgs:long "16.425218791128025" ;
+	wgs:lat "48.18454181508556" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874158> wgs:location _:node1bvvrohs1x110 ;
 	dbo:codeDistrict "1110" .
@@ -1224,8 +1224,8 @@ _:node1bvvrohs1x110 wgs:lat "16.425218791128025" ;
 	rdfs:label "Wiener Stadtwerke BESTATTUNG WIEN" ;
 	dbo:address "Goldeggasse 19" .
 
-_:node1bvvrohs1x111 wgs:lat "16.37703802072446" ;
-	wgs:long "48.18962669113869" .
+_:node1bvvrohs1x111 wgs:long "16.37703802072446" ;
+	wgs:lat "48.18962669113869" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874166> wgs:location _:node1bvvrohs1x111 ;
 	dbo:codeDistrict "1040" .
@@ -1235,8 +1235,8 @@ _:node1bvvrohs1x111 wgs:lat "16.37703802072446" ;
 	rdfs:label "Wiener Krankenanstaltenverbund Direktion" ;
 	dbo:address "Thomas-Klestil-Platz 7/1" .
 
-_:node1bvvrohs1x112 wgs:lat "16.410090354219363" ;
-	wgs:long "48.19450326762917" .
+_:node1bvvrohs1x112 wgs:long "16.410090354219363" ;
+	wgs:lat "48.19450326762917" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874171> wgs:location _:node1bvvrohs1x112 ;
 	dbo:codeDistrict "1030" .
@@ -1246,8 +1246,8 @@ _:node1bvvrohs1x112 wgs:lat "16.410090354219363" ;
 	rdfs:label "WIEN ENERGIE Kundendienstzentrum" ;
 	dbo:address "Spitalgasse 5-9" .
 
-_:node1bvvrohs1x113 wgs:lat "16.350978350855517" ;
-	wgs:long "48.21635627819722" .
+_:node1bvvrohs1x113 wgs:long "16.350978350855517" ;
+	wgs:lat "48.21635627819722" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874187> wgs:location _:node1bvvrohs1x113 ;
 	dbo:codeDistrict "1090" .
@@ -1257,8 +1257,8 @@ _:node1bvvrohs1x113 wgs:lat "16.350978350855517" ;
 	rdfs:label "Wiener Krankenanstaltenverbund KAV-IT" ;
 	dbo:address "Stadlauer Straße 54" .
 
-_:node1bvvrohs1x114 wgs:lat "16.456102971585466" ;
-	wgs:long "48.22894065572831" .
+_:node1bvvrohs1x114 wgs:long "16.456102971585466" ;
+	wgs:lat "48.22894065572831" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874191> wgs:location _:node1bvvrohs1x114 ;
 	dbo:codeDistrict "1220" .
@@ -1268,8 +1268,8 @@ _:node1bvvrohs1x114 wgs:lat "16.456102971585466" ;
 	rdfs:label "Wiener Stadtwerke Holding AG" ;
 	dbo:address "Thomas-Klestil-Platz 14" .
 
-_:node1bvvrohs1x115 wgs:lat "16.41306702892" ;
-	wgs:long "48.19230582888299" .
+_:node1bvvrohs1x115 wgs:long "16.41306702892" ;
+	wgs:lat "48.19230582888299" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874220> wgs:location _:node1bvvrohs1x115 ;
 	dbo:codeDistrict "1010" .
@@ -1279,8 +1279,8 @@ _:node1bvvrohs1x115 wgs:lat "16.41306702892" ;
 	rdfs:label "WIEN ENERGIE Fernwärme Wien" ;
 	dbo:address "Spittelauer Lände 45" .
 
-_:node1bvvrohs1x116 wgs:lat "16.359561970692745" ;
-	wgs:long "48.23365676591926" .
+_:node1bvvrohs1x116 wgs:long "16.359561970692745" ;
+	wgs:lat "48.23365676591926" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874230> wgs:location _:node1bvvrohs1x116 ;
 	dbo:codeDistrict "1090" .
@@ -1290,8 +1290,8 @@ _:node1bvvrohs1x116 wgs:lat "16.359561970692745" ;
 	rdfs:label "Wiener Stadtwerke Friedhöfe Wien GmbH" ;
 	dbo:address "Simmeringer Hauptstraße 339" .
 
-_:node1bvvrohs1x117 wgs:lat "16.441663138415983" ;
-	wgs:long "48.15513229634834" .
+_:node1bvvrohs1x117 wgs:long "16.441663138415983" ;
+	wgs:lat "48.15513229634834" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874231> wgs:location _:node1bvvrohs1x117 ;
 	dbo:codeDistrict "1110" .
@@ -1301,8 +1301,8 @@ _:node1bvvrohs1x117 wgs:lat "16.441663138415983" ;
 	rdfs:label "Wiener Stadtwerke WIENER LINIEN" ;
 	dbo:address "Erdbergstraße 202" .
 
-_:node1bvvrohs1x118 wgs:lat "16.415220369154447" ;
-	wgs:long "48.18988831475432" .
+_:node1bvvrohs1x118 wgs:long "16.415220369154447" ;
+	wgs:lat "48.18988831475432" .
 
 <http://linkedwidgets.org/ontology/resource/wien/AMTOGD.1874232> wgs:location _:node1bvvrohs1x118 ;
 	dbo:codeDistrict "1030" .

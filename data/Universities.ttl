@@ -12,8 +12,8 @@
 	lw:hasId "UNIVERSITAETOGD.1874757" .
 
 _:node1bvvmhpv9x1 a wgs:Point ;
-	wgs:lat "16.40343720305014" ;
-	wgs:long "48.21912627923455" .
+	wgs:long "16.40343720305014" ;
+	wgs:lat "48.21912627923455" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874757> wgs:location _:node1bvvmhpv9x1 ;
 	rdfs:label "Fachhochschule des bfi Wien - Hauptgebäude"@de .
@@ -22,8 +22,8 @@ _:node1bvvmhpv9x1 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874758" .
 
 _:node1bvvmhpv9x2 a wgs:Point ;
-	wgs:lat "16.42689874996317" ;
-	wgs:long "48.269496345098666" .
+	wgs:long "16.42689874996317" ;
+	wgs:lat "48.269496345098666" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874758> wgs:location _:node1bvvmhpv9x2 ;
 	rdfs:label "Fachhochschule des bfi Wien - ENERGYbase"@de .
@@ -32,8 +32,8 @@ _:node1bvvmhpv9x2 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874759" .
 
 _:node1bvvmhpv9x3 a wgs:Point ;
-	wgs:lat "16.34919219213136" ;
-	wgs:long "48.226573342207885" .
+	wgs:long "16.34919219213136" ;
+	wgs:lat "48.226573342207885" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874759> wgs:location _:node1bvvmhpv9x3 ;
 	rdfs:label "FHWien-Studiengänge der Wirtschaftskammer Wien - Gebäude"@de .
@@ -42,8 +42,8 @@ _:node1bvvmhpv9x3 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874760" .
 
 _:node1bvvmhpv9x4 a wgs:Point ;
-	wgs:lat "16.35246039135697" ;
-	wgs:long "48.24269452058537" .
+	wgs:long "16.35246039135697" ;
+	wgs:lat "48.24269452058537" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874760> wgs:location _:node1bvvmhpv9x4 ;
 	rdfs:label "Lauder Business School - Gebäude"@de .
@@ -52,8 +52,8 @@ _:node1bvvmhpv9x4 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874761" .
 
 _:node1bvvmhpv9x5 a wgs:Point ;
-	wgs:lat "16.35588182987807" ;
-	wgs:long "48.20013752041795" .
+	wgs:long "16.35588182987807" ;
+	wgs:lat "48.20013752041795" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874761> wgs:location _:node1bvvmhpv9x5 ;
 	rdfs:label "FH Technikum Wien - Geschäftsführung"@de .
@@ -62,8 +62,8 @@ _:node1bvvmhpv9x5 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874762" .
 
 _:node1bvvmhpv9x6 a wgs:Point ;
-	wgs:lat "16.377846775295726" ;
-	wgs:long "48.239436801402604" .
+	wgs:long "16.377846775295726" ;
+	wgs:lat "48.239436801402604" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874762> wgs:location _:node1bvvmhpv9x6 ;
 	rdfs:label "FH Technikum Wien - Standort Höchstädtplatz"@de .
@@ -72,8 +72,8 @@ _:node1bvvmhpv9x6 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874763" .
 
 _:node1bvvmhpv9x7 a wgs:Point ;
-	wgs:lat "16.42689874996317" ;
-	wgs:long "48.269496345098666" .
+	wgs:long "16.42689874996317" ;
+	wgs:lat "48.269496345098666" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874763> wgs:location _:node1bvvmhpv9x7 ;
 	rdfs:label "FH Technikum Wien - ENERGYbase"@de .
@@ -82,8 +82,8 @@ _:node1bvvmhpv9x7 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874764" .
 
 _:node1bvvmhpv9x8 a wgs:Point ;
-	wgs:lat "16.38227858823622" ;
-	wgs:long "48.15772717723861" .
+	wgs:long "16.38227858823622" ;
+	wgs:lat "48.15772717723861" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874764> wgs:location _:node1bvvmhpv9x8 ;
 	rdfs:label "FH Campus Wien - Gebäude"@de .
@@ -92,8 +92,8 @@ _:node1bvvmhpv9x8 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874428" .
 
 _:node1bvvmhpv9x9 a wgs:Point ;
-	wgs:lat "16.367516404807773" ;
-	wgs:long "48.21930878706465" .
+	wgs:long "16.367516404807773" ;
+	wgs:lat "48.21930878706465" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874428> wgs:location _:node1bvvmhpv9x9 ;
 	rdfs:label "Universität Wien - Fakultät für Wirtschaftswissenschaften"@de .
@@ -102,8 +102,8 @@ _:node1bvvmhpv9x9 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874384" .
 
 _:node1bvvmhpv9x10 a wgs:Point ;
-	wgs:lat "16.35913450343452" ;
-	wgs:long "48.23246931585394" .
+	wgs:long "16.35913450343452" ;
+	wgs:lat "48.23246931585394" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874384> wgs:location _:node1bvvmhpv9x10 ;
 	rdfs:label "Institut für Meteorologie und Geophysik - Institutsgebäude"@de .
@@ -112,8 +112,8 @@ _:node1bvvmhpv9x10 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874857" .
 
 _:node1bvvmhpv9x11 a wgs:Point ;
-	wgs:lat "16.266097026529206" ;
-	wgs:long "48.184056113155386" .
+	wgs:long "16.266097026529206" ;
+	wgs:lat "48.184056113155386" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874857> wgs:location _:node1bvvmhpv9x11 ;
 	rdfs:label "Hochschule für Argar und Umweltpädagogik - Gebäude"@de .
@@ -122,8 +122,8 @@ _:node1bvvmhpv9x11 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874659" .
 
 _:node1bvvmhpv9x12 a wgs:Point ;
-	wgs:lat "16.358868156857863" ;
-	wgs:long "48.22931651033132" .
+	wgs:long "16.358868156857863" ;
+	wgs:lat "48.22931651033132" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874659> wgs:location _:node1bvvmhpv9x12 ;
 	rdfs:label "Universität Wien - UZA I Biozentrum"@de .
@@ -132,8 +132,8 @@ _:node1bvvmhpv9x12 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874660" .
 
 _:node1bvvmhpv9x13 a wgs:Point ;
-	wgs:lat "16.361390353993087" ;
-	wgs:long "48.21805393787998" .
+	wgs:long "16.361390353993087" ;
+	wgs:lat "48.21805393787998" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874660> wgs:location _:node1bvvmhpv9x13 ;
 	rdfs:label "Universität Wien - Berggasse"@de .
@@ -142,8 +142,8 @@ _:node1bvvmhpv9x13 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874661" .
 
 _:node1bvvmhpv9x14 a wgs:Point ;
-	wgs:lat "16.35642591792597" ;
-	wgs:long "48.21526086575421" .
+	wgs:long "16.35642591792597" ;
+	wgs:lat "48.21526086575421" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874661> wgs:location _:node1bvvmhpv9x14 ;
 	rdfs:label "Universität Wien - Garnisongasse"@de .
@@ -152,8 +152,8 @@ _:node1bvvmhpv9x14 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874662" .
 
 _:node1bvvmhpv9x15 a wgs:Point ;
-	wgs:lat "16.36241673814897" ;
-	wgs:long "48.21495246843128" .
+	wgs:long "16.36241673814897" ;
+	wgs:lat "48.21495246843128" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874662> wgs:location _:node1bvvmhpv9x15 ;
 	rdfs:label "Universität Wien - Maria-Theresien-Straße 3"@de .
@@ -162,8 +162,8 @@ _:node1bvvmhpv9x15 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874663" .
 
 _:node1bvvmhpv9x16 a wgs:Point ;
-	wgs:lat "16.360543360655598" ;
-	wgs:long "48.22902914049395" .
+	wgs:long "16.360543360655598" ;
+	wgs:lat "48.22902914049395" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874663> wgs:location _:node1bvvmhpv9x16 ;
 	rdfs:label "Universität Wien - UZA IV"@de .
@@ -172,8 +172,8 @@ _:node1bvvmhpv9x16 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874664" .
 
 _:node1bvvmhpv9x17 a wgs:Point ;
-	wgs:lat "16.358263414175816" ;
-	wgs:long "48.21475269032705" .
+	wgs:long "16.358263414175816" ;
+	wgs:lat "48.21475269032705" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874664> wgs:location _:node1bvvmhpv9x17 ;
 	rdfs:label "Universität Wien - Fakultät für Sozialwissenschaften"@de .
@@ -182,8 +182,8 @@ _:node1bvvmhpv9x17 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874665" .
 
 _:node1bvvmhpv9x18 a wgs:Point ;
-	wgs:lat "16.35454004045405" ;
-	wgs:long "48.22015234054115" .
+	wgs:long "16.35454004045405" ;
+	wgs:lat "48.22015234054115" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874665> wgs:location _:node1bvvmhpv9x18 ;
 	rdfs:label "Universität Wien - Sensengasse 3a"@de .
@@ -192,8 +192,8 @@ _:node1bvvmhpv9x18 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874666" .
 
 _:node1bvvmhpv9x19 a wgs:Point ;
-	wgs:lat "16.355410761473575" ;
-	wgs:long "48.22020699253599" .
+	wgs:long "16.355410761473575" ;
+	wgs:lat "48.22020699253599" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874666> wgs:location _:node1bvvmhpv9x19 ;
 	rdfs:label "Universität Wien - Sensengasse 8"@de .
@@ -202,8 +202,8 @@ _:node1bvvmhpv9x19 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874667" .
 
 _:node1bvvmhpv9x20 a wgs:Point ;
-	wgs:lat "16.35292317323075" ;
-	wgs:long "48.22030968166838" .
+	wgs:long "16.35292317323075" ;
+	wgs:lat "48.22030968166838" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874667> wgs:location _:node1bvvmhpv9x20 ;
 	rdfs:label "Universität Wien - Spitalgasse 14"@de .
@@ -212,8 +212,8 @@ _:node1bvvmhpv9x20 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874668" .
 
 _:node1bvvmhpv9x21 a wgs:Point ;
-	wgs:lat "16.351350792743386" ;
-	wgs:long "48.21624134156441" .
+	wgs:long "16.351350792743386" ;
+	wgs:lat "48.21624134156441" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874668> wgs:location _:node1bvvmhpv9x21 ;
 	rdfs:label "Universität Wien - Campus der"@de .
@@ -222,8 +222,8 @@ _:node1bvvmhpv9x21 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874669" .
 
 _:node1bvvmhpv9x22 a wgs:Point ;
-	wgs:lat "16.35570485597903" ;
-	wgs:long "48.221738027617356" .
+	wgs:long "16.35570485597903" ;
+	wgs:lat "48.221738027617356" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874669> wgs:location _:node1bvvmhpv9x22 ;
 	rdfs:label "Universität Wien - Fakultät für Physik"@de .
@@ -232,8 +232,8 @@ _:node1bvvmhpv9x22 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874670" .
 
 _:node1bvvmhpv9x23 a wgs:Point ;
-	wgs:lat "16.357800470505246" ;
-	wgs:long "48.218437161163074" .
+	wgs:long "16.357800470505246" ;
+	wgs:lat "48.218437161163074" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874670> wgs:location _:node1bvvmhpv9x23 ;
 	rdfs:label "Universität Wien - Währinger Straße 17"@de .
@@ -242,8 +242,8 @@ _:node1bvvmhpv9x23 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874671" .
 
 _:node1bvvmhpv9x24 a wgs:Point ;
-	wgs:lat "16.35536816421542" ;
-	wgs:long "48.22109001984962" .
+	wgs:long "16.35536816421542" ;
+	wgs:lat "48.22109001984962" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874671> wgs:location _:node1bvvmhpv9x24 ;
 	rdfs:label "Universität Wien - Fakultät für Chemie"@de .
@@ -252,8 +252,8 @@ _:node1bvvmhpv9x24 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874672" .
 
 _:node1bvvmhpv9x25 a wgs:Point ;
-	wgs:lat "16.317042441012823" ;
-	wgs:long "48.203841449127175" .
+	wgs:long "16.317042441012823" ;
+	wgs:lat "48.203841449127175" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874672> wgs:location _:node1bvvmhpv9x25 ;
 	rdfs:label "Universität Wien - Universitätssportzentrum USZ I"@de .
@@ -262,8 +262,8 @@ _:node1bvvmhpv9x25 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874673" .
 
 _:node1bvvmhpv9x26 a wgs:Point ;
-	wgs:lat "16.34345902384054" ;
-	wgs:long "48.22405999029442" .
+	wgs:long "16.34345902384054" ;
+	wgs:lat "48.22405999029442" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874673> wgs:location _:node1bvvmhpv9x26 ;
 	rdfs:label "Universität Wien - Publizistik"@de .
@@ -272,8 +272,8 @@ _:node1bvvmhpv9x26 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874674" .
 
 _:node1bvvmhpv9x27 a wgs:Point ;
-	wgs:lat "16.334166488257498" ;
-	wgs:long "48.23143539393349" .
+	wgs:long "16.334166488257498" ;
+	wgs:lat "48.23143539393349" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874674> wgs:location _:node1bvvmhpv9x27 ;
 	rdfs:label "Universität Wien - Sternwarte"@de .
@@ -282,8 +282,8 @@ _:node1bvvmhpv9x27 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874675" .
 
 _:node1bvvmhpv9x28 a wgs:Point ;
-	wgs:lat "16.348984783975943" ;
-	wgs:long "48.23350876049785" .
+	wgs:long "16.348984783975943" ;
+	wgs:lat "48.23350876049785" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874675> wgs:location _:node1bvvmhpv9x28 ;
 	rdfs:label "Universität Wien - Franz-Klein-Gasse 1"@de .
@@ -292,8 +292,8 @@ _:node1bvvmhpv9x28 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874676" .
 
 _:node1bvvmhpv9x29 a wgs:Point ;
-	wgs:lat "16.347688599602268" ;
-	wgs:long "48.23340182670886" .
+	wgs:long "16.347688599602268" ;
+	wgs:lat "48.23340182670886" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874676> wgs:location _:node1bvvmhpv9x29 ;
 	rdfs:label "Universität Wien - Translationswissenschaft"@de .
@@ -302,8 +302,8 @@ _:node1bvvmhpv9x29 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874677" .
 
 _:node1bvvmhpv9x30 a wgs:Point ;
-	wgs:lat "16.34304241157092" ;
-	wgs:long "48.19981582982973" .
+	wgs:long "16.34304241157092" ;
+	wgs:lat "48.19981582982973" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874677> wgs:location _:node1bvvmhpv9x30 ;
 	rdfs:label "Alpen-Adria-Universität Klagenfurt - IFF Standort Wien"@de .
@@ -312,8 +312,8 @@ _:node1bvvmhpv9x30 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874706" .
 
 _:node1bvvmhpv9x31 a wgs:Point ;
-	wgs:lat "16.384741483747284" ;
-	wgs:long "48.20182329985657" .
+	wgs:long "16.384741483747284" ;
+	wgs:lat "48.20182329985657" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874706> wgs:location _:node1bvvmhpv9x31 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Hauptgebäude"@de .
@@ -322,8 +322,8 @@ _:node1bvvmhpv9x31 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874707" .
 
 _:node1bvvmhpv9x32 a wgs:Point ;
-	wgs:lat "16.376962857092224" ;
-	wgs:long "48.20046442062659" .
+	wgs:long "16.376962857092224" ;
+	wgs:lat "48.20046442062659" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874707> wgs:location _:node1bvvmhpv9x32 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -332,8 +332,8 @@ _:node1bvvmhpv9x32 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874708" .
 
 _:node1bvvmhpv9x33 a wgs:Point ;
-	wgs:lat "16.313436856289165" ;
-	wgs:long "48.189746777925365" .
+	wgs:long "16.313436856289165" ;
+	wgs:lat "48.189746777925365" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874708> wgs:location _:node1bvvmhpv9x33 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Palais Cumberland"@de .
@@ -342,8 +342,8 @@ _:node1bvvmhpv9x33 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874709" .
 
 _:node1bvvmhpv9x34 a wgs:Point ;
-	wgs:lat "16.373020992308312" ;
-	wgs:long "48.20468300243243" .
+	wgs:long "16.373020992308312" ;
+	wgs:lat "48.20468300243243" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874709> wgs:location _:node1bvvmhpv9x34 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - St. Ursula"@de .
@@ -352,8 +352,8 @@ _:node1bvvmhpv9x34 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874710" .
 
 _:node1bvvmhpv9x35 a wgs:Point ;
-	wgs:lat "16.35957159449422" ;
-	wgs:long "48.23938184611682" .
+	wgs:long "16.35957159449422" ;
+	wgs:lat "48.23938184611682" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874710> wgs:location _:node1bvvmhpv9x35 ;
 	rdfs:label "Wirtschaftsuniversität Wien - Gebäude"@de .
@@ -362,8 +362,8 @@ _:node1bvvmhpv9x35 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874711" .
 
 _:node1bvvmhpv9x36 a wgs:Point ;
-	wgs:lat "16.348984783975943" ;
-	wgs:long "48.23350876049785" .
+	wgs:long "16.348984783975943" ;
+	wgs:lat "48.23350876049785" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874711> wgs:location _:node1bvvmhpv9x36 ;
 	rdfs:label "Wirtschaftsuniversität Wien - Gebäude"@de .
@@ -372,8 +372,8 @@ _:node1bvvmhpv9x36 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874712" .
 
 _:node1bvvmhpv9x37 a wgs:Point ;
-	wgs:lat "16.369895225486264" ;
-	wgs:long "48.198976375914846" .
+	wgs:long "16.369895225486264" ;
+	wgs:lat "48.198976375914846" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874712> wgs:location _:node1bvvmhpv9x37 ;
 	rdfs:label "Technische Universität Wien - Hauptgebäude"@de .
@@ -382,8 +382,8 @@ _:node1bvvmhpv9x37 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874713" .
 
 _:node1bvvmhpv9x38 a wgs:Point ;
-	wgs:lat "16.3689835647217" ;
-	wgs:long "48.19810289808589" .
+	wgs:long "16.3689835647217" ;
+	wgs:lat "48.19810289808589" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874713> wgs:location _:node1bvvmhpv9x38 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -392,8 +392,8 @@ _:node1bvvmhpv9x38 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874714" .
 
 _:node1bvvmhpv9x39 a wgs:Point ;
-	wgs:lat "16.36800720691925" ;
-	wgs:long "48.19870122092055" .
+	wgs:long "16.36800720691925" ;
+	wgs:lat "48.19870122092055" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874714> wgs:location _:node1bvvmhpv9x39 ;
 	rdfs:label "Technische Universität Wien - Goldenes Lamm"@de .
@@ -402,8 +402,8 @@ _:node1bvvmhpv9x39 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874715" .
 
 _:node1bvvmhpv9x40 a wgs:Point ;
-	wgs:lat "16.36795129280821" ;
-	wgs:long "48.19855819073457" .
+	wgs:long "16.36795129280821" ;
+	wgs:lat "48.19855819073457" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874715> wgs:location _:node1bvvmhpv9x40 ;
 	rdfs:label "Technische Universität Wien - Ödenburg"@de .
@@ -412,8 +412,8 @@ _:node1bvvmhpv9x40 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874716" .
 
 _:node1bvvmhpv9x41 a wgs:Point ;
-	wgs:lat "16.368797188423798" ;
-	wgs:long "48.19883758722309" .
+	wgs:long "16.368797188423798" ;
+	wgs:lat "48.19883758722309" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874716> wgs:location _:node1bvvmhpv9x41 ;
 	rdfs:label "Technische Universität Wien - Gebäude"@de .
@@ -422,8 +422,8 @@ _:node1bvvmhpv9x41 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874717" .
 
 _:node1bvvmhpv9x42 a wgs:Point ;
-	wgs:lat "16.368478842205224" ;
-	wgs:long "48.19893378769707" .
+	wgs:long "16.368478842205224" ;
+	wgs:lat "48.19893378769707" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874717> wgs:location _:node1bvvmhpv9x42 ;
 	rdfs:label "Technische Universität Wien - Gebäude"@de .
@@ -432,8 +432,8 @@ _:node1bvvmhpv9x42 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874718" .
 
 _:node1bvvmhpv9x43 a wgs:Point ;
-	wgs:lat "16.363530828432157" ;
-	wgs:long "48.20122553439176" .
+	wgs:long "16.363530828432157" ;
+	wgs:lat "48.20122553439176" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874718> wgs:location _:node1bvvmhpv9x43 ;
 	rdfs:label "Technische Universität Wien - Chemie Hochhaus"@de .
@@ -442,8 +442,8 @@ _:node1bvvmhpv9x43 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874719" .
 
 _:node1bvvmhpv9x44 a wgs:Point ;
-	wgs:lat "16.36232847219996" ;
-	wgs:long "48.201025429272484" .
+	wgs:long "16.36232847219996" ;
+	wgs:lat "48.201025429272484" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874719> wgs:location _:node1bvvmhpv9x44 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -452,8 +452,8 @@ _:node1bvvmhpv9x44 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874720" .
 
 _:node1bvvmhpv9x45 a wgs:Point ;
-	wgs:lat "16.369311377704328" ;
-	wgs:long "48.1962237926466" .
+	wgs:long "16.369311377704328" ;
+	wgs:lat "48.1962237926466" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874720> wgs:location _:node1bvvmhpv9x45 ;
 	rdfs:label "Technische Universität Wien - Neues EI"@de .
@@ -462,8 +462,8 @@ _:node1bvvmhpv9x45 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874721" .
 
 _:node1bvvmhpv9x46 a wgs:Point ;
-	wgs:lat "16.37048467090586" ;
-	wgs:long "48.19673943181366" .
+	wgs:long "16.37048467090586" ;
+	wgs:lat "48.19673943181366" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874721> wgs:location _:node1bvvmhpv9x46 ;
 	rdfs:label "Technische Universität Wien - Altes EI"@de .
@@ -472,8 +472,8 @@ _:node1bvvmhpv9x46 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874722" .
 
 _:node1bvvmhpv9x47 a wgs:Point ;
-	wgs:lat "16.36756746836803" ;
-	wgs:long "48.19870696305369" .
+	wgs:long "16.36756746836803" ;
+	wgs:lat "48.19870696305369" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874722> wgs:location _:node1bvvmhpv9x47 ;
 	rdfs:label "Technische Universität Wien - Freihaus"@de .
@@ -482,8 +482,8 @@ _:node1bvvmhpv9x47 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874723" .
 
 _:node1bvvmhpv9x48 a wgs:Point ;
-	wgs:lat "16.36783842471069" ;
-	wgs:long "48.19941650522157" .
+	wgs:long "16.36783842471069" ;
+	wgs:lat "48.19941650522157" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874723> wgs:location _:node1bvvmhpv9x48 ;
 	rdfs:label "Technische Universität Wien - Hauptbibliothek"@de .
@@ -492,8 +492,8 @@ _:node1bvvmhpv9x48 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874724" .
 
 _:node1bvvmhpv9x49 a wgs:Point ;
-	wgs:lat "16.36720437079238" ;
-	wgs:long "48.19976488613054" .
+	wgs:long "16.36720437079238" ;
+	wgs:lat "48.19976488613054" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874724> wgs:location _:node1bvvmhpv9x49 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -502,8 +502,8 @@ _:node1bvvmhpv9x49 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874725" .
 
 _:node1bvvmhpv9x50 a wgs:Point ;
-	wgs:lat "16.366925905107063" ;
-	wgs:long "48.19953113829651" .
+	wgs:long "16.366925905107063" ;
+	wgs:lat "48.19953113829651" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874725> wgs:location _:node1bvvmhpv9x50 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -512,8 +512,8 @@ _:node1bvvmhpv9x50 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874726" .
 
 _:node1bvvmhpv9x51 a wgs:Point ;
-	wgs:lat "16.3714535181323" ;
-	wgs:long "48.19763592091374" .
+	wgs:long "16.3714535181323" ;
+	wgs:lat "48.19763592091374" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874726> wgs:location _:node1bvvmhpv9x51 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -522,8 +522,8 @@ _:node1bvvmhpv9x51 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874727" .
 
 _:node1bvvmhpv9x52 a wgs:Point ;
-	wgs:lat "16.370108208964062" ;
-	wgs:long "48.19720859301711" .
+	wgs:long "16.370108208964062" ;
+	wgs:lat "48.19720859301711" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874727> wgs:location _:node1bvvmhpv9x52 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -532,8 +532,8 @@ _:node1bvvmhpv9x52 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874728" .
 
 _:node1bvvmhpv9x53 a wgs:Point ;
-	wgs:lat "16.370005740803325" ;
-	wgs:long "48.1970537695099" .
+	wgs:long "16.370005740803325" ;
+	wgs:lat "48.1970537695099" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874728> wgs:location _:node1bvvmhpv9x53 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -542,8 +542,8 @@ _:node1bvvmhpv9x53 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874729" .
 
 _:node1bvvmhpv9x54 a wgs:Point ;
-	wgs:lat "16.368925330527816" ;
-	wgs:long "48.19643917381054" .
+	wgs:long "16.368925330527816" ;
+	wgs:lat "48.19643917381054" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874729> wgs:location _:node1bvvmhpv9x54 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -552,8 +552,8 @@ _:node1bvvmhpv9x54 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874730" .
 
 _:node1bvvmhpv9x55 a wgs:Point ;
-	wgs:lat "16.368418084438453" ;
-	wgs:long "48.19452039430759" .
+	wgs:long "16.368418084438453" ;
+	wgs:lat "48.19452039430759" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874730> wgs:location _:node1bvvmhpv9x55 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -562,8 +562,8 @@ _:node1bvvmhpv9x55 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874731" .
 
 _:node1bvvmhpv9x56 a wgs:Point ;
-	wgs:lat "16.365421030128378" ;
-	wgs:long "48.18943048878242" .
+	wgs:long "16.365421030128378" ;
+	wgs:lat "48.18943048878242" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874731> wgs:location _:node1bvvmhpv9x56 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -572,8 +572,8 @@ _:node1bvvmhpv9x56 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874732" .
 
 _:node1bvvmhpv9x57 a wgs:Point ;
-	wgs:lat "16.36966740929235" ;
-	wgs:long "48.19516107994349" .
+	wgs:long "16.36966740929235" ;
+	wgs:lat "48.19516107994349" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874732> wgs:location _:node1bvvmhpv9x57 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -582,8 +582,8 @@ _:node1bvvmhpv9x57 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874733" .
 
 _:node1bvvmhpv9x58 a wgs:Point ;
-	wgs:lat "16.36966740929235" ;
-	wgs:long "48.19516107994349" .
+	wgs:long "16.36966740929235" ;
+	wgs:lat "48.19516107994349" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874733> wgs:location _:node1bvvmhpv9x58 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -592,8 +592,8 @@ _:node1bvvmhpv9x58 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874734" .
 
 _:node1bvvmhpv9x59 a wgs:Point ;
-	wgs:lat "16.369677658208005" ;
-	wgs:long "48.19458438812114" .
+	wgs:long "16.369677658208005" ;
+	wgs:lat "48.19458438812114" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874734> wgs:location _:node1bvvmhpv9x59 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -602,8 +602,8 @@ _:node1bvvmhpv9x59 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874735" .
 
 _:node1bvvmhpv9x60 a wgs:Point ;
-	wgs:lat "16.371155225602934" ;
-	wgs:long "48.19497290227156" .
+	wgs:long "16.371155225602934" ;
+	wgs:lat "48.19497290227156" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874735> wgs:location _:node1bvvmhpv9x60 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -612,8 +612,8 @@ _:node1bvvmhpv9x60 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874736" .
 
 _:node1bvvmhpv9x61 a wgs:Point ;
-	wgs:lat "16.391755643257714" ;
-	wgs:long "48.191202802398074" .
+	wgs:long "16.391755643257714" ;
+	wgs:lat "48.191202802398074" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874736> wgs:location _:node1bvvmhpv9x61 ;
 	rdfs:label "Technische Universität Wien - Funke-Halle"@de .
@@ -622,8 +622,8 @@ _:node1bvvmhpv9x61 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874737" .
 
 _:node1bvvmhpv9x62 a wgs:Point ;
-	wgs:lat "16.398730031879012" ;
-	wgs:long "48.18121983981381" .
+	wgs:long "16.398730031879012" ;
+	wgs:lat "48.18121983981381" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874737> wgs:location _:node1bvvmhpv9x62 ;
 	rdfs:label "Technische Universität Wien - Arsenal Objekt 214"@de .
@@ -632,8 +632,8 @@ _:node1bvvmhpv9x62 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874738" .
 
 _:node1bvvmhpv9x63 a wgs:Point ;
-	wgs:lat "16.391945188647533" ;
-	wgs:long "48.234261442889675" .
+	wgs:long "16.391945188647533" ;
+	wgs:lat "48.234261442889675" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874738> wgs:location _:node1bvvmhpv9x63 ;
 	rdfs:label "Technische Universität Wien - Labor Fertigungstechnik"@de .
@@ -642,8 +642,8 @@ _:node1bvvmhpv9x63 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874739" .
 
 _:node1bvvmhpv9x64 a wgs:Point ;
-	wgs:lat "16.373493941712997" ;
-	wgs:long "48.19147437587955" .
+	wgs:long "16.373493941712997" ;
+	wgs:lat "48.19147437587955" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874739> wgs:location _:node1bvvmhpv9x64 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -652,8 +652,8 @@ _:node1bvvmhpv9x64 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874740" .
 
 _:node1bvvmhpv9x65 a wgs:Point ;
-	wgs:lat "16.377377626240342" ;
-	wgs:long "48.19247719043472" .
+	wgs:long "16.377377626240342" ;
+	wgs:lat "48.19247719043472" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874740> wgs:location _:node1bvvmhpv9x65 ;
 	rdfs:label "Technische Universität Wien - Institutsgebäude"@de .
@@ -662,8 +662,8 @@ _:node1bvvmhpv9x65 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874741" .
 
 _:node1bvvmhpv9x66 a wgs:Point ;
-	wgs:lat "16.41221691887164" ;
-	wgs:long "48.196769099447316" .
+	wgs:long "16.41221691887164" ;
+	wgs:lat "48.196769099447316" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874741> wgs:location _:node1bvvmhpv9x66 ;
 	rdfs:label "Technische Universität Wien - Atominstitut"@de .
@@ -672,8 +672,8 @@ _:node1bvvmhpv9x66 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874742" .
 
 _:node1bvvmhpv9x67 a wgs:Point ;
-	wgs:lat "16.368077823118266" ;
-	wgs:long "48.204086717825" .
+	wgs:long "16.368077823118266" ;
+	wgs:lat "48.204086717825" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874742> wgs:location _:node1bvvmhpv9x67 ;
 	rdfs:label "Universität Wien - Hanuschgasse 3"@de .
@@ -682,8 +682,8 @@ _:node1bvvmhpv9x67 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874743" .
 
 _:node1bvvmhpv9x68 a wgs:Point ;
-	wgs:lat "16.365778350824534" ;
-	wgs:long "48.21378984807821" .
+	wgs:long "16.365778350824534" ;
+	wgs:lat "48.21378984807821" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874743> wgs:location _:node1bvvmhpv9x68 ;
 	rdfs:label "Universität Wien - Hohenstaufengasse 9"@de .
@@ -692,8 +692,8 @@ _:node1bvvmhpv9x68 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874744" .
 
 _:node1bvvmhpv9x69 a wgs:Point ;
-	wgs:lat "16.357543048645287" ;
-	wgs:long "48.213320386467814" .
+	wgs:long "16.357543048645287" ;
+	wgs:lat "48.213320386467814" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874744> wgs:location _:node1bvvmhpv9x69 ;
 	rdfs:label "Universität Wien - Psychologie"@de .
@@ -702,8 +702,8 @@ _:node1bvvmhpv9x69 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874745" .
 
 _:node1bvvmhpv9x70 a wgs:Point ;
-	wgs:lat "16.378842343464594" ;
-	wgs:long "48.209257387137924" .
+	wgs:long "16.378842343464594" ;
+	wgs:lat "48.209257387137924" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874745> wgs:location _:node1bvvmhpv9x70 ;
 	rdfs:label "Universität Wien - Universitätsarchiv Postgasse"@de .
@@ -712,8 +712,8 @@ _:node1bvvmhpv9x70 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874746" .
 
 _:node1bvvmhpv9x71 a wgs:Point ;
-	wgs:lat "16.36302037920871" ;
-	wgs:long "48.21085004010184" .
+	wgs:long "16.36302037920871" ;
+	wgs:lat "48.21085004010184" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874746> wgs:location _:node1bvvmhpv9x71 ;
 	rdfs:label "Universität Wien - Schenkenstraße"@de .
@@ -722,8 +722,8 @@ _:node1bvvmhpv9x71 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874747" .
 
 _:node1bvvmhpv9x72 a wgs:Point ;
-	wgs:lat "16.365001291600937" ;
-	wgs:long "48.21405562361685" .
+	wgs:long "16.365001291600937" ;
+	wgs:lat "48.21405562361685" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874747> wgs:location _:node1bvvmhpv9x72 ;
 	rdfs:label "Universität Wien - Juridicum"@de .
@@ -732,8 +732,8 @@ _:node1bvvmhpv9x72 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874748" .
 
 _:node1bvvmhpv9x73 a wgs:Point ;
-	wgs:lat "16.36531982035855" ;
-	wgs:long "48.21485937923903" .
+	wgs:long "16.36531982035855" ;
+	wgs:lat "48.21485937923903" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874748> wgs:location _:node1bvvmhpv9x73 ;
 	rdfs:label "Universität Wien - European Law Institute"@de .
@@ -742,8 +742,8 @@ _:node1bvvmhpv9x73 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874749" .
 
 _:node1bvvmhpv9x74 a wgs:Point ;
-	wgs:lat "16.35777926493982" ;
-	wgs:long "48.21411848576345" .
+	wgs:long "16.35777926493982" ;
+	wgs:lat "48.21411848576345" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874749> wgs:location _:node1bvvmhpv9x74 ;
 	rdfs:label "Universität Wien - Neues Institutsgebäude"@de .
@@ -752,8 +752,8 @@ _:node1bvvmhpv9x74 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874750" .
 
 _:node1bvvmhpv9x75 a wgs:Point ;
-	wgs:lat "16.402151785090552" ;
-	wgs:long "48.188189346144405" .
+	wgs:long "16.402151785090552" ;
+	wgs:lat "48.188189346144405" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874750> wgs:location _:node1bvvmhpv9x75 ;
 	rdfs:label "Universität Wien - Campus Vienna Biocenter"@de .
@@ -762,8 +762,8 @@ _:node1bvvmhpv9x75 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874751" .
 
 _:node1bvvmhpv9x76 a wgs:Point ;
-	wgs:lat "16.40058354470961" ;
-	wgs:long "48.18856092822113" .
+	wgs:long "16.40058354470961" ;
+	wgs:lat "48.18856092822113" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874751> wgs:location _:node1bvvmhpv9x76 ;
 	rdfs:label "Universität Wien - Molekulare Biologie"@de .
@@ -772,8 +772,8 @@ _:node1bvvmhpv9x76 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874752" .
 
 _:node1bvvmhpv9x77 a wgs:Point ;
-	wgs:lat "16.383700153059152" ;
-	wgs:long "48.195196589680656" .
+	wgs:long "16.383700153059152" ;
+	wgs:lat "48.195196589680656" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874752> wgs:location _:node1bvvmhpv9x77 ;
 	rdfs:label "Universität Wien - Biodiversitätszentrum/Botanischer Garten"@de .
@@ -782,8 +782,8 @@ _:node1bvvmhpv9x77 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874753" .
 
 _:node1bvvmhpv9x78 a wgs:Point ;
-	wgs:lat "16.359096514205394" ;
-	wgs:long "48.22933891167398" .
+	wgs:long "16.359096514205394" ;
+	wgs:lat "48.22933891167398" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874753> wgs:location _:node1bvvmhpv9x78 ;
 	rdfs:label "Universität Wien - UZA II Geo-/Pharmaziezentrum"@de .
@@ -792,8 +792,8 @@ _:node1bvvmhpv9x78 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874765" .
 
 _:node1bvvmhpv9x79 a wgs:Point ;
-	wgs:lat "16.36307918010177" ;
-	wgs:long "48.20016550636743" .
+	wgs:long "16.36307918010177" ;
+	wgs:lat "48.20016550636743" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874765> wgs:location _:node1bvvmhpv9x79 ;
 	rdfs:label "Technische Universität Wien - Lehartrakt"@de .
@@ -802,8 +802,8 @@ _:node1bvvmhpv9x79 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874766" .
 
 _:node1bvvmhpv9x80 a wgs:Point ;
-	wgs:lat "16.361975035689937" ;
-	wgs:long "48.19980054719577" .
+	wgs:long "16.361975035689937" ;
+	wgs:lat "48.19980054719577" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874766> wgs:location _:node1bvvmhpv9x80 ;
 	rdfs:label "Akademie der bildenden Künste Wien - Atelierhaus"@de .
@@ -812,8 +812,8 @@ _:node1bvvmhpv9x80 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874773" .
 
 _:node1bvvmhpv9x81 a wgs:Point ;
-	wgs:lat "16.34519154488844" ;
-	wgs:long "48.21804007123538" .
+	wgs:long "16.34519154488844" ;
+	wgs:lat "48.21804007123538" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874773> wgs:location _:node1bvvmhpv9x81 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -822,8 +822,8 @@ _:node1bvvmhpv9x81 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874774" .
 
 _:node1bvvmhpv9x82 a wgs:Point ;
-	wgs:lat "16.33167414153381" ;
-	wgs:long "48.23736774712295" .
+	wgs:long "16.33167414153381" ;
+	wgs:lat "48.23736774712295" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874774> wgs:location _:node1bvvmhpv9x82 ;
 	rdfs:label "Universität für Bodenkultur Wien - Zentrum für Internationale Beziehungen"@de .
@@ -832,8 +832,8 @@ _:node1bvvmhpv9x82 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874775" .
 
 _:node1bvvmhpv9x83 a wgs:Point ;
-	wgs:lat "16.360851928870705" ;
-	wgs:long "48.213012828415096" .
+	wgs:long "16.360851928870705" ;
+	wgs:lat "48.213012828415096" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874775> wgs:location _:node1bvvmhpv9x83 ;
 	rdfs:label "Universität Wien - Hauptgebäude"@de .
@@ -842,8 +842,8 @@ _:node1bvvmhpv9x83 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874776" .
 
 _:node1bvvmhpv9x84 a wgs:Point ;
-	wgs:lat "16.317331757786384" ;
-	wgs:long "48.2054889397581" .
+	wgs:long "16.317331757786384" ;
+	wgs:lat "48.2054889397581" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874776> wgs:location _:node1bvvmhpv9x84 ;
 	rdfs:label "Universität Wien - Universitätssportzentrum USZ II"@de .
@@ -852,8 +852,8 @@ _:node1bvvmhpv9x84 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874778" .
 
 _:node1bvvmhpv9x85 a wgs:Point ;
-	wgs:lat "16.330296021462775" ;
-	wgs:long "48.23760734436551" .
+	wgs:long "16.330296021462775" ;
+	wgs:lat "48.23760734436551" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874778> wgs:location _:node1bvvmhpv9x85 ;
 	rdfs:label "Universität für Bodenkultur Wien - Baracken"@de .
@@ -862,8 +862,8 @@ _:node1bvvmhpv9x85 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874779" .
 
 _:node1bvvmhpv9x86 a wgs:Point ;
-	wgs:lat "16.365866449205704" ;
-	wgs:long "48.20779178354921" .
+	wgs:long "16.365866449205704" ;
+	wgs:lat "48.20779178354921" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874779> wgs:location _:node1bvvmhpv9x86 ;
 	rdfs:label "Universität Wien - Theaterwissenschaft Hofburg"@de .
@@ -872,8 +872,8 @@ _:node1bvvmhpv9x86 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874448" .
 
 _:node1bvvmhpv9x87 a wgs:Point ;
-	wgs:lat "16.408860446502068" ;
-	wgs:long "48.21384341856702" .
+	wgs:long "16.408860446502068" ;
+	wgs:lat "48.21384341856702" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874448> wgs:location _:node1bvvmhpv9x87 ;
 	rdfs:label "Wirtschaftsuniversität Wien - LC - Hauptgebäude"@de .
@@ -882,8 +882,8 @@ _:node1bvvmhpv9x87 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874449" .
 
 _:node1bvvmhpv9x88 a wgs:Point ;
-	wgs:lat "16.40990387836498" ;
-	wgs:long "48.21274722310716" .
+	wgs:long "16.40990387836498" ;
+	wgs:lat "48.21274722310716" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874449> wgs:location _:node1bvvmhpv9x88 ;
 	rdfs:label "Wirtschaftsuniversität Wien - D1 TC"@de .
@@ -892,8 +892,8 @@ _:node1bvvmhpv9x88 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874450" .
 
 _:node1bvvmhpv9x89 a wgs:Point ;
-	wgs:lat "16.409839010138533" ;
-	wgs:long "48.21220475172164" .
+	wgs:long "16.409839010138533" ;
+	wgs:lat "48.21220475172164" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874450> wgs:location _:node1bvvmhpv9x89 ;
 	rdfs:label "Wirtschaftsuniversität Wien - D2 SC"@de .
@@ -902,8 +902,8 @@ _:node1bvvmhpv9x89 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874451" .
 
 _:node1bvvmhpv9x90 a wgs:Point ;
-	wgs:lat "16.40641305840182" ;
-	wgs:long "48.21396293277605" .
+	wgs:long "16.40641305840182" ;
+	wgs:lat "48.21396293277605" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874451> wgs:location _:node1bvvmhpv9x90 ;
 	rdfs:label "Wirtschaftsuniversität Wien - D3"@de .
@@ -912,8 +912,8 @@ _:node1bvvmhpv9x90 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874452" .
 
 _:node1bvvmhpv9x91 a wgs:Point ;
-	wgs:lat "16.407354829589078" ;
-	wgs:long "48.214569211541416" .
+	wgs:long "16.407354829589078" ;
+	wgs:lat "48.214569211541416" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874452> wgs:location _:node1bvvmhpv9x91 ;
 	rdfs:label "Wirtschaftsuniversität Wien - D4"@de .
@@ -922,8 +922,8 @@ _:node1bvvmhpv9x91 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874453" .
 
 _:node1bvvmhpv9x92 a wgs:Point ;
-	wgs:lat "16.40626443464473" ;
-	wgs:long "48.2146197497305" .
+	wgs:long "16.40626443464473" ;
+	wgs:lat "48.2146197497305" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874453> wgs:location _:node1bvvmhpv9x92 ;
 	rdfs:label "Wirtschaftsuniversität Wien - AD"@de .
@@ -932,8 +932,8 @@ _:node1bvvmhpv9x92 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874454" .
 
 _:node1bvvmhpv9x93 a wgs:Point ;
-	wgs:lat "16.406223135786885" ;
-	wgs:long "48.21566196605036" .
+	wgs:long "16.406223135786885" ;
+	wgs:lat "48.21566196605036" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874454> wgs:location _:node1bvvmhpv9x93 ;
 	rdfs:label "Wirtschaftsuniversität Wien - EA"@de .
@@ -942,8 +942,8 @@ _:node1bvvmhpv9x93 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874487" .
 
 _:node1bvvmhpv9x94 a wgs:Point ;
-	wgs:lat "16.358122490629366" ;
-	wgs:long "48.21810744647732" .
+	wgs:long "16.358122490629366" ;
+	wgs:lat "48.21810744647732" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874487> wgs:location _:node1bvvmhpv9x94 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -952,8 +952,8 @@ _:node1bvvmhpv9x94 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874488" .
 
 _:node1bvvmhpv9x95 a wgs:Point ;
-	wgs:lat "16.35817928200451" ;
-	wgs:long "48.214991583041126" .
+	wgs:long "16.35817928200451" ;
+	wgs:lat "48.214991583041126" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874488> wgs:location _:node1bvvmhpv9x95 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -962,8 +962,8 @@ _:node1bvvmhpv9x95 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874489" .
 
 _:node1bvvmhpv9x96 a wgs:Point ;
-	wgs:lat "16.357134797188536" ;
-	wgs:long "48.21920732451805" .
+	wgs:long "16.357134797188536" ;
+	wgs:lat "48.21920732451805" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874489> wgs:location _:node1bvvmhpv9x96 ;
 	rdfs:label "Medizinische Universität Wien - Josephinum"@de .
@@ -972,8 +972,8 @@ _:node1bvvmhpv9x96 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874490" .
 
 _:node1bvvmhpv9x97 a wgs:Point ;
-	wgs:lat "16.360496360157722" ;
-	wgs:long "48.216256065402405" .
+	wgs:long "16.360496360157722" ;
+	wgs:lat "48.216256065402405" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874490> wgs:location _:node1bvvmhpv9x97 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -982,8 +982,8 @@ _:node1bvvmhpv9x97 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874491" .
 
 _:node1bvvmhpv9x98 a wgs:Point ;
-	wgs:lat "16.355522903342745" ;
-	wgs:long "48.21854015443631" .
+	wgs:long "16.355522903342745" ;
+	wgs:lat "48.21854015443631" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874491> wgs:location _:node1bvvmhpv9x98 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -992,8 +992,8 @@ _:node1bvvmhpv9x98 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874492" .
 
 _:node1bvvmhpv9x99 a wgs:Point ;
-	wgs:lat "16.35279578821901" ;
-	wgs:long "48.21924935290256" .
+	wgs:long "16.35279578821901" ;
+	wgs:lat "48.21924935290256" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874492> wgs:location _:node1bvvmhpv9x99 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -1002,8 +1002,8 @@ _:node1bvvmhpv9x99 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874493" .
 
 _:node1bvvmhpv9x100 a wgs:Point ;
-	wgs:lat "16.337577480698467" ;
-	wgs:long "48.23654607282594" .
+	wgs:long "16.337577480698467" ;
+	wgs:lat "48.23654607282594" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874493> wgs:location _:node1bvvmhpv9x100 ;
 	rdfs:label "Universität für Bodenkultur Wien - Gregor Mendel Haus (Hauptgebäude)"@de .
@@ -1012,8 +1012,8 @@ _:node1bvvmhpv9x100 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874494" .
 
 _:node1bvvmhpv9x101 a wgs:Point ;
-	wgs:lat "16.33500709210109" ;
-	wgs:long "48.23616555180693" .
+	wgs:long "16.33500709210109" ;
+	wgs:lat "48.23616555180693" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874494> wgs:location _:node1bvvmhpv9x101 ;
 	rdfs:label "Universität für Bodenkultur Wien - Adolf von Guttenberg Haus"@de .
@@ -1022,8 +1022,8 @@ _:node1bvvmhpv9x101 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874495" .
 
 _:node1bvvmhpv9x102 a wgs:Point ;
-	wgs:lat "16.335006269350725" ;
-	wgs:long "48.23690523695278" .
+	wgs:long "16.335006269350725" ;
+	wgs:lat "48.23690523695278" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874495> wgs:location _:node1bvvmhpv9x102 ;
 	rdfs:label "Universität für Bodenkultur Wien - Oskar Simony Haus"@de .
@@ -1032,8 +1032,8 @@ _:node1bvvmhpv9x102 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874496" .
 
 _:node1bvvmhpv9x103 a wgs:Point ;
-	wgs:lat "16.336043508397953" ;
-	wgs:long "48.236905808258996" .
+	wgs:long "16.336043508397953" ;
+	wgs:lat "48.236905808258996" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874496> wgs:location _:node1bvvmhpv9x103 ;
 	rdfs:label "Universität für Bodenkultur Wien - Forschungsglashaus"@de .
@@ -1042,8 +1042,8 @@ _:node1bvvmhpv9x103 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874497" .
 
 _:node1bvvmhpv9x104 a wgs:Point ;
-	wgs:lat "16.33592544677782" ;
-	wgs:long "48.23723293335785" .
+	wgs:long "16.33592544677782" ;
+	wgs:lat "48.23723293335785" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874497> wgs:location _:node1bvvmhpv9x104 ;
 	rdfs:label "Universität für Bodenkultur Wien - Adolf Cieslar Haus"@de .
@@ -1052,8 +1052,8 @@ _:node1bvvmhpv9x104 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874498" .
 
 _:node1bvvmhpv9x105 a wgs:Point ;
-	wgs:lat "16.33167414153381" ;
-	wgs:long "48.23736774712295" .
+	wgs:long "16.33167414153381" ;
+	wgs:lat "48.23736774712295" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874498> wgs:location _:node1bvvmhpv9x105 ;
 	rdfs:label "Universität für Bodenkultur Wien - Wilhelm Exner Haus"@de .
@@ -1062,8 +1062,8 @@ _:node1bvvmhpv9x105 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874499" .
 
 _:node1bvvmhpv9x106 a wgs:Point ;
-	wgs:lat "16.33167414153381" ;
-	wgs:long "48.23736774712295" .
+	wgs:long "16.33167414153381" ;
+	wgs:lat "48.23736774712295" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874499> wgs:location _:node1bvvmhpv9x106 ;
 	rdfs:label "Universität für Bodenkultur Wien - Franz Schwackhöfer Haus"@de .
@@ -1072,8 +1072,8 @@ _:node1bvvmhpv9x106 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874500" .
 
 _:node1bvvmhpv9x107 a wgs:Point ;
-	wgs:lat "16.33502403253897" ;
-	wgs:long "48.23723095935068" .
+	wgs:long "16.33502403253897" ;
+	wgs:lat "48.23723095935068" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874500> wgs:location _:node1bvvmhpv9x107 ;
 	rdfs:label "Universität für Bodenkultur Wien - TÜWI (ehemaliges Gasthaus Türkenwirt)"@de .
@@ -1082,8 +1082,8 @@ _:node1bvvmhpv9x107 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874501" .
 
 _:node1bvvmhpv9x108 a wgs:Point ;
-	wgs:lat "16.331222170038117" ;
-	wgs:long "48.23648527795925" .
+	wgs:long "16.331222170038117" ;
+	wgs:lat "48.23648527795925" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874501> wgs:location _:node1bvvmhpv9x108 ;
 	rdfs:label "Universität für Bodenkultur Wien - Außenanmietung (ehemalige Villa der Sängerin Maria Jeritza)"@de .
@@ -1092,8 +1092,8 @@ _:node1bvvmhpv9x108 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874502" .
 
 _:node1bvvmhpv9x109 a wgs:Point ;
-	wgs:lat "16.339955853086366" ;
-	wgs:long "48.23400658027536" .
+	wgs:long "16.339955853086366" ;
+	wgs:lat "48.23400658027536" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874502> wgs:location _:node1bvvmhpv9x109 ;
 	rdfs:label "Universität für Bodenkultur Wien - Gebäude"@de .
@@ -1102,8 +1102,8 @@ _:node1bvvmhpv9x109 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874503" .
 
 _:node1bvvmhpv9x110 a wgs:Point ;
-	wgs:lat "16.523151388699095" ;
-	wgs:long "48.21209574913876" .
+	wgs:long "16.523151388699095" ;
+	wgs:lat "48.21209574913876" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874503> wgs:location _:node1bvvmhpv9x110 ;
 	rdfs:label "Universität für Bodenkultur Wien - Außenstelle Essling"@de .
@@ -1112,8 +1112,8 @@ _:node1bvvmhpv9x110 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874504" .
 
 _:node1bvvmhpv9x111 a wgs:Point ;
-	wgs:lat "16.42491284649101" ;
-	wgs:long "48.285448229202586" .
+	wgs:long "16.42491284649101" ;
+	wgs:lat "48.285448229202586" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874504> wgs:location _:node1bvvmhpv9x111 ;
 	rdfs:label "Universität für Bodenkultur Wien - Außenstelle Jedlersdorf"@de .
@@ -1122,8 +1122,8 @@ _:node1bvvmhpv9x111 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874505" .
 
 _:node1bvvmhpv9x112 a wgs:Point ;
-	wgs:lat "16.2414619044158" ;
-	wgs:long "48.21890196552274" .
+	wgs:long "16.2414619044158" ;
+	wgs:lat "48.21890196552274" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874505> wgs:location _:node1bvvmhpv9x112 ;
 	rdfs:label "Universität für Bodenkultur Wien - Außenstelle Knödelhütte"@de .
@@ -1132,8 +1132,8 @@ _:node1bvvmhpv9x112 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874506" .
 
 _:node1bvvmhpv9x113 a wgs:Point ;
-	wgs:lat "16.368490431996676" ;
-	wgs:long "48.24667788235995" .
+	wgs:long "16.368490431996676" ;
+	wgs:lat "48.24667788235995" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874506> wgs:location _:node1bvvmhpv9x113 ;
 	rdfs:label "Universität für Bodenkultur Wien - Emil Perels Haus (Muthgasse I)"@de .
@@ -1142,8 +1142,8 @@ _:node1bvvmhpv9x113 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874507" .
 
 _:node1bvvmhpv9x114 a wgs:Point ;
-	wgs:lat "16.367579995863043" ;
-	wgs:long "48.246946804966775" .
+	wgs:long "16.367579995863043" ;
+	wgs:lat "48.246946804966775" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874507> wgs:location _:node1bvvmhpv9x114 ;
 	rdfs:label "Universität für Bodenkultur Wien - Armin Szilvinyi Haus (Muthgasse II)"@de .
@@ -1152,8 +1152,8 @@ _:node1bvvmhpv9x114 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874508" .
 
 _:node1bvvmhpv9x115 a wgs:Point ;
-	wgs:lat "16.36619049879893" ;
-	wgs:long "48.24701912251074" .
+	wgs:long "16.36619049879893" ;
+	wgs:lat "48.24701912251074" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874508> wgs:location _:node1bvvmhpv9x115 ;
 	rdfs:label "Universität für Bodenkultur Wien - VIBT (Muthgasse III)"@de .
@@ -1162,8 +1162,8 @@ _:node1bvvmhpv9x115 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874509" .
 
 _:node1bvvmhpv9x116 a wgs:Point ;
-	wgs:lat "16.36963692946708" ;
-	wgs:long "48.25263914109978" .
+	wgs:long "16.36963692946708" ;
+	wgs:lat "48.25263914109978" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874509> wgs:location _:node1bvvmhpv9x116 ;
 	rdfs:label "Universität für Bodenkultur Wien - Gebäude"@de .
@@ -1172,8 +1172,8 @@ _:node1bvvmhpv9x116 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874510" .
 
 _:node1bvvmhpv9x117 a wgs:Point ;
-	wgs:lat "16.43171923174527" ;
-	wgs:long "48.25445401365066" .
+	wgs:long "16.43171923174527" ;
+	wgs:lat "48.25445401365066" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874510> wgs:location _:node1bvvmhpv9x117 ;
 	rdfs:label "Veterinärmedizinische Universität Wien - Gebäude"@de .
@@ -1182,8 +1182,8 @@ _:node1bvvmhpv9x117 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874511" .
 
 _:node1bvvmhpv9x118 a wgs:Point ;
-	wgs:lat "16.283295764789383" ;
-	wgs:long "48.21987754994831" .
+	wgs:long "16.283295764789383" ;
+	wgs:lat "48.21987754994831" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874511> wgs:location _:node1bvvmhpv9x118 ;
 	rdfs:label "Veterinärmedizinische Universität Wien - Forschungsinstitut für Wildtierkunde und Ökologie"@de .
@@ -1192,8 +1192,8 @@ _:node1bvvmhpv9x118 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874576" .
 
 _:node1bvvmhpv9x119 a wgs:Point ;
-	wgs:lat "16.38231295437089" ;
-	wgs:long "48.196989050609844" .
+	wgs:long "16.38231295437089" ;
+	wgs:lat "48.196989050609844" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874576> wgs:location _:node1bvvmhpv9x119 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Palais Springer"@de .
@@ -1202,8 +1202,8 @@ _:node1bvvmhpv9x119 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874577" .
 
 _:node1bvvmhpv9x120 a wgs:Point ;
-	wgs:lat "16.382282456047378" ;
-	wgs:long "48.19658099664793" .
+	wgs:long "16.382282456047378" ;
+	wgs:lat "48.19658099664793" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874577> wgs:location _:node1bvvmhpv9x120 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1212,8 +1212,8 @@ _:node1bvvmhpv9x120 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874578" .
 
 _:node1bvvmhpv9x121 a wgs:Point ;
-	wgs:lat "16.381046247628806" ;
-	wgs:long "48.196545235549856" .
+	wgs:long "16.381046247628806" ;
+	wgs:lat "48.196545235549856" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874578> wgs:location _:node1bvvmhpv9x121 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Salesianerkloster"@de .
@@ -1222,8 +1222,8 @@ _:node1bvvmhpv9x121 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874579" .
 
 _:node1bvvmhpv9x122 a wgs:Point ;
-	wgs:lat "16.313139822747342" ;
-	wgs:long "48.186579697715565" .
+	wgs:long "16.313139822747342" ;
+	wgs:lat "48.186579697715565" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874579> wgs:location _:node1bvvmhpv9x122 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Schlosstheater Schönbrunn"@de .
@@ -1232,8 +1232,8 @@ _:node1bvvmhpv9x122 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874580" .
 
 _:node1bvvmhpv9x123 a wgs:Point ;
-	wgs:lat "16.36510157101912" ;
-	wgs:long "48.19365287887959" .
+	wgs:long "16.36510157101912" ;
+	wgs:lat "48.19365287887959" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874580> wgs:location _:node1bvvmhpv9x123 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1242,8 +1242,8 @@ _:node1bvvmhpv9x123 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874581" .
 
 _:node1bvvmhpv9x124 a wgs:Point ;
-	wgs:lat "16.374890464529464" ;
-	wgs:long "48.20661507466812" .
+	wgs:long "16.374890464529464" ;
+	wgs:lat "48.20661507466812" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874581> wgs:location _:node1bvvmhpv9x124 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1252,8 +1252,8 @@ _:node1bvvmhpv9x124 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874582" .
 
 _:node1bvvmhpv9x125 a wgs:Point ;
-	wgs:lat "16.374535970950056" ;
-	wgs:long "48.201969935918" .
+	wgs:long "16.374535970950056" ;
+	wgs:lat "48.201969935918" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874582> wgs:location _:node1bvvmhpv9x125 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1262,8 +1262,8 @@ _:node1bvvmhpv9x125 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874583" .
 
 _:node1bvvmhpv9x126 a wgs:Point ;
-	wgs:lat "16.369511577725973" ;
-	wgs:long "48.20104520969109" .
+	wgs:long "16.369511577725973" ;
+	wgs:lat "48.20104520969109" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874583> wgs:location _:node1bvvmhpv9x126 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1272,8 +1272,8 @@ _:node1bvvmhpv9x126 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874584" .
 
 _:node1bvvmhpv9x127 a wgs:Point ;
-	wgs:lat "16.369894351862918" ;
-	wgs:long "48.20091778108139" .
+	wgs:long "16.369894351862918" ;
+	wgs:lat "48.20091778108139" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874584> wgs:location _:node1bvvmhpv9x127 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1282,8 +1282,8 @@ _:node1bvvmhpv9x127 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874585" .
 
 _:node1bvvmhpv9x128 a wgs:Point ;
-	wgs:lat "16.3867936443936" ;
-	wgs:long "48.20299967447522" .
+	wgs:long "16.3867936443936" ;
+	wgs:lat "48.20299967447522" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874585> wgs:location _:node1bvvmhpv9x128 ;
 	rdfs:label "Universität für Musik und darstellende Kunst Wien - Gebäude"@de .
@@ -1292,8 +1292,8 @@ _:node1bvvmhpv9x128 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874586" .
 
 _:node1bvvmhpv9x129 a wgs:Point ;
-	wgs:lat "16.38293943118496" ;
-	wgs:long "48.20838710235376" .
+	wgs:long "16.38293943118496" ;
+	wgs:lat "48.20838710235376" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874586> wgs:location _:node1bvvmhpv9x129 ;
 	rdfs:label "Universität für angewandte Kunst - Hauptgebäude"@de .
@@ -1302,8 +1302,8 @@ _:node1bvvmhpv9x129 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874587" .
 
 _:node1bvvmhpv9x130 a wgs:Point ;
-	wgs:lat "16.371140680507047" ;
-	wgs:long "48.21346148881683" .
+	wgs:long "16.371140680507047" ;
+	wgs:lat "48.21346148881683" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874587> wgs:location _:node1bvvmhpv9x130 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Salzgries"@de .
@@ -1312,8 +1312,8 @@ _:node1bvvmhpv9x130 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874588" .
 
 _:node1bvvmhpv9x131 a wgs:Point ;
-	wgs:lat "16.379099728028162" ;
-	wgs:long "48.20909344438523" .
+	wgs:long "16.379099728028162" ;
+	wgs:lat "48.20909344438523" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874588> wgs:location _:node1bvvmhpv9x131 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Postgasse"@de .
@@ -1322,8 +1322,8 @@ _:node1bvvmhpv9x131 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874589" .
 
 _:node1bvvmhpv9x132 a wgs:Point ;
-	wgs:lat "16.381399051839946" ;
-	wgs:long "48.211149749047884" .
+	wgs:long "16.381399051839946" ;
+	wgs:lat "48.211149749047884" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874589> wgs:location _:node1bvvmhpv9x132 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Franz-Josefs-Kai"@de .
@@ -1332,8 +1332,8 @@ _:node1bvvmhpv9x132 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874590" .
 
 _:node1bvvmhpv9x133 a wgs:Point ;
-	wgs:lat "16.38414150251603" ;
-	wgs:long "48.20729449229886" .
+	wgs:long "16.38414150251603" ;
+	wgs:lat "48.20729449229886" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874590> wgs:location _:node1bvvmhpv9x133 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Henslerstrasse"@de .
@@ -1342,8 +1342,8 @@ _:node1bvvmhpv9x133 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874591" .
 
 _:node1bvvmhpv9x134 a wgs:Point ;
-	wgs:lat "16.37196852093141" ;
-	wgs:long "48.21217577645429" .
+	wgs:long "16.37196852093141" ;
+	wgs:lat "48.21217577645429" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874591> wgs:location _:node1bvvmhpv9x134 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Sterngasse"@de .
@@ -1352,8 +1352,8 @@ _:node1bvvmhpv9x134 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874592" .
 
 _:node1bvvmhpv9x135 a wgs:Point ;
-	wgs:lat "16.39817482684221" ;
-	wgs:long "48.21129085318555" .
+	wgs:long "16.39817482684221" ;
+	wgs:lat "48.21129085318555" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874592> wgs:location _:node1bvvmhpv9x135 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Rustenschacher Allee"@de .
@@ -1362,8 +1362,8 @@ _:node1bvvmhpv9x135 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874593" .
 
 _:node1bvvmhpv9x136 a wgs:Point ;
-	wgs:lat "16.3849976321057" ;
-	wgs:long "48.20973999629231" .
+	wgs:long "16.3849976321057" ;
+	wgs:lat "48.20973999629231" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874593> wgs:location _:node1bvvmhpv9x136 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Zollamtsstraße"@de .
@@ -1372,8 +1372,8 @@ _:node1bvvmhpv9x136 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874594" .
 
 _:node1bvvmhpv9x137 a wgs:Point ;
-	wgs:lat "16.37831556094233" ;
-	wgs:long "48.20022308469168" .
+	wgs:long "16.37831556094233" ;
+	wgs:lat "48.20022308469168" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874594> wgs:location _:node1bvvmhpv9x137 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Am Heumarkt"@de .
@@ -1382,8 +1382,8 @@ _:node1bvvmhpv9x137 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874595" .
 
 _:node1bvvmhpv9x138 a wgs:Point ;
-	wgs:lat "16.37972452933844" ;
-	wgs:long "48.209057514826114" .
+	wgs:long "16.37972452933844" ;
+	wgs:lat "48.209057514826114" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874595> wgs:location _:node1bvvmhpv9x138 ;
 	rdfs:label "Universität für angewandte Kunst - Expositur Dominikanerbastei"@de .
@@ -1392,8 +1392,8 @@ _:node1bvvmhpv9x138 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874596" .
 
 _:node1bvvmhpv9x139 a wgs:Point ;
-	wgs:lat "16.376354109986462" ;
-	wgs:long "48.21020284845808" .
+	wgs:long "16.376354109986462" ;
+	wgs:lat "48.21020284845808" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874596> wgs:location _:node1bvvmhpv9x139 ;
 	rdfs:label "Universität für angewandte Kunst - Ausstellungszentrum Heiligenkreuzer Hof"@de .
@@ -1402,8 +1402,8 @@ _:node1bvvmhpv9x139 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874597" .
 
 _:node1bvvmhpv9x140 a wgs:Point ;
-	wgs:lat "16.365227421297888" ;
-	wgs:long "48.201625313207444" .
+	wgs:long "16.365227421297888" ;
+	wgs:lat "48.201625313207444" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874597> wgs:location _:node1bvvmhpv9x140 ;
 	rdfs:label "Akademie der bildenden Künste Wien - Hauptgebäude"@de .
@@ -1412,8 +1412,8 @@ _:node1bvvmhpv9x140 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874598" .
 
 _:node1bvvmhpv9x141 a wgs:Point ;
-	wgs:lat "16.357901569058967" ;
-	wgs:long "48.20175902187454" .
+	wgs:long "16.357901569058967" ;
+	wgs:lat "48.20175902187454" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874598> wgs:location _:node1bvvmhpv9x141 ;
 	rdfs:label "Akademie der bildenden Künste Wien - Institutsgebäude"@de .
@@ -1422,8 +1422,8 @@ _:node1bvvmhpv9x141 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874599" .
 
 _:node1bvvmhpv9x142 a wgs:Point ;
-	wgs:lat "16.396706018833008" ;
-	wgs:long "48.21228201050784" .
+	wgs:long "16.396706018833008" ;
+	wgs:lat "48.21228201050784" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874599> wgs:location _:node1bvvmhpv9x142 ;
 	rdfs:label "Akademie der bildenden Künste Wien - Bildhauerateliers"@de .
@@ -1432,8 +1432,8 @@ _:node1bvvmhpv9x142 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874600" .
 
 _:node1bvvmhpv9x143 a wgs:Point ;
-	wgs:lat "16.351735473671383" ;
-	wgs:long "48.21963565071546" .
+	wgs:long "16.351735473671383" ;
+	wgs:lat "48.21963565071546" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874600> wgs:location _:node1bvvmhpv9x143 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -1442,8 +1442,8 @@ _:node1bvvmhpv9x143 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874601" .
 
 _:node1bvvmhpv9x144 a wgs:Point ;
-	wgs:lat "16.350839904478" ;
-	wgs:long "48.222503462284045" .
+	wgs:long "16.350839904478" ;
+	wgs:lat "48.222503462284045" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874601> wgs:location _:node1bvvmhpv9x144 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -1452,8 +1452,8 @@ _:node1bvvmhpv9x144 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874602" .
 
 _:node1bvvmhpv9x145 a wgs:Point ;
-	wgs:lat "16.344341816209" ;
-	wgs:long "48.22018781015255" .
+	wgs:long "16.344341816209" ;
+	wgs:lat "48.22018781015255" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874602> wgs:location _:node1bvvmhpv9x145 ;
 	rdfs:label "Medizinische Universität Wien - AKH"@de .
@@ -1462,8 +1462,8 @@ _:node1bvvmhpv9x145 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874603" .
 
 _:node1bvvmhpv9x146 a wgs:Point ;
-	wgs:lat "16.348373255599675" ;
-	wgs:long "48.21726973474831" .
+	wgs:long "16.348373255599675" ;
+	wgs:lat "48.21726973474831" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874603> wgs:location _:node1bvvmhpv9x146 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -1472,8 +1472,8 @@ _:node1bvvmhpv9x146 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874604" .
 
 _:node1bvvmhpv9x147 a wgs:Point ;
-	wgs:lat "16.34229928047689" ;
-	wgs:long "48.21613736544498" .
+	wgs:long "16.34229928047689" ;
+	wgs:lat "48.21613736544498" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874604> wgs:location _:node1bvvmhpv9x147 ;
 	rdfs:label "Medizinische Universität Wien - Gebäude"@de .
@@ -1482,8 +1482,8 @@ _:node1bvvmhpv9x147 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874678" .
 
 _:node1bvvmhpv9x148 a wgs:Point ;
-	wgs:lat "16.37222911791936" ;
-	wgs:long "48.20486789337447" .
+	wgs:long "16.37222911791936" ;
+	wgs:lat "48.20486789337447" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874678> wgs:location _:node1bvvmhpv9x148 ;
 	rdfs:label "MUK Musik und Kunst Privatuniversität der Stadt Wien - Hauptstandort"@de .
@@ -1492,8 +1492,8 @@ _:node1bvvmhpv9x148 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874679" .
 
 _:node1bvvmhpv9x149 a wgs:Point ;
-	wgs:lat "16.36892021832221" ;
-	wgs:long "48.207793352232336" .
+	wgs:long "16.36892021832221" ;
+	wgs:lat "48.207793352232336" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874679> wgs:location _:node1bvvmhpv9x149 ;
 	rdfs:label "MUK Musik und Kunst Privatuniversität der Stadt Wien - Gebäude"@de .
@@ -1502,8 +1502,8 @@ _:node1bvvmhpv9x149 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874680" .
 
 _:node1bvvmhpv9x150 a wgs:Point ;
-	wgs:lat "16.374890464529464" ;
-	wgs:long "48.20661507466812" .
+	wgs:long "16.374890464529464" ;
+	wgs:lat "48.20661507466812" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874680> wgs:location _:node1bvvmhpv9x150 ;
 	rdfs:label "Konservatorium Wien Privatuniversität - Gebäude"@de .
@@ -1512,8 +1512,8 @@ _:node1bvvmhpv9x150 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874681" .
 
 _:node1bvvmhpv9x151 a wgs:Point ;
-	wgs:lat "16.423918403848166" ;
-	wgs:long "48.223429445296574" .
+	wgs:long "16.423918403848166" ;
+	wgs:lat "48.223429445296574" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874681> wgs:location _:node1bvvmhpv9x151 ;
 	rdfs:label "Webster University Vienna - Gebäude"@de .
@@ -1522,8 +1522,8 @@ _:node1bvvmhpv9x151 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874682" .
 
 _:node1bvvmhpv9x152 a wgs:Point ;
-	wgs:lat "16.336311862906445" ;
-	wgs:long "48.27473754094359" .
+	wgs:long "16.336311862906445" ;
+	wgs:lat "48.27473754094359" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874682> wgs:location _:node1bvvmhpv9x152 ;
 	rdfs:label "Vienna MODUL University Vienna - Gebäude"@de .
@@ -1532,8 +1532,8 @@ _:node1bvvmhpv9x152 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874777" .
 
 _:node1bvvmhpv9x153 a wgs:Point ;
-	wgs:lat "16.405057852623703" ;
-	wgs:long "48.215267214867794" .
+	wgs:long "16.405057852623703" ;
+	wgs:lat "48.215267214867794" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874777> wgs:location _:node1bvvmhpv9x153 ;
 	rdfs:label "Sigmund Freud Privat Universität Wien Paris - Gebäude"@de .
@@ -1542,8 +1542,8 @@ _:node1bvvmhpv9x153 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874767" .
 
 _:node1bvvmhpv9x154 a wgs:Point ;
-	wgs:lat "16.379435640888776" ;
-	wgs:long "48.22814835104851" .
+	wgs:long "16.379435640888776" ;
+	wgs:lat "48.22814835104851" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874767> wgs:location _:node1bvvmhpv9x154 ;
 	rdfs:label "Religionspädagogische Akademie - Rabbiner-Schneerson-Platz 1"@de .
@@ -1552,8 +1552,8 @@ _:node1bvvmhpv9x154 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874439" .
 
 _:node1bvvmhpv9x155 a wgs:Point ;
-	wgs:lat "16.335922043292072" ;
-	wgs:long "48.19878133969107" .
+	wgs:long "16.335922043292072" ;
+	wgs:lat "48.19878133969107" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874439> wgs:location _:node1bvvmhpv9x155 ;
 	rdfs:label "Pädagogische Akademie - Pelzgasse 9"@de .
@@ -1562,8 +1562,8 @@ _:node1bvvmhpv9x155 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874440" .
 
 _:node1bvvmhpv9x156 a wgs:Point ;
-	wgs:lat "16.378428617289224" ;
-	wgs:long "48.21545929381975" .
+	wgs:long "16.378428617289224" ;
+	wgs:lat "48.21545929381975" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874440> wgs:location _:node1bvvmhpv9x156 ;
 	rdfs:label "Religionspädagogische Akademie - Lilienbrunngasse 19"@de .
@@ -1572,8 +1572,8 @@ _:node1bvvmhpv9x156 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874441" .
 
 _:node1bvvmhpv9x157 a wgs:Point ;
-	wgs:lat "16.404303902211193" ;
-	wgs:long "48.25701787424551" .
+	wgs:long "16.404303902211193" ;
+	wgs:lat "48.25701787424551" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874441> wgs:location _:node1bvvmhpv9x157 ;
 	rdfs:label "Akademie für Sozialarbeit der Stadt Wien - Gebäude"@de .
@@ -1582,8 +1582,8 @@ _:node1bvvmhpv9x157 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874442" .
 
 _:node1bvvmhpv9x158 a wgs:Point ;
-	wgs:lat "16.38007309851057" ;
-	wgs:long "48.29413341666348" .
+	wgs:long "16.38007309851057" ;
+	wgs:lat "48.29413341666348" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874442> wgs:location _:node1bvvmhpv9x158 ;
 	rdfs:label "Kirchlich Pädagogische Hochschule in Wien-Strebersdorf - Mayerweckstraße 1"@de .
@@ -1592,8 +1592,8 @@ _:node1bvvmhpv9x158 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874443" .
 
 _:node1bvvmhpv9x159 a wgs:Point ;
-	wgs:lat "16.331424019483784" ;
-	wgs:long "48.231370143001044" .
+	wgs:long "16.331424019483784" ;
+	wgs:lat "48.231370143001044" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874443> wgs:location _:node1bvvmhpv9x159 ;
 	rdfs:label "Kirchlich Pädagogische Hochschule in Wien-Gersthof - Severin-Schreiber-Gasse 1"@de .
@@ -1602,8 +1602,8 @@ _:node1bvvmhpv9x159 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874444" .
 
 _:node1bvvmhpv9x160 a wgs:Point ;
-	wgs:lat "16.372900547103416" ;
-	wgs:long "48.20800765788998" .
+	wgs:long "16.372900547103416" ;
+	wgs:lat "48.20800765788998" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874444> wgs:location _:node1bvvmhpv9x160 ;
 	rdfs:label "Religionspädagogische Akademie - Stephansplatz 3"@de .
@@ -1612,8 +1612,8 @@ _:node1bvvmhpv9x160 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874445" .
 
 _:node1bvvmhpv9x161 a wgs:Point ;
-	wgs:lat "16.374147230618906" ;
-	wgs:long "48.164824008924164" .
+	wgs:long "16.374147230618906" ;
+	wgs:lat "48.164824008924164" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874445> wgs:location _:node1bvvmhpv9x161 ;
 	rdfs:label "Pädagogische Hochschule Wien - Gebäude"@de .
@@ -1622,8 +1622,8 @@ _:node1bvvmhpv9x161 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874446" .
 
 _:node1bvvmhpv9x162 a wgs:Point ;
-	wgs:lat "16.377203107870834" ;
-	wgs:long "48.208851826766015" .
+	wgs:long "16.377203107870834" ;
+	wgs:lat "48.208851826766015" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874446> wgs:location _:node1bvvmhpv9x162 ;
 	rdfs:label "Österreichische Akademie der Wissenschaften - Gebäude"@de .
@@ -1632,8 +1632,8 @@ _:node1bvvmhpv9x162 a wgs:Point ;
 	lw:hasId "UNIVERSITAETOGD.1874447" .
 
 _:node1bvvmhpv9x163 a wgs:Point ;
-	wgs:lat "16.374117226157473" ;
-	wgs:long "48.16678670437826" .
+	wgs:long "16.374117226157473" ;
+	wgs:lat "48.16678670437826" .
 
 <http://linkedwidgets.org/ontology/resource/wien/UNIVERSITAETOGD.1874447> wgs:location _:node1bvvmhpv9x163 ;
 	rdfs:label "Pädagogische Akademie des Bundes in Wien - Ettenreichgasse 45a"@de .

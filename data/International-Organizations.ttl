@@ -12,8 +12,8 @@
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.664> a dbo:Place ;
 	lw:hasId "INTORGOGD.664" .
 
-_:node1bvvrkb5dx1 wgs:lat "16.362690440631503" ;
-	wgs:long "48.202508662479595" .
+_:node1bvvrkb5dx1 wgs:long "16.362690440631503" ;
+	wgs:lat "48.202508662479595" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.664> wgs:location _:node1bvvrkb5dx1 ;
 	skos:altLabel "IOM" ;
@@ -27,8 +27,8 @@ _:node1bvvrkb5dx1 wgs:lat "16.362690440631503" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.665> a dbo:Place ;
 	lw:hasId "INTORGOGD.665" .
 
-_:node1bvvrkb5dx2 wgs:lat "16.346286240106913" ;
-	wgs:long "48.1969686775374" .
+_:node1bvvrkb5dx2 wgs:long "16.346286240106913" ;
+	wgs:lat "48.1969686775374" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.665> wgs:location _:node1bvvrkb5dx2 ;
 	skos:altLabel "JVI" ;
@@ -42,8 +42,8 @@ _:node1bvvrkb5dx2 wgs:lat "16.346286240106913" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.666> a dbo:Place ;
 	lw:hasId "INTORGOGD.666" .
 
-_:node1bvvrkb5dx3 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx3 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.666> wgs:location _:node1bvvrkb5dx3 ;
 	skos:altLabel "ICPDR" ;
@@ -58,8 +58,8 @@ _:node1bvvrkb5dx3 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.667> a dbo:Place ;
 	lw:hasId "INTORGOGD.667" .
 
-_:node1bvvrkb5dx4 wgs:lat "16.38265402366019" ;
-	wgs:long "48.195735769476" .
+_:node1bvvrkb5dx4 wgs:long "16.38265402366019" ;
+	wgs:lat "48.195735769476" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.667> wgs:location _:node1bvvrkb5dx4 ;
 	skos:altLabel "EPO" ;
@@ -74,8 +74,8 @@ _:node1bvvrkb5dx4 wgs:lat "16.38265402366019" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.668> a dbo:Place ;
 	lw:hasId "INTORGOGD.668" .
 
-_:node1bvvrkb5dx5 wgs:lat "16.380569966554752" ;
-	wgs:long "48.19766535518922" .
+_:node1bvvrkb5dx5 wgs:long "16.380569966554752" ;
+	wgs:lat "48.19766535518922" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.668> wgs:location _:node1bvvrkb5dx5 ;
 	skos:altLabel "COE" ;
@@ -88,8 +88,8 @@ _:node1bvvrkb5dx5 wgs:lat "16.380569966554752" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.669> a dbo:Place ;
 	lw:hasId "INTORGOGD.669" .
 
-_:node1bvvrkb5dx6 wgs:lat "16.365932323669174" ;
-	wgs:long "48.21061521706897" .
+_:node1bvvrkb5dx6 wgs:long "16.365932323669174" ;
+	wgs:lat "48.21061521706897" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.669> wgs:location _:node1bvvrkb5dx6 ;
 	skos:altLabel "MIGA" ;
@@ -103,8 +103,8 @@ _:node1bvvrkb5dx6 wgs:lat "16.365932323669174" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.670> a dbo:Place ;
 	lw:hasId "INTORGOGD.670" .
 
-_:node1bvvrkb5dx7 wgs:lat "16.365932323669174" ;
-	wgs:long "48.21061521706897" .
+_:node1bvvrkb5dx7 wgs:long "16.365932323669174" ;
+	wgs:lat "48.21061521706897" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.670> wgs:location _:node1bvvrkb5dx7 ;
 	skos:altLabel "IFC" ;
@@ -118,8 +118,8 @@ _:node1bvvrkb5dx7 wgs:lat "16.365932323669174" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.671> a dbo:Place ;
 	lw:hasId "INTORGOGD.671" .
 
-_:node1bvvrkb5dx8 wgs:lat "16.372760497229358" ;
-	wgs:long "48.1984187641791" .
+_:node1bvvrkb5dx8 wgs:long "16.372760497229358" ;
+	wgs:lat "48.1984187641791" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.671> wgs:location _:node1bvvrkb5dx8 ;
 	skos:altLabel "EIB" ;
@@ -133,8 +133,8 @@ _:node1bvvrkb5dx8 wgs:lat "16.372760497229358" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.672> a dbo:Place ;
 	lw:hasId "INTORGOGD.672" .
 
-_:node1bvvrkb5dx9 wgs:lat "16.367130859298687" ;
-	wgs:long "48.21075347782306" .
+_:node1bvvrkb5dx9 wgs:long "16.367130859298687" ;
+	wgs:lat "48.21075347782306" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.672> wgs:location _:node1bvvrkb5dx9 ;
 	skos:altLabel "ECS" ;
@@ -148,8 +148,8 @@ _:node1bvvrkb5dx9 wgs:lat "16.367130859298687" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.673> a dbo:Place ;
 	lw:hasId "INTORGOGD.673" .
 
-_:node1bvvrkb5dx10 wgs:lat "16.38388691311318" ;
-	wgs:long "48.21483191598549" .
+_:node1bvvrkb5dx10 wgs:long "16.38388691311318" ;
+	wgs:lat "48.21483191598549" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.673> wgs:location _:node1bvvrkb5dx10 ;
 	skos:altLabel "IBRD" ;
@@ -163,8 +163,8 @@ _:node1bvvrkb5dx10 wgs:lat "16.38388691311318" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.674> a dbo:Place ;
 	lw:hasId "INTORGOGD.674" .
 
-_:node1bvvrkb5dx11 wgs:lat "16.367144483316547" ;
-	wgs:long "48.2164576899059" .
+_:node1bvvrkb5dx11 wgs:long "16.367144483316547" ;
+	wgs:lat "48.2164576899059" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.674> wgs:location _:node1bvvrkb5dx11 ;
 	skos:altLabel "KAICIID" ;
@@ -179,8 +179,8 @@ _:node1bvvrkb5dx11 wgs:lat "16.367144483316547" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.675> a dbo:Place ;
 	lw:hasId "INTORGOGD.675" .
 
-_:node1bvvrkb5dx12 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx12 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.675> wgs:location _:node1bvvrkb5dx12 ;
 	skos:altLabel "UNODA" ;
@@ -195,8 +195,8 @@ _:node1bvvrkb5dx12 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.676> a dbo:Place ;
 	lw:hasId "INTORGOGD.676" .
 
-_:node1bvvrkb5dx13 wgs:lat "16.414106434245028" ;
-	wgs:long "48.23299253452594" .
+_:node1bvvrkb5dx13 wgs:long "16.414106434245028" ;
+	wgs:lat "48.23299253452594" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.676> wgs:location _:node1bvvrkb5dx13 ;
 	skos:altLabel "SE4ALL" ;
@@ -211,8 +211,8 @@ _:node1bvvrkb5dx13 wgs:lat "16.414106434245028" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.654> a dbo:Place ;
 	lw:hasId "INTORGOGD.654" .
 
-_:node1bvvrkb5dx14 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx14 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.654> wgs:location _:node1bvvrkb5dx14 ;
 	skos:altLabel "INCB" ;
@@ -227,8 +227,8 @@ _:node1bvvrkb5dx14 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.655> a dbo:Place ;
 	lw:hasId "INTORGOGD.655" .
 
-_:node1bvvrkb5dx15 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx15 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.655> wgs:location _:node1bvvrkb5dx15 ;
 	skos:altLabel "UNRoD" ;
@@ -243,8 +243,8 @@ _:node1bvvrkb5dx15 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.656> a dbo:Place ;
 	lw:hasId "INTORGOGD.656" .
 
-_:node1bvvrkb5dx16 wgs:lat "16.36646559271599" ;
-	wgs:long "48.210015625544955" .
+_:node1bvvrkb5dx16 wgs:long "16.36646559271599" ;
+	wgs:lat "48.210015625544955" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.656> wgs:location _:node1bvvrkb5dx16 ;
 	skos:altLabel "OSZE" ;
@@ -258,8 +258,8 @@ _:node1bvvrkb5dx16 wgs:lat "16.36646559271599" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.657> a dbo:Place ;
 	lw:hasId "INTORGOGD.657" .
 
-_:node1bvvrkb5dx17 wgs:lat "16.36646559271599" ;
-	wgs:long "48.210015625544955" .
+_:node1bvvrkb5dx17 wgs:long "16.36646559271599" ;
+	wgs:lat "48.210015625544955" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.657> wgs:location _:node1bvvrkb5dx17 ;
 	skos:altLabel "OSCE" ;
@@ -273,8 +273,8 @@ _:node1bvvrkb5dx17 wgs:lat "16.36646559271599" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.658> a dbo:Place ;
 	lw:hasId "INTORGOGD.658" .
 
-_:node1bvvrkb5dx18 wgs:lat "16.355879268226257" ;
-	wgs:long "48.205354975953426" .
+_:node1bvvrkb5dx18 wgs:long "16.355879268226257" ;
+	wgs:lat "48.205354975953426" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.658> wgs:location _:node1bvvrkb5dx18 ;
 	skos:altLabel "OSCEPA" ;
@@ -288,8 +288,8 @@ _:node1bvvrkb5dx18 wgs:lat "16.355879268226257" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.659> a dbo:Place ;
 	lw:hasId "INTORGOGD.659" .
 
-_:node1bvvrkb5dx19 wgs:lat "16.365987336006544" ;
-	wgs:long "48.21427907614742" .
+_:node1bvvrkb5dx19 wgs:long "16.365987336006544" ;
+	wgs:lat "48.21427907614742" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.659> wgs:location _:node1bvvrkb5dx19 ;
 	skos:altLabel "OPEC" ;
@@ -303,8 +303,8 @@ _:node1bvvrkb5dx19 wgs:lat "16.365987336006544" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.660> a dbo:Place ;
 	lw:hasId "INTORGOGD.660" .
 
-_:node1bvvrkb5dx20 wgs:lat "16.37894172793433" ;
-	wgs:long "48.20614149092357" .
+_:node1bvvrkb5dx20 wgs:long "16.37894172793433" ;
+	wgs:lat "48.20614149092357" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.660> wgs:location _:node1bvvrkb5dx20 ;
 	skos:altLabel "OFID" ;
@@ -319,8 +319,8 @@ _:node1bvvrkb5dx20 wgs:lat "16.37894172793433" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.661> a dbo:Place ;
 	lw:hasId "INTORGOGD.661" .
 
-_:node1bvvrkb5dx21 wgs:lat "16.374607913757774" ;
-	wgs:long "48.19816438323935" .
+_:node1bvvrkb5dx21 wgs:long "16.374607913757774" ;
+	wgs:lat "48.19816438323935" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.661> wgs:location _:node1bvvrkb5dx21 ;
 	skos:altLabel "GRA" ;
@@ -334,8 +334,8 @@ _:node1bvvrkb5dx21 wgs:lat "16.374607913757774" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.662> a dbo:Place ;
 	lw:hasId "INTORGOGD.662" .
 
-_:node1bvvrkb5dx22 wgs:lat "16.373289211106595" ;
-	wgs:long "48.20220894294313" .
+_:node1bvvrkb5dx22 wgs:long "16.373289211106595" ;
+	wgs:lat "48.20220894294313" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.662> wgs:location _:node1bvvrkb5dx22 ;
 	skos:altLabel "WA" ;
@@ -349,8 +349,8 @@ _:node1bvvrkb5dx22 wgs:lat "16.373289211106595" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.663> a dbo:Place ;
 	lw:hasId "INTORGOGD.663" .
 
-_:node1bvvrkb5dx23 wgs:lat "16.373711333914592" ;
-	wgs:long "48.21300061914466" .
+_:node1bvvrkb5dx23 wgs:long "16.373711333914592" ;
+	wgs:lat "48.21300061914466" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.663> wgs:location _:node1bvvrkb5dx23 ;
 	skos:altLabel "ICMPD" ;
@@ -364,8 +364,8 @@ _:node1bvvrkb5dx23 wgs:lat "16.373711333914592" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.641> a dbo:Place ;
 	lw:hasId "INTORGOGD.641" .
 
-_:node1bvvrkb5dx24 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx24 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.641> wgs:location _:node1bvvrkb5dx24 ;
 	skos:altLabel "UNOV" ;
@@ -380,8 +380,8 @@ _:node1bvvrkb5dx24 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.642> a dbo:Place ;
 	lw:hasId "INTORGOGD.642" .
 
-_:node1bvvrkb5dx25 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx25 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.642> wgs:location _:node1bvvrkb5dx25 ;
 	skos:altLabel "UNIDO" ;
@@ -396,8 +396,8 @@ _:node1bvvrkb5dx25 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.643> a dbo:Place ;
 	lw:hasId "INTORGOGD.643" .
 
-_:node1bvvrkb5dx26 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx26 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.643> wgs:location _:node1bvvrkb5dx26 ;
 	skos:altLabel "IAEO" ;
@@ -412,8 +412,8 @@ _:node1bvvrkb5dx26 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.644> a dbo:Place ;
 	lw:hasId "INTORGOGD.644" .
 
-_:node1bvvrkb5dx27 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx27 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.644> wgs:location _:node1bvvrkb5dx27 ;
 	skos:altLabel "CTBTO" ;
@@ -428,8 +428,8 @@ _:node1bvvrkb5dx27 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.645> a dbo:Place ;
 	lw:hasId "INTORGOGD.645" .
 
-_:node1bvvrkb5dx28 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx28 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.645> wgs:location _:node1bvvrkb5dx28 ;
 	skos:altLabel "UNODC" ;
@@ -444,8 +444,8 @@ _:node1bvvrkb5dx28 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.646> a dbo:Place ;
 	lw:hasId "INTORGOGD.646" .
 
-_:node1bvvrkb5dx29 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx29 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.646> wgs:location _:node1bvvrkb5dx29 ;
 	skos:altLabel "UNOIOS" ;
@@ -460,8 +460,8 @@ _:node1bvvrkb5dx29 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.647> a dbo:Place ;
 	lw:hasId "INTORGOGD.647" .
 
-_:node1bvvrkb5dx30 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx30 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.647> wgs:location _:node1bvvrkb5dx30 ;
 	skos:altLabel "UNOOSA" ;
@@ -476,8 +476,8 @@ _:node1bvvrkb5dx30 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.648> a dbo:Place ;
 	lw:hasId "INTORGOGD.648" .
 
-_:node1bvvrkb5dx31 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx31 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.648> wgs:location _:node1bvvrkb5dx31 ;
 	skos:altLabel "UNCITRAL" ;
@@ -492,8 +492,8 @@ _:node1bvvrkb5dx31 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.649> a dbo:Place ;
 	lw:hasId "INTORGOGD.649" .
 
-_:node1bvvrkb5dx32 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx32 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.649> wgs:location _:node1bvvrkb5dx32 ;
 	skos:altLabel "UNEP-ISCC" ;
@@ -508,8 +508,8 @@ _:node1bvvrkb5dx32 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.650> a dbo:Place ;
 	lw:hasId "INTORGOGD.650" .
 
-_:node1bvvrkb5dx33 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx33 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.650> wgs:location _:node1bvvrkb5dx33 ;
 	skos:altLabel "UNHCR" ;
@@ -524,8 +524,8 @@ _:node1bvvrkb5dx33 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.651> a dbo:Place ;
 	lw:hasId "INTORGOGD.651" .
 
-_:node1bvvrkb5dx34 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx34 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.651> wgs:location _:node1bvvrkb5dx34 ;
 	skos:altLabel "UNIS" ;
@@ -540,8 +540,8 @@ _:node1bvvrkb5dx34 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.652> a dbo:Place ;
 	lw:hasId "INTORGOGD.652" .
 
-_:node1bvvrkb5dx35 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx35 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.652> wgs:location _:node1bvvrkb5dx35 ;
 	skos:altLabel "UNPA" ;
@@ -556,8 +556,8 @@ _:node1bvvrkb5dx35 wgs:lat "16.416856712198253" ;
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.653> a dbo:Place ;
 	lw:hasId "INTORGOGD.653" .
 
-_:node1bvvrkb5dx36 wgs:lat "16.416856712198253" ;
-	wgs:long "48.234829785125626" .
+_:node1bvvrkb5dx36 wgs:long "16.416856712198253" ;
+	wgs:lat "48.234829785125626" .
 
 <http://linkedwidgets.org/ontology/wien/INTORGOGD.653> wgs:location _:node1bvvrkb5dx36 ;
 	skos:altLabel "UNSCEAR" ;
