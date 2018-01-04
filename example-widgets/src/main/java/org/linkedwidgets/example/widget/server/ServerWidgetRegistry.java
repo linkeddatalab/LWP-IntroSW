@@ -34,9 +34,9 @@ public class ServerWidgetRegistry {
     private static final Logger log = LoggerFactory.getLogger(ServerWidgetRegistry.class);
     private Properties properties;
     private List<ServerWidget> serverWidgets;
-    private final String file1 = "data_example_1.ttl";
-    private final String file2 = "data_example_2.ttl";
-    private final String halteFile = "Wiener-Linien-Haltestelle.ttl";
+    private final String file1 = "data_example_1.ttl"; // this file stored in "src/main/resources/"
+    private final String file2 = "data_example_2.ttl"; // this file  stored in "src/main/resources/"
+    private final String halteFile = "Wiener-Linien-Haltestelle.ttl"; // this file  stored in "src/main/resources/"
 
     public ServerWidgetRegistry() {
 
@@ -67,6 +67,16 @@ public class ServerWidgetRegistry {
         log.info("Context initialized done");
     }
 
+    /**
+     * A method to instantiate your server widget.
+     *
+     * @param widgetJob an instance of your widgetJob class
+     * @param widgetName the name of your widget
+     * @param widgetType type of your widget, can be "data" or "process"
+     * @param htmlURL the link to your html file of your widget. Please put your html file inside "src/main/webapp/html/server/" folder
+     * @param description the description of your widget
+     * @param widgetId the widget id. the id should be in lower case and should not contain any space or special character
+     */
     private void initializeWidget(ServerWidgetJob widgetJob, String widgetName, String widgetType,
         String htmlURL, String description, String widgetId) {
 

@@ -40,6 +40,16 @@ public class ClientWidgetRegistry {
         log.info("Context initialized done");
     }
 
+    /**
+     * A method to register your client widget to LWP.
+     *
+     * @param name the name of your widget
+     * @param widgetType "data", "process", or "visualization"
+     * @param htmlURL the url of your widget html file.
+     * @param description the description of your widget
+     * @param isExternal if true, then the html file is not the example-widgets project. You should add the full url address
+     *        in the parameter htmlUrl.
+     */
     private void initializeWidget(String name, String widgetType,
         String htmlURL, String description, Boolean isExternal) {
 
